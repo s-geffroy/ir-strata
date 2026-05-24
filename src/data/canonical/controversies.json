@@ -5,7 +5,7 @@
       "schema_version": "1.0.0",
       "controversy_id": "concert_order_1815_1848",
       "label_fr": "Concert européen : stabilisation ou domination conservatrice ?",
-      "label_en": "Concert européen : stabilisation ou domination conservatrice ?",
+      "label_en": "Concert of Europe: stabilisation or conservative domination?",
       "period_ids": [
         "1815_1848"
       ],
@@ -57,7 +57,7 @@
       "schema_version": "1.0.0",
       "controversy_id": "causes_1914",
       "label_fr": "Causes profondes de 1914",
-      "label_en": "Causes profondes de 1914",
+      "label_en": "The underlying causes of 1914",
       "period_ids": [
         "1871_1914"
       ],
@@ -109,7 +109,7 @@
       "schema_version": "1.0.0",
       "controversy_id": "versailles_failure",
       "label_fr": "Échec de Versailles",
-      "label_en": "Échec de Versailles",
+      "label_en": "The failure of Versailles",
       "period_ids": [
         "1919_1939"
       ],
@@ -161,7 +161,7 @@
       "schema_version": "1.0.0",
       "controversy_id": "cold_war_origins",
       "label_fr": "Origines de la Guerre froide",
-      "label_en": "Origines de la Guerre froide",
+      "label_en": "Origins of the Cold War",
       "period_ids": [
         "1945_1962"
       ],
@@ -213,7 +213,7 @@
       "schema_version": "1.0.0",
       "controversy_id": "liberal_order_1991_2001",
       "label_fr": "Nature de l’ordre international post-Guerre froide",
-      "label_en": "Nature de l’ordre international post-Guerre froide",
+      "label_en": "The nature of the post-Cold War international order",
       "period_ids": [
         "1991_2001"
       ],
@@ -265,7 +265,7 @@
       "schema_version": "1.0.0",
       "controversy_id": "new_cold_war_2022_2026",
       "label_fr": "Nouvelle Guerre froide, multipolarité ou blocs souples ?",
-      "label_en": "Nouvelle Guerre froide, multipolarité ou blocs souples ?",
+      "label_en": "New Cold War, multipolarity, or flexible blocs?",
       "period_ids": [
         "2022_2026"
       ],
