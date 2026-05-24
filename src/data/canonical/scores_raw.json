@@ -6664,10 +6664,12 @@
       },
       "evidence_basis": [
         "cold_war_bipolarity_1945_1962",
-        "bretton_woods_institutional_order",
-        "decolonization_initial_wave"
+        "nuclear_deterrence_emergence"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "morgenthau_1948_politics",
+        "kissinger_1957_world_restored"
+      ],
       "confidence": {
         "label": "very_high",
         "internal_score": 85.8,
@@ -6680,11 +6682,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 1945_1962, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine dominante des chancelleries de la Guerre froide : endiguement (Kennan, doctrine Truman), équilibre des puissances, Realpolitik. Morgenthau (1948) en donne l'articulation doctrinale de référence ; Kissinger (1957) la pratique de l'ordre des puissances.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Frontière doctrine réaliste / raison d'État en partie conventionnelle."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -6710,11 +6713,13 @@
         }
       },
       "evidence_basis": [
-        "cold_war_bipolarity_1945_1962",
         "bretton_woods_institutional_order",
         "decolonization_initial_wave"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "doyle_1983_kant_liberal_legacies",
+        "ruggie_1982_international_regimes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -6727,11 +6732,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 1945_1962, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine libérale-institutionnelle assumée : Charte de l'ONU, Déclaration universelle des droits de l'homme (1948), Bretton Woods, amorce de l'intégration européenne (CECA 1951, traité de Rome 1957). Doyle (1983) éclaire l'héritage kantien ; Ruggie (1982) le 'libéralisme encastré'.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Doctrine surtout occidentale ; portée mondiale bornée par la bipolarité."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -6758,10 +6764,12 @@
       },
       "evidence_basis": [
         "cold_war_bipolarity_1945_1962",
-        "bretton_woods_institutional_order",
         "decolonization_initial_wave"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -6774,11 +6782,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1945_1962, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine d'État d'un bloc entier (URSS, démocraties populaires) et des mouvements communistes : marxisme-léninisme guidant la politique, doctrine anti-impérialiste mobilisée dans la décolonisation. Lénine (1917) en est la source doctrinale ; Gramsci (publié 1971) la théorie de l'hégémonie.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Très présent comme doctrine d'État ; l'influence académique est traitée séparément (couche academic_influence)."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -6967,10 +6976,12 @@
       },
       "evidence_basis": [
         "cold_war_bipolarity_1945_1962",
-        "bretton_woods_institutional_order",
         "decolonization_initial_wave"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kennedy_1987_rise_fall",
+        "kissinger_1957_world_restored"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -6983,11 +6994,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1945_1962, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Raison d'État et géostratégie comme doctrine effective : endiguement géographique (NSC-68), sphères d'influence, théorie des dominos. Kennedy (1987) sur la grande stratégie des puissances ; Kissinger (1957).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Recouvre partiellement la doctrine réaliste."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -7014,10 +7026,12 @@
       },
       "evidence_basis": [
         "cold_war_bipolarity_1945_1962",
-        "bretton_woods_institutional_order",
-        "decolonization_initial_wave"
+        "nuclear_deterrence_emergence"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "morgenthau_1948_politics",
+        "waltz_1959_man_state_war"
+      ],
       "confidence": {
         "label": "very_high",
         "internal_score": 85.8,
@@ -7030,11 +7044,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 1945_1962, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Paradigme académique fondateur de la discipline d'après-guerre : Morgenthau, Politics Among Nations (1948), structure l'enseignement et la recherche ; Waltz, Man, the State and War (1959), publié dans la période. Domination académique nette.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Domination surtout dans le monde académique anglo-américain."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -7060,11 +7075,12 @@
         }
       },
       "evidence_basis": [
-        "cold_war_bipolarity_1945_1962",
-        "bretton_woods_institutional_order",
-        "decolonization_initial_wave"
+        "bretton_woods_institutional_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "doyle_1983_kant_liberal_legacies",
+        "keohane_nye_1977_power_interdependence"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -7077,11 +7093,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 1945_1962, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Présence académique réelle mais en partie éclipsée par le réalisme : internationalisme libéral, fonctionnalisme et théorie de l'intégration émergente (fin des années 1950). Doyle (1983) en retrace la lignée.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Keohane & Nye (1977) postérieur, cité comme lignée ; influence académique plus faible que la doctrine sur la période."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -7107,11 +7124,13 @@
         }
       },
       "evidence_basis": [
-        "cold_war_bipolarity_1945_1962",
-        "bretton_woods_institutional_order",
-        "decolonization_initial_wave"
+        "decolonization_initial_wave",
+        "cold_war_bipolarity_1945_1962"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "gramsci_1971_prison_notebooks",
+        "lenin_1917_imperialism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -7124,11 +7143,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1945_1962, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Forte influence académique du marxisme, surtout hors du courant dominant états-unien des RI : économie politique marxiste et analyse de l'impérialisme structurent un large champ. Gramsci (publié 1971) et Lénine (1917) en sont des références.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Les formalisations dépendance/système-monde (années 1970) sont postérieures et exclues de cette période académique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -7316,11 +7336,12 @@
         }
       },
       "evidence_basis": [
-        "cold_war_bipolarity_1945_1962",
-        "bretton_woods_institutional_order",
-        "decolonization_initial_wave"
+        "nuclear_deterrence_emergence"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -7333,11 +7354,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1945_1962, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Géopolitique académiquement discréditée après 1945 (association à la Geopolitik), mais émergence des études stratégiques et de sécurité. Mahan (1890) reste une référence fondatrice ; Kennedy (1987) en lecture rétrospective.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Statut académique ambigu sur la période ; chevauche les études stratégiques naissantes."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
