@@ -28998,10 +28998,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -29014,13 +29016,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Coalition de nécessité : agrégation de puissance pour vaincre l'Axe.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -29046,10 +29050,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -29062,13 +29068,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Projet d'ordre d'après-guerre (Charte de l'Atlantique, planification de l'ONU).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -29094,10 +29102,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -29110,13 +29120,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Alliance hétérogène incluant l'URSS socialiste.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -29142,10 +29154,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -29158,13 +29172,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : identité antifasciste commune.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -29190,10 +29206,11 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -29206,13 +29223,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Tentative de refonder une société internationale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -29238,10 +29257,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -29254,13 +29275,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : alliance incluant des empires coloniaux.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -29286,10 +29309,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -29302,13 +29327,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Grande stratégie alliée : fronts multiples, débarquements.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -29334,10 +29361,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -29350,13 +29379,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Coalition de nécessité : agrégation de puissance pour vaincre l'Axe.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -29382,10 +29413,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -29398,13 +29431,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Projet d'ordre d'après-guerre (Charte de l'Atlantique, planification de l'ONU).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -29430,10 +29465,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -29446,13 +29483,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Alliance hétérogène incluant l'URSS socialiste.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -29643,10 +29682,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -29659,13 +29700,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Grande stratégie alliée : fronts multiples, débarquements.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -29691,10 +29734,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -29707,13 +29752,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Coalition de nécessité : agrégation de puissance pour vaincre l'Axe.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -29739,10 +29786,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -29755,13 +29804,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Projet d'ordre d'après-guerre (Charte de l'Atlantique, planification de l'ONU).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -29787,10 +29838,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -29803,13 +29856,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Alliance hétérogène incluant l'URSS socialiste.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -30000,10 +30055,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -30016,13 +30073,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Grande stratégie alliée : fronts multiples, débarquements.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -30048,10 +30107,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -30064,13 +30125,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissances révisionnistes en quête d'hégémonie par la conquête.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -30096,10 +30158,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -30112,13 +30176,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Rejet total de l'ordre libéral.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -30144,10 +30209,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -30160,13 +30227,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture marxiste : fascisme comme réaction du capitalisme en crise.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -30192,10 +30260,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -30208,13 +30278,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : idéologies racistes et ultranationalistes.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -30240,10 +30311,11 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -30256,13 +30328,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Destruction de la société internationale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -30288,10 +30361,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -30304,13 +30379,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : projets impériaux racialisés, génocide.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -30336,10 +30412,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -30352,13 +30430,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique maximale : Lebensraum, sphère de coprospérité — score 100 justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -30384,10 +30463,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -30400,13 +30481,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissances révisionnistes en quête d'hégémonie par la conquête.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -30432,10 +30514,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -30448,13 +30532,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Rejet total de l'ordre libéral.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -30480,10 +30565,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -30496,13 +30583,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture marxiste : fascisme comme réaction du capitalisme en crise.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -30693,10 +30781,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -30709,13 +30799,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique maximale : Lebensraum, sphère de coprospérité — score 100 justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -30741,10 +30832,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -30757,13 +30850,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissances révisionnistes en quête d'hégémonie par la conquête.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -30789,10 +30883,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -30805,13 +30901,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Rejet total de l'ordre libéral.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -30837,10 +30934,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -30853,13 +30952,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture marxiste : fascisme comme réaction du capitalisme en crise.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -31050,10 +31150,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -31066,13 +31168,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique maximale : Lebensraum, sphère de coprospérité — score 100 justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -31098,10 +31201,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -31114,13 +31219,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance décisive de la guerre totale : mobilisation industrielle, projet de puissance globale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -31146,10 +31253,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -31162,13 +31271,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Architecte de l'ordre d'après-guerre (Charte de l'Atlantique, ONU) ; libéralisme projeté.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -31194,10 +31305,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -31210,13 +31323,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Capitalisme mobilisé pour la guerre ; lecture structurelle de l'arsenal.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -31242,10 +31357,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -31258,13 +31375,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : 'arsenal de la démocratie', identité antifasciste.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -31290,10 +31409,11 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -31306,13 +31426,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Société internationale suspendue par la guerre totale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -31338,10 +31460,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -31354,13 +31478,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : guerre raciale dans le Pacifique, ségrégation des forces.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -31386,10 +31512,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -31402,13 +31530,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géostratégie globale : projection bi-océanique, débarquements.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -31434,10 +31564,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -31450,13 +31582,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance décisive de la guerre totale : mobilisation industrielle, projet de puissance globale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -31482,10 +31616,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -31498,13 +31634,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Architecte de l'ordre d'après-guerre (Charte de l'Atlantique, ONU) ; libéralisme projeté.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -31530,10 +31668,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -31546,13 +31686,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Capitalisme mobilisé pour la guerre ; lecture structurelle de l'arsenal.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -31743,10 +31885,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -31759,13 +31903,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géostratégie globale : projection bi-océanique, débarquements.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -31791,10 +31937,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -31807,13 +31955,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance décisive de la guerre totale : mobilisation industrielle, projet de puissance globale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -31839,10 +31989,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -31855,13 +32007,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Architecte de l'ordre d'après-guerre (Charte de l'Atlantique, ONU) ; libéralisme projeté.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -31887,10 +32041,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -31903,13 +32059,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Capitalisme mobilisé pour la guerre ; lecture structurelle de l'arsenal.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -32100,10 +32258,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -32116,13 +32276,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géostratégie globale : projection bi-océanique, débarquements.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -32148,10 +32310,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -32164,13 +32328,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Front décisif contre l'Axe : Stalingrad, effort de guerre titanesque, survie.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -32196,10 +32362,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -32212,13 +32380,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Système fermé, hors ordre libéral.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -32244,10 +32414,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -32260,13 +32432,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Mobilisation socialiste totale ; marxisme-léninisme d'État.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -32292,10 +32466,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -32308,13 +32484,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : 'Grande Guerre patriotique', identité soviétique.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -32340,10 +32518,11 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -32356,13 +32535,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Société internationale suspendue.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -32388,10 +32569,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -32404,13 +32587,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : violences de masse et déportations.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -32436,10 +32621,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -32452,13 +32639,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géostratégie continentale : profondeur, reconquête vers l'Ouest.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -32484,10 +32673,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -32500,13 +32691,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Front décisif contre l'Axe : Stalingrad, effort de guerre titanesque, survie.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -32532,10 +32725,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -32548,13 +32743,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Système fermé, hors ordre libéral.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -32580,10 +32777,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -32596,13 +32795,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Mobilisation socialiste totale ; marxisme-léninisme d'État.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -32793,10 +32994,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -32809,13 +33012,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géostratégie continentale : profondeur, reconquête vers l'Ouest.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -32841,10 +33046,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -32857,13 +33064,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Front décisif contre l'Axe : Stalingrad, effort de guerre titanesque, survie.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -32889,10 +33098,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -32905,13 +33116,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Système fermé, hors ordre libéral.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -32937,10 +33150,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -32953,13 +33168,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Mobilisation socialiste totale ; marxisme-léninisme d'État.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -33150,10 +33367,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -33166,13 +33385,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géostratégie continentale : profondeur, reconquête vers l'Ouest.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -33198,10 +33419,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -33214,13 +33437,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Théâtre asiatique : résistance chinoise à l'invasion japonaise, faiblesse relative.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -33246,10 +33471,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -33262,13 +33489,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Ordre libéral marginal.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -33294,10 +33523,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -33310,13 +33541,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lutte communiste (Mao) et nationaliste contre le Japon.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -33342,10 +33575,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -33358,13 +33593,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : nationalisme et libération.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -33390,10 +33627,11 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -33406,13 +33644,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Souveraineté niée par l'occupation.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -33438,10 +33678,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -33454,13 +33696,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : violences impériales japonaises, colonialisme — score critique élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -33486,10 +33730,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -33502,13 +33748,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique de la sphère de coprospérité japonaise — score 100 justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -33534,10 +33782,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -33550,13 +33800,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Théâtre asiatique : résistance chinoise à l'invasion japonaise, faiblesse relative.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -33582,10 +33834,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -33598,13 +33852,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Ordre libéral marginal.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -33630,10 +33886,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -33646,13 +33904,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lutte communiste (Mao) et nationaliste contre le Japon.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -33843,10 +34103,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -33859,13 +34121,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique de la sphère de coprospérité japonaise — score 100 justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -33891,10 +34155,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -33907,13 +34173,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Théâtre asiatique : résistance chinoise à l'invasion japonaise, faiblesse relative.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -33939,10 +34207,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -33955,13 +34225,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Ordre libéral marginal.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -33987,10 +34259,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -34003,13 +34277,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lutte communiste (Mao) et nationaliste contre le Japon.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -34200,10 +34476,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -34216,13 +34494,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique de la sphère de coprospérité japonaise — score 100 justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -34248,10 +34528,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -34264,13 +34546,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Empires mobilisés pour la guerre : ressources et troupes coloniales.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -34296,10 +34580,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -34312,13 +34598,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Contradiction entre rhétorique libérale alliée et domination coloniale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -34344,10 +34632,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -34360,13 +34650,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Exploitation coloniale au service de l'effort de guerre.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -34392,10 +34684,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -34408,13 +34702,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : ébranlement de la légitimité impériale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -34440,10 +34736,11 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -34456,13 +34753,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Hiérarchie impériale de la société internationale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -34488,10 +34787,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -34504,13 +34805,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : mobilisation coloniale, prélude à la décolonisation — score critique élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -34536,10 +34839,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -34552,13 +34857,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique impériale : ressources, bases, théâtres coloniaux — score 100 justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -34584,10 +34891,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -34600,13 +34909,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Empires mobilisés pour la guerre : ressources et troupes coloniales.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -34632,10 +34943,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -34648,13 +34961,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Contradiction entre rhétorique libérale alliée et domination coloniale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -34680,10 +34995,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -34696,13 +35013,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Exploitation coloniale au service de l'effort de guerre.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -34893,10 +35212,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -34909,13 +35230,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique impériale : ressources, bases, théâtres coloniaux — score 100 justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -34941,10 +35264,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -34957,13 +35282,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Empires mobilisés pour la guerre : ressources et troupes coloniales.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -34989,10 +35316,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -35005,13 +35334,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Contradiction entre rhétorique libérale alliée et domination coloniale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -35037,10 +35368,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -35053,13 +35386,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Exploitation coloniale au service de l'effort de guerre.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -35250,10 +35585,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -35266,13 +35603,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique impériale : ressources, bases, théâtres coloniaux — score 100 justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -35298,10 +35637,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -35314,13 +35655,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Espaces conquis et administrés par la force ; enjeux de contrôle.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -35346,10 +35688,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -35362,13 +35706,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Ordre libéral aboli sous l'occupation.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -35394,10 +35739,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -35410,13 +35757,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Exploitation économique de l'Europe occupée.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -35442,10 +35790,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -35458,13 +35808,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : collaboration, résistance, identités.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -35490,10 +35841,11 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -35506,13 +35858,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Souverainetés abolies.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -35538,10 +35891,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -35554,13 +35909,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : Shoah, répression, travail forcé — score critique élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -35586,10 +35942,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -35602,13 +35960,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique de l'occupation et du 'nouvel ordre' nazi.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -35634,10 +35993,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -35650,13 +36011,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Espaces conquis et administrés par la force ; enjeux de contrôle.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -35682,10 +36044,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -35698,13 +36062,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Ordre libéral aboli sous l'occupation.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -35730,10 +36095,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -35746,13 +36113,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Exploitation économique de l'Europe occupée.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -35943,10 +36311,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -35959,13 +36329,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique de l'occupation et du 'nouvel ordre' nazi.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -35991,10 +36362,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -36007,13 +36380,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Espaces conquis et administrés par la force ; enjeux de contrôle.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -36039,10 +36413,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -36055,13 +36431,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Ordre libéral aboli sous l'occupation.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -36087,10 +36464,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -36103,13 +36482,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Exploitation économique de l'Europe occupée.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -36300,10 +36680,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -36316,13 +36698,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique de l'occupation et du 'nouvel ordre' nazi.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -36348,10 +36731,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -36364,13 +36749,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Mobilisation économique totale au service de la puissance militaire.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -36396,10 +36783,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -36412,13 +36801,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Planification dérogeant au marché libéral.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -36444,10 +36835,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -36460,13 +36853,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Économie de guerre : capitalisme dirigé et mobilisation du travail — marxisme élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -36492,10 +36887,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -36508,13 +36905,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : effort national mobilisateur.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -36540,10 +36939,11 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -36556,13 +36956,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Coopération économique inter-alliée (prêt-bail).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -36588,10 +36990,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -36604,13 +37008,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : travail forcé, exploitation.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -36636,10 +37042,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -36652,13 +37060,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géoéconomie des ressources stratégiques (pétrole, matières premières).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -36684,10 +37094,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -36700,13 +37112,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Mobilisation économique totale au service de la puissance militaire.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -36732,10 +37146,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -36748,13 +37164,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Planification dérogeant au marché libéral.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -36780,10 +37198,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -36796,13 +37216,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Économie de guerre : capitalisme dirigé et mobilisation du travail — marxisme élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -36993,10 +37415,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -37009,13 +37433,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géoéconomie des ressources stratégiques (pétrole, matières premières).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -37041,10 +37467,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -37057,13 +37485,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Mobilisation économique totale au service de la puissance militaire.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -37089,10 +37519,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -37105,13 +37537,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Planification dérogeant au marché libéral.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -37137,10 +37571,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -37153,13 +37589,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Économie de guerre : capitalisme dirigé et mobilisation du travail — marxisme élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -37350,10 +37788,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -37366,13 +37806,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géoéconomie des ressources stratégiques (pétrole, matières premières).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
