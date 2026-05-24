@@ -3726,7 +3726,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "realism",
-      "raw_score": 95.1,
+      "raw_score": 81.5,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -3748,7 +3748,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "liberalism",
-      "raw_score": 59.25,
+      "raw_score": 51.25,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -3770,7 +3770,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "marxism_dependency_structuralism",
-      "raw_score": 94.4,
+      "raw_score": 90.2,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -3792,7 +3792,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "english_school",
-      "raw_score": 58.25,
+      "raw_score": 53.0,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -3814,7 +3814,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 63.8,
+      "raw_score": 60.0,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -3836,7 +3836,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "realism",
-      "raw_score": 77.1,
+      "raw_score": 79.6,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -3858,7 +3858,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "liberalism",
-      "raw_score": 77.25,
+      "raw_score": 79.55,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -3880,7 +3880,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "marxism_dependency_structuralism",
-      "raw_score": 76.4,
+      "raw_score": 70.2,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -3902,7 +3902,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "english_school",
-      "raw_score": 76.25,
+      "raw_score": 72.5,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -3924,7 +3924,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 63.8,
+      "raw_score": 66.9,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -4056,7 +4056,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "realism",
-      "raw_score": 77.1,
+      "raw_score": 66.2,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -4078,7 +4078,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "liberalism",
-      "raw_score": 77.25,
+      "raw_score": 80.05,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -4122,7 +4122,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "english_school",
-      "raw_score": 76.25,
+      "raw_score": 83.2,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -4144,7 +4144,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 63.8,
+      "raw_score": 48.1,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
