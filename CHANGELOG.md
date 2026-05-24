@@ -25,6 +25,7 @@
 - **Cohérence `anachronism_risk` des scores rejetés** : les 445 scores rejetés pour anachronisme (`deprecated`, bloc `anachronism`) portaient un risque bas (~30) malgré leur statut. Recalcul d'un risque élevé (65–100, calé sur l'écart à l'émergence) + cascade `internal_score`/`label`. `anachronism_risk` est désormais cohérent sur toutes les couches et statuts (rejetés ~77, actifs doctrine/académique ~29).
 - **Cohérence preuves ↔ théories** : vérification de l'intégrité référentielle du graphe (scores ↔ preuves ↔ références ↔ entités/événements/controverses) — aucune référence cassée ni période incohérente. Complété `related_theories` de 5 preuves structurelles majeures (bipolarité, décolonisation, dépendance, rivalité sino-américaine…) avec les théories des scores **actifs** qui les citent. Mismatches sur scores actifs : 0 (les liens des scores rejetés anachroniques restent volontairement non endossés).
 - **Cohérence des controverses** : intégrité du graphe vérifiée (scores liés existants, dans les bonnes périodes, non rejetés ; théories des positions = théories des scores liés ; décision présente partout). Traduction des 6 `label_en` qui étaient des copies du français (site bilingue).
+- **Positions des controverses étoffées** : les 18 `summary_fr` génériques (« Lecture privilégiant X. ») remplacés par des résumés réels et spécifiques de chaque lecture (réaliste, marxiste, constructiviste…), ancrés sur les références citées ; ajout des `summary_en` (site bilingue).
 
 ### Notes
 

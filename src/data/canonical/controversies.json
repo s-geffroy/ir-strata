@@ -17,36 +17,39 @@
       "positions": [
         {
           "position_id": "realism_position",
-          "summary_fr": "Lecture privilégiant realism.",
+          "summary_fr": "Le Concert restaure et gère un équilibre des puissances : la stabilité naît de la modération réciproque des grandes puissances (Kissinger).",
           "supports_theories": [
             "realism"
           ],
           "related_references": [
             "kissinger_1957_world_restored",
             "taylor_1954_struggle_mastery"
-          ]
+          ],
+          "summary_en": "The Concert restores and manages a balance of power: stability arises from the mutual restraint of the great powers (Kissinger)."
         },
         {
           "position_id": "english_school_position",
-          "summary_fr": "Lecture privilégiant english_school.",
+          "summary_fr": "Le Concert incarne une société internationale : règles partagées, diplomatie réglée et gestion commune de l'ordre.",
           "supports_theories": [
             "english_school"
           ],
           "related_references": [
             "kissinger_1957_world_restored",
             "taylor_1954_struggle_mastery"
-          ]
+          ],
+          "summary_en": "The Concert embodies an international society: shared rules, regulated diplomacy and joint management of order."
         },
         {
           "position_id": "critical_postcolonial_feminist_position",
-          "summary_fr": "Lecture privilégiant critical_postcolonial_feminist.",
+          "summary_fr": "L'ordre du Concert est une domination conservatrice : répression des mouvements libéraux et nationaux et continuité des hiérarchies coloniales.",
           "supports_theories": [
             "critical_postcolonial_feminist"
           ],
           "related_references": [
             "kissinger_1957_world_restored",
             "taylor_1954_struggle_mastery"
-          ]
+          ],
+          "summary_en": "The Concert order is a conservative domination: repression of liberal and national movements and continuation of colonial hierarchies."
         }
       ],
       "model_decision": "Le modèle retient une lecture d’ordre stabilisateur conservateur, avec coût politique et colonial explicite.",
@@ -69,36 +72,39 @@
       "positions": [
         {
           "position_id": "realism_position",
-          "summary_fr": "Lecture privilégiant realism.",
+          "summary_fr": "La guerre découle de la rivalité structurelle des puissances et du dilemme de sécurité, durcis par un système d'alliances rigide.",
           "supports_theories": [
             "realism"
           ],
           "related_references": [
             "hobsbawm_1987_age_empire",
             "kennedy_1987_rise_fall"
-          ]
+          ],
+          "summary_en": "The war stems from structural great-power rivalry and the security dilemma, hardened by a rigid alliance system."
         },
         {
           "position_id": "geopolitics_imperialism_reason_of_state_position",
-          "summary_fr": "Lecture privilégiant geopolitics_imperialism_reason_of_state.",
+          "summary_fr": "La guerre naît de la compétition impériale et navale : course aux armements, Weltpolitik et partage colonial.",
           "supports_theories": [
             "geopolitics_imperialism_reason_of_state"
           ],
           "related_references": [
             "hobsbawm_1987_age_empire",
             "kennedy_1987_rise_fall"
-          ]
+          ],
+          "summary_en": "The war arises from imperial and naval competition: arms races, Weltpolitik and the colonial scramble."
         },
         {
           "position_id": "marxism_dependency_structuralism_position",
-          "summary_fr": "Lecture privilégiant marxism_dependency_structuralism.",
+          "summary_fr": "La guerre est l'aboutissement de l'impérialisme capitaliste : rivalités économiques et exportation de capital (Lénine, Hobsbawm).",
           "supports_theories": [
             "marxism_dependency_structuralism"
           ],
           "related_references": [
             "hobsbawm_1987_age_empire",
             "kennedy_1987_rise_fall"
-          ]
+          ],
+          "summary_en": "The war is the culmination of capitalist imperialism: economic rivalries and capital export (Lenin, Hobsbawm)."
         }
       ],
       "model_decision": "Le modèle retient une causalité composite : rivalités de puissance, impérialisme, alliances et nationalismes.",
@@ -121,36 +127,39 @@
       "positions": [
         {
           "position_id": "liberalism_position",
-          "summary_fr": "Lecture privilégiant liberalism.",
+          "summary_fr": "L'échec tient à la faiblesse institutionnelle : sécurité collective mal conçue, absence des États-Unis, SDN incapable de contraindre.",
           "supports_theories": [
             "liberalism"
           ],
           "related_references": [
             "carr_1939_twenty_years",
             "mazower_1998_dark_continent"
-          ]
+          ],
+          "summary_en": "The failure lies in institutional weakness: poorly designed collective security, US absence, and a League unable to enforce."
         },
         {
           "position_id": "realism_position",
-          "summary_fr": "Lecture privilégiant realism.",
+          "summary_fr": "Le règlement a ignoré l'équilibre des puissances : paix punitive laissant une Allemagne révisionniste sans contrainte effective (Carr).",
           "supports_theories": [
             "realism"
           ],
           "related_references": [
             "carr_1939_twenty_years",
             "mazower_1998_dark_continent"
-          ]
+          ],
+          "summary_en": "The settlement ignored the balance of power: a punitive peace leaving a revisionist Germany with no effective enforcement (Carr)."
         },
         {
           "position_id": "marxism_dependency_structuralism_position",
-          "summary_fr": "Lecture privilégiant marxism_dependency_structuralism.",
+          "summary_fr": "La crise économique et les contradictions du capitalisme (réparations, Grande Dépression) ont condamné l'ordre de Versailles.",
           "supports_theories": [
             "marxism_dependency_structuralism"
           ],
           "related_references": [
             "carr_1939_twenty_years",
             "mazower_1998_dark_continent"
-          ]
+          ],
+          "summary_en": "Economic crisis and the contradictions of capitalism (reparations, the Depression) doomed the Versailles order."
         }
       ],
       "model_decision": "Le modèle retient une combinaison : faiblesse institutionnelle, révisionnisme et crise économique.",
@@ -173,36 +182,39 @@
       "positions": [
         {
           "position_id": "realism_position",
-          "summary_fr": "Lecture privilégiant realism.",
+          "summary_fr": "L'affrontement découle de la structure bipolaire et du dilemme de sécurité entre deux superpuissances (Gaddis).",
           "supports_theories": [
             "realism"
           ],
           "related_references": [
             "gaddis_2005_cold_war",
             "westad_2017_cold_war"
-          ]
+          ],
+          "summary_en": "The confrontation stems from bipolar structure and the security dilemma between two superpowers (Gaddis)."
         },
         {
           "position_id": "constructivism_position",
-          "summary_fr": "Lecture privilégiant constructivism.",
+          "summary_fr": "La Guerre froide est un affrontement d'idéologies et d'identités — des mondes mutuellement constitués (Westad).",
           "supports_theories": [
             "constructivism"
           ],
           "related_references": [
             "gaddis_2005_cold_war",
             "westad_2017_cold_war"
-          ]
+          ],
+          "summary_en": "The Cold War is a clash of ideologies and identities — mutually constituted worldviews (Westad)."
         },
         {
           "position_id": "marxism_dependency_structuralism_position",
-          "summary_fr": "Lecture privilégiant marxism_dependency_structuralism.",
+          "summary_fr": "La Guerre froide est une lutte mondiale entre économies politiques capitaliste et socialiste, jouée jusque dans le Tiers-Monde (Westad).",
           "supports_theories": [
             "marxism_dependency_structuralism"
           ],
           "related_references": [
             "gaddis_2005_cold_war",
             "westad_2017_cold_war"
-          ]
+          ],
+          "summary_en": "The Cold War is a global struggle between capitalist and socialist political economies, fought out across the Third World (Westad)."
         }
       ],
       "model_decision": "Le modèle privilégie la structure bipolaire et le dilemme de sécurité, sans exclure l’idéologie.",
@@ -225,36 +237,39 @@
       "positions": [
         {
           "position_id": "liberalism_position",
-          "summary_fr": "Lecture privilégiant liberalism.",
+          "summary_fr": "L'après-Guerre froide est un ordre libéral hégémonique : institutions, démocratie et ouverture sous leadership américain (Ikenberry, Fukuyama).",
           "supports_theories": [
             "liberalism"
           ],
           "related_references": [
             "ikenberry_2001_after_victory",
             "fukuyama_1992_end_history"
-          ]
+          ],
+          "summary_en": "The post-Cold War era is a liberal hegemonic order: institutions, democracy and openness under US leadership (Ikenberry, Fukuyama)."
         },
         {
           "position_id": "realism_position",
-          "summary_fr": "Lecture privilégiant realism.",
+          "summary_fr": "C'est un moment unipolaire de primauté américaine : c'est la puissance, non les normes libérales, qui structure l'ordre.",
           "supports_theories": [
             "realism"
           ],
           "related_references": [
             "ikenberry_2001_after_victory",
             "fukuyama_1992_end_history"
-          ]
+          ],
+          "summary_en": "It is a unipolar moment of US primacy: power, not liberal norms, shapes the order."
         },
         {
           "position_id": "critical_postcolonial_feminist_position",
-          "summary_fr": "Lecture privilégiant critical_postcolonial_feminist.",
+          "summary_fr": "Sous le discours libéral, un ordre hégémonique masque des hiérarchies persistantes : asymétries occidentales, genrées et postcoloniales.",
           "supports_theories": [
             "critical_postcolonial_feminist"
           ],
           "related_references": [
             "ikenberry_2001_after_victory",
             "fukuyama_1992_end_history"
-          ]
+          ],
+          "summary_en": "Behind the liberal discourse, a hegemonic order masks persistent hierarchies: Western, gendered and postcolonial asymmetries."
         }
       ],
       "model_decision": "Le modèle retient une lecture d’ordre libéral hégémonique.",
@@ -277,36 +292,39 @@
       "positions": [
         {
           "position_id": "realism_position",
-          "summary_fr": "Lecture privilégiant realism.",
+          "summary_fr": "Retour de la rivalité de grande puissance et de l'équilibrage dur (USA-Chine, Russie) : compétition structurelle (Mearsheimer).",
           "supports_theories": [
             "realism"
           ],
           "related_references": [
             "mearsheimer_2001_tragedy",
             "cooley_nexon_2020_exit_hegemony"
-          ]
+          ],
+          "summary_en": "A return of great-power rivalry and hard balancing (US-China, Russia): structural competition (Mearsheimer)."
         },
         {
           "position_id": "geopolitics_imperialism_reason_of_state_position",
-          "summary_fr": "Lecture privilégiant geopolitics_imperialism_reason_of_state.",
+          "summary_fr": "Un affrontement de sphères, de territoires et de géoéconomie : Ukraine, Indo-Pacifique, armes énergétiques et commerciales.",
           "supports_theories": [
             "geopolitics_imperialism_reason_of_state"
           ],
           "related_references": [
             "mearsheimer_2001_tragedy",
             "cooley_nexon_2020_exit_hegemony"
-          ]
+          ],
+          "summary_en": "A contest over spheres, territory and geoeconomics: Ukraine, the Indo-Pacific, the weaponisation of energy and trade."
         },
         {
           "position_id": "liberalism_position",
-          "summary_fr": "Lecture privilégiant liberalism.",
+          "summary_fr": "Un ordre libéral contesté mais résilient : institutions et coalition occidentale s'adaptent plutôt qu'elles ne s'effondrent.",
           "supports_theories": [
             "liberalism"
           ],
           "related_references": [
             "mearsheimer_2001_tragedy",
             "cooley_nexon_2020_exit_hegemony"
-          ]
+          ],
+          "summary_en": "A contested but resilient liberal order: institutions and the Western coalition adapt rather than collapse."
         }
       ],
       "model_decision": "Le modèle retient une fragmentation en blocs souples plutôt qu’une bipolarité parfaite.",
