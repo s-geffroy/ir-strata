@@ -77904,7 +77904,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "realism",
-      "raw_score": 100,
+      "raw_score": 90,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 100,
@@ -77940,8 +77940,7 @@
       "maturity_status": "draft",
       "justification_fr": "Rival pair des États-Unis : montée militaire, ambitions sur Taïwan — réalité réaliste maximale.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -77956,7 +77955,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "liberalism",
-      "raw_score": 42,
+      "raw_score": 52,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 42,
@@ -77992,8 +77991,7 @@
       "maturity_status": "draft",
       "justification_fr": "Rejet de l'ordre libéral politique, intégration économique sélective — score libéral faible justifié.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -78008,7 +78006,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "marxism_dependency_structuralism",
-      "raw_score": 47,
+      "raw_score": 60,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 47,
@@ -78044,8 +78042,7 @@
       "maturity_status": "draft",
       "justification_fr": "Capitalisme d'État autoritaire ; lecture structurelle de la rivalité d'hégémonie.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -78060,7 +78057,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "constructivism",
-      "raw_score": 50,
+      "raw_score": 60,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 50,
@@ -78096,8 +78093,7 @@
       "maturity_status": "draft",
       "justification_fr": "Identité de grande puissance civilisationnelle, récit de 'rajeunissement national'.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -78112,7 +78108,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "english_school",
-      "raw_score": 40,
+      "raw_score": 50,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 40,
@@ -78148,8 +78144,7 @@
       "maturity_status": "draft",
       "justification_fr": "Promotion d'une société internationale pluraliste et souverainiste.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -78200,8 +78195,7 @@
       "maturity_status": "draft",
       "justification_fr": "Discours anti-hégémonique et de multipolarité, écho dans le Sud global.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -78216,7 +78210,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 100,
+      "raw_score": 90,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 100,
@@ -78252,8 +78246,7 @@
       "maturity_status": "draft",
       "justification_fr": "Géopolitique maximale : Indo-Pacifique, mer de Chine, routes de la soie.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -78268,7 +78261,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "realism",
-      "raw_score": 96,
+      "raw_score": 86,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 96,
@@ -78304,8 +78297,7 @@
       "maturity_status": "draft",
       "justification_fr": "Rival pair des États-Unis : montée militaire, ambitions sur Taïwan — réalité réaliste maximale.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -78320,7 +78312,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "liberalism",
-      "raw_score": 47,
+      "raw_score": 55,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 47,
@@ -78356,8 +78348,7 @@
       "maturity_status": "draft",
       "justification_fr": "Rejet de l'ordre libéral politique, intégration économique sélective — score libéral faible justifié.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -78372,7 +78363,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "marxism_dependency_structuralism",
-      "raw_score": 47,
+      "raw_score": 60,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 47,
@@ -78408,8 +78399,7 @@
       "maturity_status": "draft",
       "justification_fr": "Capitalisme d'État autoritaire ; lecture structurelle de la rivalité d'hégémonie.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -78424,7 +78414,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "constructivism",
-      "raw_score": 54,
+      "raw_score": 64,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 54,
@@ -78460,8 +78450,7 @@
       "maturity_status": "draft",
       "justification_fr": "Identité de grande puissance civilisationnelle, récit de 'rajeunissement national'.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -78476,7 +78465,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "english_school",
-      "raw_score": 44,
+      "raw_score": 54,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 44,
@@ -78512,8 +78501,7 @@
       "maturity_status": "draft",
       "justification_fr": "Promotion d'une société internationale pluraliste et souverainiste.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -78564,8 +78552,7 @@
       "maturity_status": "draft",
       "justification_fr": "Discours anti-hégémonique et de multipolarité, écho dans le Sud global.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -78580,7 +78567,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 94,
+      "raw_score": 88,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 94,
@@ -78616,8 +78603,7 @@
       "maturity_status": "draft",
       "justification_fr": "Géopolitique maximale : Indo-Pacifique, mer de Chine, routes de la soie.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -78632,7 +78618,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "realism",
-      "raw_score": 100,
+      "raw_score": 92,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 100,
@@ -78669,7 +78655,7 @@
       "justification_fr": "Rival pair des États-Unis : montée militaire, ambitions sur Taïwan — réalité réaliste maximale.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -78684,7 +78670,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "liberalism",
-      "raw_score": 64,
+      "raw_score": 68,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 64,
@@ -78721,7 +78707,7 @@
       "justification_fr": "Rejet de l'ordre libéral politique, intégration économique sélective — score libéral faible justifié.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -78736,7 +78722,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "marxism_dependency_structuralism",
-      "raw_score": 60,
+      "raw_score": 70,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 60,
@@ -78773,7 +78759,7 @@
       "justification_fr": "Capitalisme d'État autoritaire ; lecture structurelle de la rivalité d'hégémonie.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -78788,7 +78774,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "constructivism",
-      "raw_score": 74,
+      "raw_score": 82,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 74,
@@ -78825,7 +78811,7 @@
       "justification_fr": "Identité de grande puissance civilisationnelle, récit de 'rajeunissement national'.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -78840,7 +78826,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "english_school",
-      "raw_score": 54,
+      "raw_score": 62,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 54,
@@ -78877,7 +78863,7 @@
       "justification_fr": "Promotion d'une société internationale pluraliste et souverainiste.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -78929,7 +78915,7 @@
       "justification_fr": "Discours anti-hégémonique et de multipolarité, écho dans le Sud global.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -78944,7 +78930,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 80,
+      "raw_score": 78,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 80,
@@ -78981,7 +78967,7 @@
       "justification_fr": "Géopolitique maximale : Indo-Pacifique, mer de Chine, routes de la soie.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -81216,8 +81202,7 @@
       "maturity_status": "draft",
       "justification_fr": "Puissance civile contrainte au réarmement par la guerre ; réalisme en hausse mais limité.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -81232,7 +81217,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "liberalism",
-      "raw_score": 60,
+      "raw_score": 62,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 60,
@@ -81268,8 +81253,7 @@
       "maturity_status": "draft",
       "justification_fr": "Cœur du projet libéral : élargissement, sanctions coordonnées, soutien à l'Ukraine.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -81320,8 +81304,7 @@
       "maturity_status": "draft",
       "justification_fr": "Critiques du capitalisme européen et de la crise énergétique sociale.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -81336,7 +81319,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "constructivism",
-      "raw_score": 50,
+      "raw_score": 64,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 50,
@@ -81372,8 +81355,7 @@
       "maturity_status": "draft",
       "justification_fr": "Communauté de valeurs et 'puissance normative', identité renforcée par la guerre.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -81388,7 +81370,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "english_school",
-      "raw_score": 58,
+      "raw_score": 60,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 58,
@@ -81424,8 +81406,7 @@
       "maturity_status": "draft",
       "justification_fr": "Société internationale régionale dense défendant l'ordre normatif.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -81476,8 +81457,7 @@
       "maturity_status": "draft",
       "justification_fr": "Critiques de la 'forteresse Europe' et des doubles standards (Ukraine vs Sud).",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -81492,7 +81472,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 82,
+      "raw_score": 80,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 82,
@@ -81528,8 +81508,7 @@
       "maturity_status": "draft",
       "justification_fr": "Acteur géoéconomique (sanctions, énergie), géopolitique en apprentissage.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -81580,8 +81559,7 @@
       "maturity_status": "draft",
       "justification_fr": "Puissance civile contrainte au réarmement par la guerre ; réalisme en hausse mais limité.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -81596,7 +81574,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "liberalism",
-      "raw_score": 65,
+      "raw_score": 68,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 65,
@@ -81632,8 +81610,7 @@
       "maturity_status": "draft",
       "justification_fr": "Cœur du projet libéral : élargissement, sanctions coordonnées, soutien à l'Ukraine.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -81684,8 +81661,7 @@
       "maturity_status": "draft",
       "justification_fr": "Critiques du capitalisme européen et de la crise énergétique sociale.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -81700,7 +81676,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "constructivism",
-      "raw_score": 54,
+      "raw_score": 70,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 54,
@@ -81736,8 +81712,7 @@
       "maturity_status": "draft",
       "justification_fr": "Communauté de valeurs et 'puissance normative', identité renforcée par la guerre.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -81752,7 +81727,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "english_school",
-      "raw_score": 62,
+      "raw_score": 64,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 62,
@@ -81788,8 +81763,7 @@
       "maturity_status": "draft",
       "justification_fr": "Société internationale régionale dense défendant l'ordre normatif.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -81840,8 +81814,7 @@
       "maturity_status": "draft",
       "justification_fr": "Critiques de la 'forteresse Europe' et des doubles standards (Ukraine vs Sud).",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -81856,7 +81829,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 76,
+      "raw_score": 74,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 76,
@@ -81892,8 +81865,7 @@
       "maturity_status": "draft",
       "justification_fr": "Acteur géoéconomique (sanctions, énergie), géopolitique en apprentissage.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -81945,7 +81917,7 @@
       "justification_fr": "Puissance civile contrainte au réarmement par la guerre ; réalisme en hausse mais limité.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -81960,7 +81932,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "liberalism",
-      "raw_score": 82,
+      "raw_score": 84,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 82,
@@ -81997,7 +81969,7 @@
       "justification_fr": "Cœur du projet libéral : élargissement, sanctions coordonnées, soutien à l'Ukraine.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -82049,7 +82021,7 @@
       "justification_fr": "Critiques du capitalisme européen et de la crise énergétique sociale.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -82064,7 +82036,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "constructivism",
-      "raw_score": 74,
+      "raw_score": 82,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 74,
@@ -82101,7 +82073,7 @@
       "justification_fr": "Communauté de valeurs et 'puissance normative', identité renforcée par la guerre.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -82116,7 +82088,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "english_school",
-      "raw_score": 72,
+      "raw_score": 74,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 72,
@@ -82153,7 +82125,7 @@
       "justification_fr": "Société internationale régionale dense défendant l'ordre normatif.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -82205,7 +82177,7 @@
       "justification_fr": "Critiques de la 'forteresse Europe' et des doubles standards (Ukraine vs Sud).",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -82220,7 +82192,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 62,
+      "raw_score": 60,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 62,
@@ -82257,7 +82229,7 @@
       "justification_fr": "Acteur géoéconomique (sanctions, énergie), géopolitique en apprentissage.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -82308,8 +82280,7 @@
       "maturity_status": "draft",
       "justification_fr": "Alliance d'équilibrage revitalisée : élargissement (Finlande, Suède), dissuasion renforcée.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -82324,7 +82295,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "liberalism",
-      "raw_score": 60,
+      "raw_score": 58,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 60,
@@ -82360,8 +82331,7 @@
       "maturity_status": "draft",
       "justification_fr": "Communauté de sécurité libérale-démocratique, vecteur du camp occidental.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -82412,8 +82382,7 @@
       "maturity_status": "draft",
       "justification_fr": "Lecture critique : bras armé de l'hégémonie occidentale.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -82428,7 +82397,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "constructivism",
-      "raw_score": 50,
+      "raw_score": 52,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 50,
@@ -82464,8 +82433,7 @@
       "maturity_status": "draft",
       "justification_fr": "Identité de communauté de valeurs ravivée par la menace russe.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -82480,7 +82448,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "english_school",
-      "raw_score": 40,
+      "raw_score": 54,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 40,
@@ -82516,8 +82484,7 @@
       "maturity_status": "draft",
       "justification_fr": "Sous-société d'États occidentale fortement institutionnalisée.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -82532,7 +82499,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "critical_postcolonial_feminist",
-      "raw_score": 60,
+      "raw_score": 58,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 60,
@@ -82568,8 +82535,7 @@
       "maturity_status": "draft",
       "justification_fr": "Critiques de l'élargissement et de la logique de bloc.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -82584,7 +82550,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 82,
+      "raw_score": 70,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 82,
@@ -82620,8 +82586,7 @@
       "maturity_status": "draft",
       "justification_fr": "Réarticulation géostratégique de l'Europe face à la Russie.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -82672,8 +82637,7 @@
       "maturity_status": "draft",
       "justification_fr": "Alliance d'équilibrage revitalisée : élargissement (Finlande, Suède), dissuasion renforcée.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -82688,7 +82652,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "liberalism",
-      "raw_score": 65,
+      "raw_score": 63,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 65,
@@ -82724,8 +82688,7 @@
       "maturity_status": "draft",
       "justification_fr": "Communauté de sécurité libérale-démocratique, vecteur du camp occidental.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -82776,8 +82739,7 @@
       "maturity_status": "draft",
       "justification_fr": "Lecture critique : bras armé de l'hégémonie occidentale.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -82792,7 +82754,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "constructivism",
-      "raw_score": 54,
+      "raw_score": 56,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 54,
@@ -82828,8 +82790,7 @@
       "maturity_status": "draft",
       "justification_fr": "Identité de communauté de valeurs ravivée par la menace russe.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -82844,7 +82805,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "english_school",
-      "raw_score": 44,
+      "raw_score": 60,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 44,
@@ -82880,8 +82841,7 @@
       "maturity_status": "draft",
       "justification_fr": "Sous-société d'États occidentale fortement institutionnalisée.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -82896,7 +82856,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "critical_postcolonial_feminist",
-      "raw_score": 62,
+      "raw_score": 60,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 62,
@@ -82932,8 +82892,7 @@
       "maturity_status": "draft",
       "justification_fr": "Critiques de l'élargissement et de la logique de bloc.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -82948,7 +82907,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 76,
+      "raw_score": 66,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 76,
@@ -82984,8 +82943,7 @@
       "maturity_status": "draft",
       "justification_fr": "Réarticulation géostratégique de l'Europe face à la Russie.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -83037,7 +82995,7 @@
       "justification_fr": "Alliance d'équilibrage revitalisée : élargissement (Finlande, Suède), dissuasion renforcée.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -83052,7 +83010,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "liberalism",
-      "raw_score": 82,
+      "raw_score": 80,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 82,
@@ -83089,7 +83047,7 @@
       "justification_fr": "Communauté de sécurité libérale-démocratique, vecteur du camp occidental.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -83141,7 +83099,7 @@
       "justification_fr": "Lecture critique : bras armé de l'hégémonie occidentale.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -83193,7 +83151,7 @@
       "justification_fr": "Identité de communauté de valeurs ravivée par la menace russe.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -83208,7 +83166,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "english_school",
-      "raw_score": 54,
+      "raw_score": 60,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 54,
@@ -83245,7 +83203,7 @@
       "justification_fr": "Sous-société d'États occidentale fortement institutionnalisée.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -83260,7 +83218,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "critical_postcolonial_feminist",
-      "raw_score": 80,
+      "raw_score": 78,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 80,
@@ -83297,7 +83255,7 @@
       "justification_fr": "Critiques de l'élargissement et de la logique de bloc.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -83312,7 +83270,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 62,
+      "raw_score": 55,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 62,
@@ -83349,7 +83307,7 @@
       "justification_fr": "Réarticulation géostratégique de l'Europe face à la Russie.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -86577,7 +86535,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "realism",
-      "raw_score": 100,
+      "raw_score": 95,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 100,
@@ -86613,8 +86571,7 @@
       "maturity_status": "draft",
       "justification_fr": "Épicentre de la rivalité de puissance : Chine contre États-Unis et alliés, course régionale aux armements.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -86629,7 +86586,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "liberalism",
-      "raw_score": 42,
+      "raw_score": 50,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 42,
@@ -86665,8 +86622,7 @@
       "maturity_status": "draft",
       "justification_fr": "Architecture libérale régionale contestée.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -86681,7 +86637,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "marxism_dependency_structuralism",
-      "raw_score": 47,
+      "raw_score": 50,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 47,
@@ -86717,8 +86673,7 @@
       "maturity_status": "draft",
       "justification_fr": "Chaînes de valeur et capitalisme régional ; lecture structurelle.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -86733,7 +86688,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "constructivism",
-      "raw_score": 50,
+      "raw_score": 55,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 50,
@@ -86769,8 +86724,7 @@
       "maturity_status": "draft",
       "justification_fr": "Constructions identitaires régionales et récits de sécurité.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -86785,7 +86739,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "english_school",
-      "raw_score": 40,
+      "raw_score": 52,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 40,
@@ -86821,8 +86775,7 @@
       "maturity_status": "draft",
       "justification_fr": "Société internationale régionale en formation, contestée.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -86837,7 +86790,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "critical_postcolonial_feminist",
-      "raw_score": 60,
+      "raw_score": 58,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 60,
@@ -86873,8 +86826,7 @@
       "maturity_status": "draft",
       "justification_fr": "Lectures postcoloniales des héritages et hiérarchies régionales.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -86925,8 +86877,7 @@
       "maturity_status": "draft",
       "justification_fr": "Cœur géopolitique mondial : Taïwan, mer de Chine, AUKUS/QUAD.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -86941,7 +86892,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "realism",
-      "raw_score": 96,
+      "raw_score": 90,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 96,
@@ -86977,8 +86928,7 @@
       "maturity_status": "draft",
       "justification_fr": "Épicentre de la rivalité de puissance : Chine contre États-Unis et alliés, course régionale aux armements.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -86993,7 +86943,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "liberalism",
-      "raw_score": 47,
+      "raw_score": 52,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 47,
@@ -87029,8 +86979,7 @@
       "maturity_status": "draft",
       "justification_fr": "Architecture libérale régionale contestée.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -87081,8 +87030,7 @@
       "maturity_status": "draft",
       "justification_fr": "Chaînes de valeur et capitalisme régional ; lecture structurelle.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -87097,7 +87045,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "constructivism",
-      "raw_score": 54,
+      "raw_score": 58,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 54,
@@ -87133,8 +87081,7 @@
       "maturity_status": "draft",
       "justification_fr": "Constructions identitaires régionales et récits de sécurité.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -87149,7 +87096,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "english_school",
-      "raw_score": 44,
+      "raw_score": 55,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 44,
@@ -87185,8 +87132,7 @@
       "maturity_status": "draft",
       "justification_fr": "Société internationale régionale en formation, contestée.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -87201,7 +87147,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "critical_postcolonial_feminist",
-      "raw_score": 62,
+      "raw_score": 60,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 62,
@@ -87237,8 +87183,7 @@
       "maturity_status": "draft",
       "justification_fr": "Lectures postcoloniales des héritages et hiérarchies régionales.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -87289,8 +87234,7 @@
       "maturity_status": "draft",
       "justification_fr": "Cœur géopolitique mondial : Taïwan, mer de Chine, AUKUS/QUAD.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -87305,7 +87249,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "realism",
-      "raw_score": 100,
+      "raw_score": 95,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 100,
@@ -87342,7 +87286,7 @@
       "justification_fr": "Épicentre de la rivalité de puissance : Chine contre États-Unis et alliés, course régionale aux armements.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -87357,7 +87301,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "liberalism",
-      "raw_score": 64,
+      "raw_score": 70,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 64,
@@ -87394,7 +87338,7 @@
       "justification_fr": "Architecture libérale régionale contestée.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -87446,7 +87390,7 @@
       "justification_fr": "Chaînes de valeur et capitalisme régional ; lecture structurelle.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -87461,7 +87405,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "constructivism",
-      "raw_score": 74,
+      "raw_score": 76,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 74,
@@ -87498,7 +87442,7 @@
       "justification_fr": "Constructions identitaires régionales et récits de sécurité.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -87513,7 +87457,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "english_school",
-      "raw_score": 54,
+      "raw_score": 66,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 54,
@@ -87550,7 +87494,7 @@
       "justification_fr": "Société internationale régionale en formation, contestée.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -87565,7 +87509,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "critical_postcolonial_feminist",
-      "raw_score": 80,
+      "raw_score": 78,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 80,
@@ -87602,7 +87546,7 @@
       "justification_fr": "Lectures postcoloniales des héritages et hiérarchies régionales.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -87617,7 +87561,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 80,
+      "raw_score": 82,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 80,
@@ -87654,7 +87598,7 @@
       "justification_fr": "Cœur géopolitique mondial : Taïwan, mer de Chine, AUKUS/QUAD.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -87669,7 +87613,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "realism",
-      "raw_score": 84,
+      "raw_score": 67,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 84,
@@ -87705,8 +87649,7 @@
       "maturity_status": "draft",
       "justification_fr": "Institutions paralysées par la rivalité des grandes puissances (veto à l'ONU).",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -87721,7 +87664,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "liberalism",
-      "raw_score": 60,
+      "raw_score": 64,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 60,
@@ -87757,8 +87700,7 @@
       "maturity_status": "draft",
       "justification_fr": "Pilier de l'ordre libéral mais en crise de légitimité et d'efficacité.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -87773,7 +87715,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "marxism_dependency_structuralism",
-      "raw_score": 47,
+      "raw_score": 50,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 47,
@@ -87809,8 +87751,7 @@
       "maturity_status": "draft",
       "justification_fr": "Cible des critiques de l'ordre économique asymétrique.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -87825,7 +87766,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "constructivism",
-      "raw_score": 50,
+      "raw_score": 54,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 50,
@@ -87861,8 +87802,7 @@
       "maturity_status": "draft",
       "justification_fr": "Arènes de contestation et de production normative.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -87877,7 +87817,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "english_school",
-      "raw_score": 58,
+      "raw_score": 70,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 58,
@@ -87913,8 +87853,7 @@
       "maturity_status": "draft",
       "justification_fr": "Expression institutionnelle de la société internationale sous tension.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -87929,7 +87868,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "critical_postcolonial_feminist",
-      "raw_score": 60,
+      "raw_score": 62,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 60,
@@ -87965,8 +87904,7 @@
       "maturity_status": "draft",
       "justification_fr": "Critiques de la représentativité et des doubles standards.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -87981,7 +87919,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 82,
+      "raw_score": 47,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 82,
@@ -88017,8 +87955,7 @@
       "maturity_status": "draft",
       "justification_fr": "Faible autonomie géopolitique propre.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -88033,7 +87970,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "realism",
-      "raw_score": 78,
+      "raw_score": 62,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 78,
@@ -88069,8 +88006,7 @@
       "maturity_status": "draft",
       "justification_fr": "Institutions paralysées par la rivalité des grandes puissances (veto à l'ONU).",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -88085,7 +88021,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "liberalism",
-      "raw_score": 65,
+      "raw_score": 70,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 65,
@@ -88121,8 +88057,7 @@
       "maturity_status": "draft",
       "justification_fr": "Pilier de l'ordre libéral mais en crise de légitimité et d'efficacité.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -88137,7 +88072,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "marxism_dependency_structuralism",
-      "raw_score": 47,
+      "raw_score": 50,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 47,
@@ -88173,8 +88108,7 @@
       "maturity_status": "draft",
       "justification_fr": "Cible des critiques de l'ordre économique asymétrique.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -88189,7 +88123,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "constructivism",
-      "raw_score": 54,
+      "raw_score": 58,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 54,
@@ -88225,8 +88159,7 @@
       "maturity_status": "draft",
       "justification_fr": "Arènes de contestation et de production normative.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -88241,7 +88174,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "english_school",
-      "raw_score": 62,
+      "raw_score": 74,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 62,
@@ -88277,8 +88210,7 @@
       "maturity_status": "draft",
       "justification_fr": "Expression institutionnelle de la société internationale sous tension.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -88293,7 +88225,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "critical_postcolonial_feminist",
-      "raw_score": 62,
+      "raw_score": 64,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 62,
@@ -88329,8 +88261,7 @@
       "maturity_status": "draft",
       "justification_fr": "Critiques de la représentativité et des doubles standards.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -88345,7 +88276,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 76,
+      "raw_score": 44,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 76,
@@ -88381,8 +88312,7 @@
       "maturity_status": "draft",
       "justification_fr": "Faible autonomie géopolitique propre.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -88397,7 +88327,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "realism",
-      "raw_score": 82,
+      "raw_score": 74,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 82,
@@ -88434,7 +88364,7 @@
       "justification_fr": "Institutions paralysées par la rivalité des grandes puissances (veto à l'ONU).",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -88449,7 +88379,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "liberalism",
-      "raw_score": 82,
+      "raw_score": 84,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 82,
@@ -88486,7 +88416,7 @@
       "justification_fr": "Pilier de l'ordre libéral mais en crise de légitimité et d'efficacité.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -88501,7 +88431,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "marxism_dependency_structuralism",
-      "raw_score": 60,
+      "raw_score": 62,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 60,
@@ -88538,7 +88468,7 @@
       "justification_fr": "Cible des critiques de l'ordre économique asymétrique.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -88553,7 +88483,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "constructivism",
-      "raw_score": 74,
+      "raw_score": 76,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 74,
@@ -88590,7 +88520,7 @@
       "justification_fr": "Arènes de contestation et de production normative.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -88605,7 +88535,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "english_school",
-      "raw_score": 72,
+      "raw_score": 80,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 72,
@@ -88642,7 +88572,7 @@
       "justification_fr": "Expression institutionnelle de la société internationale sous tension.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -88694,7 +88624,7 @@
       "justification_fr": "Critiques de la représentativité et des doubles standards.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -88709,7 +88639,7 @@
       "scope": "entity",
       "layer": "academic_influence",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 62,
+      "raw_score": 42,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 62,
@@ -88746,7 +88676,7 @@
       "justification_fr": "Faible autonomie géopolitique propre.",
       "known_limits": [
         "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
-        "Profil seed partagé avec des entités proches : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
