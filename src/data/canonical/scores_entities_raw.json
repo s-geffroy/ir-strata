@@ -11164,7 +11164,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "realism",
-      "raw_score": 96,
+      "raw_score": 94,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 96,
@@ -11200,8 +11200,7 @@
       "maturity_status": "draft",
       "justification_fr": "Grande puissance continentale en expansion ; rivalités (Grand Jeu, Balkans).",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -11216,7 +11215,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "liberalism",
-      "raw_score": 47,
+      "raw_score": 38,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 47,
@@ -11251,8 +11250,7 @@
       "maturity_status": "draft",
       "justification_fr": "Libéralisme faible sous l'autocratie tsariste.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -11267,7 +11265,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "marxism_dependency_structuralism",
-      "raw_score": 42,
+      "raw_score": 52,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 42,
@@ -11303,8 +11301,7 @@
       "maturity_status": "draft",
       "justification_fr": "Industrialisation et montée du marxisme révolutionnaire (1905).",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -11319,7 +11316,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "constructivism",
-      "raw_score": 32,
+      "raw_score": 35,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 32,
@@ -11354,8 +11351,7 @@
       "maturity_status": "draft",
       "justification_fr": "Lecture rétrospective : panslavisme, identité impériale.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -11370,7 +11366,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "english_school",
-      "raw_score": 37,
+      "raw_score": 42,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 37,
@@ -11405,8 +11401,7 @@
       "maturity_status": "draft",
       "justification_fr": "Membre de la société internationale, conservatisme dynastique.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -11421,7 +11416,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "critical_postcolonial_feminist",
-      "raw_score": 27,
+      "raw_score": 30,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 27,
@@ -11457,8 +11452,7 @@
       "maturity_status": "draft",
       "justification_fr": "Lecture rétrospective : empire multinational, expansion coloniale.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -11473,7 +11467,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 100,
+      "raw_score": 98,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 100,
@@ -11509,8 +11503,7 @@
       "maturity_status": "draft",
       "justification_fr": "Géopolitique continentale maximale : heartland, Balkans, Asie centrale — score 100 justifié.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -11525,7 +11518,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "realism",
-      "raw_score": 88,
+      "raw_score": 86,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 88,
@@ -11561,8 +11554,7 @@
       "maturity_status": "draft",
       "justification_fr": "Grande puissance continentale en expansion ; rivalités (Grand Jeu, Balkans).",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -11577,7 +11569,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "liberalism",
-      "raw_score": 52,
+      "raw_score": 42,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 52,
@@ -11612,8 +11604,7 @@
       "maturity_status": "draft",
       "justification_fr": "Libéralisme faible sous l'autocratie tsariste.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -11628,7 +11619,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "marxism_dependency_structuralism",
-      "raw_score": 40,
+      "raw_score": 50,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 40,
@@ -11664,8 +11655,7 @@
       "maturity_status": "draft",
       "justification_fr": "Industrialisation et montée du marxisme révolutionnaire (1905).",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -11845,7 +11835,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 98,
+      "raw_score": 94,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 98,
@@ -11881,8 +11871,7 @@
       "maturity_status": "draft",
       "justification_fr": "Géopolitique continentale maximale : heartland, Balkans, Asie centrale — score 100 justifié.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -15614,7 +15603,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "realism",
-      "raw_score": 96,
+      "raw_score": 88,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 96,
@@ -15650,8 +15639,7 @@
       "maturity_status": "draft",
       "justification_fr": "Puissance montante : guerre hispano-américaine (1898), émergence mondiale.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -15701,8 +15689,7 @@
       "maturity_status": "draft",
       "justification_fr": "République libérale, doctrine de la 'porte ouverte'.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -15753,8 +15740,7 @@
       "maturity_status": "draft",
       "justification_fr": "Capitalisme industriel dominant, âge des trusts.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -15769,7 +15755,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "constructivism",
-      "raw_score": 32,
+      "raw_score": 34,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 32,
@@ -15804,8 +15790,7 @@
       "maturity_status": "draft",
       "justification_fr": "Lecture rétrospective : exceptionnalisme et 'destinée manifeste'.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -15820,7 +15805,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "english_school",
-      "raw_score": 37,
+      "raw_score": 32,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 37,
@@ -15855,8 +15840,7 @@
       "maturity_status": "draft",
       "justification_fr": "Acteur émergent de la société internationale.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -15871,7 +15855,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "critical_postcolonial_feminist",
-      "raw_score": 27,
+      "raw_score": 30,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 27,
@@ -15907,8 +15891,7 @@
       "maturity_status": "draft",
       "justification_fr": "Lecture rétrospective : impérialisme américain (Philippines, Caraïbes).",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -15923,7 +15906,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 84,
+      "raw_score": 78,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 84,
@@ -15959,8 +15942,7 @@
       "maturity_status": "draft",
       "justification_fr": "Géopolitique navale (Mahan), hémisphère, Pacifique.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -15975,7 +15957,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "realism",
-      "raw_score": 88,
+      "raw_score": 80,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 88,
@@ -16011,8 +15993,7 @@
       "maturity_status": "draft",
       "justification_fr": "Puissance montante : guerre hispano-américaine (1898), émergence mondiale.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -16062,8 +16043,7 @@
       "maturity_status": "draft",
       "justification_fr": "République libérale, doctrine de la 'porte ouverte'.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -16114,8 +16094,7 @@
       "maturity_status": "draft",
       "justification_fr": "Capitalisme industriel dominant, âge des trusts.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -16295,7 +16274,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 80,
+      "raw_score": 72,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 80,
@@ -16331,8 +16310,7 @@
       "maturity_status": "draft",
       "justification_fr": "Géopolitique navale (Mahan), hémisphère, Pacifique.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -16732,7 +16710,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "realism",
-      "raw_score": 96,
+      "raw_score": 88,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 96,
@@ -16768,8 +16746,7 @@
       "maturity_status": "draft",
       "justification_fr": "Puissance montante : victoire sur la Russie (1905), modernisation Meiji.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -16784,7 +16761,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "liberalism",
-      "raw_score": 47,
+      "raw_score": 52,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 47,
@@ -16819,8 +16796,7 @@
       "maturity_status": "draft",
       "justification_fr": "Modernisation sélective, libéralisme limité.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -16835,7 +16811,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "marxism_dependency_structuralism",
-      "raw_score": 42,
+      "raw_score": 38,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 42,
@@ -16871,8 +16847,7 @@
       "maturity_status": "draft",
       "justification_fr": "Industrialisation capitaliste rapide.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -16887,7 +16862,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "constructivism",
-      "raw_score": 32,
+      "raw_score": 38,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 32,
@@ -16922,8 +16897,7 @@
       "maturity_status": "draft",
       "justification_fr": "Lecture rétrospective : identité de modernisation et de grande puissance asiatique.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -16938,7 +16912,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "english_school",
-      "raw_score": 37,
+      "raw_score": 40,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 37,
@@ -16973,8 +16947,7 @@
       "maturity_status": "draft",
       "justification_fr": "Admission dans la société internationale des grandes puissances.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -16989,7 +16962,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "critical_postcolonial_feminist",
-      "raw_score": 27,
+      "raw_score": 35,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 27,
@@ -17025,8 +16998,7 @@
       "maturity_status": "draft",
       "justification_fr": "Lecture rétrospective : impérialisme japonais (Corée, Taïwan).",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -17041,7 +17013,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 100,
+      "raw_score": 92,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 100,
@@ -17077,8 +17049,7 @@
       "maturity_status": "draft",
       "justification_fr": "Géopolitique d'expansion régionale : Corée, Mandchourie — score 100 justifié.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -17093,7 +17064,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "realism",
-      "raw_score": 88,
+      "raw_score": 82,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 88,
@@ -17129,8 +17100,7 @@
       "maturity_status": "draft",
       "justification_fr": "Puissance montante : victoire sur la Russie (1905), modernisation Meiji.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -17145,7 +17115,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "liberalism",
-      "raw_score": 52,
+      "raw_score": 56,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 52,
@@ -17180,8 +17150,7 @@
       "maturity_status": "draft",
       "justification_fr": "Modernisation sélective, libéralisme limité.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -17196,7 +17165,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "marxism_dependency_structuralism",
-      "raw_score": 40,
+      "raw_score": 36,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 40,
@@ -17232,8 +17201,7 @@
       "maturity_status": "draft",
       "justification_fr": "Industrialisation capitaliste rapide.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -17413,7 +17381,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 98,
+      "raw_score": 90,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 98,
@@ -17449,8 +17417,7 @@
       "maturity_status": "draft",
       "justification_fr": "Géopolitique d'expansion régionale : Corée, Mandchourie — score 100 justifié.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -17850,7 +17817,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "realism",
-      "raw_score": 78,
+      "raw_score": 74,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 78,
@@ -17886,8 +17853,7 @@
       "maturity_status": "draft",
       "justification_fr": "'Homme malade de l'Europe' : déclin et enjeu des rivalités de puissance.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -17902,7 +17868,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "liberalism",
-      "raw_score": 47,
+      "raw_score": 50,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 47,
@@ -17937,8 +17903,7 @@
       "maturity_status": "draft",
       "justification_fr": "Tentatives de réforme (Jeunes-Turcs, 1908), libéralisme fragile.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -17953,7 +17918,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "marxism_dependency_structuralism",
-      "raw_score": 42,
+      "raw_score": 48,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 42,
@@ -17989,8 +17954,7 @@
       "maturity_status": "draft",
       "justification_fr": "Périphérie semi-coloniale du capitalisme européen.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -18005,7 +17969,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "constructivism",
-      "raw_score": 32,
+      "raw_score": 38,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 32,
@@ -18040,8 +18004,7 @@
       "maturity_status": "draft",
       "justification_fr": "Lecture rétrospective : nationalismes et 'question d'Orient'.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -18056,7 +18019,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "english_school",
-      "raw_score": 37,
+      "raw_score": 45,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 37,
@@ -18091,8 +18054,7 @@
       "maturity_status": "draft",
       "justification_fr": "Membre subordonné et contesté de la société internationale.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -18107,7 +18069,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "critical_postcolonial_feminist",
-      "raw_score": 27,
+      "raw_score": 45,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 27,
@@ -18143,8 +18105,7 @@
       "maturity_status": "draft",
       "justification_fr": "Lecture rétrospective : semi-colonialisme, partage convoité.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -18159,7 +18120,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 100,
+      "raw_score": 88,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 100,
@@ -18195,8 +18156,7 @@
       "maturity_status": "draft",
       "justification_fr": "Géopolitique des détroits et du Moyen-Orient — score 100 justifié.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -18211,7 +18171,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "realism",
-      "raw_score": 70,
+      "raw_score": 68,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 70,
@@ -18247,8 +18207,7 @@
       "maturity_status": "draft",
       "justification_fr": "'Homme malade de l'Europe' : déclin et enjeu des rivalités de puissance.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -18263,7 +18222,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "liberalism",
-      "raw_score": 52,
+      "raw_score": 54,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 52,
@@ -18298,8 +18257,7 @@
       "maturity_status": "draft",
       "justification_fr": "Tentatives de réforme (Jeunes-Turcs, 1908), libéralisme fragile.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -18314,7 +18272,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "marxism_dependency_structuralism",
-      "raw_score": 40,
+      "raw_score": 46,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 40,
@@ -18350,8 +18308,7 @@
       "maturity_status": "draft",
       "justification_fr": "Périphérie semi-coloniale du capitalisme européen.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -18531,7 +18488,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 98,
+      "raw_score": 84,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 98,
@@ -18567,8 +18524,7 @@
       "maturity_status": "draft",
       "justification_fr": "Géopolitique des détroits et du Moyen-Orient — score 100 justifié.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -18968,7 +18924,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "realism",
-      "raw_score": 78,
+      "raw_score": 70,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 78,
@@ -19004,8 +18960,7 @@
       "maturity_status": "draft",
       "justification_fr": "Enjeu stratégique de la puissance navale et du contrôle des communications.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -19020,7 +18975,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "liberalism",
-      "raw_score": 47,
+      "raw_score": 55,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 47,
@@ -19055,8 +19010,7 @@
       "maturity_status": "draft",
       "justification_fr": "Libre circulation commerciale, interdépendance maritime.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -19071,7 +19025,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "marxism_dependency_structuralism",
-      "raw_score": 42,
+      "raw_score": 52,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 42,
@@ -19107,8 +19061,7 @@
       "maturity_status": "draft",
       "justification_fr": "Infrastructure de l'économie capitaliste mondiale.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -19123,7 +19076,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "constructivism",
-      "raw_score": 32,
+      "raw_score": 30,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 32,
@@ -19158,8 +19111,7 @@
       "maturity_status": "draft",
       "justification_fr": "Lecture rétrospective : symboles de prestige naval.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -19174,7 +19126,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "english_school",
-      "raw_score": 37,
+      "raw_score": 42,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 37,
@@ -19209,8 +19161,7 @@
       "maturity_status": "draft",
       "justification_fr": "Régulation coutumière du droit de la mer.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -19225,7 +19176,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "critical_postcolonial_feminist",
-      "raw_score": 27,
+      "raw_score": 35,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 27,
@@ -19261,8 +19212,7 @@
       "maturity_status": "draft",
       "justification_fr": "Lecture rétrospective : contrôle impérial des flux.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -19313,8 +19263,7 @@
       "maturity_status": "draft",
       "justification_fr": "Géopolitique maritime par excellence (Mahan) : Suez, détroits, charbonnages — score 100 justifié.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -19329,7 +19278,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "realism",
-      "raw_score": 70,
+      "raw_score": 64,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 70,
@@ -19365,8 +19314,7 @@
       "maturity_status": "draft",
       "justification_fr": "Enjeu stratégique de la puissance navale et du contrôle des communications.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -19381,7 +19329,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "liberalism",
-      "raw_score": 52,
+      "raw_score": 58,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 52,
@@ -19416,8 +19364,7 @@
       "maturity_status": "draft",
       "justification_fr": "Libre circulation commerciale, interdépendance maritime.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -19432,7 +19379,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "marxism_dependency_structuralism",
-      "raw_score": 40,
+      "raw_score": 50,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 40,
@@ -19468,8 +19415,7 @@
       "maturity_status": "draft",
       "justification_fr": "Infrastructure de l'économie capitaliste mondiale.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -19685,8 +19631,7 @@
       "maturity_status": "draft",
       "justification_fr": "Géopolitique maritime par excellence (Mahan) : Suez, détroits, charbonnages — score 100 justifié.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
