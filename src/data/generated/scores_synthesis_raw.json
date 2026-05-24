@@ -4958,7 +4958,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "realism",
-      "raw_score": 83.55,
+      "raw_score": 66.8,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -4980,7 +4980,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "liberalism",
-      "raw_score": 99.7,
+      "raw_score": 42.75,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -5002,7 +5002,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "marxism_dependency_structuralism",
-      "raw_score": 40.6,
+      "raw_score": 57.7,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -5024,7 +5024,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "constructivism",
-      "raw_score": 68.2,
+      "raw_score": 54.8,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -5046,7 +5046,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "english_school",
-      "raw_score": 61.3,
+      "raw_score": 49.4,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -5068,7 +5068,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "critical_postcolonial_feminist",
-      "raw_score": 52.25,
+      "raw_score": 56.2,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -5090,7 +5090,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 44.5,
+      "raw_score": 56.55,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -5574,7 +5574,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "realism",
-      "raw_score": 83.55,
+      "raw_score": 78.75,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -5596,7 +5596,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "liberalism",
-      "raw_score": 99.7,
+      "raw_score": 76.8,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -5640,7 +5640,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "constructivism",
-      "raw_score": 68.2,
+      "raw_score": 64.2,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -5662,7 +5662,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "english_school",
-      "raw_score": 61.3,
+      "raw_score": 65.3,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -5684,7 +5684,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "critical_postcolonial_feminist",
-      "raw_score": 52.25,
+      "raw_score": 51.95,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -5706,7 +5706,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 44.5,
+      "raw_score": 56.1,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
