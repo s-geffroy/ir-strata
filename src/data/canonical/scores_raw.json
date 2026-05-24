@@ -2146,11 +2146,13 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race",
-        "alliance_systems_pre_1914"
+        "alliance_systems_pre_1914",
+        "naval_arms_race"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -2163,11 +2165,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 1871_1914, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Équilibre multipolaire des grandes puissances : système d'alliances bismarckien puis blocs rigides, compétition sécuritaire conduisant à 1914. Taylor (1954) sur la lutte pour la maîtrise de l'Europe ; Kennedy (1987).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Part très élevée mais imbriquée avec la lecture géopolitique impériale."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -2193,11 +2196,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race",
         "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -2210,11 +2213,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 1871_1914, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Interdépendance commerciale, libre-échange et conférences de La Haye ; Angell (1910) soutient l'inutilité de la guerre — réalité réelle mais subordonnée à la politique de puissance.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Lecture libérale démentie par le déclenchement de 1914."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -2240,11 +2244,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race",
-        "alliance_systems_pre_1914"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -2257,11 +2262,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1871_1914, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Impérialisme comme stade du capitalisme : exportation de capital, capitalisme monopoliste, partage colonial. Lénine (1917) analyse précisément cette période ; Hobsbawm (1987), L'Ère des empires (1875-1914).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Lecture structurelle forte de l'expansion impériale."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -2287,11 +2293,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race",
-        "alliance_systems_pre_1914"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -2304,11 +2310,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour constructivism dans 1871_1914, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Lecture rétrospective : 'standard de civilisation', nationalisme comme identité, politique de prestige. Le constructivisme n'existe pas alors (anti-anachronisme) : éclairage rétrospectif des normes et identités.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Usage rétrospectif assumé ; couches doctrine/académique exclues."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -2334,11 +2341,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race",
         "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -2351,11 +2358,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour english_school dans 1871_1914, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Expansion de la société internationale européenne à l'échelle mondiale, héritage du Concert, système de La Haye. Lecture rétrospective via Bull.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Grille rétrospective ; l'École anglaise n'émerge qu'après 1959."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -2381,11 +2389,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race",
-        "alliance_systems_pre_1914"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "bayly_2004_birth_modern_world"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -2398,11 +2407,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 1871_1914, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Lecture rétrospective : haut impérialisme, partage colonial racialisé, orientalisme. Said (1978) et Bayly (2004) sur la fabrique du monde moderne.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Grille rétrospective ; part modérée dans la dynamique systémique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -2429,10 +2439,12 @@
       },
       "evidence_basis": [
         "imperial_partition_competition",
-        "naval_arms_race",
-        "alliance_systems_pre_1914"
+        "naval_arms_race"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -2445,11 +2457,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1871_1914, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Période géopolitique paradigmatique : partage de l'Afrique, course aux armements navals (doctrine de la puissance maritime de Mahan), heartland de Mackinder (1904), Weltpolitik impériale. Score le plus élevé de la période.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Recouvre fortement la lecture réaliste de puissance."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -2475,11 +2488,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race",
         "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -2492,11 +2506,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 1871_1914, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Statecraft d'équilibre : Realpolitik bismarckienne, raison d'État, diplomatie d'alliances. Taylor (1954) en retrace la pratique.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Doctrine en partie indistincte de la raison d'État géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -2522,11 +2537,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race",
         "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -2539,11 +2554,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 1871_1914, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Libéralisme du libre-échange, pacifisme et internationalisme (mouvement d'arbitrage, conférences de La Haye). Angell (1910) en est l'expression.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Doctrine minoritaire face à l'impérialisme dominant."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -2569,11 +2585,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race",
-        "alliance_systems_pre_1914"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -2586,11 +2603,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1871_1914, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine des partis socialistes (Deuxième Internationale), internationalisme ouvrier et critique anti-impérialiste.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Doctrine montante mais sans pouvoir d'État avant 1917."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -2779,10 +2797,12 @@
       },
       "evidence_basis": [
         "imperial_partition_competition",
-        "naval_arms_race",
-        "alliance_systems_pre_1914"
+        "naval_arms_race"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -2795,11 +2815,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1871_1914, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Impérialisme comme doctrine d'État : Weltpolitik et 'place au soleil', navalisme (politique navale inspirée de Mahan, Tirpitz), darwinisme social, doctrine du partage colonial. Doctrine dominante de la période.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la doctrine réaliste de puissance."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
