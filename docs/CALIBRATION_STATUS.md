@@ -10,7 +10,7 @@ _État au 2026-05-24._
 
 Les audits précédents garantissent l'existence des références et l'absence d'anachronisme, **pas** la justesse des valeurs de score. Le re-sourçage remplace progressivement les justifications seed par des justifications réelles, adossées aux preuves et références vérifiées. Ce tableau en mesure l'avancement.
 
-**1233 / 1549 scores actifs re-sourcés (79.6 %).**
+**1359 / 1549 scores actifs re-sourcés (87.7 %).**
 
 ## Par période (priorité P1 d'abord)
 
@@ -18,7 +18,7 @@ Les audits précédents garantissent l'existence des références et l'absence d
 | --- | --- | ---: | ---: |
 | 1815_1848 | P1 | 10 | 80 |
 | 1871_1914 | P1 | 11 | 110 |
-| 1919_1939 | P1 | 14 | 126 |
+| 1919_1939 | P1 | 140 | 0 |
 | 1939_1945 | P1 | 135 | 0 |
 | 1945_1962 | P1 | 150 | 0 |
 | 1962_1979 | P1 | 198 | 0 |

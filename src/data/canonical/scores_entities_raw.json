@@ -19485,10 +19485,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -19501,13 +19503,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Grande puissance impériale gérant un équilibre fragile ; apaisement face aux révisionnistes.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -19533,10 +19536,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -19549,13 +19554,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Pilier de l'ordre de Versailles et de la SDN, libéralisme impérial.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -19581,10 +19587,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -19597,13 +19605,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Métropole capitaliste et impériale ; lecture structurelle.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -19629,10 +19638,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "versailles_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -19645,13 +19656,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : identité impériale et 'fardeau de l'homme blanc'.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -19677,10 +19689,11 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -19693,13 +19706,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Architecte de la société internationale et du système des mandats.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -19725,10 +19739,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "versailles_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -19741,13 +19757,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : domination coloniale, hiérarchies racialisées.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -19773,10 +19790,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -19789,13 +19808,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique impériale maritime : routes, bases, dominions.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -19821,10 +19841,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -19837,13 +19859,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Grande puissance impériale gérant un équilibre fragile ; apaisement face aux révisionnistes.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -19869,10 +19892,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -19885,13 +19910,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Pilier de l'ordre de Versailles et de la SDN, libéralisme impérial.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -19917,10 +19943,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -19933,13 +19961,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Métropole capitaliste et impériale ; lecture structurelle.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -20130,10 +20159,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -20146,13 +20177,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique impériale maritime : routes, bases, dominions.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -20233,10 +20265,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -20249,13 +20283,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Pilier de l'ordre de Versailles et de la SDN, libéralisme impérial.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -20281,10 +20316,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -20297,13 +20334,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Métropole capitaliste et impériale ; lecture structurelle.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -20494,10 +20532,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -20510,13 +20550,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique impériale maritime : routes, bases, dominions.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -20542,10 +20583,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -20558,13 +20601,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance cherchant la sécurité contre l'Allemagne (alliances de revers, ligne Maginot).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -20590,10 +20635,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -20606,13 +20653,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Soutien à la SDN et à la sécurité collective.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -20638,10 +20687,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -20654,13 +20705,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Métropole capitaliste et coloniale ; Front populaire (1936).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -20686,10 +20739,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "versailles_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -20702,13 +20757,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : trauma de 1914-18, quête de sécurité.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -20734,10 +20791,11 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -20750,13 +20808,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Acteur de la société internationale de Versailles.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -20782,10 +20842,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "versailles_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -20798,13 +20860,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : empire colonial et 'mission civilisatrice'.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -20830,10 +20894,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -20846,13 +20912,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique continentale : sécurité des frontières, alliances orientales.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -20878,10 +20946,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -20894,13 +20964,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance cherchant la sécurité contre l'Allemagne (alliances de revers, ligne Maginot).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -20926,10 +20998,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -20942,13 +21016,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Soutien à la SDN et à la sécurité collective.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -20974,10 +21050,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -20990,13 +21068,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Métropole capitaliste et coloniale ; Front populaire (1936).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -21187,10 +21267,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -21203,13 +21285,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique continentale : sécurité des frontières, alliances orientales.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -21290,10 +21374,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -21306,13 +21392,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Soutien à la SDN et à la sécurité collective.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -21338,10 +21426,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -21354,13 +21444,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Métropole capitaliste et coloniale ; Front populaire (1936).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -21551,10 +21643,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -21567,13 +21661,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique continentale : sécurité des frontières, alliances orientales.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -21599,10 +21695,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -21615,13 +21713,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance révisionniste par excellence : réarmement, remilitarisation, expansion.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -21647,10 +21747,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -21663,13 +21765,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Rejet de l'ordre de Versailles et de la SDN.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -21695,10 +21799,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -21711,13 +21817,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture marxiste : nazisme comme réaction du capitalisme en crise.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -21743,10 +21851,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "versailles_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -21759,13 +21869,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : nationalisme racial, revanche de Versailles.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -21791,10 +21903,11 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -21807,13 +21920,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Sortie de la société internationale (retrait de la SDN, 1933).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -21839,10 +21954,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "versailles_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -21855,13 +21972,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : idéologie raciale, expansionnisme.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -21887,10 +22006,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -21903,13 +22024,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique maximale : Lebensraum, Mitteleuropa — score élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -21935,10 +22058,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -21951,13 +22076,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance révisionniste par excellence : réarmement, remilitarisation, expansion.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -21983,10 +22110,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -21999,13 +22128,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Rejet de l'ordre de Versailles et de la SDN.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -22031,10 +22162,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -22047,13 +22180,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture marxiste : nazisme comme réaction du capitalisme en crise.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -22244,10 +22379,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -22260,13 +22397,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique maximale : Lebensraum, Mitteleuropa — score élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -22347,10 +22486,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -22363,13 +22504,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Rejet de l'ordre de Versailles et de la SDN.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -22395,10 +22538,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -22411,13 +22556,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture marxiste : nazisme comme réaction du capitalisme en crise.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -22608,10 +22755,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -22624,13 +22773,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique maximale : Lebensraum, Mitteleuropa — score élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -22656,10 +22807,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -22672,13 +22825,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance montante en retrait stratégique (isolationnisme, non-adhésion à la SDN).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -22704,10 +22859,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -22720,13 +22877,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Wilsonisme désavoué au plan interne, mais idéaux libéraux persistants.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -22752,10 +22911,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -22768,13 +22929,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance capitaliste centrale ; krach de 1929 et New Deal.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -22800,10 +22963,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "versailles_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -22816,13 +22981,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : tension isolationnisme/internationalisme.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -22848,10 +23015,11 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -22864,13 +23032,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Membre absent de la société internationale de la SDN.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -22896,10 +23066,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "versailles_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -22912,13 +23084,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : ségrégation, impérialisme informel.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -22944,10 +23118,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -22960,13 +23136,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique hémisphérique (doctrine Monroe), puissance navale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -22992,10 +23170,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -23008,13 +23188,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance montante en retrait stratégique (isolationnisme, non-adhésion à la SDN).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -23040,10 +23222,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -23056,13 +23240,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Wilsonisme désavoué au plan interne, mais idéaux libéraux persistants.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -23088,10 +23274,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -23104,13 +23292,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance capitaliste centrale ; krach de 1929 et New Deal.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -23301,10 +23491,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -23317,13 +23509,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique hémisphérique (doctrine Monroe), puissance navale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -23404,10 +23598,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -23420,13 +23616,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Wilsonisme désavoué au plan interne, mais idéaux libéraux persistants.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -23452,10 +23650,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -23468,13 +23668,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance capitaliste centrale ; krach de 1929 et New Deal.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -23665,10 +23867,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -23681,13 +23885,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique hémisphérique (doctrine Monroe), puissance navale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -23713,10 +23919,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -23729,13 +23937,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance isolée cherchant la sécurité (sécurité collective puis pacte germano-soviétique 1939).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -23761,10 +23970,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -23777,13 +23988,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Rejet de l'ordre libéral, entrée tardive à la SDN (1934).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -23809,10 +24021,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -23825,13 +24039,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "État socialiste et Komintern ; marxisme-léninisme d'État.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -23857,10 +24072,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "versailles_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -23873,13 +24090,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : identité révolutionnaire, 'socialisme dans un seul pays'.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -23905,10 +24123,11 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -23921,13 +24140,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Membre tardif et réticent de la société internationale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -23953,10 +24173,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "versailles_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -23969,13 +24191,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : collectivisations, répressions.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -24001,10 +24224,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -24017,13 +24242,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique défensive continentale, glacis.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -24049,10 +24275,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -24065,13 +24293,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance isolée cherchant la sécurité (sécurité collective puis pacte germano-soviétique 1939).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -24097,10 +24326,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -24113,13 +24344,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Rejet de l'ordre libéral, entrée tardive à la SDN (1934).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -24145,10 +24377,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -24161,13 +24395,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "État socialiste et Komintern ; marxisme-léninisme d'État.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -24358,10 +24593,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -24374,13 +24611,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique défensive continentale, glacis.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -24461,10 +24699,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -24477,13 +24717,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Rejet de l'ordre libéral, entrée tardive à la SDN (1934).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -24509,10 +24750,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -24525,13 +24768,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "État socialiste et Komintern ; marxisme-léninisme d'État.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -24722,10 +24966,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -24738,13 +24984,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique défensive continentale, glacis.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -24770,10 +25017,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -24786,13 +25035,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissances révisionnistes : Éthiopie (Italie), Mandchourie et Chine (Japon).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -24818,10 +25069,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -24834,13 +25087,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Rejet de l'ordre libéral de Versailles.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -24866,10 +25121,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -24882,13 +25139,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Fascismes comme expressions du capitalisme autoritaire.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -24914,10 +25173,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "versailles_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -24930,13 +25191,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : nationalismes impériaux.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -24962,10 +25225,11 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -24978,13 +25242,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Sortie de la société internationale (retrait de la SDN).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -25010,10 +25276,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "versailles_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -25026,13 +25294,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : impérialismes racialisés (Éthiopie, Asie).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -25058,10 +25328,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -25074,13 +25346,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique d'expansion : empire italien, sphère japonaise — score élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -25106,10 +25380,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -25122,13 +25398,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissances révisionnistes : Éthiopie (Italie), Mandchourie et Chine (Japon).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -25154,10 +25432,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -25170,13 +25450,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Rejet de l'ordre libéral de Versailles.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -25202,10 +25484,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -25218,13 +25502,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Fascismes comme expressions du capitalisme autoritaire.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -25415,10 +25701,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -25431,13 +25719,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique d'expansion : empire italien, sphère japonaise — score élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -25518,10 +25808,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -25534,13 +25826,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Rejet de l'ordre libéral de Versailles.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -25566,10 +25860,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -25582,13 +25878,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Fascismes comme expressions du capitalisme autoritaire.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -25779,10 +26077,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -25795,13 +26095,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique d'expansion : empire italien, sphère japonaise — score élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -25827,10 +26129,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -25843,13 +26147,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Espaces dominés, faiblement autonomes.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -25875,10 +26180,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -25891,13 +26198,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Système des mandats, rhétorique libérale ambivalente.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -25923,10 +26231,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -25939,13 +26249,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Exploitation coloniale, périphérie du capitalisme impérial.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -25971,10 +26282,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "versailles_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -25987,13 +26300,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : éveil des nationalismes anticoloniaux.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -26019,10 +26333,11 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -26035,13 +26350,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Hiérarchie impériale et 'standard de civilisation'.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -26067,10 +26383,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "versailles_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -26083,13 +26401,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Foyer des lectures postcoloniales : domination, premières révoltes — score critique élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -26115,10 +26434,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -26131,13 +26452,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Enjeu géopolitique des empires (ressources, bases).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -26163,10 +26485,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -26179,13 +26503,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Espaces dominés, faiblement autonomes.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -26211,10 +26536,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -26227,13 +26554,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Système des mandats, rhétorique libérale ambivalente.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -26259,10 +26587,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -26275,13 +26605,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Exploitation coloniale, périphérie du capitalisme impérial.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -26472,10 +26803,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -26488,13 +26821,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Enjeu géopolitique des empires (ressources, bases).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -26575,10 +26909,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -26591,13 +26927,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Système des mandats, rhétorique libérale ambivalente.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -26623,10 +26960,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -26639,13 +26978,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Exploitation coloniale, périphérie du capitalisme impérial.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -26836,10 +27176,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -26852,13 +27194,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Enjeu géopolitique des empires (ressources, bases).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -26884,10 +27227,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -26900,13 +27245,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Sécurité collective minée par les rapports de force (échecs en Mandchourie, Éthiopie).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -26932,10 +27278,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -26948,13 +27296,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Incarnation institutionnelle du projet libéral et de la sécurité collective.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -26980,10 +27329,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -26996,13 +27347,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture critique : 'club des vainqueurs' et de l'ordre capitaliste.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -27028,10 +27380,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "versailles_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -27044,13 +27398,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : norme de sécurité collective et d'autodétermination.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -27076,10 +27431,11 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -27092,13 +27448,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Première organisation universelle de la société internationale — english_school élevé.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -27124,10 +27481,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "versailles_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -27140,13 +27499,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : système des mandats, exclusion du Sud.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -27172,10 +27532,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -27188,13 +27550,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Cadre géopolitique du statu quo de Versailles.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -27220,10 +27583,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -27236,13 +27601,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Sécurité collective minée par les rapports de force (échecs en Mandchourie, Éthiopie).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -27268,10 +27634,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -27284,13 +27652,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Incarnation institutionnelle du projet libéral et de la sécurité collective.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -27316,10 +27685,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -27332,13 +27703,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture critique : 'club des vainqueurs' et de l'ordre capitaliste.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -27529,10 +27901,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -27545,13 +27919,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Cadre géopolitique du statu quo de Versailles.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -27632,10 +28007,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -27648,13 +28025,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Incarnation institutionnelle du projet libéral et de la sécurité collective.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -27680,10 +28058,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -27696,13 +28076,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture critique : 'club des vainqueurs' et de l'ordre capitaliste.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -27893,10 +28274,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -27909,13 +28292,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Cadre géopolitique du statu quo de Versailles.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -27941,10 +28325,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -27957,13 +28343,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Désordre économique affaiblissant les puissances (Grande Dépression).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -27989,10 +28376,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -28005,13 +28394,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Ordre commercial libéral en crise (protectionnisme, étalon-or).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -28037,10 +28427,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -28053,13 +28445,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Crise du capitalisme mondial (1929) — lecture marxiste forte.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -28085,10 +28478,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "versailles_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -28101,13 +28496,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : effondrement de la confiance économique.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -28133,10 +28529,11 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -28149,13 +28546,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Échec de la coopération économique internationale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -28181,10 +28579,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "versailles_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -28197,13 +28597,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : coûts sociaux mondiaux de la crise.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -28229,10 +28630,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -28245,13 +28648,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géoéconomie de la fragmentation (blocs monétaires, autarcie).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -28277,10 +28681,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -28293,13 +28699,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Désordre économique affaiblissant les puissances (Grande Dépression).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -28325,10 +28732,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -28341,13 +28750,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Ordre commercial libéral en crise (protectionnisme, étalon-or).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -28373,10 +28783,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -28389,13 +28801,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Crise du capitalisme mondial (1929) — lecture marxiste forte.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -28586,10 +28999,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -28602,13 +29017,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géoéconomie de la fragmentation (blocs monétaires, autarcie).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -28689,10 +29105,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
         "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -28705,13 +29123,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Ordre commercial libéral en crise (protectionnisme, étalon-or).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -28737,10 +29156,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -28753,13 +29174,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Crise du capitalisme mondial (1929) — lecture marxiste forte.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -28950,10 +29372,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -28966,13 +29390,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géoéconomie de la fragmentation (blocs monétaires, autarcie).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
