@@ -1,24 +1,24 @@
 {
   "audited_at": "2026-05-24",
   "active_scores": 1549,
-  "sourced": 165,
-  "seed": 1384,
+  "sourced": 231,
+  "seed": 1318,
   "by_period": {
     "1815_1848": {
       "sourced": 10,
       "seed": 80
     },
     "1848_1871": {
-      "sourced": 0,
-      "seed": 11
+      "sourced": 11,
+      "seed": 0
     },
     "1871_1914": {
       "sourced": 11,
       "seed": 110
     },
     "1914_1919": {
-      "sourced": 0,
-      "seed": 13
+      "sourced": 13,
+      "seed": 0
     },
     "1919_1939": {
       "sourced": 14,
@@ -45,12 +45,12 @@
       "seed": 168
     },
     "2001_2008": {
-      "sourced": 0,
-      "seed": 21
+      "sourced": 21,
+      "seed": 0
     },
     "2008_2014": {
-      "sourced": 0,
-      "seed": 21
+      "sourced": 21,
+      "seed": 0
     },
     "2014_2022": {
       "sourced": 21,

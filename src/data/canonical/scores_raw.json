@@ -1108,11 +1108,13 @@
         }
       },
       "evidence_basis": [
-        "revolutions_1848",
         "national_unifications",
         "crimean_war_balance"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kissinger_1957_world_restored"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -1125,11 +1127,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour realism dans 1848_1871, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Effondrement du Concert, Realpolitik et guerres d'unification ; l'équilibre se recompose par la force.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la lecture réaliste/géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -1155,11 +1158,11 @@
         }
       },
       "evidence_basis": [
-        "revolutions_1848",
-        "national_unifications",
-        "crimean_war_balance"
+        "revolutions_1848"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "hobsbawm_1975_age_capital"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -1172,11 +1175,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour liberalism dans 1848_1871, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Révolutions libérales de 1848 (échouées), nationalisme, libre-échange (Cobden).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Réalité minoritaire et réprimée."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -1202,11 +1206,11 @@
         }
       },
       "evidence_basis": [
-        "revolutions_1848",
-        "national_unifications",
-        "crimean_war_balance"
+        "revolutions_1848"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "hobsbawm_1975_age_capital"
+      ],
       "confidence": {
         "label": "medium",
         "internal_score": 53.9,
@@ -1219,11 +1223,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1848_1871, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Manifeste (1848), Première Internationale (1864), émergence de la lutte des classes.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Part faible, en émergence."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -1249,11 +1254,11 @@
         }
       },
       "evidence_basis": [
-        "revolutions_1848",
-        "national_unifications",
-        "crimean_war_balance"
+        "national_unifications"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -1266,11 +1271,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour constructivism dans 1848_1871, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Lecture rétrospective : nationalisme comme identité et source de légitimité.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Usage rétrospectif assumé (école non encore émergée)."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -1296,11 +1302,11 @@
         }
       },
       "evidence_basis": [
-        "revolutions_1848",
-        "national_unifications",
         "crimean_war_balance"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -1313,11 +1319,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour english_school dans 1848_1871, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Lecture rétrospective : érosion de la société internationale du Concert.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Usage rétrospectif assumé (école non encore émergée)."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -1343,11 +1350,11 @@
         }
       },
       "evidence_basis": [
-        "revolutions_1848",
-        "national_unifications",
-        "crimean_war_balance"
+        "revolutions_1848"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "medium",
         "internal_score": 53.9,
@@ -1360,11 +1367,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 1848_1871, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Lecture rétrospective : expansion coloniale et question sociale de 1848.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Usage rétrospectif assumé (école non encore émergée)."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -1390,11 +1398,13 @@
         }
       },
       "evidence_basis": [
-        "revolutions_1848",
         "national_unifications",
         "crimean_war_balance"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kissinger_1957_world_restored"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -1407,11 +1417,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1848_1871, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Unifications par le 'fer et le sang', Realpolitik territoriale, géopolitique de Crimée.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la lecture réaliste/géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -1437,11 +1448,12 @@
         }
       },
       "evidence_basis": [
-        "revolutions_1848",
-        "national_unifications",
-        "crimean_war_balance"
+        "national_unifications"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kissinger_1957_world_restored"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -1454,11 +1466,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour realism dans 1848_1871, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Realpolitik bismarckienne comme doctrine effective.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la lecture réaliste/géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -1484,11 +1497,11 @@
         }
       },
       "evidence_basis": [
-        "revolutions_1848",
-        "national_unifications",
-        "crimean_war_balance"
+        "revolutions_1848"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "hobsbawm_1975_age_capital"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -1501,11 +1514,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour liberalism dans 1848_1871, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Nationalisme libéral, idéaux de 1848, doctrine du libre-échange.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Doctrine contestataire, réprimée."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -1531,11 +1545,11 @@
         }
       },
       "evidence_basis": [
-        "revolutions_1848",
-        "national_unifications",
-        "crimean_war_balance"
+        "revolutions_1848"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "hobsbawm_1975_age_capital"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -1548,11 +1562,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1848_1871, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine socialiste naissante : Manifeste (1848), Première Internationale.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Sans pouvoir d'État."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -1740,11 +1755,11 @@
         }
       },
       "evidence_basis": [
-        "revolutions_1848",
-        "national_unifications",
-        "crimean_war_balance"
+        "national_unifications"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -1757,11 +1772,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1848_1871, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine d'unification territoriale ('fer et sang'), raison d'État.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la lecture réaliste/géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -3243,11 +3259,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_one_total_war",
-        "empire_collapse_1918",
-        "wilsonian_moment_1919"
+        "world_war_one_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "clark_2012_sleepwalkers",
+        "taylor_1954_struggle_mastery"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -3260,11 +3277,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour realism dans 1914_1919, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Guerre de grande puissance et effondrement du système d'alliances en guerre totale.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la lecture réaliste/géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -3290,11 +3308,11 @@
         }
       },
       "evidence_basis": [
-        "world_war_one_total_war",
-        "empire_collapse_1918",
         "wilsonian_moment_1919"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -3307,11 +3325,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour liberalism dans 1914_1919, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Moment wilsonien : projet de SDN, autodétermination en fin de conflit.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Surtout projeté vers l'après-guerre."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -3338,10 +3357,11 @@
       },
       "evidence_basis": [
         "world_war_one_total_war",
-        "empire_collapse_1918",
-        "wilsonian_moment_1919"
+        "empire_collapse_1918"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -3354,11 +3374,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1914_1919, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Guerre impérialiste (Lénine 1917), révolution russe de 1917, crise du capitalisme.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Part notable, structurelle."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -3384,11 +3405,11 @@
         }
       },
       "evidence_basis": [
-        "world_war_one_total_war",
-        "empire_collapse_1918",
         "wilsonian_moment_1919"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -3401,11 +3422,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour constructivism dans 1914_1919, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Lecture rétrospective : nationalisme et norme d'autodétermination (Wilson).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Usage rétrospectif assumé (école non encore émergée)."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -3431,11 +3453,11 @@
         }
       },
       "evidence_basis": [
-        "world_war_one_total_war",
-        "empire_collapse_1918",
-        "wilsonian_moment_1919"
+        "world_war_one_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "medium",
         "internal_score": 53.9,
@@ -3448,11 +3470,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour english_school dans 1914_1919, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Lecture rétrospective : effondrement de la société des États.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Usage rétrospectif assumé (école non encore émergée)."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -3478,11 +3501,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_one_total_war",
-        "empire_collapse_1918",
-        "wilsonian_moment_1919"
+        "empire_collapse_1918"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -3495,11 +3519,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 1914_1919, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Lecture rétrospective : effondrement impérial, troupes coloniales, ordre racialisé.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Usage rétrospectif assumé (école non encore émergée)."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -3526,10 +3551,12 @@
       },
       "evidence_basis": [
         "world_war_one_total_war",
-        "empire_collapse_1918",
-        "wilsonian_moment_1919"
+        "empire_collapse_1918"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "taylor_1954_struggle_mastery"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -3542,11 +3569,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1914_1919, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Catastrophe géopolitique : guerre d'alliances et territoriale, effondrement des empires.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la lecture réaliste/géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -3572,11 +3600,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_one_total_war",
-        "empire_collapse_1918",
-        "wilsonian_moment_1919"
+        "world_war_one_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "clark_2012_sleepwalkers",
+        "taylor_1954_struggle_mastery"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -3589,11 +3618,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour realism dans 1914_1919, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Politique de puissance, buts de guerre, équilibre.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la lecture réaliste/géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -3619,11 +3649,11 @@
         }
       },
       "evidence_basis": [
-        "world_war_one_total_war",
-        "empire_collapse_1918",
         "wilsonian_moment_1919"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -3636,11 +3666,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour liberalism dans 1914_1919, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Wilsonisme : Quatorze Points, autodétermination, projet de SDN.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Doctrine d'après-guerre."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -3666,11 +3697,11 @@
         }
       },
       "evidence_basis": [
-        "world_war_one_total_war",
-        "empire_collapse_1918",
-        "wilsonian_moment_1919"
+        "empire_collapse_1918"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -3683,11 +3714,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1914_1919, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine bolchevique, opposition anti-impérialiste à la guerre, révolution.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Montante via 1917."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -3875,11 +3907,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_one_total_war",
-        "empire_collapse_1918",
-        "wilsonian_moment_1919"
+        "world_war_one_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -3892,11 +3925,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1914_1919, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Buts de guerre impériaux, doctrine territoriale (Mitteleuropa).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la lecture réaliste/géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -4030,11 +4064,11 @@
         }
       },
       "evidence_basis": [
-        "world_war_one_total_war",
-        "empire_collapse_1918",
-        "wilsonian_moment_1919"
+        "world_war_one_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -4047,11 +4081,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1914_1919, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Lénine, L'Impérialisme (1916/1917) : analyse politico-académique de référence.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Hors RI institutionnelles."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -4239,11 +4274,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_one_total_war",
-        "empire_collapse_1918",
-        "wilsonian_moment_1919"
+        "empire_collapse_1918"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -4256,11 +4292,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1914_1919, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Geopolitik et théorie navale ; Mackinder (Democratic Ideals, 1919).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Statut académique hétérogène."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10583,11 +10620,12 @@
         }
       },
       "evidence_basis": [
-        "september_11_and_war_on_terror",
-        "iraq_war_2003",
-        "security_exceptionalism_2000s"
+        "iraq_war_2003"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "mearsheimer_2018_great_delusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -10600,11 +10638,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour realism dans 2001_2008, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Primauté unipolaire et surextension en Irak ; critiques réalistes de la guerre.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la lecture réaliste/géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10630,11 +10669,12 @@
         }
       },
       "evidence_basis": [
-        "september_11_and_war_on_terror",
-        "iraq_war_2003",
-        "security_exceptionalism_2000s"
+        "september_11_and_war_on_terror"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "ikenberry_2011_liberal_leviathan"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -10647,11 +10687,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour liberalism dans 2001_2008, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Hégémonie libérale et promotion de la démocratie, fragilisées par l'unilatéralisme.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "En tension."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10677,11 +10718,11 @@
         }
       },
       "evidence_basis": [
-        "september_11_and_war_on_terror",
-        "iraq_war_2003",
-        "security_exceptionalism_2000s"
+        "iraq_war_2003"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -10694,11 +10735,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 2001_2008, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Critiques de l'impérialisme et du pétrole comme moteur de la guerre.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Lecture IPE."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10724,11 +10766,12 @@
         }
       },
       "evidence_basis": [
-        "september_11_and_war_on_terror",
-        "iraq_war_2003",
         "security_exceptionalism_2000s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "wendt_1999_social_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -10741,11 +10784,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour constructivism dans 2001_2008, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Sécuritisation, cadrage identitaire de la 'guerre contre le terrorisme', normes d'exception.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Difficile à isoler de la puissance."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10771,11 +10815,11 @@
         }
       },
       "evidence_basis": [
-        "september_11_and_war_on_terror",
-        "iraq_war_2003",
-        "security_exceptionalism_2000s"
+        "iraq_war_2003"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -10788,11 +10832,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour english_school dans 2001_2008, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Société internationale contestée, légitimité de l'intervention, ONU contournée.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la lecture réaliste/géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10818,11 +10863,12 @@
         }
       },
       "evidence_basis": [
-        "september_11_and_war_on_terror",
-        "iraq_war_2003",
         "security_exceptionalism_2000s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "tickner_1992_gender_ir"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -10835,11 +10881,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 2001_2008, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Critique de la sécuritisation, orientalisme, logiques racialisées et genrées de la guerre.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Part notable."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10865,11 +10912,12 @@
         }
       },
       "evidence_basis": [
-        "september_11_and_war_on_terror",
-        "iraq_war_2003",
-        "security_exceptionalism_2000s"
+        "iraq_war_2003"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "mearsheimer_2018_great_delusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -10882,11 +10930,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 2001_2008, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Géopolitique pétrolière, Moyen-Orient, bases et stratégie de primauté.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la lecture réaliste/géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10912,11 +10961,12 @@
         }
       },
       "evidence_basis": [
-        "september_11_and_war_on_terror",
-        "iraq_war_2003",
-        "security_exceptionalism_2000s"
+        "iraq_war_2003"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "kissinger_1994_diplomacy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -10929,11 +10979,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour realism dans 2001_2008, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine de primauté et de préemption ; réalistes divisés.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la lecture réaliste/géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10959,11 +11010,11 @@
         }
       },
       "evidence_basis": [
-        "september_11_and_war_on_terror",
-        "iraq_war_2003",
-        "security_exceptionalism_2000s"
+        "september_11_and_war_on_terror"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -10976,11 +11027,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour liberalism dans 2001_2008, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Promotion de la démocratie, 'freedom agenda', interventionnisme libéral.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Vernis libéral d'une doctrine de puissance."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11006,11 +11058,11 @@
         }
       },
       "evidence_basis": [
-        "september_11_and_war_on_terror",
-        "iraq_war_2003",
-        "security_exceptionalism_2000s"
+        "iraq_war_2003"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -11023,11 +11075,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 2001_2008, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Mouvements anti-guerre et anti-impérialistes, altermondialisme.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Doctrine contestataire."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11053,11 +11106,11 @@
         }
       },
       "evidence_basis": [
-        "september_11_and_war_on_terror",
-        "iraq_war_2003",
         "security_exceptionalism_2000s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -11070,11 +11123,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour constructivism dans 2001_2008, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine de sécuritisation, 'guerre contre le terrorisme' comme projet identitaire.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Lecture en partie extrapolée."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11100,11 +11154,12 @@
         }
       },
       "evidence_basis": [
-        "september_11_and_war_on_terror",
-        "iraq_war_2003",
-        "security_exceptionalism_2000s"
+        "iraq_war_2003"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -11117,11 +11172,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour english_school dans 2001_2008, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Débats intervention/souveraineté, R2P (2005).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la lecture réaliste/géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11147,11 +11203,12 @@
         }
       },
       "evidence_basis": [
-        "september_11_and_war_on_terror",
-        "iraq_war_2003",
         "security_exceptionalism_2000s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "tickner_1992_gender_ir"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -11164,11 +11221,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 2001_2008, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Critiques postcoloniales et féministes, mobilisations anti-guerre.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Influence contestataire."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11194,11 +11252,11 @@
         }
       },
       "evidence_basis": [
-        "september_11_and_war_on_terror",
-        "iraq_war_2003",
-        "security_exceptionalism_2000s"
+        "iraq_war_2003"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -11211,11 +11269,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 2001_2008, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Préemption, Grand Moyen-Orient, doctrine de sécurité énergétique.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la lecture réaliste/géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11241,11 +11300,12 @@
         }
       },
       "evidence_basis": [
-        "september_11_and_war_on_terror",
-        "iraq_war_2003",
-        "security_exceptionalism_2000s"
+        "iraq_war_2003"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "mearsheimer_2018_great_delusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -11258,11 +11318,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour realism dans 2001_2008, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Critique réaliste de l'Irak (Mearsheimer/Walt), débats sur l'unipolarité.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Concurrencé par le constructivisme."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11288,11 +11349,12 @@
         }
       },
       "evidence_basis": [
-        "september_11_and_war_on_terror",
-        "iraq_war_2003",
-        "security_exceptionalism_2000s"
+        "september_11_and_war_on_terror"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "ikenberry_2011_liberal_leviathan"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -11305,11 +11367,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour liberalism dans 2001_2008, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Recherche sur l'ordre libéral (Ikenberry).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Centrée anglo-américaine."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11335,11 +11398,11 @@
         }
       },
       "evidence_basis": [
-        "september_11_and_war_on_terror",
-        "iraq_war_2003",
-        "security_exceptionalism_2000s"
+        "iraq_war_2003"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -11352,11 +11415,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 2001_2008, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "IPE critique, débats sur l'Empire et l'impérialisme.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "En marge du mainstream."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11382,11 +11446,13 @@
         }
       },
       "evidence_basis": [
-        "september_11_and_war_on_terror",
-        "iraq_war_2003",
         "security_exceptionalism_2000s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "buzan_2004_international_world",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -11399,11 +11465,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour constructivism dans 2001_2008, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Théorie de la sécuritisation (École de Copenhague, Buzan) ; apogée constructiviste.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Score élevé justifié."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11429,11 +11496,12 @@
         }
       },
       "evidence_basis": [
-        "september_11_and_war_on_terror",
-        "iraq_war_2003",
-        "security_exceptionalism_2000s"
+        "iraq_war_2003"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -11446,11 +11514,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour english_school dans 2001_2008, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Travaux sur R2P et société internationale.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Influence modérée."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11476,11 +11545,12 @@
         }
       },
       "evidence_basis": [
-        "september_11_and_war_on_terror",
-        "iraq_war_2003",
         "security_exceptionalism_2000s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "tickner_1992_gender_ir"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -11493,11 +11563,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 2001_2008, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "RI critiques, postcoloniales et féministes fortes.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Champ en expansion."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11523,11 +11594,11 @@
         }
       },
       "evidence_basis": [
-        "september_11_and_war_on_terror",
-        "iraq_war_2003",
-        "security_exceptionalism_2000s"
+        "iraq_war_2003"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -11540,11 +11611,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 2001_2008, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Géopolitique critique et géoéconomie.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Statut hétérogène."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11570,11 +11642,12 @@
         }
       },
       "evidence_basis": [
-        "global_financial_crisis_2008",
-        "arab_uprisings_2011",
         "crimea_donbass_2014"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2018_great_delusion",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -11587,11 +11660,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour realism dans 2008_2014, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Déplacements de puissance, montée de la Chine, retour de la géopolitique (Crimée 2014).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la lecture réaliste/géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11617,11 +11691,11 @@
         }
       },
       "evidence_basis": [
-        "global_financial_crisis_2008",
-        "arab_uprisings_2011",
-        "crimea_donbass_2014"
+        "global_financial_crisis_2008"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2011_liberal_leviathan"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -11634,11 +11708,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour liberalism dans 2008_2014, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Ordre libéral sous tension après la crise, mais adaptation (G20).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "En repli relatif."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11664,11 +11739,11 @@
         }
       },
       "evidence_basis": [
-        "global_financial_crisis_2008",
-        "arab_uprisings_2011",
-        "crimea_donbass_2014"
+        "global_financial_crisis_2008"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -11681,11 +11756,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 2008_2014, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Crise financière mondiale comme crise du capitalisme, inégalités, Occupy.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Lecture IPE forte."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11711,11 +11787,12 @@
         }
       },
       "evidence_basis": [
-        "global_financial_crisis_2008",
-        "arab_uprisings_2011",
-        "crimea_donbass_2014"
+        "arab_uprisings_2011"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "wendt_1999_social_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -11728,11 +11805,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour constructivism dans 2008_2014, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Printemps arabes : diffusion de normes et d'identités, enjeux de légitimité.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Difficile à isoler."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11758,11 +11836,11 @@
         }
       },
       "evidence_basis": [
-        "global_financial_crisis_2008",
-        "arab_uprisings_2011",
-        "crimea_donbass_2014"
+        "arab_uprisings_2011"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -11775,11 +11853,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour english_school dans 2008_2014, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Ordre contesté, R2P (Libye 2011).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la lecture réaliste/géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11805,11 +11884,12 @@
         }
       },
       "evidence_basis": [
-        "global_financial_crisis_2008",
-        "arab_uprisings_2011",
-        "crimea_donbass_2014"
+        "arab_uprisings_2011"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "acharya_2014_end_american_world_order"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -11822,11 +11902,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 2008_2014, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Critique de la crise, soulèvements postcoloniaux, lectures décoloniales et de genre.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Part notable."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11852,11 +11933,12 @@
         }
       },
       "evidence_basis": [
-        "global_financial_crisis_2008",
-        "arab_uprisings_2011",
         "crimea_donbass_2014"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2018_great_delusion",
+        "cooley_nexon_2020_exit_hegemony"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -11869,11 +11951,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 2008_2014, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Retour de la géopolitique : Crimée/Donbass 2014, énergie, pivot vers l'Asie.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la lecture réaliste/géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11899,11 +11982,12 @@
         }
       },
       "evidence_basis": [
-        "global_financial_crisis_2008",
-        "arab_uprisings_2011",
         "crimea_donbass_2014"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2018_great_delusion",
+        "kissinger_1994_diplomacy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -11916,11 +12000,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour realism dans 2008_2014, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Conscience des déplacements de puissance, pivot asiatique, doctrine russe de la sphère.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la lecture réaliste/géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11946,11 +12031,11 @@
         }
       },
       "evidence_basis": [
-        "global_financial_crisis_2008",
-        "arab_uprisings_2011",
-        "crimea_donbass_2014"
+        "global_financial_crisis_2008"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2011_liberal_leviathan"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -11963,11 +12048,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour liberalism dans 2008_2014, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Défense de l'ordre libéral, R2P, gestion multilatérale de crise (G20).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "En tension."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11993,11 +12079,11 @@
         }
       },
       "evidence_basis": [
-        "global_financial_crisis_2008",
-        "arab_uprisings_2011",
-        "crimea_donbass_2014"
+        "global_financial_crisis_2008"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -12010,11 +12096,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 2008_2014, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Mouvements anti-austérité et anti-néolibéraux, alternative BRICS.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Doctrine contestataire."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12040,11 +12127,11 @@
         }
       },
       "evidence_basis": [
-        "global_financial_crisis_2008",
-        "arab_uprisings_2011",
-        "crimea_donbass_2014"
+        "arab_uprisings_2011"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -12057,11 +12144,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour constructivism dans 2008_2014, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Diffusion identitaire du Printemps arabe, norme de R2P.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Lecture en partie extrapolée."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12087,11 +12175,12 @@
         }
       },
       "evidence_basis": [
-        "global_financial_crisis_2008",
-        "arab_uprisings_2011",
-        "crimea_donbass_2014"
+        "arab_uprisings_2011"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -12104,11 +12193,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour english_school dans 2008_2014, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Débats R2P, intervention/souveraineté (Libye).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la lecture réaliste/géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12134,11 +12224,12 @@
         }
       },
       "evidence_basis": [
-        "global_financial_crisis_2008",
-        "arab_uprisings_2011",
-        "crimea_donbass_2014"
+        "arab_uprisings_2011"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "acharya_2014_end_american_world_order"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -12151,11 +12242,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 2008_2014, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Mouvements de soulèvement, agendas postcoloniaux et féministes.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Influence contestataire."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12181,11 +12273,11 @@
         }
       },
       "evidence_basis": [
-        "global_financial_crisis_2008",
-        "arab_uprisings_2011",
         "crimea_donbass_2014"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -12198,11 +12290,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 2008_2014, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine de sphère (Crimée), énergie, rééquilibrage asiatique.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la lecture réaliste/géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12228,11 +12321,12 @@
         }
       },
       "evidence_basis": [
-        "global_financial_crisis_2008",
-        "arab_uprisings_2011",
         "crimea_donbass_2014"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2018_great_delusion",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -12245,11 +12339,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour realism dans 2008_2014, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Débats sur la transition/le déclin de puissance, réalisme offensif.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Concurrencé par le constructivisme."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12275,11 +12370,11 @@
         }
       },
       "evidence_basis": [
-        "global_financial_crisis_2008",
-        "arab_uprisings_2011",
-        "crimea_donbass_2014"
+        "global_financial_crisis_2008"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2011_liberal_leviathan"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -12292,11 +12387,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour liberalism dans 2008_2014, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Recherche sur la résilience/crise de l'ordre libéral.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Centrée anglo-américaine."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12322,11 +12418,11 @@
         }
       },
       "evidence_basis": [
-        "global_financial_crisis_2008",
-        "arab_uprisings_2011",
-        "crimea_donbass_2014"
+        "global_financial_crisis_2008"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -12339,11 +12435,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 2008_2014, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Renouveau de l'IPE critique après 2008, système-monde.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "En marge du mainstream."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12369,11 +12466,12 @@
         }
       },
       "evidence_basis": [
-        "global_financial_crisis_2008",
-        "arab_uprisings_2011",
-        "crimea_donbass_2014"
+        "arab_uprisings_2011"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -12386,11 +12484,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour constructivism dans 2008_2014, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Constructivisme dans le courant principal : normes, pratiques.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Score élevé justifié."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12416,11 +12515,12 @@
         }
       },
       "evidence_basis": [
-        "global_financial_crisis_2008",
-        "arab_uprisings_2011",
-        "crimea_donbass_2014"
+        "arab_uprisings_2011"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -12433,11 +12533,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour english_school dans 2008_2014, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Travaux R2P et société internationale.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Influence modérée."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12463,11 +12564,12 @@
         }
       },
       "evidence_basis": [
-        "global_financial_crisis_2008",
-        "arab_uprisings_2011",
-        "crimea_donbass_2014"
+        "arab_uprisings_2011"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "acharya_2014_end_american_world_order",
+        "tickner_1992_gender_ir"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -12480,11 +12582,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 2008_2014, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "'Global IR', RI décoloniales et féminisme très présents.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Champ majeur."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12510,11 +12613,11 @@
         }
       },
       "evidence_basis": [
-        "global_financial_crisis_2008",
-        "arab_uprisings_2011",
         "crimea_donbass_2014"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -12527,11 +12630,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 2008_2014, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Géoéconomie et géopolitique critique.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Statut hétérogène."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
