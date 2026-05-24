@@ -2239,7 +2239,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "realism",
-      "raw_score": 92,
+      "raw_score": 88,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 92,
@@ -2275,8 +2275,7 @@
       "maturity_status": "draft",
       "justification_fr": "Puissance réintégrée au Concert (1818) puis tentée de réviser l'ordre de Vienne.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -2291,7 +2290,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "liberalism",
-      "raw_score": 22,
+      "raw_score": 35,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 22,
@@ -2326,8 +2325,7 @@
       "maturity_status": "draft",
       "justification_fr": "Foyer des révolutions libérales (1830, 1848), libéralisme contesté.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -2377,8 +2375,7 @@
       "maturity_status": "draft",
       "justification_fr": "Lecture rétrospective (score quasi nul) ; premiers socialismes.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -2393,7 +2390,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "constructivism",
-      "raw_score": 30,
+      "raw_score": 35,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 30,
@@ -2428,8 +2425,7 @@
       "maturity_status": "draft",
       "justification_fr": "Lecture rétrospective : tension entre légitimisme et héritage révolutionnaire.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -2444,7 +2440,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "english_school",
-      "raw_score": 50,
+      "raw_score": 52,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 50,
@@ -2479,8 +2475,7 @@
       "maturity_status": "draft",
       "justification_fr": "Acteur central de la société internationale européenne.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -2495,7 +2490,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "critical_postcolonial_feminist",
-      "raw_score": 14,
+      "raw_score": 20,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 14,
@@ -2531,8 +2526,7 @@
       "maturity_status": "draft",
       "justification_fr": "Lecture rétrospective : second empire colonial naissant (Algérie, 1830).",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -2547,7 +2541,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 90,
+      "raw_score": 82,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 90,
@@ -2583,8 +2577,7 @@
       "maturity_status": "draft",
       "justification_fr": "Géopolitique : équilibre continental et expansion coloniale (Algérie).",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -2599,7 +2592,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "realism",
-      "raw_score": 88,
+      "raw_score": 82,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 88,
@@ -2635,8 +2628,7 @@
       "maturity_status": "draft",
       "justification_fr": "Puissance réintégrée au Concert (1818) puis tentée de réviser l'ordre de Vienne.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -2651,7 +2643,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "liberalism",
-      "raw_score": 20,
+      "raw_score": 32,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 20,
@@ -2686,8 +2678,7 @@
       "maturity_status": "draft",
       "justification_fr": "Foyer des révolutions libérales (1830, 1848), libéralisme contesté.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -2922,7 +2913,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 86,
+      "raw_score": 78,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 86,
@@ -2958,8 +2949,7 @@
       "maturity_status": "draft",
       "justification_fr": "Géopolitique : équilibre continental et expansion coloniale (Algérie).",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -5599,7 +5589,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "realism",
-      "raw_score": 92,
+      "raw_score": 88,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 92,
@@ -5635,8 +5625,7 @@
       "maturity_status": "draft",
       "justification_fr": "Puissance montante du Concert, membre de la Sainte-Alliance.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -5651,7 +5640,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "liberalism",
-      "raw_score": 22,
+      "raw_score": 20,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 22,
@@ -5686,8 +5675,7 @@
       "maturity_status": "draft",
       "justification_fr": "Conservatisme monarchique, libéralisme réprimé.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -5737,8 +5725,7 @@
       "maturity_status": "draft",
       "justification_fr": "Lecture rétrospective (score quasi nul).",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -5753,7 +5740,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "constructivism",
-      "raw_score": 30,
+      "raw_score": 32,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 30,
@@ -5788,8 +5775,7 @@
       "maturity_status": "draft",
       "justification_fr": "Lecture rétrospective : identité dynastique, germanité, Zollverein.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -5804,7 +5790,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "english_school",
-      "raw_score": 50,
+      "raw_score": 48,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 50,
@@ -5839,8 +5825,7 @@
       "maturity_status": "draft",
       "justification_fr": "Membre conservateur de la société internationale.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -5891,8 +5876,7 @@
       "maturity_status": "draft",
       "justification_fr": "Lecture rétrospective : ordre autoritaire.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -5907,7 +5891,7 @@
       "scope": "entity",
       "layer": "strategic_reality",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 90,
+      "raw_score": 84,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 90,
@@ -5943,8 +5927,7 @@
       "maturity_status": "draft",
       "justification_fr": "Géopolitique : union douanière (Zollverein), ambitions allemandes.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -5959,7 +5942,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "realism",
-      "raw_score": 88,
+      "raw_score": 82,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 88,
@@ -5995,8 +5978,7 @@
       "maturity_status": "draft",
       "justification_fr": "Puissance montante du Concert, membre de la Sainte-Alliance.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -6011,7 +5993,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "liberalism",
-      "raw_score": 20,
+      "raw_score": 18,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 20,
@@ -6046,8 +6028,7 @@
       "maturity_status": "draft",
       "justification_fr": "Conservatisme monarchique, libéralisme réprimé.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
@@ -6282,7 +6263,7 @@
       "scope": "entity",
       "layer": "political_doctrine",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 86,
+      "raw_score": 80,
       "criteria_scores": {
         "common_criteria": {
           "explanatory_power": 86,
@@ -6318,8 +6299,7 @@
       "maturity_status": "draft",
       "justification_fr": "Géopolitique : union douanière (Zollverein), ambitions allemandes.",
       "known_limits": [
-        "Score d'entité hérité du seed ; valeur comparative à affiner.",
-        "Profil seed partagé avec une entité proche : différenciation à affiner."
+        "Score recalibré pour différencier cette entité (profil seed initialement identique à une entité proche)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
