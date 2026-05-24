@@ -20,6 +20,7 @@
 - **Pipeline & CI** : modes `--check` (read-only) sur les trois audits ; scripts npm `check:data` (gardes hors ligne), `audit:refs` (réseau), `data:refresh` (passes mutantes à la demande). Workflow GitHub Actions complété (check:data + audit:refs avant build). Doc `implementation/BUILD_PIPELINE.md` réécrite (deux pistes : build déterministe / rafraîchissement).
 - **Re-sourçage des scores** : champ `calibration_status` (`seed`/`sourced`) ; rapport d'avancement `scripts/calibration_report.py` → `docs/CALIBRATION_STATUS.md`. **Les 1549 scores actifs (globaux + entités, 14 périodes) ont été re-sourcés (100 %)** : justifications analytiques réelles, références vérifiées, anti-anachronisme appliqué couche par couche.
 - **Recalibrage des profils d'entités dupliqués** : différenciation des valeurs `raw_score` des entités à profil seed identique au sein d'une même période (Chine vs URSS/USA/Russie, OTAN vs USA, UE vs institutions, etc.) sur les 9 périodes concernées. **0 cluster de profil dupliqué restant** dans l'atlas. `known_limits` mis à jour.
+- **CI** : bump des actions GitHub vers les versions sur Node.js 24 (`checkout@v6`, `setup-node@v6`, `setup-python@v6`, `configure-pages@v6`, `upload-pages-artifact@v5`, `deploy-pages@v5`), pour anticiper la dépréciation de Node 20 (2 juin 2026).
 
 ### Notes
 
