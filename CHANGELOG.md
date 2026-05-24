@@ -22,6 +22,7 @@
 - **Recalibrage des profils d'entités dupliqués** : différenciation des valeurs `raw_score` des entités à profil seed identique au sein d'une même période (Chine vs URSS/USA/Russie, OTAN vs USA, UE vs institutions, etc.) sur les 9 périodes concernées. **0 cluster de profil dupliqué restant** dans l'atlas. `known_limits` mis à jour.
 - **CI** : bump des actions GitHub vers les versions sur Node.js 24 (`checkout@v6`, `setup-node@v6`, `setup-python@v6`, `configure-pages@v6`, `upload-pages-artifact@v5`, `deploy-pages@v5`), pour anticiper la dépréciation de Node 20 (2 juin 2026).
 - **Cohérence des niveaux de confiance** : `anachronism_risk` des scores `strategic_reality` recalculé en fonction de l'écart à la disponibilité des idées (`political_doctrine_from`) — un usage rétrospectif d'une lentille moderne (constructivisme en 1815, etc.) porte désormais un risque élevé, les lentilles anciennes (réalisme, géopolitique) restant à risque bas. Cascade sur `internal_score` et `label` (formule officielle). 248 scores corrigés ; rétrospectif moyen 30 → 45.
+- **Cohérence `anachronism_risk` des scores rejetés** : les 445 scores rejetés pour anachronisme (`deprecated`, bloc `anachronism`) portaient un risque bas (~30) malgré leur statut. Recalcul d'un risque élevé (65–100, calé sur l'écart à l'émergence) + cascade `internal_score`/`label`. `anachronism_risk` est désormais cohérent sur toutes les couches et statuts (rejetés ~77, actifs doctrine/académique ~29).
 
 ### Notes
 
