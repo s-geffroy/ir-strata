@@ -8705,10 +8705,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -8721,13 +8723,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Première puissance mondiale : 'splendide isolement', équilibre européen, primauté navale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8753,10 +8756,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -8769,13 +8773,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Libre-échangisme et libéralisme impérial.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8801,10 +8806,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -8817,13 +8824,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Métropole impériale centrale du capitalisme mondial.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8849,10 +8857,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -8865,13 +8874,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : identité impériale, 'Pax Britannica'.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8897,10 +8907,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -8913,13 +8924,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Garante de la société internationale et du 'standard de civilisation'.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8945,10 +8957,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "bayly_2004_birth_modern_world"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -8961,13 +8975,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : domination coloniale mondiale, racialisation.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8993,10 +9008,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -9009,13 +9026,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique maritime maximale : routes, bases, contrôle des mers — score 100 justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9041,10 +9059,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -9057,13 +9077,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Première puissance mondiale : 'splendide isolement', équilibre européen, primauté navale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9089,10 +9110,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -9105,13 +9127,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Libre-échangisme et libéralisme impérial.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9137,10 +9160,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -9153,13 +9178,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Métropole impériale centrale du capitalisme mondial.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9350,10 +9376,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -9366,13 +9394,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique maritime maximale : routes, bases, contrôle des mers — score 100 justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9783,10 +9812,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -9799,13 +9830,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance montante bouleversant l'équilibre : Weltpolitik, course aux armements.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9831,10 +9864,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -9847,13 +9881,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Libéralisme limité sous l'Empire autoritaire.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9879,10 +9915,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -9895,13 +9933,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Capitalisme industriel dynamique ; forte social-démocratie (SPD).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9927,10 +9967,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -9943,13 +9984,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : nationalisme et quête de 'place au soleil'.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9975,10 +10018,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -9991,13 +10035,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Membre puissant mais perturbateur de la société internationale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10023,10 +10069,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "bayly_2004_birth_modern_world"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -10039,13 +10087,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : impérialisme tardif, colonies africaines.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10071,10 +10121,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -10087,13 +10139,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique maximale : Weltpolitik, navalisme (Tirpitz), Mitteleuropa — score 100 justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10119,10 +10173,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -10135,13 +10191,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance montante bouleversant l'équilibre : Weltpolitik, course aux armements.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10167,10 +10225,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -10183,13 +10242,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Libéralisme limité sous l'Empire autoritaire.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10215,10 +10276,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -10231,13 +10294,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Capitalisme industriel dynamique ; forte social-démocratie (SPD).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10428,10 +10493,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -10444,13 +10511,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique maximale : Weltpolitik, navalisme (Tirpitz), Mitteleuropa — score 100 justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10861,10 +10930,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -10877,13 +10948,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Grande puissance continentale en expansion ; rivalités (Grand Jeu, Balkans).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10909,10 +10982,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -10925,13 +10999,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Libéralisme faible sous l'autocratie tsariste.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10957,10 +11033,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -10973,13 +11051,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Industrialisation et montée du marxisme révolutionnaire (1905).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11005,10 +11085,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -11021,13 +11102,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : panslavisme, identité impériale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11053,10 +11136,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -11069,13 +11153,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Membre de la société internationale, conservatisme dynastique.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11101,10 +11187,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "bayly_2004_birth_modern_world"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -11117,13 +11205,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : empire multinational, expansion coloniale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11149,10 +11239,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -11165,13 +11257,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique continentale maximale : heartland, Balkans, Asie centrale — score 100 justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11197,10 +11291,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -11213,13 +11309,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Grande puissance continentale en expansion ; rivalités (Grand Jeu, Balkans).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11245,10 +11343,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -11261,13 +11360,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Libéralisme faible sous l'autocratie tsariste.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11293,10 +11394,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -11309,13 +11412,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Industrialisation et montée du marxisme révolutionnaire (1905).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11506,10 +11611,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -11522,13 +11629,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique continentale maximale : heartland, Balkans, Asie centrale — score 100 justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11939,10 +12048,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -11955,13 +12066,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance cherchant à contenir l'Allemagne (alliance franco-russe, Entente).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -11987,10 +12100,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -12003,13 +12117,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "République libérale, mais empire colonial.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12035,10 +12151,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -12051,13 +12169,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Capitalisme et mouvement ouvrier (syndicalisme, affaire Dreyfus).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12083,10 +12203,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -12099,13 +12220,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : revanche de 1871, identité républicaine.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12131,10 +12254,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -12147,13 +12271,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Acteur central de la société internationale européenne.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12179,10 +12305,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "bayly_2004_birth_modern_world"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -12195,13 +12323,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : second empire colonial, 'mission civilisatrice'.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12227,10 +12357,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -12243,13 +12375,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique : sécurité continentale et expansion coloniale (Afrique).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12275,10 +12409,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -12291,13 +12427,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance cherchant à contenir l'Allemagne (alliance franco-russe, Entente).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12323,10 +12461,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -12339,13 +12478,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "République libérale, mais empire colonial.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12371,10 +12512,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -12387,13 +12530,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Capitalisme et mouvement ouvrier (syndicalisme, affaire Dreyfus).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12584,10 +12729,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -12600,13 +12747,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique : sécurité continentale et expansion coloniale (Afrique).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13017,10 +13166,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -13033,13 +13184,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Espaces dominés, faiblement autonomes, théâtres du partage.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13065,10 +13217,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -13081,13 +13234,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Rhétorique civilisatrice libérale ambivalente.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13113,10 +13267,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -13129,13 +13285,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Périphérie de l'impérialisme capitaliste (Lénine) — marxisme élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13161,10 +13318,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -13177,13 +13335,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : premiers nationalismes anticoloniaux.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13209,10 +13368,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -13225,13 +13385,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Objet du 'standard de civilisation', hors société des égaux.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13257,10 +13418,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "bayly_2004_birth_modern_world"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -13273,13 +13436,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Haut impérialisme : partage de l'Afrique, racialisation — score critique le plus élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13305,10 +13469,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -13321,13 +13487,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Enjeu géopolitique du partage colonial — score élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13353,10 +13520,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -13369,13 +13538,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Espaces dominés, faiblement autonomes, théâtres du partage.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13401,10 +13571,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -13417,13 +13588,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Rhétorique civilisatrice libérale ambivalente.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13449,10 +13621,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -13465,13 +13639,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Périphérie de l'impérialisme capitaliste (Lénine) — marxisme élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13662,10 +13837,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -13678,13 +13855,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Enjeu géopolitique du partage colonial — score élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -14095,10 +14273,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -14111,13 +14291,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance dynastique fragile, enjeux balkaniques décisifs (1914).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -14143,10 +14324,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -14159,13 +14341,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Libéralisme limité, tensions nationalitaires.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -14191,10 +14374,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -14207,13 +14392,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Tensions sociales et nationales d'un empire multinational.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -14239,10 +14425,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -14255,13 +14442,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : crise des nationalités, légitimité dynastique.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -14287,10 +14475,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -14303,13 +14492,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Pilier conservateur de la société internationale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -14335,10 +14525,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "bayly_2004_birth_modern_world"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -14351,13 +14543,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : domination des nationalités.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -14383,10 +14576,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -14399,13 +14594,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique balkanique : 'poudrière', rivalité avec la Russie.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -14431,10 +14627,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -14447,13 +14645,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance dynastique fragile, enjeux balkaniques décisifs (1914).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -14479,10 +14678,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -14495,13 +14695,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Libéralisme limité, tensions nationalitaires.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -14527,10 +14728,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -14543,13 +14746,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Tensions sociales et nationales d'un empire multinational.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -14740,10 +14944,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -14756,13 +14962,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique balkanique : 'poudrière', rivalité avec la Russie.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -15173,10 +15380,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -15189,13 +15398,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance montante : guerre hispano-américaine (1898), émergence mondiale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -15221,10 +15432,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -15237,13 +15449,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "République libérale, doctrine de la 'porte ouverte'.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -15269,10 +15483,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -15285,13 +15501,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Capitalisme industriel dominant, âge des trusts.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -15317,10 +15535,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -15333,13 +15552,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : exceptionnalisme et 'destinée manifeste'.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -15365,10 +15586,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -15381,13 +15603,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Acteur émergent de la société internationale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -15413,10 +15637,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "bayly_2004_birth_modern_world"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -15429,13 +15655,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : impérialisme américain (Philippines, Caraïbes).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -15461,10 +15689,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -15477,13 +15707,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique navale (Mahan), hémisphère, Pacifique.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -15509,10 +15741,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -15525,13 +15759,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance montante : guerre hispano-américaine (1898), émergence mondiale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -15557,10 +15793,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -15573,13 +15810,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "République libérale, doctrine de la 'porte ouverte'.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -15605,10 +15844,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -15621,13 +15862,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Capitalisme industriel dominant, âge des trusts.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -15818,10 +16061,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -15834,13 +16079,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique navale (Mahan), hémisphère, Pacifique.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -16251,10 +16498,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -16267,13 +16516,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance montante : victoire sur la Russie (1905), modernisation Meiji.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -16299,10 +16550,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -16315,13 +16567,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Modernisation sélective, libéralisme limité.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -16347,10 +16601,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -16363,13 +16619,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Industrialisation capitaliste rapide.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -16395,10 +16653,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -16411,13 +16670,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : identité de modernisation et de grande puissance asiatique.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -16443,10 +16704,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -16459,13 +16721,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Admission dans la société internationale des grandes puissances.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -16491,10 +16755,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "bayly_2004_birth_modern_world"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -16507,13 +16773,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : impérialisme japonais (Corée, Taïwan).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -16539,10 +16807,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -16555,13 +16825,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique d'expansion régionale : Corée, Mandchourie — score 100 justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -16587,10 +16859,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -16603,13 +16877,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance montante : victoire sur la Russie (1905), modernisation Meiji.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -16635,10 +16911,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -16651,13 +16928,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Modernisation sélective, libéralisme limité.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -16683,10 +16962,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -16699,13 +16980,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Industrialisation capitaliste rapide.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -16896,10 +17179,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -16912,13 +17197,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique d'expansion régionale : Corée, Mandchourie — score 100 justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -17329,10 +17616,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -17345,13 +17634,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "'Homme malade de l'Europe' : déclin et enjeu des rivalités de puissance.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -17377,10 +17668,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -17393,13 +17685,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Tentatives de réforme (Jeunes-Turcs, 1908), libéralisme fragile.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -17425,10 +17719,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -17441,13 +17737,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Périphérie semi-coloniale du capitalisme européen.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -17473,10 +17771,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -17489,13 +17788,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : nationalismes et 'question d'Orient'.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -17521,10 +17822,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -17537,13 +17839,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Membre subordonné et contesté de la société internationale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -17569,10 +17873,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "bayly_2004_birth_modern_world"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -17585,13 +17891,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : semi-colonialisme, partage convoité.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -17617,10 +17925,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -17633,13 +17943,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique des détroits et du Moyen-Orient — score 100 justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -17665,10 +17977,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -17681,13 +17995,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "'Homme malade de l'Europe' : déclin et enjeu des rivalités de puissance.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -17713,10 +18029,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -17729,13 +18046,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Tentatives de réforme (Jeunes-Turcs, 1908), libéralisme fragile.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -17761,10 +18080,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -17777,13 +18098,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Périphérie semi-coloniale du capitalisme européen.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -17974,10 +18297,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -17990,13 +18315,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique des détroits et du Moyen-Orient — score 100 justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -18407,10 +18734,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -18423,13 +18752,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Enjeu stratégique de la puissance navale et du contrôle des communications.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -18455,10 +18786,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -18471,13 +18803,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Libre circulation commerciale, interdépendance maritime.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -18503,10 +18837,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -18519,13 +18855,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Infrastructure de l'économie capitaliste mondiale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -18551,10 +18889,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -18567,13 +18906,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : symboles de prestige naval.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -18599,10 +18940,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -18615,13 +18957,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Régulation coutumière du droit de la mer.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -18647,10 +18991,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "bayly_2004_birth_modern_world"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -18663,13 +19009,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture rétrospective : contrôle impérial des flux.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -18695,10 +19043,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -18711,13 +19061,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique maritime par excellence (Mahan) : Suez, détroits, charbonnages — score 100 justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -18743,10 +19095,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -18759,13 +19113,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Enjeu stratégique de la puissance navale et du contrôle des communications.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -18791,10 +19147,11 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "alliance_systems_pre_1914"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -18807,13 +19164,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Libre circulation commerciale, interdépendance maritime.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -18839,10 +19198,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1987_age_empire"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -18855,13 +19216,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Infrastructure de l'économie capitaliste mondiale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -19052,10 +19415,12 @@
         }
       },
       "evidence_basis": [
-        "imperial_partition_competition",
-        "naval_arms_race"
+        "imperial_partition_competition"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -19068,13 +19433,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géopolitique maritime par excellence (Mahan) : Suez, détroits, charbonnages — score 100 justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Profil seed partagé avec une entité proche : différenciation à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
