@@ -1504,7 +1504,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "liberalism",
-      "raw_score": 82.0,
+      "raw_score": 81.25,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -1548,7 +1548,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 66.1,
+      "raw_score": 55.0,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -1636,7 +1636,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "liberalism",
-      "raw_score": 64.0,
+      "raw_score": 62.0,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -1680,7 +1680,7 @@
       "scope": "entity",
       "layer": "synthesis",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "raw_score": 84.1,
+      "raw_score": 86.1,
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
