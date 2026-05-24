@@ -4246,11 +4246,13 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security",
-        "great_depression_international_order"
+        "revisionist_powers_1930s",
+        "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -4263,11 +4265,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 1919_1939, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Échec de la sécurité collective, montée des puissances révisionnistes (Allemagne, Italie, Japon), faillite de l'équilibre et retour du conflit de grande puissance. Carr (1939) en livre le diagnostic réaliste de référence.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Diagnostic largement rétrospectif via Carr, publié en fin de période."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -4294,10 +4297,11 @@
       },
       "evidence_basis": [
         "versailles_order",
-        "league_of_nations_security",
-        "great_depression_international_order"
+        "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -4310,11 +4314,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 1919_1939, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Tentative d'ordre libéral : Société des Nations, sécurité collective, ordre de Versailles, désarmement, pacte Briand-Kellogg. Angell (1910) en exprime l'optimisme, que la réalité de la période dément en partie.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Réalité libérale fragile, contredite par les crises des années 1930."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -4340,11 +4345,11 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security",
         "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -4357,11 +4362,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1919_1939, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Crise capitaliste mondiale (Grande Dépression), impérialisme, montée du fascisme lue comme réaction capitaliste. Lénine (1917) sur l'impérialisme structure cette lecture.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Lecture structurelle ; part modérée dans la dynamique systémique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -4387,11 +4393,11 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security",
-        "great_depression_international_order"
+        "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -4404,11 +4410,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour constructivism dans 1919_1939, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Lecture rétrospective : normes d'autodétermination (wilsonisme), légitimité de la SDN, sécurité collective comme projet normatif échoué. Le constructivisme n'existe pas alors (anti-anachronisme) : éclairage rétrospectif.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Usage rétrospectif assumé ; doctrine/académique de l'époque exclues."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -4435,10 +4442,11 @@
       },
       "evidence_basis": [
         "versailles_order",
-        "league_of_nations_security",
-        "great_depression_international_order"
+        "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -4451,11 +4459,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour english_school dans 1919_1939, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Société internationale naissante via la SDN, système des mandats et 'standard de civilisation', mais fragile. Lecture rétrospective via Bull (1977).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Grille rétrospective ; l'École anglaise n'émerge qu'après 1959."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -4481,11 +4490,11 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security",
-        "great_depression_international_order"
+        "versailles_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -4498,11 +4507,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 1919_1939, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Lecture rétrospective : système colonial et mandataire racialisé, premiers mouvements anti-coloniaux, hiérarchies de l'ordre de Versailles.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Grille rétrospective ; part modérée."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -4528,11 +4538,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security",
-        "great_depression_international_order"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -4545,11 +4556,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1919_1939, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Géopolitique au cœur de la réalité : logique du heartland (Mackinder), Lebensraum, expansion impériale révisionniste, sphères. Mackinder (1904) et Mahan (1890) fournissent les grilles spatiales.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Recouvre partiellement la lecture réaliste."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -4575,11 +4587,11 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security",
-        "great_depression_international_order"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -4592,11 +4604,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 1919_1939, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Résurgence de la Realpolitik et du calcul de puissance : débats sur l'apaisement, statecraft des puissances révisionnistes et du statu quo. Carr (1939) comme critique doctrinale de l'utopisme.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Doctrine en partie réactive face à l'idéalisme dominant des années 1920."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -4623,10 +4636,11 @@
       },
       "evidence_basis": [
         "versailles_order",
-        "league_of_nations_security",
-        "great_depression_international_order"
+        "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -4639,11 +4653,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 1919_1939, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine dominante des années 1920 : wilsonisme, sécurité collective, idéaux de la SDN, désarmement, autodétermination. Angell (1910) en est l'expression doctrinale emblématique.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Doctrine fortement érodée par les crises des années 1930."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -4669,11 +4684,11 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security",
         "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -4686,11 +4701,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1919_1939, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine d'État de l'URSS naissante, Komintern, doctrine anti-impérialiste et partis marxistes. Lénine (1917) en est la source doctrinale.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Présence doctrinale réelle mais concurrencée par fascisme et libéralisme."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -4878,11 +4894,12 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security",
-        "great_depression_international_order"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -4895,11 +4912,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1919_1939, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrines d'expansion : Lebensraum (nazisme), expansion impériale (Japon, Italie), raison d'État des puissances révisionnistes.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la doctrine réaliste de puissance."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -4979,11 +4997,11 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security",
-        "great_depression_international_order"
+        "league_of_nations_security"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -4996,11 +5014,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 1919_1939, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Idéalisme / internationalisme libéral domine la jeune discipline des RI (fondée en 1919) : étude de la SDN, du droit international, de la sécurité collective. Angell (1910) en est une référence.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Courant majoritaire de l'époque, bientôt critiqué par Carr (1939)."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -5026,11 +5045,11 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security",
         "great_depression_international_order"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -5043,11 +5062,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1919_1939, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Théorie marxiste de l'impérialisme et de la crise capitaliste académiquement active (lignée Lénine/Luxemburg, École de Francfort naissante).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Influence réelle, surtout hors des RI institutionnelles anglo-américaines."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -5235,11 +5255,13 @@
         }
       },
       "evidence_basis": [
-        "versailles_order",
-        "league_of_nations_security",
-        "great_depression_international_order"
+        "revisionist_powers_1930s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mackinder_1904_pivot",
+        "spykman_1942_strategy",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -5252,11 +5274,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1919_1939, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Géopolitique académiquement proéminente (Haushofer, Mackinder, Kjellén ; Spykman 1942 au seuil de la période). Forte mais ambivalente.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Spykman (1942) légèrement postérieur, cité comme corpus géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
