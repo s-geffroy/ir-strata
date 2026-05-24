@@ -7429,11 +7429,12 @@
         }
       },
       "evidence_basis": [
-        "cold_war_detente",
-        "non_aligned_and_bandung_legacy",
-        "dependency_and_oil_shocks"
+        "cold_war_detente"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "waltz_1979_theory",
+        "jervis_1978_security_dilemma"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -7446,11 +7447,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 1962_1979, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Détente bipolaire, équilibre de la terreur (MAD), gestion des superpuissances après la crise de Cuba. Waltz (1979) théorise la structure bipolaire ; Jervis (1978) le dilemme de sécurité.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Part élevée ; concurrencée par la lecture structurelle marxiste de la période."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -7476,11 +7478,11 @@
         }
       },
       "evidence_basis": [
-        "cold_war_detente",
-        "non_aligned_and_bandung_legacy",
-        "dependency_and_oil_shocks"
+        "cold_war_detente"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "keohane_nye_1977_power_interdependence"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -7493,11 +7495,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 1962_1979, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Interdépendance complexe et régimes : Keohane & Nye (1977) décrivent la réalité d'une interdépendance croissante et de la coopération de détente.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Réalité réelle mais subordonnée à la compétition bipolaire."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -7523,11 +7526,12 @@
         }
       },
       "evidence_basis": [
-        "cold_war_detente",
-        "non_aligned_and_bandung_legacy",
         "dependency_and_oil_shocks"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wallerstein_1974_modern_world_system",
+        "cardoso_faletto_1979_dependency"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -7540,11 +7544,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1962_1979, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Dépendance et système-monde au cœur de la réalité : NOEI, chocs pétroliers révélant la structure centre-périphérie. Wallerstein (1974) et Cardoso & Faletto (1979), publiés dans la période, en sont les analyses majeures.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Part élevée reflétant la saillance des structures économiques mondiales."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -7570,11 +7575,11 @@
         }
       },
       "evidence_basis": [
-        "cold_war_detente",
-        "non_aligned_and_bandung_legacy",
-        "dependency_and_oil_shocks"
+        "postcolonial_sovereignty_expansion"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -7587,11 +7592,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour constructivism dans 1962_1979, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Lecture rétrospective : normes de souveraineté postcoloniale, identité tiers-mondiste, projet normatif du non-alignement. Constructivisme non encore émergé (anti-anachronisme) : éclairage rétrospectif.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Usage rétrospectif assumé."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -7617,11 +7623,11 @@
         }
       },
       "evidence_basis": [
-        "cold_war_detente",
-        "non_aligned_and_bandung_legacy",
-        "dependency_and_oil_shocks"
+        "postcolonial_sovereignty_expansion"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -7634,11 +7640,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour english_school dans 1962_1979, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Société internationale mondialisée : entrée des États postcoloniaux dans la société des États, débat ordre/justice. Bull (1977), The Anarchical Society, publié dans la période.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche par endroits la lecture libérale institutionnelle."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -7664,11 +7671,13 @@
         }
       },
       "evidence_basis": [
-        "cold_war_detente",
-        "non_aligned_and_bandung_legacy",
+        "postcolonial_sovereignty_expansion",
         "dependency_and_oil_shocks"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "cardoso_faletto_1979_dependency"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -7681,11 +7690,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 1962_1979, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Affirmation postcoloniale, NOEI, tiers-mondisme et critique de la dépendance. Said (1978), Orientalism, publié dans la période.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Part notable ; recoupe la lecture marxiste structurelle."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -7712,10 +7722,12 @@
       },
       "evidence_basis": [
         "cold_war_detente",
-        "non_aligned_and_bandung_legacy",
         "dependency_and_oil_shocks"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1957_world_restored",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -7728,11 +7740,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1962_1979, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Détente comme gestion géostratégique (Kissinger), guerre du Vietnam, exploitation de la rupture sino-soviétique, géopolitique pétrolière.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Recouvre la lecture réaliste de puissance."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -7758,11 +7771,12 @@
         }
       },
       "evidence_basis": [
-        "cold_war_detente",
-        "non_aligned_and_bandung_legacy",
-        "dependency_and_oil_shocks"
+        "cold_war_detente"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1957_world_restored",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -7775,11 +7789,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 1962_1979, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Statecraft de détente : Realpolitik kissingérienne, doctrine de maîtrise des armements, équilibre des puissances comme doctrine effective.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Indistinct par endroits de la raison d'État géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -7805,11 +7820,11 @@
         }
       },
       "evidence_basis": [
-        "cold_war_detente",
-        "non_aligned_and_bandung_legacy",
-        "dependency_and_oil_shocks"
+        "cold_war_detente"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "keohane_nye_1977_power_interdependence"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -7822,11 +7837,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 1962_1979, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine d'interdépendance, droits humains (Helsinki 1975, diplomatie Carter), trilatéralisme.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Doctrine montante mais secondaire face à la détente de puissance."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -7852,11 +7868,13 @@
         }
       },
       "evidence_basis": [
-        "cold_war_detente",
-        "non_aligned_and_bandung_legacy",
-        "dependency_and_oil_shocks"
+        "dependency_and_oil_shocks",
+        "non_aligned_and_bandung_legacy"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cardoso_faletto_1979_dependency",
+        "wallerstein_1974_modern_world_system"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -7869,11 +7887,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1962_1979, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "NOEI comme doctrine officielle du Tiers-Monde, dépendance comme doctrine de politique économique en Amérique latine, marxisme d'État et non-alignement. Doctrine dominante de la contestation mondiale.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Score élevé reflétant la centralité doctrinale du tiers-mondisme."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -7953,11 +7972,11 @@
         }
       },
       "evidence_basis": [
-        "cold_war_detente",
-        "non_aligned_and_bandung_legacy",
-        "dependency_and_oil_shocks"
+        "postcolonial_sovereignty_expansion"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -7970,11 +7989,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour english_school dans 1962_1979, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine pluraliste de la société internationale : souveraineté et non-intervention défendues par les nouveaux États.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Frontière conventionnelle avec la doctrine souverainiste tiers-mondiste."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8000,11 +8020,13 @@
         }
       },
       "evidence_basis": [
-        "cold_war_detente",
-        "non_aligned_and_bandung_legacy",
-        "dependency_and_oil_shocks"
+        "postcolonial_sovereignty_expansion",
+        "non_aligned_and_bandung_legacy"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "cardoso_faletto_1979_dependency"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -8017,11 +8039,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 1962_1979, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Tiers-mondisme, doctrine anti-impérialiste et postcoloniale, revendications du NOEI. Doctrine contestataire majeure de la période.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Recoupe la doctrine marxiste de la dépendance."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8047,11 +8070,11 @@
         }
       },
       "evidence_basis": [
-        "cold_war_detente",
-        "non_aligned_and_bandung_legacy",
-        "dependency_and_oil_shocks"
+        "cold_war_detente"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1957_world_restored"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -8064,11 +8087,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1962_1979, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Realpolitik de détente, gestion des sphères, exploitation du clivage sino-soviétique, doctrine géopolitique pétrolière.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la doctrine réaliste."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8094,11 +8118,12 @@
         }
       },
       "evidence_basis": [
-        "cold_war_detente",
-        "non_aligned_and_bandung_legacy",
-        "dependency_and_oil_shocks"
+        "cold_war_detente"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "waltz_1979_theory",
+        "jervis_1978_security_dilemma"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -8111,11 +8136,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 1962_1979, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Cristallisation du néoréalisme : Waltz, Theory of International Politics (1979), texte fondateur, et Jervis (1978). Forte domination académique.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Concurrencé par l'essor académique de la dépendance/système-monde."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8141,11 +8167,11 @@
         }
       },
       "evidence_basis": [
-        "cold_war_detente",
-        "non_aligned_and_bandung_legacy",
-        "dependency_and_oil_shocks"
+        "cold_war_detente"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "keohane_nye_1977_power_interdependence"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -8158,11 +8184,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 1962_1979, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Théorie de l'interdépendance (Keohane & Nye, 1977) et théorie des régimes émergente, transnationalisme.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Influence réelle mais en deçà du réalisme et de la dépendance."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8188,11 +8215,12 @@
         }
       },
       "evidence_basis": [
-        "cold_war_detente",
-        "non_aligned_and_bandung_legacy",
         "dependency_and_oil_shocks"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wallerstein_1974_modern_world_system",
+        "cardoso_faletto_1979_dependency"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -8205,11 +8233,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1962_1979, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Apogée de l'influence académique : théorie de la dépendance (Cardoso & Faletto, 1979) et système-monde (Wallerstein, 1974), développement académique majeur de la période en économie politique critique.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Score élevé justifié par la centralité académique de ces programmes."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8289,11 +8318,11 @@
         }
       },
       "evidence_basis": [
-        "cold_war_detente",
-        "non_aligned_and_bandung_legacy",
-        "dependency_and_oil_shocks"
+        "postcolonial_sovereignty_expansion"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -8306,11 +8335,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour english_school dans 1962_1979, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "The Anarchical Society de Bull (1977), canonique ; maturité du British Committee.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Influence soutenue mais de moindre ampleur."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8390,11 +8420,12 @@
         }
       },
       "evidence_basis": [
-        "cold_war_detente",
-        "non_aligned_and_bandung_legacy",
-        "dependency_and_oil_shocks"
+        "cold_war_detente"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kennedy_1987_rise_fall",
+        "gilpin_1981_war_change"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -8407,11 +8438,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1962_1979, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Maturité des études stratégiques ; histoire de la grande stratégie et stabilité hégémonique (Gilpin), géopolitique classique encore marginale.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Gilpin (1981) légèrement postérieur ; statut académique hétérogène."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
