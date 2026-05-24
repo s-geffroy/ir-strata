@@ -9394,11 +9394,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001",
-        "humanitarian_intervention_norms_1990s"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "krauthammer_1990_unipolar_moment"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -9411,11 +9412,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 1991_2001, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Unipolarité américaine et persistance des logiques de puissance (élargissement de l'OTAN, primauté militaire) malgré la 'fin de l'histoire'. Mearsheimer (2001) maintient la centralité réaliste ; Krauthammer (1990) théorise le moment unipolaire.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Part contestée : les lectures libérales dominent le discours de l'époque."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9441,11 +9443,13 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001",
-        "humanitarian_intervention_norms_1990s"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -9458,11 +9462,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 1991_2001, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Réalité dominante de la période : ordre hégémonique libéral, expansion institutionnelle (OMC 1995, approfondissement de l'UE, élargissements), vague de démocratisation. Ikenberry (2001) sur l'ordre d'après-victoire.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Risque de surestimation rétrospective de la solidité de l'ordre libéral."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9488,11 +9493,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001",
-        "humanitarian_intervention_norms_1990s"
+        "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "hobsbawm_1994_age_extremes",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -9505,11 +9511,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1991_2001, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Mondialisation néolibérale, persistance des inégalités Nord-Sud et des hiérarchies économiques sous l'ordre libéral. Hobsbawm (1994) clôt le 'court XXe siècle' ; lecture néo-gramscienne (Cox).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Lecture marginalisée par le triomphalisme libéral de la période."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9535,11 +9542,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001",
         "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "wendt_1999_social_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -9552,11 +9560,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour constructivism dans 1991_2001, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Saillance des normes : émergence des normes d'intervention humanitaire, souveraineté-responsabilité, redéfinitions identitaires post-Guerre froide. Finnemore (1996) et Wendt (1999) éclairent ces dynamiques normatives.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Part réelle mais difficile à distinguer des effets de puissance."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9582,11 +9591,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001",
         "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -9599,11 +9609,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour english_school dans 1991_2001, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Expansion d'une société internationale à coloration solidariste : débats sur l'intervention humanitaire, élargissement des institutions communes. Buzan (2004) sur le passage société internationale / société mondiale.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Distinction parfois ténue avec la lecture libérale institutionnelle."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9629,11 +9640,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001",
         "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -9646,11 +9658,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 1991_2001, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Persistance de hiérarchies sous l'ordre libéral : dimensions genrées et racialisées de la mondialisation, critiques de l'interventionnisme humanitaire. Tickner (1992) sur le genre en RI.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Part modérée ; lecture critique en marge du récit dominant."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9676,11 +9689,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001",
-        "humanitarian_intervention_norms_1990s"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -9693,11 +9707,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1991_2001, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Élargissement de l'OTAN vers l'est, réseau de bases, continuités de raison d'État masquées par l'optimisme de la 'fin de l'histoire'. Kissinger (1994) sur la continuité de la diplomatie de puissance.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Géopolitique en partie éclipsée par le moment libéral."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9723,11 +9738,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001",
-        "humanitarian_intervention_norms_1990s"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -9740,11 +9756,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 1991_2001, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Réalisme de la retenue et de l'équilibre comme doctrine minoritaire face au triomphalisme libéral occidental ; Kissinger (1994) comme praticien.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Doctrine subordonnée au libéralisme dominant de la période."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9770,11 +9787,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001",
-        "humanitarian_intervention_norms_1990s"
+        "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "fukuyama_1992_end_history",
+        "ikenberry_2001_after_victory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -9787,11 +9805,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 1991_2001, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine dominante : élargissement démocratique (doctrine Clinton), consensus de Washington, 'fin de l'histoire', interventionnisme libéral. Fukuyama (1992) en est l'expression doctrinale emblématique.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Part très élevée, cohérente avec l'hégémonie discursive libérale."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9817,11 +9836,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001",
-        "humanitarian_intervention_norms_1990s"
+        "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "hobsbawm_1994_age_extremes",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -9834,11 +9854,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1991_2001, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Effondrement du marxisme comme doctrine d'État après 1991 ; résurgence tardive via les mouvements altermondialistes (fin des années 1990).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Doctrine d'État quasi disparue ; score faible justifié."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9864,11 +9885,11 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001",
         "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -9881,11 +9902,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour constructivism dans 1991_2001, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Non une doctrine d'acteurs au sens strict, mais forte saillance des principes normatifs dans la pratique : diplomatie des droits humains, entrepreneuriat normatif, prémices de la responsabilité de protéger.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Lecture en partie extrapolée : le constructivisme n'est pas une doctrine d'État mais une grille de principes mobilisés dans le discours."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9911,11 +9933,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001",
         "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "linklater_suganami_2006_english_school",
+        "buzan_2004_international_world"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -9928,11 +9951,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour english_school dans 1991_2001, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine de société internationale / solidarisme dans la pratique multilatérale : intervention humanitaire pensée comme projet d'une société d'États.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Frontière conventionnelle avec la doctrine libérale institutionnelle."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9958,11 +9982,11 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001",
         "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -9975,11 +9999,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 1991_2001, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Entrée des critiques altermondialistes, postcoloniales et féministes dans le discours (Seattle 1999, conférence de Pékin 1995).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Influence doctrinale émergente et contestataire, encore périphérique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10005,11 +10030,11 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001",
-        "humanitarian_intervention_norms_1990s"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -10022,11 +10047,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1991_2001, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Raison d'État dans la politique russe et les débats sur l'élargissement de l'OTAN, mais doctrinalement discrète sous l'optimisme libéral.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Doctrine peu assumée publiquement sur la période."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10052,11 +10078,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001",
-        "humanitarian_intervention_norms_1990s"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "krauthammer_1990_unipolar_moment"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -10069,11 +10096,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 1991_2001, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Néoréalisme dominant et contesté : réalisme offensif de Mearsheimer (2001), débats 'back to the future', littérature sur l'unipolarité.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Position forte mais concurrencée par le tournant constructiviste."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10099,11 +10127,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001",
-        "humanitarian_intervention_norms_1990s"
+        "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -10116,11 +10145,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 1991_2001, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Apogée de la théorie libérale des RI : paix démocratique, institutionnalisme, théorie de l'ordre (Ikenberry). Très forte influence.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Domination en partie centrée sur l'académie anglo-américaine."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10146,11 +10176,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001",
-        "humanitarian_intervention_norms_1990s"
+        "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cox_1981_social_forces",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -10163,11 +10194,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1991_2001, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Économie politique internationale néo-gramscienne (école de Cox) et critiques de la mondialisation académiquement actives.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Influence réelle mais en marge du courant dominant des RI."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10193,11 +10225,13 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001",
         "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1992_anarchy",
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -10210,11 +10244,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour constructivism dans 1991_2001, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Percée académique décisive : Wendt (1992, 'Anarchy is what states make of it' ; 1999, Social Theory) et Finnemore (1996). Le tournant constructiviste structure la théorie des RI des années 1990.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Score très élevé reflétant le développement académique majeur de la période."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10240,11 +10275,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001",
         "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -10257,11 +10293,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour english_school dans 1991_2001, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Renouveau de l'École anglaise : réactivation du programme par Buzan, synthèses (Linklater & Suganami).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Influence soutenue mais de moindre ampleur que réalisme/libéralisme."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10287,11 +10324,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001",
         "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -10304,11 +10342,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 1991_2001, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Essor académique des approches critiques, postcoloniales et féministes ('troisième débat', post-positivisme). Tickner (1992) sur le genre.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Champ en forte croissance mais encore contestataire vis-à-vis du mainstream."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -10334,11 +10373,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001",
-        "humanitarian_intervention_norms_1990s"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mahan_1890_sea_power",
+        "kissinger_1994_diplomacy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -10351,11 +10391,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1991_2001, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Géopolitique classique académiquement marginale, mais émergence de la géopolitique critique et des études stratégiques. Mahan (1890) comme socle.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Statut académique faible et hétérogène sur la période."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
