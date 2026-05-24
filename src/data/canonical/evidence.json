@@ -998,9 +998,11 @@
       "period_id": "1945_1962",
       "related_entities": [],
       "related_theories": [
-        "realism",
+        "english_school",
+        "geopolitics_imperialism_reason_of_state",
         "liberalism",
-        "geopolitics_imperialism_reason_of_state"
+        "marxism_dependency_structuralism",
+        "realism"
       ],
       "related_layers": [
         "strategic_reality",
@@ -1096,9 +1098,12 @@
       "period_id": "1945_1962",
       "related_entities": [],
       "related_theories": [
-        "marxism_dependency_structuralism",
+        "constructivism",
         "critical_postcolonial_feminist",
-        "english_school"
+        "english_school",
+        "geopolitics_imperialism_reason_of_state",
+        "liberalism",
+        "marxism_dependency_structuralism"
       ],
       "related_layers": [
         "strategic_reality",
@@ -1290,9 +1295,10 @@
       "period_id": "1962_1979",
       "related_entities": [],
       "related_theories": [
-        "marxism_dependency_structuralism",
         "critical_postcolonial_feminist",
-        "english_school"
+        "english_school",
+        "geopolitics_imperialism_reason_of_state",
+        "marxism_dependency_structuralism"
       ],
       "related_layers": [
         "strategic_reality",
@@ -1336,9 +1342,10 @@
       "period_id": "1962_1979",
       "related_entities": [],
       "related_theories": [
-        "marxism_dependency_structuralism",
+        "constructivism",
         "critical_postcolonial_feminist",
-        "english_school"
+        "english_school",
+        "marxism_dependency_structuralism"
       ],
       "related_layers": [
         "strategic_reality",
@@ -2071,9 +2078,10 @@
       "period_id": "2014_2022",
       "related_entities": [],
       "related_theories": [
-        "realism",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state",
         "liberalism",
-        "geopolitics_imperialism_reason_of_state"
+        "realism"
       ],
       "related_layers": [
         "strategic_reality",
