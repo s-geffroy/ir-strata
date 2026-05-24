@@ -12,13 +12,13 @@
       "normalized_score": 41.3432,
       "confidence": {
         "label": "high",
-        "internal_score": 76.8,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 35
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -35,13 +35,13 @@
       "normalized_score": 58.6568,
       "confidence": {
         "label": "high",
-        "internal_score": 76.8,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 35
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -58,13 +58,13 @@
       "normalized_score": 34.1556,
       "confidence": {
         "label": "high",
-        "internal_score": 76.8,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 35
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -81,13 +81,13 @@
       "normalized_score": 30.6926,
       "confidence": {
         "label": "high",
-        "internal_score": 76.8,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 35
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -104,13 +104,13 @@
       "normalized_score": 35.1518,
       "confidence": {
         "label": "high",
-        "internal_score": 76.8,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 35
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -127,13 +127,13 @@
       "normalized_score": 31.8925,
       "confidence": {
         "label": "very_high",
-        "internal_score": 84.2,
+        "internal_score": 84.75,
         "dimensions": {
           "evidence_quality": 94,
           "historiographical_consensus": 86,
           "temporal_stability": 84,
           "weight_sensitivity": 25,
-          "anachronism_risk": 35
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -150,13 +150,13 @@
       "normalized_score": 14.4653,
       "confidence": {
         "label": "high",
-        "internal_score": 66.2,
+        "internal_score": 66.75,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 25,
-          "anachronism_risk": 35
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -173,13 +173,13 @@
       "normalized_score": 23.0756,
       "confidence": {
         "label": "high",
-        "internal_score": 76.8,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 35
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -196,13 +196,13 @@
       "normalized_score": 30.5666,
       "confidence": {
         "label": "very_high",
-        "internal_score": 84.2,
+        "internal_score": 84.75,
         "dimensions": {
           "evidence_quality": 94,
           "historiographical_consensus": 86,
           "temporal_stability": 84,
           "weight_sensitivity": 25,
-          "anachronism_risk": 35
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -219,13 +219,13 @@
       "normalized_score": 29.6471,
       "confidence": {
         "label": "very_high",
-        "internal_score": 85.8,
+        "internal_score": 84.75,
         "dimensions": {
           "evidence_quality": 94,
           "historiographical_consensus": 86,
           "temporal_stability": 84,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -242,13 +242,13 @@
       "normalized_score": 23.1745,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -265,13 +265,13 @@
       "normalized_score": 22.7842,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -288,13 +288,13 @@
       "normalized_score": 24.3942,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -311,13 +311,13 @@
       "normalized_score": 22.7054,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -334,13 +334,13 @@
       "normalized_score": 17.9429,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -357,13 +357,13 @@
       "normalized_score": 22.5187,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -380,13 +380,13 @@
       "normalized_score": 17.6761,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -403,13 +403,13 @@
       "normalized_score": 19.1569,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -426,13 +426,13 @@
       "normalized_score": 21.2684,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -449,13 +449,13 @@
       "normalized_score": 17.1449,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -472,13 +472,13 @@
       "normalized_score": 14.9988,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -495,13 +495,13 @@
       "normalized_score": 14.1789,
       "confidence": {
         "label": "high",
-        "internal_score": 67.8,
+        "internal_score": 66.75,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -518,13 +518,13 @@
       "normalized_score": 15.0229,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -541,13 +541,13 @@
       "normalized_score": 17.3861,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -564,13 +564,13 @@
       "normalized_score": 15.6124,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -587,13 +587,13 @@
       "normalized_score": 19.2528,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -610,13 +610,13 @@
       "normalized_score": 10.3163,
       "confidence": {
         "label": "high",
-        "internal_score": 67.8,
+        "internal_score": 66.75,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -633,13 +633,13 @@
       "normalized_score": 16.1749,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -656,13 +656,13 @@
       "normalized_score": 14.7103,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -679,13 +679,13 @@
       "normalized_score": 12.7892,
       "confidence": {
         "label": "high",
-        "internal_score": 67.8,
+        "internal_score": 66.75,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -702,13 +702,13 @@
       "normalized_score": 11.1441,
       "confidence": {
         "label": "high",
-        "internal_score": 67.8,
+        "internal_score": 66.75,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -725,13 +725,13 @@
       "normalized_score": 18.2785,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -748,13 +748,13 @@
       "normalized_score": 16.2402,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -771,13 +771,13 @@
       "normalized_score": 10.236,
       "confidence": {
         "label": "high",
-        "internal_score": 67.8,
+        "internal_score": 66.75,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -794,13 +794,13 @@
       "normalized_score": 14.4345,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -817,13 +817,13 @@
       "normalized_score": 12.8946,
       "confidence": {
         "label": "high",
-        "internal_score": 67.8,
+        "internal_score": 66.75,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -840,13 +840,13 @@
       "normalized_score": 14.8,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -863,13 +863,13 @@
       "normalized_score": 13.1162,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -886,13 +886,13 @@
       "normalized_score": 16.499,
       "confidence": {
         "label": "high",
-        "internal_score": 76.8,
+        "internal_score": 75.75,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 35,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -909,13 +909,13 @@
       "normalized_score": 14.4875,
       "confidence": {
         "label": "high",
-        "internal_score": 76.8,
+        "internal_score": 75.75,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 35,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -932,13 +932,13 @@
       "normalized_score": 13.7492,
       "confidence": {
         "label": "high",
-        "internal_score": 76.8,
+        "internal_score": 75.75,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 35,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -955,13 +955,13 @@
       "normalized_score": 13.3533,
       "confidence": {
         "label": "high",
-        "internal_score": 66.2,
+        "internal_score": 65.25,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 35,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -978,13 +978,13 @@
       "normalized_score": 12.2833,
       "confidence": {
         "label": "high",
-        "internal_score": 66.2,
+        "internal_score": 65.25,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 35,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -1001,13 +1001,13 @@
       "normalized_score": 15.3542,
       "confidence": {
         "label": "high",
-        "internal_score": 76.8,
+        "internal_score": 75.75,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 35,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -1024,13 +1024,13 @@
       "normalized_score": 14.2735,
       "confidence": {
         "label": "high",
-        "internal_score": 76.8,
+        "internal_score": 75.75,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 35,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -1047,13 +1047,13 @@
       "normalized_score": 18.4376,
       "confidence": {
         "label": "high",
-        "internal_score": 76.8,
+        "internal_score": 75.75,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 35,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -1070,13 +1070,13 @@
       "normalized_score": 12.6292,
       "confidence": {
         "label": "high",
-        "internal_score": 66.2,
+        "internal_score": 65.25,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 35,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -1093,13 +1093,13 @@
       "normalized_score": 11.9791,
       "confidence": {
         "label": "high",
-        "internal_score": 66.2,
+        "internal_score": 65.25,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 35,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -1116,13 +1116,13 @@
       "normalized_score": 13.7589,
       "confidence": {
         "label": "high",
-        "internal_score": 76.8,
+        "internal_score": 75.75,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 35,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -1139,13 +1139,13 @@
       "normalized_score": 11.3716,
       "confidence": {
         "label": "high",
-        "internal_score": 66.2,
+        "internal_score": 65.25,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 35,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -1162,13 +1162,13 @@
       "normalized_score": 14.5796,
       "confidence": {
         "label": "high",
-        "internal_score": 76.8,
+        "internal_score": 75.75,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 35,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -1185,13 +1185,13 @@
       "normalized_score": 17.244,
       "confidence": {
         "label": "high",
-        "internal_score": 76.8,
+        "internal_score": 75.75,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 35,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -1208,13 +1208,13 @@
       "normalized_score": 19.094,
       "confidence": {
         "label": "very_high",
-        "internal_score": 85.8,
+        "internal_score": 84.75,
         "dimensions": {
           "evidence_quality": 94,
           "historiographical_consensus": 86,
           "temporal_stability": 84,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -1231,13 +1231,13 @@
       "normalized_score": 11.5474,
       "confidence": {
         "label": "high",
-        "internal_score": 67.8,
+        "internal_score": 66.75,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -1254,13 +1254,13 @@
       "normalized_score": 12.0555,
       "confidence": {
         "label": "high",
-        "internal_score": 67.8,
+        "internal_score": 66.75,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -1277,13 +1277,13 @@
       "normalized_score": 13.2515,
       "confidence": {
         "label": "high",
-        "internal_score": 67.8,
+        "internal_score": 66.75,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -1300,13 +1300,13 @@
       "normalized_score": 10.8171,
       "confidence": {
         "label": "high",
-        "internal_score": 67.8,
+        "internal_score": 66.75,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -1323,13 +1323,13 @@
       "normalized_score": 15.1355,
       "confidence": {
         "label": "high",
-        "internal_score": 78.2,
+        "internal_score": 77.25,
         "dimensions": {
           "evidence_quality": 84,
           "historiographical_consensus": 76,
           "temporal_stability": 74,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",
@@ -1346,13 +1346,13 @@
       "normalized_score": 18.0991,
       "confidence": {
         "label": "very_high",
-        "internal_score": 85.8,
+        "internal_score": 84.75,
         "dimensions": {
           "evidence_quality": 94,
           "historiographical_consensus": 86,
           "temporal_stability": 84,
           "weight_sensitivity": 25,
-          "anachronism_risk": 20
+          "anachronism_risk": 30
         }
       },
       "maturity_status": "generated",

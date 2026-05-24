@@ -135,13 +135,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.8,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 42
         }
       },
       "maturity_status": "draft",
@@ -185,14 +185,14 @@
         "finnemore_1996_national_interests"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 57.0,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 90
         }
       },
       "maturity_status": "draft",
@@ -236,14 +236,14 @@
         "bull_1977_anarchical_society"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 58.0,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 80
         }
       },
       "maturity_status": "draft",
@@ -288,14 +288,14 @@
         "bayly_2004_birth_modern_world"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 57.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 81
         }
       },
       "maturity_status": "draft",
@@ -1253,13 +1253,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.8,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 42
         }
       },
       "maturity_status": "draft",
@@ -1302,14 +1302,14 @@
         "finnemore_1996_national_interests"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 57.0,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 90
         }
       },
       "maturity_status": "draft",
@@ -1352,14 +1352,14 @@
         "bull_1977_anarchical_society"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 58.0,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 80
         }
       },
       "maturity_status": "draft",
@@ -1403,14 +1403,14 @@
         "bayly_2004_birth_modern_world"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 57.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 81
         }
       },
       "maturity_status": "draft",
@@ -2363,13 +2363,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.8,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 42
         }
       },
       "maturity_status": "draft",
@@ -2412,14 +2412,14 @@
         "finnemore_1996_national_interests"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 57.0,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 90
         }
       },
       "maturity_status": "draft",
@@ -2462,14 +2462,14 @@
         "bull_1977_anarchical_society"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 58.0,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 80
         }
       },
       "maturity_status": "draft",
@@ -2513,14 +2513,14 @@
         "bayly_2004_birth_modern_world"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 57.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 81
         }
       },
       "maturity_status": "draft",
@@ -3475,13 +3475,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.8,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 42
         }
       },
       "maturity_status": "draft",
@@ -3525,14 +3525,14 @@
         "finnemore_1996_national_interests"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 57.0,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 90
         }
       },
       "maturity_status": "draft",
@@ -3576,14 +3576,14 @@
         "bull_1977_anarchical_society"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 58.0,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 80
         }
       },
       "maturity_status": "draft",
@@ -3628,14 +3628,14 @@
         "bayly_2004_birth_modern_world"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 57.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 81
         }
       },
       "maturity_status": "draft",
@@ -4595,13 +4595,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.8,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 42
         }
       },
       "maturity_status": "draft",
@@ -4645,14 +4645,14 @@
         "finnemore_1996_national_interests"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 57.0,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 90
         }
       },
       "maturity_status": "draft",
@@ -4696,14 +4696,14 @@
         "bull_1977_anarchical_society"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 58.0,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 80
         }
       },
       "maturity_status": "draft",
@@ -4748,14 +4748,14 @@
         "bayly_2004_birth_modern_world"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 57.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 81
         }
       },
       "maturity_status": "draft",
@@ -5713,13 +5713,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.8,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 42
         }
       },
       "maturity_status": "draft",
@@ -5762,14 +5762,14 @@
         "finnemore_1996_national_interests"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 57.0,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 90
         }
       },
       "maturity_status": "draft",
@@ -5812,14 +5812,14 @@
         "bull_1977_anarchical_society"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 58.0,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 80
         }
       },
       "maturity_status": "draft",
@@ -5863,14 +5863,14 @@
         "bayly_2004_birth_modern_world"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 57.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 81
         }
       },
       "maturity_status": "draft",
@@ -6823,13 +6823,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.8,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 42
         }
       },
       "maturity_status": "draft",
@@ -6872,14 +6872,14 @@
         "finnemore_1996_national_interests"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 57.0,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 90
         }
       },
       "maturity_status": "draft",
@@ -6922,14 +6922,14 @@
         "bull_1977_anarchical_society"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 58.0,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 80
         }
       },
       "maturity_status": "draft",
@@ -6973,14 +6973,14 @@
         "bayly_2004_birth_modern_world"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 57.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 81
         }
       },
       "maturity_status": "draft",
@@ -7933,13 +7933,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.8,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 42
         }
       },
       "maturity_status": "draft",
@@ -7982,14 +7982,14 @@
         "finnemore_1996_national_interests"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 57.0,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 90
         }
       },
       "maturity_status": "draft",
@@ -8032,14 +8032,14 @@
         "bull_1977_anarchical_society"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 58.0,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 80
         }
       },
       "maturity_status": "draft",
@@ -8083,14 +8083,14 @@
         "bayly_2004_birth_modern_world"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 57.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 81
         }
       },
       "maturity_status": "draft",
@@ -9093,14 +9093,14 @@
         "finnemore_1996_national_interests"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 58.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 71
         }
       },
       "maturity_status": "draft",
@@ -9143,14 +9143,14 @@
         "bull_1977_anarchical_society"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 59.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 61
         }
       },
       "maturity_status": "draft",
@@ -9194,14 +9194,14 @@
         "bayly_2004_birth_modern_world"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 59.8,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 62
         }
       },
       "maturity_status": "draft",
@@ -10203,14 +10203,14 @@
         "finnemore_1996_national_interests"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 58.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 71
         }
       },
       "maturity_status": "draft",
@@ -10254,14 +10254,14 @@
         "bull_1977_anarchical_society"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 59.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 61
         }
       },
       "maturity_status": "draft",
@@ -10306,14 +10306,14 @@
         "bayly_2004_birth_modern_world"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 59.8,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 62
         }
       },
       "maturity_status": "draft",
@@ -11318,14 +11318,14 @@
         "finnemore_1996_national_interests"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 58.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 71
         }
       },
       "maturity_status": "draft",
@@ -11368,14 +11368,14 @@
         "bull_1977_anarchical_society"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 59.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 61
         }
       },
       "maturity_status": "draft",
@@ -11419,14 +11419,14 @@
         "bayly_2004_birth_modern_world"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 59.8,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 62
         }
       },
       "maturity_status": "draft",
@@ -12428,14 +12428,14 @@
         "finnemore_1996_national_interests"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 58.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 71
         }
       },
       "maturity_status": "draft",
@@ -12479,14 +12479,14 @@
         "bull_1977_anarchical_society"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 59.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 61
         }
       },
       "maturity_status": "draft",
@@ -12531,14 +12531,14 @@
         "bayly_2004_birth_modern_world"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 59.8,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 62
         }
       },
       "maturity_status": "draft",
@@ -13543,14 +13543,14 @@
         "finnemore_1996_national_interests"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 58.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 71
         }
       },
       "maturity_status": "draft",
@@ -13593,14 +13593,14 @@
         "bull_1977_anarchical_society"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 59.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 61
         }
       },
       "maturity_status": "draft",
@@ -13644,14 +13644,14 @@
         "bayly_2004_birth_modern_world"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 59.8,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 62
         }
       },
       "maturity_status": "draft",
@@ -14650,14 +14650,14 @@
         "finnemore_1996_national_interests"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 58.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 71
         }
       },
       "maturity_status": "draft",
@@ -14700,14 +14700,14 @@
         "bull_1977_anarchical_society"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 59.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 61
         }
       },
       "maturity_status": "draft",
@@ -14751,14 +14751,14 @@
         "bayly_2004_birth_modern_world"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 59.8,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 62
         }
       },
       "maturity_status": "draft",
@@ -15757,14 +15757,14 @@
         "finnemore_1996_national_interests"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 58.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 71
         }
       },
       "maturity_status": "draft",
@@ -15807,14 +15807,14 @@
         "bull_1977_anarchical_society"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 59.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 61
         }
       },
       "maturity_status": "draft",
@@ -15858,14 +15858,14 @@
         "bayly_2004_birth_modern_world"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 59.8,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 62
         }
       },
       "maturity_status": "draft",
@@ -16864,14 +16864,14 @@
         "finnemore_1996_national_interests"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 58.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 71
         }
       },
       "maturity_status": "draft",
@@ -16914,14 +16914,14 @@
         "bull_1977_anarchical_society"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 59.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 61
         }
       },
       "maturity_status": "draft",
@@ -16965,14 +16965,14 @@
         "bayly_2004_birth_modern_world"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 59.8,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 62
         }
       },
       "maturity_status": "draft",
@@ -17971,14 +17971,14 @@
         "finnemore_1996_national_interests"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 58.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 71
         }
       },
       "maturity_status": "draft",
@@ -18021,14 +18021,14 @@
         "bull_1977_anarchical_society"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 59.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 61
         }
       },
       "maturity_status": "draft",
@@ -18072,14 +18072,14 @@
         "bayly_2004_birth_modern_world"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 59.8,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 62
         }
       },
       "maturity_status": "draft",
@@ -19078,14 +19078,14 @@
         "finnemore_1996_national_interests"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 58.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 71
         }
       },
       "maturity_status": "draft",
@@ -19128,14 +19128,14 @@
         "bull_1977_anarchical_society"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 59.9,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 61
         }
       },
       "maturity_status": "draft",
@@ -19179,14 +19179,14 @@
         "bayly_2004_birth_modern_world"
       ],
       "confidence": {
-        "label": "high",
-        "internal_score": 63.0,
+        "label": "medium",
+        "internal_score": 59.8,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 62
         }
       },
       "maturity_status": "draft",
@@ -20188,13 +20188,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 60.6,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 54
         }
       },
       "maturity_status": "draft",
@@ -20238,13 +20238,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.6,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 44
         }
       },
       "maturity_status": "draft",
@@ -20289,13 +20289,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 45
         }
       },
       "maturity_status": "draft",
@@ -21289,13 +21289,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 60.6,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 54
         }
       },
       "maturity_status": "draft",
@@ -21340,13 +21340,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.6,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 44
         }
       },
       "maturity_status": "draft",
@@ -21392,13 +21392,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 45
         }
       },
       "maturity_status": "draft",
@@ -22401,13 +22401,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 60.6,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 54
         }
       },
       "maturity_status": "draft",
@@ -22452,13 +22452,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.6,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 44
         }
       },
       "maturity_status": "draft",
@@ -22504,13 +22504,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 45
         }
       },
       "maturity_status": "draft",
@@ -23510,13 +23510,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 60.6,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 54
         }
       },
       "maturity_status": "draft",
@@ -23560,13 +23560,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.6,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 44
         }
       },
       "maturity_status": "draft",
@@ -23611,13 +23611,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 45
         }
       },
       "maturity_status": "draft",
@@ -24611,13 +24611,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 60.6,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 54
         }
       },
       "maturity_status": "draft",
@@ -24661,13 +24661,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.6,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 44
         }
       },
       "maturity_status": "draft",
@@ -24712,13 +24712,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 45
         }
       },
       "maturity_status": "draft",
@@ -25709,13 +25709,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 60.6,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 54
         }
       },
       "maturity_status": "draft",
@@ -25759,13 +25759,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.6,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 44
         }
       },
       "maturity_status": "draft",
@@ -25810,13 +25810,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 45
         }
       },
       "maturity_status": "draft",
@@ -26810,13 +26810,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 60.6,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 54
         }
       },
       "maturity_status": "draft",
@@ -26860,13 +26860,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.6,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 44
         }
       },
       "maturity_status": "draft",
@@ -26911,13 +26911,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 45
         }
       },
       "maturity_status": "draft",
@@ -27908,13 +27908,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 60.6,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 54
         }
       },
       "maturity_status": "draft",
@@ -27958,13 +27958,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.6,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 44
         }
       },
       "maturity_status": "draft",
@@ -28009,13 +28009,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 45
         }
       },
       "maturity_status": "draft",
@@ -29006,13 +29006,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 60.6,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 54
         }
       },
       "maturity_status": "draft",
@@ -29056,13 +29056,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.6,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 44
         }
       },
       "maturity_status": "draft",
@@ -29107,13 +29107,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 45
         }
       },
       "maturity_status": "draft",
@@ -30104,13 +30104,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.2,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 48
         }
       },
       "maturity_status": "draft",
@@ -30154,13 +30154,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.3,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 37
         }
       },
       "maturity_status": "draft",
@@ -30205,13 +30205,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.2,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 38
         }
       },
       "maturity_status": "draft",
@@ -31202,13 +31202,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.2,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 48
         }
       },
       "maturity_status": "draft",
@@ -31252,13 +31252,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.3,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 37
         }
       },
       "maturity_status": "draft",
@@ -31303,13 +31303,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.2,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 38
         }
       },
       "maturity_status": "draft",
@@ -32299,13 +32299,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.2,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 48
         }
       },
       "maturity_status": "draft",
@@ -32350,13 +32350,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.3,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 37
         }
       },
       "maturity_status": "draft",
@@ -32402,13 +32402,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.2,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 38
         }
       },
       "maturity_status": "draft",
@@ -33408,13 +33408,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.2,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 48
         }
       },
       "maturity_status": "draft",
@@ -33459,13 +33459,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.3,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 37
         }
       },
       "maturity_status": "draft",
@@ -33511,13 +33511,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.2,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 38
         }
       },
       "maturity_status": "draft",
@@ -34514,13 +34514,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.2,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 48
         }
       },
       "maturity_status": "draft",
@@ -34564,13 +34564,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.3,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 37
         }
       },
       "maturity_status": "draft",
@@ -34615,13 +34615,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.2,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 38
         }
       },
       "maturity_status": "draft",
@@ -35612,13 +35612,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.2,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 48
         }
       },
       "maturity_status": "draft",
@@ -35662,13 +35662,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.3,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 37
         }
       },
       "maturity_status": "draft",
@@ -35713,13 +35713,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.2,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 38
         }
       },
       "maturity_status": "draft",
@@ -36710,13 +36710,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.2,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 48
         }
       },
       "maturity_status": "draft",
@@ -36760,13 +36760,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.3,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 37
         }
       },
       "maturity_status": "draft",
@@ -36811,13 +36811,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.2,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 38
         }
       },
       "maturity_status": "draft",
@@ -37804,13 +37804,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.2,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 48
         }
       },
       "maturity_status": "draft",
@@ -37854,13 +37854,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.3,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 37
         }
       },
       "maturity_status": "draft",
@@ -37905,13 +37905,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.2,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 38
         }
       },
       "maturity_status": "draft",
@@ -38903,13 +38903,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 45
         }
       },
       "maturity_status": "draft",
@@ -38953,13 +38953,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 35
         }
       },
       "maturity_status": "draft",
@@ -39004,13 +39004,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.4,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 36
         }
       },
       "maturity_status": "draft",
@@ -39996,13 +39996,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 45
         }
       },
       "maturity_status": "draft",
@@ -40046,13 +40046,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 35
         }
       },
       "maturity_status": "draft",
@@ -40097,13 +40097,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.4,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 36
         }
       },
       "maturity_status": "draft",
@@ -41089,13 +41089,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 45
         }
       },
       "maturity_status": "draft",
@@ -41139,13 +41139,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 35
         }
       },
       "maturity_status": "draft",
@@ -41190,13 +41190,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.4,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 36
         }
       },
       "maturity_status": "draft",
@@ -42186,13 +42186,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 45
         }
       },
       "maturity_status": "draft",
@@ -42236,13 +42236,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 35
         }
       },
       "maturity_status": "draft",
@@ -42287,13 +42287,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.4,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 36
         }
       },
       "maturity_status": "draft",
@@ -43279,13 +43279,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 45
         }
       },
       "maturity_status": "draft",
@@ -43329,13 +43329,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 35
         }
       },
       "maturity_status": "draft",
@@ -43380,13 +43380,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.4,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 36
         }
       },
       "maturity_status": "draft",
@@ -44376,13 +44376,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 45
         }
       },
       "maturity_status": "draft",
@@ -44426,13 +44426,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 35
         }
       },
       "maturity_status": "draft",
@@ -44477,13 +44477,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.4,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 36
         }
       },
       "maturity_status": "draft",
@@ -45473,13 +45473,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 45
         }
       },
       "maturity_status": "draft",
@@ -45523,13 +45523,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 35
         }
       },
       "maturity_status": "draft",
@@ -45574,13 +45574,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.4,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 36
         }
       },
       "maturity_status": "draft",
@@ -46570,13 +46570,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 45
         }
       },
       "maturity_status": "draft",
@@ -46620,13 +46620,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 35
         }
       },
       "maturity_status": "draft",
@@ -46671,13 +46671,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.4,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 36
         }
       },
       "maturity_status": "draft",
@@ -47663,13 +47663,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 61.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 45
         }
       },
       "maturity_status": "draft",
@@ -47713,13 +47713,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.5,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 35
         }
       },
       "maturity_status": "draft",
@@ -47764,13 +47764,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.4,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 36
         }
       },
       "maturity_status": "draft",
@@ -48758,13 +48758,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.1,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 39
         }
       },
       "maturity_status": "draft",
@@ -49840,13 +49840,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.1,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 39
         }
       },
       "maturity_status": "draft",
@@ -50934,13 +50934,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.1,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 39
         }
       },
       "maturity_status": "draft",
@@ -52013,13 +52013,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.1,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 39
         }
       },
       "maturity_status": "draft",
@@ -53097,13 +53097,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.1,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 39
         }
       },
       "maturity_status": "draft",
@@ -54181,13 +54181,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.1,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 39
         }
       },
       "maturity_status": "draft",
@@ -55260,13 +55260,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.1,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 39
         }
       },
       "maturity_status": "draft",
@@ -56344,13 +56344,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.1,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 39
         }
       },
       "maturity_status": "draft",
@@ -57423,13 +57423,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.1,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 39
         }
       },
       "maturity_status": "draft",
@@ -58502,13 +58502,13 @@
       ],
       "confidence": {
         "label": "high",
-        "internal_score": 63.0,
+        "internal_score": 62.1,
         "dimensions": {
           "evidence_quality": 70,
           "historiographical_consensus": 62,
           "temporal_stability": 60,
           "weight_sensitivity": 50,
-          "anachronism_risk": 30
+          "anachronism_risk": 39
         }
       },
       "maturity_status": "draft",
