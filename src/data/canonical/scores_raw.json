@@ -8469,11 +8469,12 @@
         }
       },
       "evidence_basis": [
-        "second_cold_war",
-        "soviet_crisis_and_reform",
-        "neoliberal_turn"
+        "second_cold_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "waltz_1979_theory",
+        "gilpin_1981_war_change"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -8486,11 +8487,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour realism dans 1979_1991, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Seconde Guerre froide : réarmement Reagan, crise des euromissiles, confrontation bipolaire ravivée, puis bascule de l'équilibre avec le déclin soviétique. Waltz (1979) et Gilpin (1981, guerre et changement) en sont les cadres.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Score très élevé ; la fin de période échappe en partie au cadre matérialiste."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8516,11 +8518,11 @@
         }
       },
       "evidence_basis": [
-        "second_cold_war",
-        "soviet_crisis_and_reform",
-        "neoliberal_turn"
+        "end_of_cold_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "keohane_1984_after_hegemony"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -8533,11 +8535,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour liberalism dans 1979_1991, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Persistance des institutions malgré le déclin hégémonique (Keohane, After Hegemony, 1984), interdépendance et coopération de sortie de Guerre froide.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Réalité réelle mais subordonnée à la confrontation de la Seconde Guerre froide."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8563,11 +8566,13 @@
         }
       },
       "evidence_basis": [
-        "second_cold_war",
-        "soviet_crisis_and_reform",
-        "neoliberal_turn"
+        "neoliberal_turn",
+        "soviet_crisis_and_reform"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cox_1981_social_forces",
+        "wallerstein_1974_modern_world_system"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -8580,11 +8585,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1979_1991, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Tournant néolibéral (Thatcher, Reagan), crise de la dette, crise économique soviétique révélant des contradictions structurelles. Cox (1981) néo-gramscien.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Cadre en recul à mesure que le bloc soviétique s'effondre."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8610,11 +8616,13 @@
         }
       },
       "evidence_basis": [
-        "second_cold_war",
-        "soviet_crisis_and_reform",
-        "neoliberal_turn"
+        "end_of_cold_war",
+        "soviet_crisis_and_reform"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "wendt_1999_social_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -8627,11 +8635,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour constructivism dans 1979_1991, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Lecture rétrospective : rôle des idées et de la 'nouvelle pensée' de Gorbatchev dans la fin de la Guerre froide — cas d'école constructiviste. Mais le constructivisme n'émerge qu'en 1989 : usage rétrospectif (strategic_reality) seul.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Usage rétrospectif assumé ; doctrine et académique rejetées (anti-anachronisme)."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8657,11 +8666,11 @@
         }
       },
       "evidence_basis": [
-        "second_cold_war",
-        "soviet_crisis_and_reform",
-        "neoliberal_turn"
+        "end_of_cold_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -8674,11 +8683,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour english_school dans 1979_1991, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Société internationale et normes de coexistence durant la détente tardive et la sortie de Guerre froide. Lecture via Bull (1977).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la lecture libérale institutionnelle."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8704,11 +8714,12 @@
         }
       },
       "evidence_basis": [
-        "second_cold_war",
-        "soviet_crisis_and_reform",
         "neoliberal_turn"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cox_1981_social_forces",
+        "enloe_1989_bananas"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -8721,11 +8732,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 1979_1991, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Critique de l'hégémonie néolibérale, lectures genrées et postcoloniales de la Seconde Guerre froide. Cox (1981) et Enloe (1989).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Part modérée dans la dynamique systémique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8752,10 +8764,11 @@
       },
       "evidence_basis": [
         "second_cold_war",
-        "soviet_crisis_and_reform",
-        "neoliberal_turn"
+        "soviet_crisis_and_reform"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -8768,11 +8781,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1979_1991, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Géostratégie de la Seconde Guerre froide : doctrine Reagan, Afghanistan, guerres par procuration, surextension impériale soviétique. Kennedy (1987), The Rise and Fall, publié dans la période.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Recouvre la lecture réaliste."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8798,11 +8812,12 @@
         }
       },
       "evidence_basis": [
-        "second_cold_war",
-        "soviet_crisis_and_reform",
-        "neoliberal_turn"
+        "second_cold_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "morgenthau_1948_politics",
+        "gilpin_1981_war_change"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -8815,11 +8830,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour realism dans 1979_1991, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine reaganienne de la paix par la force, relance de l'endiguement et de la dissuasion.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Indistinct par endroits de la raison d'État géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8845,11 +8861,13 @@
         }
       },
       "evidence_basis": [
-        "second_cold_war",
-        "soviet_crisis_and_reform",
-        "neoliberal_turn"
+        "neoliberal_turn",
+        "end_of_cold_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "keohane_1984_after_hegemony",
+        "doyle_1983_kant_liberal_legacies"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -8862,11 +8880,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour liberalism dans 1979_1991, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine économique néolibérale (préfiguration du consensus de Washington), droits humains, processus d'Helsinki, ouverture gorbatchévienne.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Doctrine montante, en partie occidentale."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8892,11 +8911,11 @@
         }
       },
       "evidence_basis": [
-        "second_cold_war",
-        "soviet_crisis_and_reform",
-        "neoliberal_turn"
+        "soviet_crisis_and_reform"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -8909,11 +8928,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1979_1991, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Déclin du marxisme comme doctrine d'État (eurocommunisme puis effondrement). Présence résiduelle.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Doctrine en effondrement sur la fin de période."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -8993,11 +9013,11 @@
         }
       },
       "evidence_basis": [
-        "second_cold_war",
-        "soviet_crisis_and_reform",
-        "neoliberal_turn"
+        "end_of_cold_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -9010,11 +9030,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour english_school dans 1979_1991, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine pluraliste de la société des États et normes de souveraineté dans la sortie de Guerre froide.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Frontière conventionnelle avec la doctrine libérale."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9040,11 +9061,12 @@
         }
       },
       "evidence_basis": [
-        "second_cold_war",
-        "soviet_crisis_and_reform",
         "neoliberal_turn"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "enloe_1989_bananas",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -9057,11 +9079,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 1979_1991, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Militantisme critique, féministe et postcolonial émergent : anti-apartheid, mouvements pour la paix, critique du néolibéralisme.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Influence doctrinale contestataire, encore périphérique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9087,11 +9110,12 @@
         }
       },
       "evidence_basis": [
-        "second_cold_war",
-        "soviet_crisis_and_reform",
-        "neoliberal_turn"
+        "second_cold_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kennedy_1987_rise_fall",
+        "kissinger_1957_world_restored"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -9104,11 +9128,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1979_1991, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine Reagan de refoulement (rollback), confrontation géostratégique, logique de sphères.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la doctrine réaliste."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9134,11 +9159,12 @@
         }
       },
       "evidence_basis": [
-        "second_cold_war",
-        "soviet_crisis_and_reform",
-        "neoliberal_turn"
+        "second_cold_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "waltz_1979_theory",
+        "gilpin_1981_war_change"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -9151,11 +9177,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour realism dans 1979_1991, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Néoréalisme dominant : Waltz (1979) fixe l'agenda, le 'débat néo-néo' s'organise autour de lui ; Gilpin (1981).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Concurrencé par l'essor néolibéral et le tournant critique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9181,11 +9208,12 @@
         }
       },
       "evidence_basis": [
-        "second_cold_war",
-        "soviet_crisis_and_reform",
         "neoliberal_turn"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "keohane_1984_after_hegemony",
+        "krasner_1983_international_regimes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -9198,11 +9226,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour liberalism dans 1979_1991, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Institutionnalisme néolibéral : Keohane (After Hegemony, 1984), texte de référence, et théorie des régimes (Krasner, 1983). Cœur du 'débat néo-néo'.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Forte influence, centrée sur l'académie anglo-américaine."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9228,11 +9257,12 @@
         }
       },
       "evidence_basis": [
-        "second_cold_war",
-        "soviet_crisis_and_reform",
         "neoliberal_turn"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cox_1981_social_forces",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -9245,11 +9275,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1979_1991, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Économie politique néo-gramscienne (Cox, 1981) et système-monde toujours actifs, mais au-delà de leur apogée.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Influence en recul relatif face au néolibéralisme académique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9329,11 +9360,11 @@
         }
       },
       "evidence_basis": [
-        "second_cold_war",
-        "soviet_crisis_and_reform",
-        "neoliberal_turn"
+        "end_of_cold_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -9346,11 +9377,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour english_school dans 1979_1991, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Programme de l'École anglaise poursuivi (héritage de Bull).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Influence soutenue mais de moindre ampleur."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9376,11 +9408,13 @@
         }
       },
       "evidence_basis": [
-        "second_cold_war",
-        "soviet_crisis_and_reform",
         "neoliberal_turn"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ashley_1984_poverty_neorealism",
+        "cox_1981_social_forces",
+        "enloe_1989_bananas"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -9393,11 +9427,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 1979_1991, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Tournant critique / 'troisième débat' : Ashley (1984, Poverty of Neorealism), Cox (1981, théorie critique), féminisme (Enloe, 1989), postcolonial (Spivak, Said). Émergence académique majeure des approches critiques.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Champ en pleine institutionnalisation, encore contestataire."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -9423,11 +9458,12 @@
         }
       },
       "evidence_basis": [
-        "second_cold_war",
-        "soviet_crisis_and_reform",
-        "neoliberal_turn"
+        "second_cold_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kennedy_1987_rise_fall",
+        "mahan_1890_sea_power"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -9440,11 +9476,12 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1979_1991, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Maturité des études stratégiques et de sécurité ; renouveau de la géopolitique classique. Kennedy (1987) en histoire de la grande stratégie.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Statut académique hétérogène ; chevauche les études stratégiques."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
