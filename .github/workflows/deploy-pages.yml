@@ -43,6 +43,20 @@ jobs:
       - name: Audit references (real existence, network)
         run: npm run audit:refs
 
+      - name: Generate paper LaTeX wrapper
+        run: python3 scripts/generate_paper_tex.py
+
+      - name: Compile paper PDF
+        uses: xu-cheng/latex-action@v4
+        with:
+          root_file: main.tex
+          working_directory: paper
+
+      - name: Publish paper PDF to static
+        run: |
+          mkdir -p static/paper
+          cp paper/main.pdf static/paper/strates_ri_chemin_a.pdf
+
       - name: Build site
         env:
           ORGANIZATION_NAME: ${{ github.repository_owner }}
