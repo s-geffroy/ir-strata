@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0.0",
+  "profiles": [
+    {
+      "profile_id": "default",
+      "label_fr": "Profil par défaut",
+      "weights": {
+        "strategic_reality": 0.6,
+        "political_doctrine": 0.25,
+        "academic_influence": 0.15
+      }
+    },
+    {
+      "profile_id": "hard_strategic",
+      "label_fr": "Profil stratégique dur",
+      "weights": {
+        "strategic_reality": 0.75,
+        "political_doctrine": 0.15,
+        "academic_influence": 0.1
+      }
+    },
+    {
+      "profile_id": "doctrinal",
+      "label_fr": "Profil doctrinal",
+      "weights": {
+        "strategic_reality": 0.45,
+        "political_doctrine": 0.4,
+        "academic_influence": 0.15
+      }
+    },
+    {
+      "profile_id": "academic",
+      "label_fr": "Profil académique",
+      "weights": {
+        "strategic_reality": 0.35,
+        "political_doctrine": 0.2,
+        "academic_influence": 0.45
+      }
+    },
+    {
+      "profile_id": "balanced",
+      "label_fr": "Profil équilibré",
+      "weights": {
+        "strategic_reality": 0.5,
+        "political_doctrine": 0.3,
+        "academic_influence": 0.2
+      }
+    }
+  ]
+}

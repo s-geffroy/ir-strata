@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "confidence.schema.json",
+  "title": "Confidence",
+  "type": "object",
+  "required": [
+    "label",
+    "internal_score",
+    "dimensions"
+  ],
+  "properties": {
+    "label": {
+      "type": "string",
+      "enum": [
+        "low",
+        "medium",
+        "high",
+        "very_high"
+      ]
+    },
+    "internal_score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "dimensions": {
+      "type": "object",
+      "required": [
+        "evidence_quality",
+        "historiographical_consensus",
+        "temporal_stability",
+        "weight_sensitivity",
+        "anachronism_risk"
+      ],
+      "additionalProperties": {
+        "type": "number"
+      }
+    }
+  },
+  "additionalProperties": false
+}

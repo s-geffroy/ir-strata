@@ -1,0 +1,2352 @@
+{
+  "schema_version": "1.0.0",
+  "evidence": [
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "vienna_congress_1815",
+      "label_fr": "Vienna congress 1815",
+      "label_en": "Vienna congress 1815",
+      "evidence_type": "systemic_structure",
+      "period_id": "1815_1848",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1815_1848_global_system_strategic_reality_realism",
+        "score_1815_1848_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "vienna_congress_1815"
+      ],
+      "related_references": [
+        "kissinger_1957_world_restored",
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "concert_europe_balance",
+      "label_fr": "Concert europe balance",
+      "label_en": "Concert europe balance",
+      "evidence_type": "systemic_structure",
+      "period_id": "1815_1848",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1815_1848_global_system_strategic_reality_realism",
+        "score_1815_1848_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "vienna_congress_1815"
+      ],
+      "related_references": [
+        "kissinger_1957_world_restored",
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "colonial_imperial_continuity",
+      "label_fr": "Colonial imperial continuity",
+      "label_en": "Colonial imperial continuity",
+      "evidence_type": "imperial_or_colonial_structure",
+      "period_id": "1815_1848",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1815_1848_global_system_strategic_reality_realism",
+        "score_1815_1848_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "vienna_congress_1815"
+      ],
+      "related_references": [
+        "kissinger_1957_world_restored",
+        "taylor_1954_struggle_mastery",
+        "kennedy_1987_rise_fall"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "revolutions_1848",
+      "label_fr": "Revolutions 1848",
+      "label_en": "Revolutions 1848",
+      "evidence_type": "systemic_structure",
+      "period_id": "1848_1871",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1848_1871_global_system_strategic_reality_realism",
+        "score_1848_1871_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "revolutions_1848"
+      ],
+      "related_references": [
+        "hobsbawm_1975_age_capital",
+        "bayly_2004_birth_modern_world"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "national_unifications",
+      "label_fr": "National unifications",
+      "label_en": "National unifications",
+      "evidence_type": "systemic_structure",
+      "period_id": "1848_1871",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1848_1871_global_system_strategic_reality_realism",
+        "score_1848_1871_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "revolutions_1848"
+      ],
+      "related_references": [
+        "hobsbawm_1975_age_capital",
+        "bayly_2004_birth_modern_world"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "crimean_war_balance",
+      "label_fr": "Crimean war balance",
+      "label_en": "Crimean war balance",
+      "evidence_type": "war_or_conflict",
+      "period_id": "1848_1871",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1848_1871_global_system_strategic_reality_realism",
+        "score_1848_1871_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "revolutions_1848"
+      ],
+      "related_references": [
+        "hobsbawm_1975_age_capital",
+        "bayly_2004_birth_modern_world"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "imperial_partition_competition",
+      "label_fr": "Imperial partition competition",
+      "label_en": "Imperial partition competition",
+      "evidence_type": "systemic_structure",
+      "period_id": "1871_1914",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1871_1914_global_system_strategic_reality_realism",
+        "score_1871_1914_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "berlin_congress_1878"
+      ],
+      "related_references": [
+        "hobsbawm_1987_age_empire",
+        "kennedy_1987_rise_fall",
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "naval_arms_race",
+      "label_fr": "Naval arms race",
+      "label_en": "Naval arms race",
+      "evidence_type": "systemic_structure",
+      "period_id": "1871_1914",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1871_1914_global_system_strategic_reality_realism",
+        "score_1871_1914_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "berlin_congress_1878"
+      ],
+      "related_references": [
+        "hobsbawm_1987_age_empire",
+        "kennedy_1987_rise_fall",
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "alliance_systems_pre_1914",
+      "label_fr": "Alliance systems pre 1914",
+      "label_en": "Alliance systems pre 1914",
+      "evidence_type": "systemic_structure",
+      "period_id": "1871_1914",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1871_1914_global_system_strategic_reality_realism",
+        "score_1871_1914_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "berlin_congress_1878"
+      ],
+      "related_references": [
+        "hobsbawm_1987_age_empire",
+        "kennedy_1987_rise_fall",
+        "mahan_1890_sea_power",
+        "mackinder_1904_pivot"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "world_war_one_total_war",
+      "label_fr": "World war one total war",
+      "label_en": "World war one total war",
+      "evidence_type": "war_or_conflict",
+      "period_id": "1914_1919",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1914_1919_global_system_strategic_reality_realism",
+        "score_1914_1919_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "world_war_one_1914"
+      ],
+      "related_references": [
+        "clark_2012_sleepwalkers",
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "empire_collapse_1918",
+      "label_fr": "Empire collapse 1918",
+      "label_en": "Empire collapse 1918",
+      "evidence_type": "systemic_structure",
+      "period_id": "1914_1919",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1914_1919_global_system_strategic_reality_realism",
+        "score_1914_1919_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "world_war_one_1914"
+      ],
+      "related_references": [
+        "clark_2012_sleepwalkers",
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "wilsonian_moment_1919",
+      "label_fr": "Wilsonian moment 1919",
+      "label_en": "Wilsonian moment 1919",
+      "evidence_type": "systemic_structure",
+      "period_id": "1914_1919",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1914_1919_global_system_strategic_reality_realism",
+        "score_1914_1919_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "world_war_one_1914"
+      ],
+      "related_references": [
+        "clark_2012_sleepwalkers",
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "versailles_order",
+      "label_fr": "Versailles order",
+      "label_en": "Versailles order",
+      "evidence_type": "systemic_structure",
+      "period_id": "1919_1939",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1919_1939_global_system_strategic_reality_realism",
+        "score_1919_1939_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "versailles_treaty_1919",
+        "great_depression_1929"
+      ],
+      "related_references": [
+        "carr_1939_twenty_years",
+        "mazower_1998_dark_continent",
+        "angell_1910_great_illusion"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "league_of_nations_security",
+      "label_fr": "League of nations security",
+      "label_en": "League of nations security",
+      "evidence_type": "institutional_creation",
+      "period_id": "1919_1939",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1919_1939_global_system_strategic_reality_realism",
+        "score_1919_1939_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "versailles_treaty_1919",
+        "great_depression_1929"
+      ],
+      "related_references": [
+        "carr_1939_twenty_years",
+        "mazower_1998_dark_continent",
+        "angell_1910_great_illusion"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "great_depression_international_order",
+      "label_fr": "Great depression international order",
+      "label_en": "Great depression international order",
+      "evidence_type": "systemic_structure",
+      "period_id": "1919_1939",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1919_1939_global_system_strategic_reality_realism",
+        "score_1919_1939_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "versailles_treaty_1919",
+        "great_depression_1929"
+      ],
+      "related_references": [
+        "carr_1939_twenty_years",
+        "mazower_1998_dark_continent",
+        "angell_1910_great_illusion"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "revisionist_powers_1930s",
+      "label_fr": "Revisionist powers 1930s",
+      "label_en": "Revisionist powers 1930s",
+      "evidence_type": "systemic_structure",
+      "period_id": "1919_1939",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1919_1939_global_system_strategic_reality_realism",
+        "score_1919_1939_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "versailles_treaty_1919",
+        "great_depression_1929"
+      ],
+      "related_references": [
+        "carr_1939_twenty_years",
+        "mazower_1998_dark_continent",
+        "angell_1910_great_illusion"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "world_war_two_total_war",
+      "label_fr": "World war two total war",
+      "label_en": "World war two total war",
+      "evidence_type": "war_or_conflict",
+      "period_id": "1939_1945",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1939_1945_global_system_strategic_reality_realism",
+        "score_1939_1945_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 85,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "world_war_two_1939",
+        "united_nations_1945_event"
+      ],
+      "related_references": [
+        "kennedy_1987_rise_fall",
+        "mazower_1998_dark_continent",
+        "hobsbawm_1994_age_extremes"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "axis_imperial_projects",
+      "label_fr": "Axis imperial projects",
+      "label_en": "Axis imperial projects",
+      "evidence_type": "systemic_structure",
+      "period_id": "1939_1945",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1939_1945_global_system_strategic_reality_realism",
+        "score_1939_1945_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 85,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "world_war_two_1939",
+        "united_nations_1945_event"
+      ],
+      "related_references": [
+        "kennedy_1987_rise_fall",
+        "mazower_1998_dark_continent",
+        "hobsbawm_1994_age_extremes"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "allied_grand_strategy",
+      "label_fr": "Allied grand strategy",
+      "label_en": "Allied grand strategy",
+      "evidence_type": "systemic_structure",
+      "period_id": "1939_1945",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1939_1945_global_system_strategic_reality_realism",
+        "score_1939_1945_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 85,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "world_war_two_1939",
+        "united_nations_1945_event"
+      ],
+      "related_references": [
+        "kennedy_1987_rise_fall",
+        "mazower_1998_dark_continent",
+        "hobsbawm_1994_age_extremes"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "united_nations_1945",
+      "label_fr": "United nations 1945",
+      "label_en": "United nations 1945",
+      "evidence_type": "institutional_creation",
+      "period_id": "1939_1945",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1939_1945_global_system_strategic_reality_realism",
+        "score_1939_1945_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 85,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "world_war_two_1939",
+        "united_nations_1945_event"
+      ],
+      "related_references": [
+        "kennedy_1987_rise_fall",
+        "mazower_1998_dark_continent",
+        "hobsbawm_1994_age_extremes"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "cold_war_bipolarity_1945_1962",
+      "label_fr": "Cold war bipolarity 1945 1962",
+      "label_en": "Cold war bipolarity 1945 1962",
+      "evidence_type": "war_or_conflict",
+      "period_id": "1945_1962",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1945_1962_global_system_strategic_reality_realism",
+        "score_1945_1962_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 85,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "truman_doctrine_1947",
+        "nato_creation_1949",
+        "bandung_1955"
+      ],
+      "related_references": [
+        "gaddis_2005_cold_war",
+        "westad_2017_cold_war",
+        "waltz_1979_theory"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "bretton_woods_institutional_order",
+      "label_fr": "Bretton woods institutional order",
+      "label_en": "Bretton woods institutional order",
+      "evidence_type": "institutional_creation",
+      "period_id": "1945_1962",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1945_1962_global_system_strategic_reality_realism",
+        "score_1945_1962_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 85,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "truman_doctrine_1947",
+        "nato_creation_1949",
+        "bandung_1955"
+      ],
+      "related_references": [
+        "gaddis_2005_cold_war",
+        "westad_2017_cold_war",
+        "waltz_1979_theory"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "decolonization_initial_wave",
+      "label_fr": "Decolonization initial wave",
+      "label_en": "Decolonization initial wave",
+      "evidence_type": "imperial_or_colonial_structure",
+      "period_id": "1945_1962",
+      "related_entities": [],
+      "related_theories": [
+        "marxism_dependency_structuralism",
+        "critical_postcolonial_feminist",
+        "english_school"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1945_1962_global_system_strategic_reality_marxism_dependency_structuralism",
+        "score_1945_1962_global_system_strategic_reality_critical_postcolonial_feminist"
+      ],
+      "probative_strength": 85,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "truman_doctrine_1947",
+        "nato_creation_1949",
+        "bandung_1955"
+      ],
+      "related_references": [
+        "gaddis_2005_cold_war",
+        "westad_2017_cold_war",
+        "waltz_1979_theory"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "nuclear_deterrence_emergence",
+      "label_fr": "Nuclear deterrence emergence",
+      "label_en": "Nuclear deterrence emergence",
+      "evidence_type": "systemic_structure",
+      "period_id": "1945_1962",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1945_1962_global_system_strategic_reality_realism",
+        "score_1945_1962_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 85,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "truman_doctrine_1947",
+        "nato_creation_1949",
+        "bandung_1955"
+      ],
+      "related_references": [
+        "gaddis_2005_cold_war",
+        "westad_2017_cold_war",
+        "waltz_1979_theory"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "cold_war_detente",
+      "label_fr": "Cold war detente",
+      "label_en": "Cold war detente",
+      "evidence_type": "war_or_conflict",
+      "period_id": "1962_1979",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1962_1979_global_system_strategic_reality_realism",
+        "score_1962_1979_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "cuban_missile_crisis_1962",
+        "oil_shock_1973"
+      ],
+      "related_references": [
+        "westad_2005_global_cold_war",
+        "wallerstein_1974_modern_world_system",
+        "cardoso_faletto_1979_dependency"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "non_aligned_and_bandung_legacy",
+      "label_fr": "Non aligned and bandung legacy",
+      "label_en": "Non aligned and bandung legacy",
+      "evidence_type": "systemic_structure",
+      "period_id": "1962_1979",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1962_1979_global_system_strategic_reality_realism",
+        "score_1962_1979_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "cuban_missile_crisis_1962",
+        "oil_shock_1973"
+      ],
+      "related_references": [
+        "westad_2005_global_cold_war",
+        "wallerstein_1974_modern_world_system",
+        "cardoso_faletto_1979_dependency"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "dependency_and_oil_shocks",
+      "label_fr": "Dependency and oil shocks",
+      "label_en": "Dependency and oil shocks",
+      "evidence_type": "economic_structure",
+      "period_id": "1962_1979",
+      "related_entities": [],
+      "related_theories": [
+        "marxism_dependency_structuralism",
+        "critical_postcolonial_feminist",
+        "english_school"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1962_1979_global_system_strategic_reality_marxism_dependency_structuralism",
+        "score_1962_1979_global_system_strategic_reality_critical_postcolonial_feminist"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "cuban_missile_crisis_1962",
+        "oil_shock_1973"
+      ],
+      "related_references": [
+        "westad_2005_global_cold_war",
+        "wallerstein_1974_modern_world_system",
+        "cardoso_faletto_1979_dependency"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "postcolonial_sovereignty_expansion",
+      "label_fr": "Postcolonial sovereignty expansion",
+      "label_en": "Postcolonial sovereignty expansion",
+      "evidence_type": "imperial_or_colonial_structure",
+      "period_id": "1962_1979",
+      "related_entities": [],
+      "related_theories": [
+        "marxism_dependency_structuralism",
+        "critical_postcolonial_feminist",
+        "english_school"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1962_1979_global_system_strategic_reality_marxism_dependency_structuralism",
+        "score_1962_1979_global_system_strategic_reality_critical_postcolonial_feminist"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "cuban_missile_crisis_1962",
+        "oil_shock_1973"
+      ],
+      "related_references": [
+        "westad_2005_global_cold_war",
+        "wallerstein_1974_modern_world_system",
+        "cardoso_faletto_1979_dependency"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "second_cold_war",
+      "label_fr": "Second cold war",
+      "label_en": "Second cold war",
+      "evidence_type": "war_or_conflict",
+      "period_id": "1979_1991",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1979_1991_global_system_strategic_reality_realism",
+        "score_1979_1991_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "soviet_afghanistan_1979"
+      ],
+      "related_references": [
+        "gaddis_2005_cold_war",
+        "westad_2017_cold_war",
+        "keohane_1984_after_hegemony"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "soviet_crisis_and_reform",
+      "label_fr": "Soviet crisis and reform",
+      "label_en": "Soviet crisis and reform",
+      "evidence_type": "systemic_structure",
+      "period_id": "1979_1991",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1979_1991_global_system_strategic_reality_realism",
+        "score_1979_1991_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "soviet_afghanistan_1979"
+      ],
+      "related_references": [
+        "gaddis_2005_cold_war",
+        "westad_2017_cold_war",
+        "keohane_1984_after_hegemony"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "neoliberal_turn",
+      "label_fr": "Neoliberal turn",
+      "label_en": "Neoliberal turn",
+      "evidence_type": "systemic_structure",
+      "period_id": "1979_1991",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1979_1991_global_system_strategic_reality_realism",
+        "score_1979_1991_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "soviet_afghanistan_1979"
+      ],
+      "related_references": [
+        "gaddis_2005_cold_war",
+        "westad_2017_cold_war",
+        "keohane_1984_after_hegemony"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "end_of_cold_war",
+      "label_fr": "End of cold war",
+      "label_en": "End of cold war",
+      "evidence_type": "war_or_conflict",
+      "period_id": "1979_1991",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1979_1991_global_system_strategic_reality_realism",
+        "score_1979_1991_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "soviet_afghanistan_1979"
+      ],
+      "related_references": [
+        "gaddis_2005_cold_war",
+        "westad_2017_cold_war",
+        "keohane_1984_after_hegemony"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "us_unipolarity_1991_2001",
+      "label_fr": "Us unipolarity 1991 2001",
+      "label_en": "Us unipolarity 1991 2001",
+      "evidence_type": "systemic_structure",
+      "period_id": "1991_2001",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1991_2001_global_system_strategic_reality_realism",
+        "score_1991_2001_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "soviet_collapse_1991",
+        "wto_1995"
+      ],
+      "related_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history",
+        "krauthammer_1990_unipolar_moment"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "liberal_institutional_expansion_1991_2001",
+      "label_fr": "Liberal institutional expansion 1991 2001",
+      "label_en": "Liberal institutional expansion 1991 2001",
+      "evidence_type": "institutional_creation",
+      "period_id": "1991_2001",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1991_2001_global_system_strategic_reality_realism",
+        "score_1991_2001_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "soviet_collapse_1991",
+        "wto_1995"
+      ],
+      "related_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history",
+        "krauthammer_1990_unipolar_moment"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "humanitarian_intervention_norms_1990s",
+      "label_fr": "Humanitarian intervention norms 1990s",
+      "label_en": "Humanitarian intervention norms 1990s",
+      "evidence_type": "systemic_structure",
+      "period_id": "1991_2001",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_1991_2001_global_system_strategic_reality_realism",
+        "score_1991_2001_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "soviet_collapse_1991",
+        "wto_1995"
+      ],
+      "related_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history",
+        "krauthammer_1990_unipolar_moment"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "september_11_and_war_on_terror",
+      "label_fr": "September 11 and war on terror",
+      "label_en": "September 11 and war on terror",
+      "evidence_type": "war_or_conflict",
+      "period_id": "2001_2008",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_2001_2008_global_system_strategic_reality_realism",
+        "score_2001_2008_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "september_11_2001"
+      ],
+      "related_references": [
+        "mearsheimer_2001_tragedy",
+        "ikenberry_2011_liberal_leviathan",
+        "said_1978_orientalism"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "iraq_war_2003",
+      "label_fr": "Iraq war 2003",
+      "label_en": "Iraq war 2003",
+      "evidence_type": "war_or_conflict",
+      "period_id": "2001_2008",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_2001_2008_global_system_strategic_reality_realism",
+        "score_2001_2008_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "september_11_2001"
+      ],
+      "related_references": [
+        "mearsheimer_2001_tragedy",
+        "ikenberry_2011_liberal_leviathan",
+        "said_1978_orientalism"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "security_exceptionalism_2000s",
+      "label_fr": "Security exceptionalism 2000s",
+      "label_en": "Security exceptionalism 2000s",
+      "evidence_type": "systemic_structure",
+      "period_id": "2001_2008",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_2001_2008_global_system_strategic_reality_realism",
+        "score_2001_2008_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "september_11_2001"
+      ],
+      "related_references": [
+        "mearsheimer_2001_tragedy",
+        "ikenberry_2011_liberal_leviathan",
+        "said_1978_orientalism"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "global_financial_crisis_2008",
+      "label_fr": "Global financial crisis 2008",
+      "label_en": "Global financial crisis 2008",
+      "evidence_type": "economic_structure",
+      "period_id": "2008_2014",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_2008_2014_global_system_strategic_reality_realism",
+        "score_2008_2014_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "global_financial_crisis_2008_event"
+      ],
+      "related_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "mearsheimer_2018_great_delusion",
+        "wallerstein_1974_modern_world_system"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "arab_uprisings_2011",
+      "label_fr": "Arab uprisings 2011",
+      "label_en": "Arab uprisings 2011",
+      "evidence_type": "systemic_structure",
+      "period_id": "2008_2014",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_2008_2014_global_system_strategic_reality_realism",
+        "score_2008_2014_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "global_financial_crisis_2008_event"
+      ],
+      "related_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "mearsheimer_2018_great_delusion",
+        "wallerstein_1974_modern_world_system"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "crimea_donbass_2014",
+      "label_fr": "Crimea donbass 2014",
+      "label_en": "Crimea donbass 2014",
+      "evidence_type": "war_or_conflict",
+      "period_id": "2008_2014",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_2008_2014_global_system_strategic_reality_realism",
+        "score_2008_2014_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "global_financial_crisis_2008_event"
+      ],
+      "related_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "mearsheimer_2018_great_delusion",
+        "wallerstein_1974_modern_world_system"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "russia_west_fragmentation_2014_2022",
+      "label_fr": "Russia west fragmentation 2014 2022",
+      "label_en": "Russia west fragmentation 2014 2022",
+      "evidence_type": "systemic_structure",
+      "period_id": "2014_2022",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_2014_2022_global_system_strategic_reality_realism",
+        "score_2014_2022_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "crimea_2014"
+      ],
+      "related_references": [
+        "mearsheimer_2001_tragedy",
+        "cooley_nexon_2020_exit_hegemony",
+        "acharya_2014_end_american_world_order"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "us_china_rivalry_acceleration",
+      "label_fr": "Us china rivalry acceleration",
+      "label_en": "Us china rivalry acceleration",
+      "evidence_type": "systemic_structure",
+      "period_id": "2014_2022",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_2014_2022_global_system_strategic_reality_realism",
+        "score_2014_2022_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "crimea_2014"
+      ],
+      "related_references": [
+        "mearsheimer_2001_tragedy",
+        "cooley_nexon_2020_exit_hegemony",
+        "acharya_2014_end_american_world_order"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "sanctions_and_hybrid_conflict",
+      "label_fr": "Sanctions and hybrid conflict",
+      "label_en": "Sanctions and hybrid conflict",
+      "evidence_type": "systemic_structure",
+      "period_id": "2014_2022",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_2014_2022_global_system_strategic_reality_realism",
+        "score_2014_2022_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 72,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "crimea_2014"
+      ],
+      "related_references": [
+        "mearsheimer_2001_tragedy",
+        "cooley_nexon_2020_exit_hegemony",
+        "acharya_2014_end_american_world_order"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "ukraine_invasion_2022",
+      "label_fr": "Ukraine invasion 2022",
+      "label_en": "Ukraine invasion 2022",
+      "evidence_type": "war_or_conflict",
+      "period_id": "2022_2026",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_2022_2026_global_system_strategic_reality_realism",
+        "score_2022_2026_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 85,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "ukraine_invasion_2022_event"
+      ],
+      "related_references": [
+        "mearsheimer_2001_tragedy",
+        "cooley_nexon_2020_exit_hegemony",
+        "acharya_2014_end_american_world_order"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "sanctions_energy_security_2022_2026",
+      "label_fr": "Sanctions energy security 2022 2026",
+      "label_en": "Sanctions energy security 2022 2026",
+      "evidence_type": "systemic_structure",
+      "period_id": "2022_2026",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_2022_2026_global_system_strategic_reality_realism",
+        "score_2022_2026_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 85,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "ukraine_invasion_2022_event"
+      ],
+      "related_references": [
+        "mearsheimer_2001_tragedy",
+        "cooley_nexon_2020_exit_hegemony",
+        "acharya_2014_end_american_world_order"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "bloc_flexibility_global_south",
+      "label_fr": "Bloc flexibility global south",
+      "label_en": "Bloc flexibility global south",
+      "evidence_type": "systemic_structure",
+      "period_id": "2022_2026",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "marxism_dependency_structuralism",
+        "constructivism",
+        "english_school",
+        "critical_postcolonial_feminist",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_2022_2026_global_system_strategic_reality_realism",
+        "score_2022_2026_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 85,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "ukraine_invasion_2022_event"
+      ],
+      "related_references": [
+        "mearsheimer_2001_tragedy",
+        "cooley_nexon_2020_exit_hegemony",
+        "acharya_2014_end_american_world_order"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "evidence_id": "indo_pacific_security_rivalry",
+      "label_fr": "Indo pacific security rivalry",
+      "label_en": "Indo pacific security rivalry",
+      "evidence_type": "systemic_structure",
+      "period_id": "2022_2026",
+      "related_entities": [],
+      "related_theories": [
+        "realism",
+        "liberalism",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "related_layers": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence"
+      ],
+      "supports_scores": [
+        "score_2022_2026_global_system_strategic_reality_realism",
+        "score_2022_2026_global_system_strategic_reality_liberalism"
+      ],
+      "probative_strength": 85,
+      "summary_fr": "Preuve structurante V1 reliant la période, les scores et les références. À enrichir avec citations précises dans une version ultérieure.",
+      "related_events": [
+        "ukraine_invasion_2022_event"
+      ],
+      "related_references": [
+        "mearsheimer_2001_tragedy",
+        "cooley_nexon_2020_exit_hegemony",
+        "acharya_2014_end_american_world_order"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    }
+  ]
+}

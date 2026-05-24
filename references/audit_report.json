@@ -1,0 +1,1133 @@
+{
+  "audited_at": "2026-05-24",
+  "source_apis": [
+    "crossref",
+    "openlibrary"
+  ],
+  "total": 56,
+  "counts": {
+    "verified": 56
+  },
+  "results": [
+    {
+      "id": "morgenthau_1948_politics",
+      "bibtex_key": "morgenthau1948politics",
+      "title": "Politics Among Nations: The Struggle for Power and Peace",
+      "author": "Hans J. Morgenthau",
+      "year": 1948,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "Politics Among Nations: The Struggle for Power and Peace.",
+        "author": "Barrington Moore Hans J. Morgenthau",
+        "year": 1949,
+        "id": "10.2307/2086875",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 15
+    },
+    {
+      "id": "waltz_1959_man_state_war",
+      "bibtex_key": "waltz1959manstatewar",
+      "title": "Man, the State, and War",
+      "author": "Kenneth N. Waltz",
+      "year": 1959,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "Man, the State, and War",
+        "author": "Kenneth Waltz",
+        "year": 2018,
+        "id": "10.7312/walt18804",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": false,
+        "composite": 1.3
+      },
+      "candidates_seen": 15
+    },
+    {
+      "id": "waltz_1979_theory",
+      "bibtex_key": "waltz1979theory",
+      "title": "Theory of International Politics",
+      "author": "Kenneth N. Waltz",
+      "year": 1979,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "openlibrary",
+        "title": "Theory of international politics",
+        "author": "Kenneth N. Waltz",
+        "year": 1979,
+        "id": "/works/OL11379846W",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 14
+    },
+    {
+      "id": "mearsheimer_2001_tragedy",
+      "bibtex_key": "mearsheimer2001tragedy",
+      "title": "The Tragedy of Great Power Politics",
+      "author": "John J. Mearsheimer",
+      "year": 2001,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "The Tragedy of Great Power Politics",
+        "author": "G. John Ikenberry John J. Mearsheimer",
+        "year": 2001,
+        "id": "10.2307/20050342",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 12
+    },
+    {
+      "id": "mearsheimer_2018_great_delusion",
+      "bibtex_key": "mearsheimer2018greatdelusion",
+      "title": "The Great Delusion: Liberal Dreams and International Realities",
+      "author": "John J. Mearsheimer",
+      "year": 2018,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "Great Delusion",
+        "author": "JOHN J. MEARSHEIMER",
+        "year": 2018,
+        "id": "10.2307/j.ctv5cgb1w",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 11
+    },
+    {
+      "id": "gilpin_1981_war_change",
+      "bibtex_key": "gilpin1981warchange",
+      "title": "War and Change in World Politics",
+      "author": "Robert Gilpin",
+      "year": 1981,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "War and Change in World Politics",
+        "author": "Robert Gilpin",
+        "year": 1981,
+        "id": "10.1017/cbo9780511664267",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 13
+    },
+    {
+      "id": "jervis_1978_security_dilemma",
+      "bibtex_key": "jervis1978securitydilemma",
+      "title": "Cooperation Under the Security Dilemma",
+      "author": "Robert Jervis",
+      "year": 1978,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "Cooperation under the Security Dilemma",
+        "author": "Robert Jervis",
+        "year": 1978,
+        "id": "10.2307/2009958",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 12
+    },
+    {
+      "id": "keohane_1984_after_hegemony",
+      "bibtex_key": "keohane1984afterhegemony",
+      "title": "After Hegemony: Cooperation and Discord in the World Political Economy",
+      "author": "Robert O. Keohane",
+      "year": 1984,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "After Hegemony: Cooperation and Discord in the World Political Economy",
+        "author": "William Diebold Robert O. Keohane",
+        "year": 1984,
+        "id": "10.2307/20042201",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 12
+    },
+    {
+      "id": "keohane_nye_1977_power_interdependence",
+      "bibtex_key": "keohanenye1977powerinterdependence",
+      "title": "Power and Interdependence",
+      "author": "Robert O. Keohane and Joseph S. Nye",
+      "year": 1977,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "openlibrary",
+        "title": "Power and interdependence",
+        "author": "Robert O. Keohane",
+        "year": 1977,
+        "id": "/works/OL4629903W",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 15
+    },
+    {
+      "id": "doyle_1983_kant_liberal_legacies",
+      "bibtex_key": "doyle1983kantliberallegacies",
+      "title": "Kant, Liberal Legacies, and Foreign Affairs",
+      "author": "Michael W. Doyle",
+      "year": 1983,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "Kant, Liberal Legacies, and Foreign Affairs*",
+        "author": "Michael W. Doyle",
+        "year": 2017,
+        "id": "10.4324/9781315252629-22",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": false,
+        "composite": 1.3
+      },
+      "candidates_seen": 10
+    },
+    {
+      "id": "ikenberry_2001_after_victory",
+      "bibtex_key": "ikenberry2001aftervictory",
+      "title": "After Victory: Institutions, Strategic Restraint, and the Rebuilding of Order after Major Wars",
+      "author": "G. John Ikenberry",
+      "year": 2001,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "After Victory",
+        "author": "G. John Ikenberry",
+        "year": 2001,
+        "id": "10.1515/9781400823963",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 12
+    },
+    {
+      "id": "ikenberry_2011_liberal_leviathan",
+      "bibtex_key": "ikenberry2011liberalleviathan",
+      "title": "Liberal Leviathan",
+      "author": "G. John Ikenberry",
+      "year": 2011,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "Liberal Leviathan",
+        "author": "G. John Ikenberry",
+        "year": 2012,
+        "id": "10.1515/9781400838196",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 13
+    },
+    {
+      "id": "fukuyama_1992_end_history",
+      "bibtex_key": "fukuyama1992endhistory",
+      "title": "The End of History and the Last Man",
+      "author": "Francis Fukuyama",
+      "year": 1992,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "The End of History and the Last Man.",
+        "author": "Michael S. Roth Francis Fukuyama",
+        "year": 1993,
+        "id": "10.2307/2505352",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 15
+    },
+    {
+      "id": "krauthammer_1990_unipolar_moment",
+      "bibtex_key": "krauthammer1990unipolarmoment",
+      "title": "The Unipolar Moment",
+      "author": "Charles Krauthammer",
+      "year": 1990,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "The Unipolar Moment",
+        "author": "Charles Krauthammer",
+        "year": 1990,
+        "id": "10.2307/20044692",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 11
+    },
+    {
+      "id": "lenin_1917_imperialism",
+      "bibtex_key": "lenin1917imperialism",
+      "title": "Imperialism, the Highest Stage of Capitalism",
+      "author": "Vladimir I. Lenin",
+      "year": 1917,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "Extract from ‘Imperialism, the Highest Stage of Capitalism’",
+        "author": "Vladimir Ilych Lenin",
+        "year": 2022,
+        "id": "10.4324/9781003101512-21",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": false,
+        "composite": 1.3
+      },
+      "candidates_seen": 15
+    },
+    {
+      "id": "wallerstein_1974_modern_world_system",
+      "bibtex_key": "wallerstein1974modernworldsystem",
+      "title": "The Modern World-System",
+      "author": "Immanuel Wallerstein",
+      "year": 1974,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "The Modern World System by Immanuel Wallerstein (Academic Press; 416 pp.; $16.50)",
+        "author": "Martin Green",
+        "year": 1975,
+        "id": "10.1017/s0084255900028199",
+        "title_sim": 1.0,
+        "author_ok": false,
+        "year_ok": true,
+        "composite": 1.2
+      },
+      "candidates_seen": 14
+    },
+    {
+      "id": "cardoso_faletto_1979_dependency",
+      "bibtex_key": "cardosofaletto1979dependency",
+      "title": "Dependency and Development in Latin America",
+      "author": "Fernando Henrique Cardoso and Enzo Faletto",
+      "year": 1979,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "Dependency and Development in Latin America",
+        "author": "Fernando Henrique Cardoso Enzo Faletto",
+        "year": 1979,
+        "id": "10.1525/9780520342118",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 12
+    },
+    {
+      "id": "cox_1981_social_forces",
+      "bibtex_key": "cox1981socialforces",
+      "title": "Social Forces, States and World Orders",
+      "author": "Robert W. Cox",
+      "year": 1981,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "Social Forces, States and World Orders: Beyond International Relations Theory",
+        "author": "Robert W. Cox",
+        "year": 1981,
+        "id": "10.1177/03058298810100020501",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 11
+    },
+    {
+      "id": "gramsci_1971_prison_notebooks",
+      "bibtex_key": "gramsci1971prisonnotebooks",
+      "title": "Selections from the Prison Notebooks",
+      "author": "Antonio Gramsci",
+      "year": 1971,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "openlibrary",
+        "title": "Selections from the prison notebooks of Antonio Gramsci",
+        "author": "Antonio Gramsci",
+        "year": 1971,
+        "id": "/works/OL77369W",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 15
+    },
+    {
+      "id": "wendt_1992_anarchy",
+      "bibtex_key": "wendt1992anarchy",
+      "title": "Anarchy is What States Make of It",
+      "author": "Alexander Wendt",
+      "year": 1992,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "Anarchy is what states make of it: the social construction of power politics",
+        "author": "Alexander Wendt",
+        "year": 1992,
+        "id": "10.1017/s0020818300027764",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 11
+    },
+    {
+      "id": "wendt_1999_social_theory",
+      "bibtex_key": "wendt1999socialtheory",
+      "title": "Social Theory of International Politics",
+      "author": "Alexander Wendt",
+      "year": 1999,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "Social Theory of International Politics",
+        "author": "Alexander Wendt",
+        "year": 1999,
+        "id": "10.1017/cbo9780511612183",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 15
+    },
+    {
+      "id": "finnemore_1996_national_interests",
+      "bibtex_key": "finnemore1996nationalinterests",
+      "title": "National Interests in International Society",
+      "author": "Martha Finnemore",
+      "year": 1996,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "National Interests in International Society",
+        "author": "Martha Finnemore",
+        "year": 1996,
+        "id": "10.7591/9781501707384",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 11
+    },
+    {
+      "id": "ruggie_1982_international_regimes",
+      "bibtex_key": "ruggie1982internationalregimes",
+      "title": "International Regimes, Transactions, and Change",
+      "author": "John Gerard Ruggie",
+      "year": 1982,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "International regimes, transactions, and change: embedded liberalism in the postwar economic order",
+        "author": "John Gerard Ruggie",
+        "year": 1982,
+        "id": "10.1017/s0020818300018993",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 10
+    },
+    {
+      "id": "bull_1977_anarchical_society",
+      "bibtex_key": "bull1977anarchicalsociety",
+      "title": "The Anarchical Society",
+      "author": "Hedley Bull",
+      "year": 1977,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "openlibrary",
+        "title": "The Anarchical Society",
+        "author": "Hedley Bull",
+        "year": 1977,
+        "id": "/works/OL3490685W",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 15
+    },
+    {
+      "id": "buzan_2004_international_world",
+      "bibtex_key": "buzan2004internationalworld",
+      "title": "From International to World Society?",
+      "author": "Barry Buzan",
+      "year": 2004,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "From International to World Society?",
+        "author": "Barry Buzan",
+        "year": 2004,
+        "id": "10.1017/cbo9780511616617",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 13
+    },
+    {
+      "id": "linklater_suganami_2006_english_school",
+      "bibtex_key": "linklatersuganami2006englishschool",
+      "title": "The English School of International Relations",
+      "author": "Andrew Linklater and Hidemi Suganami",
+      "year": 2006,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "The English School of International Relations",
+        "author": "Andrew Linklater Hidemi Suganami",
+        "year": 2006,
+        "id": "10.1017/cbo9780511491528",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 11
+    },
+    {
+      "id": "said_1978_orientalism",
+      "bibtex_key": "said1978orientalism",
+      "title": "Orientalism",
+      "author": "Edward W. Said",
+      "year": 1978,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "openlibrary",
+        "title": "Orientalism",
+        "author": "Edward W. Said",
+        "year": 1978,
+        "id": "/works/OL27405W",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 15
+    },
+    {
+      "id": "spivak_1988_subaltern",
+      "bibtex_key": "spivak1988subaltern",
+      "title": "Can the Subaltern Speak?",
+      "author": "Gayatri Chakravorty Spivak",
+      "year": 1988,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "openlibrary",
+        "title": "Can the Subaltern Speak?",
+        "author": "Gayatri Chakravorty Spivak",
+        "year": 2007,
+        "id": "/works/OL19097663W",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": false,
+        "composite": 1.3
+      },
+      "candidates_seen": 14
+    },
+    {
+      "id": "tickner_1992_gender_ir",
+      "bibtex_key": "tickner1992genderir",
+      "title": "Gender in International Relations",
+      "author": "J. Ann Tickner",
+      "year": 1992,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "openlibrary",
+        "title": "Gender in International Relations",
+        "author": "J. Ann Tickner",
+        "year": 1992,
+        "id": "/works/OL4283731W",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 13
+    },
+    {
+      "id": "enloe_1989_bananas",
+      "bibtex_key": "enloe1989bananas",
+      "title": "Bananas, Beaches and Bases",
+      "author": "Cynthia Enloe",
+      "year": 1989,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "openlibrary",
+        "title": "Bananas, beaches & bases",
+        "author": "Cynthia H. Enloe, Cynthia Enloe",
+        "year": 1989,
+        "id": "/works/OL4315511W",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 11
+    },
+    {
+      "id": "ashley_1984_poverty_neorealism",
+      "bibtex_key": "ashley1984povertyneorealism",
+      "title": "The Poverty of Neorealism",
+      "author": "Richard K. Ashley",
+      "year": 1984,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "The poverty of neorealism",
+        "author": "Richard K. Ashley",
+        "year": 1984,
+        "id": "10.1017/s0020818300026709",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 11
+    },
+    {
+      "id": "mahan_1890_sea_power",
+      "bibtex_key": "mahan1890seapower",
+      "title": "The Influence of Sea Power upon History",
+      "author": "Alfred Thayer Mahan",
+      "year": 1890,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "openlibrary",
+        "title": "The influence of sea power upon history, 1660-1783",
+        "author": "Alfred Thayer Mahan",
+        "year": 1890,
+        "id": "/works/OL25676W",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 15
+    },
+    {
+      "id": "mackinder_1904_pivot",
+      "bibtex_key": "mackinder1904pivot",
+      "title": "The Geographical Pivot of History",
+      "author": "Halford J. Mackinder",
+      "year": 1904,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "The Geographical Pivot of History",
+        "author": "H. J. Mackinder",
+        "year": 1904,
+        "id": "10.2307/1775498",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 14
+    },
+    {
+      "id": "spykman_1942_strategy",
+      "bibtex_key": "spykman1942strategy",
+      "title": "America's Strategy in World Politics",
+      "author": "Nicholas J. Spykman",
+      "year": 1942,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "America's Strategy in World Politics.",
+        "author": "Michael Greenberg Nicholas John Spykman",
+        "year": 1942,
+        "id": "10.2307/2752255",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 13
+    },
+    {
+      "id": "kissinger_1957_world_restored",
+      "bibtex_key": "kissinger1957worldrestored",
+      "title": "A World Restored",
+      "author": "Henry A. Kissinger",
+      "year": 1957,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "A World Restored: Europe after Napoleon",
+        "author": "Francis Fukuyama Henry A. Kissinger",
+        "year": 1997,
+        "id": "10.2307/20048215",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": false,
+        "composite": 1.3
+      },
+      "candidates_seen": 14
+    },
+    {
+      "id": "kissinger_1994_diplomacy",
+      "bibtex_key": "kissinger1994diplomacy",
+      "title": "Diplomacy",
+      "author": "Henry Kissinger",
+      "year": 1994,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "openlibrary",
+        "title": "Diplomacy",
+        "author": "Henry Kissinger",
+        "year": 1994,
+        "id": "/works/OL1967243W",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 15
+    },
+    {
+      "id": "kennedy_1987_rise_fall",
+      "bibtex_key": "kennedy1987risefall",
+      "title": "The Rise and Fall of the Great Powers",
+      "author": "Paul Kennedy",
+      "year": 1987,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "Comments on Paul Kennedy's The Rise and Fall of the Great Powers",
+        "author": "Anthony Giddens Michael Mann Immanuel Wallerstein Paul Kennedy",
+        "year": 1989,
+        "id": "10.2307/590276",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 15
+    },
+    {
+      "id": "hobsbawm_1962_age_revolution",
+      "bibtex_key": "hobsbawm1962agerevolution",
+      "title": "The Age of Revolution: 1789–1848",
+      "author": "Eric Hobsbawm",
+      "year": 1962,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "The Age of Revolution, 1789-1848",
+        "author": "Theodore S. Hamerow E. J. Hobsbawm",
+        "year": 1963,
+        "id": "10.2307/1847267",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 12
+    },
+    {
+      "id": "hobsbawm_1975_age_capital",
+      "bibtex_key": "hobsbawm1975agecapital",
+      "title": "The Age of Capital: 1848–1875",
+      "author": "Eric Hobsbawm",
+      "year": 1975,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "The Age of Capital, 1848-1875.",
+        "author": "S. D. Berkowitz E. J. Hobsbawm",
+        "year": 1977,
+        "id": "10.2307/2066422",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 10
+    },
+    {
+      "id": "hobsbawm_1987_age_empire",
+      "bibtex_key": "hobsbawm1987ageempire",
+      "title": "The Age of Empire: 1875–1914",
+      "author": "Eric Hobsbawm",
+      "year": 1987,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "The Age of Empire, 1875-1914",
+        "author": "Eugen Weber E. J. Hobsbawm",
+        "year": 1989,
+        "id": "10.2307/1866868",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 10
+    },
+    {
+      "id": "hobsbawm_1994_age_extremes",
+      "bibtex_key": "hobsbawm1994ageextremes",
+      "title": "The Age of Extremes",
+      "author": "Eric Hobsbawm",
+      "year": 1994,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "openlibrary",
+        "title": "The age of extremes",
+        "author": "Eric Hobsbawm",
+        "year": 1994,
+        "id": "/works/OL495649W",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 14
+    },
+    {
+      "id": "taylor_1954_struggle_mastery",
+      "bibtex_key": "taylor1954strugglemastery",
+      "title": "The Struggle for Mastery in Europe 1848–1918",
+      "author": "A. J. P. Taylor",
+      "year": 1954,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "The Struggle for Mastery in Europe, 1848-1918",
+        "author": "C. C. Bayley A. J. P. Taylor",
+        "year": 1955,
+        "id": "10.2307/40198159",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 11
+    },
+    {
+      "id": "clark_2012_sleepwalkers",
+      "bibtex_key": "clark2012sleepwalkers",
+      "title": "The Sleepwalkers",
+      "author": "Christopher Clark",
+      "year": 2012,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "openlibrary",
+        "title": "The Sleepwalkers",
+        "author": "Christopher Clark",
+        "year": 2013,
+        "id": "/works/OL17366836W",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 13
+    },
+    {
+      "id": "mazower_1998_dark_continent",
+      "bibtex_key": "mazower1998darkcontinent",
+      "title": "Dark Continent",
+      "author": "Mark Mazower",
+      "year": 1998,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "Dark Continent: Europe's Twentieth Century",
+        "author": "Helen Fessenden Mark Mazower",
+        "year": 1999,
+        "id": "10.2307/20049489",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 12
+    },
+    {
+      "id": "mazower_2012_governing_world",
+      "bibtex_key": "mazower2012governingworld",
+      "title": "Governing the World",
+      "author": "Mark Mazower",
+      "year": 2012,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "openlibrary",
+        "title": "Governing the World",
+        "author": "Mark Mazower",
+        "year": 2013,
+        "id": "/works/OL21054895W",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 14
+    },
+    {
+      "id": "gaddis_2005_cold_war",
+      "bibtex_key": "gaddis2005coldwar",
+      "title": "The Cold War: A New History",
+      "author": "John Lewis Gaddis",
+      "year": 2005,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "openlibrary",
+        "title": "The Cold War",
+        "author": "John Lewis Gaddis",
+        "year": 2005,
+        "id": "/works/OL2865967W",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 13
+    },
+    {
+      "id": "westad_2005_global_cold_war",
+      "bibtex_key": "westad2005globalcoldwar",
+      "title": "The Global Cold War",
+      "author": "Odd Arne Westad",
+      "year": 2005,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "openlibrary",
+        "title": "The Global Cold War",
+        "author": "Odd Arne Westad",
+        "year": 2005,
+        "id": "/works/OL4293881W",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 15
+    },
+    {
+      "id": "westad_2017_cold_war",
+      "bibtex_key": "westad2017coldwar",
+      "title": "The Cold War: A World History",
+      "author": "Odd Arne Westad",
+      "year": 2017,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "openlibrary",
+        "title": "The cold war",
+        "author": "Odd Arne Westad",
+        "year": 2017,
+        "id": "/works/OL19715211W",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 13
+    },
+    {
+      "id": "judt_2005_postwar",
+      "bibtex_key": "judt2005postwar",
+      "title": "Postwar",
+      "author": "Tony Judt",
+      "year": 2005,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "openlibrary",
+        "title": "Postwar",
+        "author": "Tony Judt",
+        "year": 2005,
+        "id": "/works/OL1894813W",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 15
+    },
+    {
+      "id": "burbank_cooper_2010_empires",
+      "bibtex_key": "burbankcooper2010empires",
+      "title": "Empires in World History",
+      "author": "Jane Burbank and Frederick Cooper",
+      "year": 2010,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "Empires in World History",
+        "author": "Jane Burbank Frederick Cooper",
+        "year": 2011,
+        "id": "10.1515/9781400834709",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 11
+    },
+    {
+      "id": "bayly_2004_birth_modern_world",
+      "bibtex_key": "bayly2004birthmodernworld",
+      "title": "The Birth of the Modern World",
+      "author": "C. A. Bayly",
+      "year": 2004,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "openlibrary",
+        "title": "The Birth of the Modern World, 1780-1914",
+        "author": "C. A. Bayly",
+        "year": 2003,
+        "id": "/works/OL1039677W",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 11
+    },
+    {
+      "id": "carr_1939_twenty_years",
+      "bibtex_key": "carr1939twentyyears",
+      "title": "The Twenty Years' Crisis",
+      "author": "E. H. Carr",
+      "year": 1939,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "openlibrary",
+        "title": "The Twenty Years' Crisis, 1919-1939",
+        "author": "Edward Hallet Carr",
+        "year": 1939,
+        "id": "/works/OL1170631W",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 15
+    },
+    {
+      "id": "angell_1910_great_illusion",
+      "bibtex_key": "angell1910greatillusion",
+      "title": "The Great Illusion",
+      "author": "Norman Angell",
+      "year": 1910,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "openlibrary",
+        "title": "The great illusion",
+        "author": "Norman Angell",
+        "year": 1909,
+        "id": "/works/OL89024W",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 15
+    },
+    {
+      "id": "krasner_1983_international_regimes",
+      "bibtex_key": "krasner1983internationalregimes",
+      "title": "International Regimes",
+      "author": "Stephen D. Krasner",
+      "year": 1983,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "Transforming International Regimes: What the Third World Wants and Why",
+        "author": "Stephen D. Krasner",
+        "year": 1981,
+        "id": "10.2307/2600213",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 14
+    },
+    {
+      "id": "acharya_2014_end_american_world_order",
+      "bibtex_key": "acharya2014endamericanworldorder",
+      "title": "The End of American World Order",
+      "author": "Amitav Acharya",
+      "year": 2014,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "openlibrary",
+        "title": "The end of American world order",
+        "author": "Amitav Acharya",
+        "year": 2014,
+        "id": "/works/OL19738925W",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 13
+    },
+    {
+      "id": "cooley_nexon_2020_exit_hegemony",
+      "bibtex_key": "cooleynexon2020exithegemony",
+      "title": "Exit from Hegemony",
+      "author": "Alexander Cooley and Daniel Nexon",
+      "year": 2020,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "Exit from Hegemony",
+        "author": "Alexander Cooley Daniel Nexon",
+        "year": 2020,
+        "id": "10.1093/oso/9780190916473.001.0001",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 10
+    }
+  ]
+}

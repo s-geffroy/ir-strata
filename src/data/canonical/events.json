@@ -1,0 +1,915 @@
+{
+  "schema_version": "1.0.0",
+  "events": [
+    {
+      "schema_version": "1.0.0",
+      "event_id": "vienna_congress_1815",
+      "year": 1815,
+      "label_fr": "Congrès de Vienne",
+      "label_en": "Congrès de Vienne",
+      "event_type": "treaty_or_legal_order",
+      "period_id": "1815_1848",
+      "related_entities": [],
+      "affected_theories": {
+        "realism": {
+          "direction": "increase",
+          "impact_intensity": 75,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "english_school": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "geopolitics_imperialism_reason_of_state": {
+          "direction": "increase",
+          "impact_intensity": 75,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        }
+      },
+      "affected_layers": [
+        "strategic_reality",
+        "political_doctrine"
+      ],
+      "absorption_years": 5,
+      "evidence_basis": [
+        "vienna_congress_1815",
+        "concert_europe_balance"
+      ],
+      "related_references": [],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "event_id": "revolutions_1848",
+      "year": 1848,
+      "label_fr": "Révolutions de 1848",
+      "label_en": "Révolutions de 1848",
+      "event_type": "normative_shift",
+      "period_id": "1848_1871",
+      "related_entities": [],
+      "affected_theories": {
+        "constructivism": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "liberalism": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "critical_postcolonial_feminist": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        }
+      },
+      "affected_layers": [
+        "strategic_reality",
+        "political_doctrine"
+      ],
+      "absorption_years": 5,
+      "evidence_basis": [
+        "revolutions_1848",
+        "national_unifications"
+      ],
+      "related_references": [],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "event_id": "berlin_congress_1878",
+      "year": 1878,
+      "label_fr": "Congrès de Berlin",
+      "label_en": "Congrès de Berlin",
+      "event_type": "treaty_or_legal_order",
+      "period_id": "1871_1914",
+      "related_entities": [],
+      "affected_theories": {
+        "realism": {
+          "direction": "increase",
+          "impact_intensity": 75,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "geopolitics_imperialism_reason_of_state": {
+          "direction": "increase",
+          "impact_intensity": 75,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        }
+      },
+      "affected_layers": [
+        "strategic_reality",
+        "political_doctrine"
+      ],
+      "absorption_years": 5,
+      "evidence_basis": [
+        "imperial_partition_competition",
+        "naval_arms_race"
+      ],
+      "related_references": [],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "event_id": "world_war_one_1914",
+      "year": 1914,
+      "label_fr": "Déclenchement de la Première Guerre mondiale",
+      "label_en": "Déclenchement de la Première Guerre mondiale",
+      "event_type": "war_or_conflict",
+      "period_id": "1914_1919",
+      "related_entities": [],
+      "affected_theories": {
+        "realism": {
+          "direction": "increase",
+          "impact_intensity": 75,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "geopolitics_imperialism_reason_of_state": {
+          "direction": "increase",
+          "impact_intensity": 75,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        }
+      },
+      "affected_layers": [
+        "strategic_reality",
+        "political_doctrine"
+      ],
+      "absorption_years": 5,
+      "evidence_basis": [
+        "world_war_one_total_war",
+        "empire_collapse_1918"
+      ],
+      "related_references": [],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "event_id": "versailles_treaty_1919",
+      "year": 1919,
+      "label_fr": "Traité de Versailles",
+      "label_en": "Traité de Versailles",
+      "event_type": "treaty_or_legal_order",
+      "period_id": "1919_1939",
+      "related_entities": [],
+      "affected_theories": {
+        "liberalism": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "realism": {
+          "direction": "increase",
+          "impact_intensity": 75,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "english_school": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        }
+      },
+      "affected_layers": [
+        "strategic_reality",
+        "political_doctrine"
+      ],
+      "absorption_years": 5,
+      "evidence_basis": [
+        "versailles_order",
+        "league_of_nations_security"
+      ],
+      "related_references": [],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "event_id": "great_depression_1929",
+      "year": 1929,
+      "label_fr": "Crise économique mondiale",
+      "label_en": "Crise économique mondiale",
+      "event_type": "economic_structure",
+      "period_id": "1919_1939",
+      "related_entities": [],
+      "affected_theories": {
+        "marxism_dependency_structuralism": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "liberalism": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        }
+      },
+      "affected_layers": [
+        "strategic_reality",
+        "political_doctrine"
+      ],
+      "absorption_years": 5,
+      "evidence_basis": [
+        "versailles_order",
+        "league_of_nations_security"
+      ],
+      "related_references": [],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "event_id": "world_war_two_1939",
+      "year": 1939,
+      "label_fr": "Déclenchement de la Seconde Guerre mondiale",
+      "label_en": "Déclenchement de la Seconde Guerre mondiale",
+      "event_type": "war_or_conflict",
+      "period_id": "1939_1945",
+      "related_entities": [],
+      "affected_theories": {
+        "realism": {
+          "direction": "increase",
+          "impact_intensity": 75,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "geopolitics_imperialism_reason_of_state": {
+          "direction": "increase",
+          "impact_intensity": 75,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        }
+      },
+      "affected_layers": [
+        "strategic_reality",
+        "political_doctrine"
+      ],
+      "absorption_years": 5,
+      "evidence_basis": [
+        "world_war_two_total_war",
+        "axis_imperial_projects"
+      ],
+      "related_references": [],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "event_id": "united_nations_1945_event",
+      "year": 1945,
+      "label_fr": "Création de l’ONU",
+      "label_en": "Création de l’ONU",
+      "event_type": "institutional_creation",
+      "period_id": "1939_1945",
+      "related_entities": [],
+      "affected_theories": {
+        "liberalism": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "english_school": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        }
+      },
+      "affected_layers": [
+        "strategic_reality",
+        "political_doctrine"
+      ],
+      "absorption_years": 5,
+      "evidence_basis": [
+        "world_war_two_total_war",
+        "axis_imperial_projects"
+      ],
+      "related_references": [],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "event_id": "truman_doctrine_1947",
+      "year": 1947,
+      "label_fr": "Doctrine Truman",
+      "label_en": "Doctrine Truman",
+      "event_type": "doctrine_or_strategy",
+      "period_id": "1945_1962",
+      "related_entities": [],
+      "affected_theories": {
+        "realism": {
+          "direction": "increase",
+          "impact_intensity": 75,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "liberalism": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        }
+      },
+      "affected_layers": [
+        "strategic_reality",
+        "political_doctrine"
+      ],
+      "absorption_years": 5,
+      "evidence_basis": [
+        "cold_war_bipolarity_1945_1962",
+        "bretton_woods_institutional_order"
+      ],
+      "related_references": [],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "event_id": "nato_creation_1949",
+      "year": 1949,
+      "label_fr": "Création de l’OTAN",
+      "label_en": "Création de l’OTAN",
+      "event_type": "alliance_creation",
+      "period_id": "1945_1962",
+      "related_entities": [],
+      "affected_theories": {
+        "realism": {
+          "direction": "increase",
+          "impact_intensity": 75,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "liberalism": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        }
+      },
+      "affected_layers": [
+        "strategic_reality",
+        "political_doctrine"
+      ],
+      "absorption_years": 5,
+      "evidence_basis": [
+        "cold_war_bipolarity_1945_1962",
+        "bretton_woods_institutional_order"
+      ],
+      "related_references": [],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "event_id": "bandung_1955",
+      "year": 1955,
+      "label_fr": "Conférence de Bandung",
+      "label_en": "Conférence de Bandung",
+      "event_type": "normative_shift",
+      "period_id": "1945_1962",
+      "related_entities": [],
+      "affected_theories": {
+        "critical_postcolonial_feminist": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "marxism_dependency_structuralism": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "english_school": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        }
+      },
+      "affected_layers": [
+        "strategic_reality",
+        "political_doctrine"
+      ],
+      "absorption_years": 5,
+      "evidence_basis": [
+        "cold_war_bipolarity_1945_1962",
+        "bretton_woods_institutional_order"
+      ],
+      "related_references": [],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "event_id": "cuban_missile_crisis_1962",
+      "year": 1962,
+      "label_fr": "Crise des missiles de Cuba",
+      "label_en": "Crise des missiles de Cuba",
+      "event_type": "war_or_conflict",
+      "period_id": "1962_1979",
+      "related_entities": [],
+      "affected_theories": {
+        "realism": {
+          "direction": "increase",
+          "impact_intensity": 75,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        }
+      },
+      "affected_layers": [
+        "strategic_reality",
+        "political_doctrine"
+      ],
+      "absorption_years": 5,
+      "evidence_basis": [
+        "cold_war_detente",
+        "non_aligned_and_bandung_legacy"
+      ],
+      "related_references": [],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "event_id": "oil_shock_1973",
+      "year": 1973,
+      "label_fr": "Premier choc pétrolier",
+      "label_en": "Premier choc pétrolier",
+      "event_type": "economic_structure",
+      "period_id": "1962_1979",
+      "related_entities": [],
+      "affected_theories": {
+        "marxism_dependency_structuralism": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "geopolitics_imperialism_reason_of_state": {
+          "direction": "increase",
+          "impact_intensity": 75,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        }
+      },
+      "affected_layers": [
+        "strategic_reality",
+        "political_doctrine"
+      ],
+      "absorption_years": 5,
+      "evidence_basis": [
+        "cold_war_detente",
+        "non_aligned_and_bandung_legacy"
+      ],
+      "related_references": [],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "event_id": "soviet_afghanistan_1979",
+      "year": 1979,
+      "label_fr": "Intervention soviétique en Afghanistan",
+      "label_en": "Intervention soviétique en Afghanistan",
+      "event_type": "war_or_conflict",
+      "period_id": "1979_1991",
+      "related_entities": [],
+      "affected_theories": {
+        "realism": {
+          "direction": "increase",
+          "impact_intensity": 75,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "geopolitics_imperialism_reason_of_state": {
+          "direction": "increase",
+          "impact_intensity": 75,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        }
+      },
+      "affected_layers": [
+        "strategic_reality",
+        "political_doctrine"
+      ],
+      "absorption_years": 5,
+      "evidence_basis": [
+        "second_cold_war",
+        "soviet_crisis_and_reform"
+      ],
+      "related_references": [],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "event_id": "soviet_collapse_1991",
+      "year": 1991,
+      "label_fr": "Disparition de l’URSS",
+      "label_en": "Disparition de l’URSS",
+      "event_type": "systemic_structure",
+      "period_id": "1991_2001",
+      "related_entities": [],
+      "affected_theories": {
+        "liberalism": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "realism": {
+          "direction": "increase",
+          "impact_intensity": 75,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        }
+      },
+      "affected_layers": [
+        "strategic_reality",
+        "political_doctrine"
+      ],
+      "absorption_years": 5,
+      "evidence_basis": [
+        "us_unipolarity_1991_2001",
+        "liberal_institutional_expansion_1991_2001"
+      ],
+      "related_references": [],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "event_id": "wto_1995",
+      "year": 1995,
+      "label_fr": "Création de l’OMC",
+      "label_en": "Création de l’OMC",
+      "event_type": "institutional_creation",
+      "period_id": "1991_2001",
+      "related_entities": [],
+      "affected_theories": {
+        "liberalism": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "marxism_dependency_structuralism": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        }
+      },
+      "affected_layers": [
+        "strategic_reality",
+        "political_doctrine"
+      ],
+      "absorption_years": 5,
+      "evidence_basis": [
+        "us_unipolarity_1991_2001",
+        "liberal_institutional_expansion_1991_2001"
+      ],
+      "related_references": [],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "event_id": "september_11_2001",
+      "year": 2001,
+      "label_fr": "Attentats du 11 septembre",
+      "label_en": "Attentats du 11 septembre",
+      "event_type": "war_or_conflict",
+      "period_id": "2001_2008",
+      "related_entities": [],
+      "affected_theories": {
+        "realism": {
+          "direction": "increase",
+          "impact_intensity": 75,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "constructivism": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "critical_postcolonial_feminist": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        }
+      },
+      "affected_layers": [
+        "strategic_reality",
+        "political_doctrine"
+      ],
+      "absorption_years": 5,
+      "evidence_basis": [
+        "september_11_and_war_on_terror",
+        "iraq_war_2003"
+      ],
+      "related_references": [],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "event_id": "global_financial_crisis_2008_event",
+      "year": 2008,
+      "label_fr": "Crise financière mondiale",
+      "label_en": "Crise financière mondiale",
+      "event_type": "economic_structure",
+      "period_id": "2008_2014",
+      "related_entities": [],
+      "affected_theories": {
+        "marxism_dependency_structuralism": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "critical_postcolonial_feminist": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "liberalism": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        }
+      },
+      "affected_layers": [
+        "strategic_reality",
+        "political_doctrine"
+      ],
+      "absorption_years": 5,
+      "evidence_basis": [
+        "global_financial_crisis_2008",
+        "arab_uprisings_2011"
+      ],
+      "related_references": [],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "event_id": "crimea_2014",
+      "year": 2014,
+      "label_fr": "Annexion de la Crimée et guerre du Donbass",
+      "label_en": "Annexion de la Crimée et guerre du Donbass",
+      "event_type": "war_or_conflict",
+      "period_id": "2014_2022",
+      "related_entities": [],
+      "affected_theories": {
+        "realism": {
+          "direction": "increase",
+          "impact_intensity": 75,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "geopolitics_imperialism_reason_of_state": {
+          "direction": "increase",
+          "impact_intensity": 75,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        }
+      },
+      "affected_layers": [
+        "strategic_reality",
+        "political_doctrine"
+      ],
+      "absorption_years": 5,
+      "evidence_basis": [
+        "russia_west_fragmentation_2014_2022",
+        "us_china_rivalry_acceleration"
+      ],
+      "related_references": [],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "event_id": "ukraine_invasion_2022_event",
+      "year": 2022,
+      "label_fr": "Invasion russe de l’Ukraine",
+      "label_en": "Invasion russe de l’Ukraine",
+      "event_type": "war_or_conflict",
+      "period_id": "2022_2026",
+      "related_entities": [],
+      "affected_theories": {
+        "realism": {
+          "direction": "increase",
+          "impact_intensity": 75,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "geopolitics_imperialism_reason_of_state": {
+          "direction": "increase",
+          "impact_intensity": 75,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        },
+        "liberalism": {
+          "direction": "increase",
+          "impact_intensity": 60,
+          "rationale": "Événement structurant pour la lecture théorique de la période."
+        }
+      },
+      "affected_layers": [
+        "strategic_reality",
+        "political_doctrine"
+      ],
+      "absorption_years": 5,
+      "evidence_basis": [
+        "ukraine_invasion_2022",
+        "sanctions_energy_security_2022_2026"
+      ],
+      "related_references": [],
+      "confidence": {
+        "label": "high",
+        "internal_score": 78.2,
+        "dimensions": {
+          "evidence_quality": 84,
+          "historiographical_consensus": 76,
+          "temporal_stability": 74,
+          "weight_sensitivity": 25,
+          "anachronism_risk": 20
+        }
+      },
+      "maturity_status": "reviewed"
+    }
+  ]
+}

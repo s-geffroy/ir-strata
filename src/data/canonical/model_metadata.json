@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "model_version": "1.0.0-atlas-v1",
+  "generated_at": "2026-05-23",
+  "source_status": "draft_unverified_seed",
+  "model_name": "ir_theory_historical_weighting_model",
+  "label_fr": "Pondération historique des théories des relations internationales",
+  "label_en": "Historical Weighting of International Relations Theories",
+  "historical_range": "1815-2026",
+  "public_status": "Atlas V1 · Révisable · Données = seed non vérifié à re-sourcer · Méthodologie documentée",
+  "canonical_data_rule": "Raw scores, criteria, evidence, confidence and references are canonical. Normalized, synthesis and annual scores are generated artifacts.",
+  "default_synthesis_weights": {
+    "strategic_reality": 0.6,
+    "political_doctrine": 0.25,
+    "academic_influence": 0.15
+  },
+  "default_criteria_weights": {
+    "common_criteria": 0.25,
+    "theory_specific_criteria": 0.4,
+    "layer_specific_criteria": 0.35
+  },
+  "github_pages": {
+    "generator": "Docusaurus",
+    "static_only": true,
+    "recalculation_scope": "client_side_only",
+    "requires_backend": false
+  }
+}

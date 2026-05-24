@@ -1,0 +1,313 @@
+{
+  "schema_version": "1.0.0",
+  "periods": [
+    {
+      "schema_version": "1.0.0",
+      "period_id": "1815_1848",
+      "label": "1815-1848",
+      "title_fr": "Concert européen et ordre conservateur",
+      "title_en": "Concert européen et ordre conservateur",
+      "start_year": 1815,
+      "end_year": 1848,
+      "priority": "P1",
+      "maturity_status": "reviewed",
+      "interpolation_policy": {
+        "mode": "hybrid",
+        "default_behavior": "constant_within_period",
+        "transition_to_next_period": {
+          "enabled": false,
+          "curve": "linear"
+        },
+        "pivot_events": []
+      },
+      "summary_fr": "Période modélisée par scores globaux complets. Les profils d’entités sont détaillés seulement si priority=P1.",
+      "tags": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "period_id": "1848_1871",
+      "label": "1848-1871",
+      "title_fr": "Révolutions, nationalités et recompositions impériales",
+      "title_en": "Révolutions, nationalités et recompositions impériales",
+      "start_year": 1848,
+      "end_year": 1871,
+      "priority": "P2",
+      "maturity_status": "draft",
+      "interpolation_policy": {
+        "mode": "hybrid",
+        "default_behavior": "constant_within_period",
+        "transition_to_next_period": {
+          "enabled": true,
+          "curve": "smoothstep"
+        },
+        "pivot_events": []
+      },
+      "summary_fr": "Période modélisée par scores globaux complets. Les profils d’entités sont détaillés seulement si priority=P1.",
+      "tags": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "period_id": "1871_1914",
+      "label": "1871-1914",
+      "title_fr": "Impérialisme, paix armée et mondialisation impériale",
+      "title_en": "Impérialisme, paix armée et mondialisation impériale",
+      "start_year": 1871,
+      "end_year": 1914,
+      "priority": "P1",
+      "maturity_status": "reviewed",
+      "interpolation_policy": {
+        "mode": "hybrid",
+        "default_behavior": "constant_within_period",
+        "transition_to_next_period": {
+          "enabled": false,
+          "curve": "linear"
+        },
+        "pivot_events": []
+      },
+      "summary_fr": "Période modélisée par scores globaux complets. Les profils d’entités sont détaillés seulement si priority=P1.",
+      "tags": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "period_id": "1914_1919",
+      "label": "1914-1919",
+      "title_fr": "Guerre mondiale et effondrement des empires",
+      "title_en": "Guerre mondiale et effondrement des empires",
+      "start_year": 1914,
+      "end_year": 1919,
+      "priority": "P2",
+      "maturity_status": "draft",
+      "interpolation_policy": {
+        "mode": "hybrid",
+        "default_behavior": "constant_within_period",
+        "transition_to_next_period": {
+          "enabled": true,
+          "curve": "smoothstep"
+        },
+        "pivot_events": []
+      },
+      "summary_fr": "Période modélisée par scores globaux complets. Les profils d’entités sont détaillés seulement si priority=P1.",
+      "tags": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "period_id": "1919_1939",
+      "label": "1919-1939",
+      "title_fr": "Versailles, sécurité collective fragile et révisionnismes",
+      "title_en": "Versailles, sécurité collective fragile et révisionnismes",
+      "start_year": 1919,
+      "end_year": 1939,
+      "priority": "P1",
+      "maturity_status": "reviewed",
+      "interpolation_policy": {
+        "mode": "hybrid",
+        "default_behavior": "constant_within_period",
+        "transition_to_next_period": {
+          "enabled": false,
+          "curve": "linear"
+        },
+        "pivot_events": []
+      },
+      "summary_fr": "Période modélisée par scores globaux complets. Les profils d’entités sont détaillés seulement si priority=P1.",
+      "tags": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "period_id": "1939_1945",
+      "label": "1939-1945",
+      "title_fr": "Guerre totale et recomposition systémique",
+      "title_en": "Guerre totale et recomposition systémique",
+      "start_year": 1939,
+      "end_year": 1945,
+      "priority": "P1",
+      "maturity_status": "reviewed",
+      "interpolation_policy": {
+        "mode": "hybrid",
+        "default_behavior": "constant_within_period",
+        "transition_to_next_period": {
+          "enabled": false,
+          "curve": "linear"
+        },
+        "pivot_events": []
+      },
+      "summary_fr": "Période modélisée par scores globaux complets. Les profils d’entités sont détaillés seulement si priority=P1.",
+      "tags": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "period_id": "1945_1962",
+      "label": "1945-1962",
+      "title_fr": "Bipolarisation et entrée en Guerre froide",
+      "title_en": "Bipolarisation et entrée en Guerre froide",
+      "start_year": 1945,
+      "end_year": 1962,
+      "priority": "P1",
+      "maturity_status": "reviewed",
+      "interpolation_policy": {
+        "mode": "hybrid",
+        "default_behavior": "constant_within_period",
+        "transition_to_next_period": {
+          "enabled": false,
+          "curve": "linear"
+        },
+        "pivot_events": []
+      },
+      "summary_fr": "Période modélisée par scores globaux complets. Les profils d’entités sont détaillés seulement si priority=P1.",
+      "tags": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "period_id": "1962_1979",
+      "label": "1962-1979",
+      "title_fr": "Détente, décolonisation avancée et tiers-mondisme",
+      "title_en": "Détente, décolonisation avancée et tiers-mondisme",
+      "start_year": 1962,
+      "end_year": 1979,
+      "priority": "P1",
+      "maturity_status": "reviewed",
+      "interpolation_policy": {
+        "mode": "hybrid",
+        "default_behavior": "constant_within_period",
+        "transition_to_next_period": {
+          "enabled": false,
+          "curve": "linear"
+        },
+        "pivot_events": []
+      },
+      "summary_fr": "Période modélisée par scores globaux complets. Les profils d’entités sont détaillés seulement si priority=P1.",
+      "tags": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "period_id": "1979_1991",
+      "label": "1979-1991",
+      "title_fr": "Seconde Guerre froide et crise du bloc soviétique",
+      "title_en": "Seconde Guerre froide et crise du bloc soviétique",
+      "start_year": 1979,
+      "end_year": 1991,
+      "priority": "P2",
+      "maturity_status": "draft",
+      "interpolation_policy": {
+        "mode": "hybrid",
+        "default_behavior": "constant_within_period",
+        "transition_to_next_period": {
+          "enabled": true,
+          "curve": "smoothstep"
+        },
+        "pivot_events": []
+      },
+      "summary_fr": "Période modélisée par scores globaux complets. Les profils d’entités sont détaillés seulement si priority=P1.",
+      "tags": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "period_id": "1991_2001",
+      "label": "1991-2001",
+      "title_fr": "Moment unipolaire libéral",
+      "title_en": "Moment unipolaire libéral",
+      "start_year": 1991,
+      "end_year": 2001,
+      "priority": "P1",
+      "maturity_status": "reviewed",
+      "interpolation_policy": {
+        "mode": "hybrid",
+        "default_behavior": "constant_within_period",
+        "transition_to_next_period": {
+          "enabled": false,
+          "curve": "linear"
+        },
+        "pivot_events": []
+      },
+      "summary_fr": "Période modélisée par scores globaux complets. Les profils d’entités sont détaillés seulement si priority=P1.",
+      "tags": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "period_id": "2001_2008",
+      "label": "2001-2008",
+      "title_fr": "Guerre globale contre le terrorisme et interventionnisme",
+      "title_en": "Guerre globale contre le terrorisme et interventionnisme",
+      "start_year": 2001,
+      "end_year": 2008,
+      "priority": "P2",
+      "maturity_status": "draft",
+      "interpolation_policy": {
+        "mode": "hybrid",
+        "default_behavior": "constant_within_period",
+        "transition_to_next_period": {
+          "enabled": true,
+          "curve": "smoothstep"
+        },
+        "pivot_events": []
+      },
+      "summary_fr": "Période modélisée par scores globaux complets. Les profils d’entités sont détaillés seulement si priority=P1.",
+      "tags": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "period_id": "2008_2014",
+      "label": "2008-2014",
+      "title_fr": "Crise financière et transition vers la fragmentation",
+      "title_en": "Crise financière et transition vers la fragmentation",
+      "start_year": 2008,
+      "end_year": 2014,
+      "priority": "P2",
+      "maturity_status": "draft",
+      "interpolation_policy": {
+        "mode": "hybrid",
+        "default_behavior": "constant_within_period",
+        "transition_to_next_period": {
+          "enabled": true,
+          "curve": "smoothstep"
+        },
+        "pivot_events": []
+      },
+      "summary_fr": "Période modélisée par scores globaux complets. Les profils d’entités sont détaillés seulement si priority=P1.",
+      "tags": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "period_id": "2014_2022",
+      "label": "2014-2022",
+      "title_fr": "Fragmentation stratégique et rivalités renouvelées",
+      "title_en": "Fragmentation stratégique et rivalités renouvelées",
+      "start_year": 2014,
+      "end_year": 2022,
+      "priority": "P1",
+      "maturity_status": "reviewed",
+      "interpolation_policy": {
+        "mode": "hybrid",
+        "default_behavior": "constant_within_period",
+        "transition_to_next_period": {
+          "enabled": false,
+          "curve": "linear"
+        },
+        "pivot_events": []
+      },
+      "summary_fr": "Période modélisée par scores globaux complets. Les profils d’entités sont détaillés seulement si priority=P1.",
+      "tags": []
+    },
+    {
+      "schema_version": "1.0.0",
+      "period_id": "2022_2026",
+      "label": "2022-2026",
+      "title_fr": "Guerre d’Ukraine, sanctions et blocs souples",
+      "title_en": "Guerre d’Ukraine, sanctions et blocs souples",
+      "start_year": 2022,
+      "end_year": 2026,
+      "priority": "P1",
+      "maturity_status": "reviewed",
+      "interpolation_policy": {
+        "mode": "hybrid",
+        "default_behavior": "constant_within_period",
+        "transition_to_next_period": {
+          "enabled": false,
+          "curve": "linear"
+        },
+        "pivot_events": []
+      },
+      "summary_fr": "Période modélisée par scores globaux complets. Les profils d’entités sont détaillés seulement si priority=P1.",
+      "tags": []
+    }
+  ]
+}

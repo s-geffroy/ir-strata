@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0.0",
+  "maturity_status": "reviewed",
+  "note_fr": "Années d'émergence par famille théorique et par couche, support de la règle anti-anachronisme. Valeurs seed défendables mais révisables : voir docs/methodology/ANTI_ANACHRONISM.md. La granularité est au niveau famille (les scores globaux sont au niveau famille).",
+  "rule": {
+    "strategic_reality": "retrospective_always_allowed",
+    "political_doctrine": "requires_doctrine_available_to_actors",
+    "academic_influence": "requires_academic_formalization"
+  },
+  "emergence": [
+    {
+      "theory_family_id": "realism",
+      "political_doctrine_from": 1500,
+      "academic_influence_from": 1939,
+      "rationale_fr": "Raison d'État, équilibre des puissances et pratique réaliste disponibles bien avant 1815. Réalisme comme école académique des RI formalisé avec Carr (1939) puis Morgenthau (1948)."
+    },
+    {
+      "theory_family_id": "liberalism",
+      "political_doctrine_from": 1789,
+      "academic_influence_from": 1919,
+      "rationale_fr": "Idées libérales (commerce pacificateur, droit, Kant 1795) disponibles dès la fin du XVIIIe siècle. Libéralisme/idéalisme comme champ académique des RI à partir de 1919 (discipline RI, wilsonisme)."
+    },
+    {
+      "theory_family_id": "marxism_dependency_structuralism",
+      "political_doctrine_from": 1848,
+      "academic_influence_from": 1902,
+      "rationale_fr": "Marxisme comme doctrine politique à partir du Manifeste (1848). Analyse académique de l'impérialisme à partir de Hobson (1902) puis Lénine (1916) ; dépendance/système-monde plus tardifs (sous-familles)."
+    },
+    {
+      "theory_family_id": "constructivism",
+      "political_doctrine_from": 1989,
+      "academic_influence_from": 1989,
+      "rationale_fr": "Approche analytique sans doctrine politique d'acteurs antérieure. Formalisation académique avec Onuf (1989) et Wendt (1992). Usage rétrospectif possible uniquement via strategic_reality."
+    },
+    {
+      "theory_family_id": "english_school",
+      "political_doctrine_from": 1959,
+      "academic_influence_from": 1959,
+      "rationale_fr": "École académique constituée autour du British Committee on the Theory of International Politics (1959), Bull (1977). Pas de doctrine politique d'acteurs antérieure portant ce nom."
+    },
+    {
+      "theory_family_id": "critical_postcolonial_feminist",
+      "political_doctrine_from": 1961,
+      "academic_influence_from": 1978,
+      "rationale_fr": "Pensée anti-coloniale comme doctrine à partir de Fanon (1961). Théories critiques/postcoloniales/féministes des RI comme champ académique à partir de Said (1978), Cox (1981), Enloe (1989), Tickner (1992)."
+    },
+    {
+      "theory_family_id": "geopolitics_imperialism_reason_of_state",
+      "political_doctrine_from": 1500,
+      "academic_influence_from": 1890,
+      "rationale_fr": "Raison d'État et impérialisme comme pratique doctrinale disponibles bien avant 1815. Géopolitique comme champ académique à partir de Mahan (1890), Ratzel/Kjellén (~1897), Mackinder (1904)."
+    }
+  ]
+}

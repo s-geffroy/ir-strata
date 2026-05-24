@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "period.schema.json",
+  "title": "IR Historical Period",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "period_id",
+    "label",
+    "start_year",
+    "end_year",
+    "priority",
+    "maturity_status"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string"
+    },
+    "period_id": {
+      "type": "string"
+    },
+    "label": {
+      "type": "string"
+    },
+    "title_fr": {
+      "type": "string"
+    },
+    "title_en": {
+      "type": "string"
+    },
+    "start_year": {
+      "type": "integer"
+    },
+    "end_year": {
+      "type": "integer"
+    },
+    "priority": {
+      "type": "string",
+      "enum": [
+        "P1",
+        "P2",
+        "P3"
+      ]
+    },
+    "maturity_status": {
+      "type": "string"
+    },
+    "interpolation_policy": {
+      "type": "object"
+    },
+    "summary_fr": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "array"
+    }
+  },
+  "additionalProperties": false
+}

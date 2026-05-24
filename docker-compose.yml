@@ -1,0 +1,38 @@
+services:
+  # Développement : pipeline de données puis Docusaurus en hot-reload.
+  dev:
+    build: .
+    image: ir-strata
+    working_dir: /app
+    command: >
+      sh -c "npm install &&
+             python3 scripts/build_site.py &&
+             npm start -- --host 0.0.0.0 --poll 1000"
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./:/app
+      - node_modules:/app/node_modules
+    environment:
+      - PROJECT_NAME=ir-strata
+
+  # Aperçu du build statique de production (parité GitHub Pages).
+  preview:
+    build: .
+    image: ir-strata
+    working_dir: /app
+    profiles: ["preview"]
+    command: >
+      sh -c "npm install &&
+             npm run build &&
+             npm run serve -- --host 0.0.0.0 --port 3001"
+    ports:
+      - "3001:3001"
+    volumes:
+      - ./:/app
+      - node_modules:/app/node_modules
+    environment:
+      - PROJECT_NAME=ir-strata
+
+volumes:
+  node_modules:

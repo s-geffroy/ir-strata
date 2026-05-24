@@ -1,0 +1,3789 @@
+{
+  "schema_version": "1.0.0",
+  "entities": [
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "concert_of_europe",
+      "period_id": "1815_1848",
+      "label_fr": "Concert européen",
+      "label_en": "Concert européen",
+      "entity_type": "alliance_or_bloc",
+      "active_periods": [
+        "1815_1848"
+      ],
+      "period_role_summary": "Entité structurante pour 1815_1848. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.25,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "english_school"
+        ],
+        "secondary_theories": [
+          "geopolitics_imperialism_reason_of_state"
+        ]
+      },
+      "evidence_basis": [
+        "vienna_congress_1815",
+        "concert_europe_balance",
+        "colonial_imperial_continuity"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "british_empire",
+      "period_id": "1815_1848",
+      "label_fr": "Empire britannique",
+      "label_en": "Empire britannique",
+      "entity_type": "empire",
+      "active_periods": [
+        "1815_1848"
+      ],
+      "period_role_summary": "Entité structurante pour 1815_1848. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.18,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "geopolitics_imperialism_reason_of_state",
+          "liberalism"
+        ],
+        "secondary_theories": [
+          "realism"
+        ]
+      },
+      "evidence_basis": [
+        "vienna_congress_1815",
+        "concert_europe_balance",
+        "colonial_imperial_continuity"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "france",
+      "period_id": "1815_1848",
+      "label_fr": "France",
+      "label_en": "France",
+      "entity_type": "major_power",
+      "active_periods": [
+        "1815_1848"
+      ],
+      "period_role_summary": "Entité structurante pour 1815_1848. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.15,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "geopolitics_imperialism_reason_of_state"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "vienna_congress_1815",
+        "concert_europe_balance",
+        "colonial_imperial_continuity"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "russian_empire",
+      "period_id": "1815_1848",
+      "label_fr": "Empire russe",
+      "label_en": "Empire russe",
+      "entity_type": "empire",
+      "active_periods": [
+        "1815_1848"
+      ],
+      "period_role_summary": "Entité structurante pour 1815_1848. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.15,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "geopolitics_imperialism_reason_of_state"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "vienna_congress_1815",
+        "concert_europe_balance",
+        "colonial_imperial_continuity"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "austrian_empire",
+      "period_id": "1815_1848",
+      "label_fr": "Empire d’Autriche",
+      "label_en": "Empire d’Autriche",
+      "entity_type": "empire",
+      "active_periods": [
+        "1815_1848"
+      ],
+      "period_role_summary": "Entité structurante pour 1815_1848. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.12,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "english_school"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "vienna_congress_1815",
+        "concert_europe_balance",
+        "colonial_imperial_continuity"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "prussia",
+      "period_id": "1815_1848",
+      "label_fr": "Prusse",
+      "label_en": "Prusse",
+      "entity_type": "major_power",
+      "active_periods": [
+        "1815_1848"
+      ],
+      "period_role_summary": "Entité structurante pour 1815_1848. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.08,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "geopolitics_imperialism_reason_of_state"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "vienna_congress_1815",
+        "concert_europe_balance",
+        "colonial_imperial_continuity"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "ottoman_empire",
+      "period_id": "1815_1848",
+      "label_fr": "Empire ottoman",
+      "label_en": "Empire ottoman",
+      "entity_type": "empire",
+      "active_periods": [
+        "1815_1848"
+      ],
+      "period_role_summary": "Entité structurante pour 1815_1848. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.04,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "geopolitics_imperialism_reason_of_state",
+          "english_school"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "vienna_congress_1815",
+        "concert_europe_balance",
+        "colonial_imperial_continuity"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "colonial_world",
+      "period_id": "1815_1848",
+      "label_fr": "Mondes coloniaux",
+      "label_en": "Mondes coloniaux",
+      "entity_type": "colonial_or_postcolonial_space",
+      "active_periods": [
+        "1815_1848"
+      ],
+      "period_role_summary": "Entité structurante pour 1815_1848. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.03,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "critical_postcolonial_feminist",
+          "geopolitics_imperialism_reason_of_state"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "vienna_congress_1815",
+        "concert_europe_balance",
+        "colonial_imperial_continuity"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "british_empire",
+      "period_id": "1871_1914",
+      "label_fr": "Empire britannique",
+      "label_en": "Empire britannique",
+      "entity_type": "empire",
+      "active_periods": [
+        "1871_1914"
+      ],
+      "period_role_summary": "Entité structurante pour 1871_1914. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.18,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "geopolitics_imperialism_reason_of_state",
+          "liberalism"
+        ],
+        "secondary_theories": [
+          "realism"
+        ]
+      },
+      "evidence_basis": [
+        "imperial_partition_competition",
+        "naval_arms_race",
+        "alliance_systems_pre_1914"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "german_empire",
+      "period_id": "1871_1914",
+      "label_fr": "Empire allemand",
+      "label_en": "Empire allemand",
+      "entity_type": "major_power",
+      "active_periods": [
+        "1871_1914"
+      ],
+      "period_role_summary": "Entité structurante pour 1871_1914. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.15,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "geopolitics_imperialism_reason_of_state"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "imperial_partition_competition",
+        "naval_arms_race",
+        "alliance_systems_pre_1914"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "russian_empire",
+      "period_id": "1871_1914",
+      "label_fr": "Empire russe",
+      "label_en": "Empire russe",
+      "entity_type": "empire",
+      "active_periods": [
+        "1871_1914"
+      ],
+      "period_role_summary": "Entité structurante pour 1871_1914. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.12,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "geopolitics_imperialism_reason_of_state"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "imperial_partition_competition",
+        "naval_arms_race",
+        "alliance_systems_pre_1914"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "france",
+      "period_id": "1871_1914",
+      "label_fr": "France",
+      "label_en": "France",
+      "entity_type": "major_power",
+      "active_periods": [
+        "1871_1914"
+      ],
+      "period_role_summary": "Entité structurante pour 1871_1914. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.1,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "liberalism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "imperial_partition_competition",
+        "naval_arms_race",
+        "alliance_systems_pre_1914"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "colonial_world",
+      "period_id": "1871_1914",
+      "label_fr": "Mondes coloniaux",
+      "label_en": "Mondes coloniaux",
+      "entity_type": "colonial_or_postcolonial_space",
+      "active_periods": [
+        "1871_1914"
+      ],
+      "period_role_summary": "Entité structurante pour 1871_1914. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.1,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "critical_postcolonial_feminist",
+          "marxism_dependency_structuralism"
+        ],
+        "secondary_theories": [
+          "geopolitics_imperialism_reason_of_state"
+        ]
+      },
+      "evidence_basis": [
+        "imperial_partition_competition",
+        "naval_arms_race",
+        "alliance_systems_pre_1914"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "austro_hungarian_empire",
+      "period_id": "1871_1914",
+      "label_fr": "Empire austro-hongrois",
+      "label_en": "Empire austro-hongrois",
+      "entity_type": "empire",
+      "active_periods": [
+        "1871_1914"
+      ],
+      "period_role_summary": "Entité structurante pour 1871_1914. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.09,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "english_school"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "imperial_partition_competition",
+        "naval_arms_race",
+        "alliance_systems_pre_1914"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "united_states_rising",
+      "period_id": "1871_1914",
+      "label_fr": "États-Unis en montée",
+      "label_en": "États-Unis en montée",
+      "entity_type": "major_power",
+      "active_periods": [
+        "1871_1914"
+      ],
+      "period_role_summary": "Entité structurante pour 1871_1914. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.08,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "liberalism",
+          "realism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "imperial_partition_competition",
+        "naval_arms_race",
+        "alliance_systems_pre_1914"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "japan_rising",
+      "period_id": "1871_1914",
+      "label_fr": "Japon en montée",
+      "label_en": "Japon en montée",
+      "entity_type": "major_power",
+      "active_periods": [
+        "1871_1914"
+      ],
+      "period_role_summary": "Entité structurante pour 1871_1914. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.06,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "geopolitics_imperialism_reason_of_state"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "imperial_partition_competition",
+        "naval_arms_race",
+        "alliance_systems_pre_1914"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "ottoman_empire",
+      "period_id": "1871_1914",
+      "label_fr": "Empire ottoman",
+      "label_en": "Empire ottoman",
+      "entity_type": "empire",
+      "active_periods": [
+        "1871_1914"
+      ],
+      "period_role_summary": "Entité structurante pour 1871_1914. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.06,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "geopolitics_imperialism_reason_of_state"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "imperial_partition_competition",
+        "naval_arms_race",
+        "alliance_systems_pre_1914"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "maritime_routes",
+      "period_id": "1871_1914",
+      "label_fr": "Routes maritimes stratégiques",
+      "label_en": "Routes maritimes stratégiques",
+      "entity_type": "strategic_region",
+      "active_periods": [
+        "1871_1914"
+      ],
+      "period_role_summary": "Entité structurante pour 1871_1914. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.06,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "geopolitics_imperialism_reason_of_state"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "imperial_partition_competition",
+        "naval_arms_race",
+        "alliance_systems_pre_1914"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "british_empire",
+      "period_id": "1919_1939",
+      "label_fr": "Empire britannique",
+      "label_en": "Empire britannique",
+      "entity_type": "empire",
+      "active_periods": [
+        "1919_1939"
+      ],
+      "period_role_summary": "Entité structurante pour 1919_1939. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.14,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "liberalism",
+          "realism"
+        ],
+        "secondary_theories": [
+          "geopolitics_imperialism_reason_of_state"
+        ]
+      },
+      "evidence_basis": [
+        "versailles_order",
+        "league_of_nations_security",
+        "great_depression_international_order",
+        "revisionist_powers_1930s"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "france",
+      "period_id": "1919_1939",
+      "label_fr": "France",
+      "label_en": "France",
+      "entity_type": "major_power",
+      "active_periods": [
+        "1919_1939"
+      ],
+      "period_role_summary": "Entité structurante pour 1919_1939. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.13,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "liberalism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "versailles_order",
+        "league_of_nations_security",
+        "great_depression_international_order",
+        "revisionist_powers_1930s"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "germany_revisionist",
+      "period_id": "1919_1939",
+      "label_fr": "Allemagne révisionniste",
+      "label_en": "Allemagne révisionniste",
+      "entity_type": "major_power",
+      "active_periods": [
+        "1919_1939"
+      ],
+      "period_role_summary": "Entité structurante pour 1919_1939. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.13,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "geopolitics_imperialism_reason_of_state"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "versailles_order",
+        "league_of_nations_security",
+        "great_depression_international_order",
+        "revisionist_powers_1930s"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "united_states",
+      "period_id": "1919_1939",
+      "label_fr": "États-Unis",
+      "label_en": "États-Unis",
+      "entity_type": "major_power",
+      "active_periods": [
+        "1919_1939"
+      ],
+      "period_role_summary": "Entité structurante pour 1919_1939. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.12,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "liberalism",
+          "realism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "versailles_order",
+        "league_of_nations_security",
+        "great_depression_international_order",
+        "revisionist_powers_1930s"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "soviet_union",
+      "period_id": "1919_1939",
+      "label_fr": "URSS",
+      "label_en": "URSS",
+      "entity_type": "major_power",
+      "active_periods": [
+        "1919_1939"
+      ],
+      "period_role_summary": "Entité structurante pour 1919_1939. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.12,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "marxism_dependency_structuralism",
+          "realism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "versailles_order",
+        "league_of_nations_security",
+        "great_depression_international_order",
+        "revisionist_powers_1930s"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "italy_japan_revisionist",
+      "period_id": "1919_1939",
+      "label_fr": "Italie et Japon révisionnistes",
+      "label_en": "Italie et Japon révisionnistes",
+      "entity_type": "alliance_or_bloc",
+      "active_periods": [
+        "1919_1939"
+      ],
+      "period_role_summary": "Entité structurante pour 1919_1939. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.1,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "geopolitics_imperialism_reason_of_state"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "versailles_order",
+        "league_of_nations_security",
+        "great_depression_international_order",
+        "revisionist_powers_1930s"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "colonial_world",
+      "period_id": "1919_1939",
+      "label_fr": "Mondes coloniaux",
+      "label_en": "Mondes coloniaux",
+      "entity_type": "colonial_or_postcolonial_space",
+      "active_periods": [
+        "1919_1939"
+      ],
+      "period_role_summary": "Entité structurante pour 1919_1939. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.1,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "critical_postcolonial_feminist",
+          "marxism_dependency_structuralism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "versailles_order",
+        "league_of_nations_security",
+        "great_depression_international_order",
+        "revisionist_powers_1930s"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "league_of_nations",
+      "period_id": "1919_1939",
+      "label_fr": "Société des Nations",
+      "label_en": "Société des Nations",
+      "entity_type": "international_institution",
+      "active_periods": [
+        "1919_1939"
+      ],
+      "period_role_summary": "Entité structurante pour 1919_1939. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.09,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "liberalism",
+          "english_school"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "versailles_order",
+        "league_of_nations_security",
+        "great_depression_international_order",
+        "revisionist_powers_1930s"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "global_finance_trade",
+      "period_id": "1919_1939",
+      "label_fr": "Finance et commerce mondiaux",
+      "label_en": "Finance et commerce mondiaux",
+      "entity_type": "transnational_actor",
+      "active_periods": [
+        "1919_1939"
+      ],
+      "period_role_summary": "Entité structurante pour 1919_1939. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.07,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "liberalism",
+          "marxism_dependency_structuralism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "versailles_order",
+        "league_of_nations_security",
+        "great_depression_international_order",
+        "revisionist_powers_1930s"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "allied_powers",
+      "period_id": "1939_1945",
+      "label_fr": "Alliés",
+      "label_en": "Alliés",
+      "entity_type": "alliance_or_bloc",
+      "active_periods": [
+        "1939_1945"
+      ],
+      "period_role_summary": "Entité structurante pour 1939_1945. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.25,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "liberalism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "world_war_two_total_war",
+        "axis_imperial_projects",
+        "allied_grand_strategy",
+        "united_nations_1945"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "axis_powers",
+      "period_id": "1939_1945",
+      "label_fr": "Axe",
+      "label_en": "Axe",
+      "entity_type": "alliance_or_bloc",
+      "active_periods": [
+        "1939_1945"
+      ],
+      "period_role_summary": "Entité structurante pour 1939_1945. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.25,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "geopolitics_imperialism_reason_of_state",
+          "realism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "world_war_two_total_war",
+        "axis_imperial_projects",
+        "allied_grand_strategy",
+        "united_nations_1945"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "united_states",
+      "period_id": "1939_1945",
+      "label_fr": "États-Unis",
+      "label_en": "États-Unis",
+      "entity_type": "major_power",
+      "active_periods": [
+        "1939_1945"
+      ],
+      "period_role_summary": "Entité structurante pour 1939_1945. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.14,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "liberalism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "world_war_two_total_war",
+        "axis_imperial_projects",
+        "allied_grand_strategy",
+        "united_nations_1945"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "soviet_union",
+      "period_id": "1939_1945",
+      "label_fr": "URSS",
+      "label_en": "URSS",
+      "entity_type": "major_power",
+      "active_periods": [
+        "1939_1945"
+      ],
+      "period_role_summary": "Entité structurante pour 1939_1945. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.13,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "marxism_dependency_structuralism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "world_war_two_total_war",
+        "axis_imperial_projects",
+        "allied_grand_strategy",
+        "united_nations_1945"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "china_asian_theater",
+      "period_id": "1939_1945",
+      "label_fr": "Chine et théâtre asiatique",
+      "label_en": "Chine et théâtre asiatique",
+      "entity_type": "strategic_region",
+      "active_periods": [
+        "1939_1945"
+      ],
+      "period_role_summary": "Entité structurante pour 1939_1945. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.08,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "geopolitics_imperialism_reason_of_state",
+          "critical_postcolonial_feminist"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "world_war_two_total_war",
+        "axis_imperial_projects",
+        "allied_grand_strategy",
+        "united_nations_1945"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "colonial_empires",
+      "period_id": "1939_1945",
+      "label_fr": "Empires coloniaux mobilisés",
+      "label_en": "Empires coloniaux mobilisés",
+      "entity_type": "empire",
+      "active_periods": [
+        "1939_1945"
+      ],
+      "period_role_summary": "Entité structurante pour 1939_1945. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.07,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "geopolitics_imperialism_reason_of_state",
+          "critical_postcolonial_feminist"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "world_war_two_total_war",
+        "axis_imperial_projects",
+        "allied_grand_strategy",
+        "united_nations_1945"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "occupied_europe",
+      "period_id": "1939_1945",
+      "label_fr": "Europe occupée",
+      "label_en": "Europe occupée",
+      "entity_type": "strategic_region",
+      "active_periods": [
+        "1939_1945"
+      ],
+      "period_role_summary": "Entité structurante pour 1939_1945. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.05,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "critical_postcolonial_feminist"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "world_war_two_total_war",
+        "axis_imperial_projects",
+        "allied_grand_strategy",
+        "united_nations_1945"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "global_war_economy",
+      "period_id": "1939_1945",
+      "label_fr": "Économie de guerre mondiale",
+      "label_en": "Économie de guerre mondiale",
+      "entity_type": "transnational_actor",
+      "active_periods": [
+        "1939_1945"
+      ],
+      "period_role_summary": "Entité structurante pour 1939_1945. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.03,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "marxism_dependency_structuralism",
+          "realism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "world_war_two_total_war",
+        "axis_imperial_projects",
+        "allied_grand_strategy",
+        "united_nations_1945"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "united_states",
+      "period_id": "1945_1962",
+      "label_fr": "États-Unis",
+      "label_en": "États-Unis",
+      "entity_type": "major_power",
+      "active_periods": [
+        "1945_1962"
+      ],
+      "period_role_summary": "Entité structurante pour 1945_1962. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.23,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "liberalism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "cold_war_bipolarity_1945_1962",
+        "bretton_woods_institutional_order",
+        "decolonization_initial_wave",
+        "nuclear_deterrence_emergence"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "soviet_union",
+      "period_id": "1945_1962",
+      "label_fr": "URSS",
+      "label_en": "URSS",
+      "entity_type": "major_power",
+      "active_periods": [
+        "1945_1962"
+      ],
+      "period_role_summary": "Entité structurante pour 1945_1962. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.22,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "marxism_dependency_structuralism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "cold_war_bipolarity_1945_1962",
+        "bretton_woods_institutional_order",
+        "decolonization_initial_wave",
+        "nuclear_deterrence_emergence"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "western_europe",
+      "period_id": "1945_1962",
+      "label_fr": "Europe occidentale",
+      "label_en": "Europe occidentale",
+      "entity_type": "strategic_region",
+      "active_periods": [
+        "1945_1962"
+      ],
+      "period_role_summary": "Entité structurante pour 1945_1962. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.1,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "liberalism",
+          "english_school"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "cold_war_bipolarity_1945_1962",
+        "bretton_woods_institutional_order",
+        "decolonization_initial_wave",
+        "nuclear_deterrence_emergence"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "decolonizing_world",
+      "period_id": "1945_1962",
+      "label_fr": "Mondes en décolonisation",
+      "label_en": "Mondes en décolonisation",
+      "entity_type": "colonial_or_postcolonial_space",
+      "active_periods": [
+        "1945_1962"
+      ],
+      "period_role_summary": "Entité structurante pour 1945_1962. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.1,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "critical_postcolonial_feminist",
+          "marxism_dependency_structuralism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "cold_war_bipolarity_1945_1962",
+        "bretton_woods_institutional_order",
+        "decolonization_initial_wave",
+        "nuclear_deterrence_emergence"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "nato_western_bloc",
+      "period_id": "1945_1962",
+      "label_fr": "Bloc occidental / OTAN",
+      "label_en": "Bloc occidental / OTAN",
+      "entity_type": "alliance_or_bloc",
+      "active_periods": [
+        "1945_1962"
+      ],
+      "period_role_summary": "Entité structurante pour 1945_1962. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.08,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "liberalism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "cold_war_bipolarity_1945_1962",
+        "bretton_woods_institutional_order",
+        "decolonization_initial_wave",
+        "nuclear_deterrence_emergence"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "china",
+      "period_id": "1945_1962",
+      "label_fr": "Chine",
+      "label_en": "Chine",
+      "entity_type": "major_power",
+      "active_periods": [
+        "1945_1962"
+      ],
+      "period_role_summary": "Entité structurante pour 1945_1962. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.07,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "marxism_dependency_structuralism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "cold_war_bipolarity_1945_1962",
+        "bretton_woods_institutional_order",
+        "decolonization_initial_wave",
+        "nuclear_deterrence_emergence"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "united_nations",
+      "period_id": "1945_1962",
+      "label_fr": "ONU",
+      "label_en": "ONU",
+      "entity_type": "international_institution",
+      "active_periods": [
+        "1945_1962"
+      ],
+      "period_role_summary": "Entité structurante pour 1945_1962. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.07,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "english_school",
+          "liberalism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "cold_war_bipolarity_1945_1962",
+        "bretton_woods_institutional_order",
+        "decolonization_initial_wave",
+        "nuclear_deterrence_emergence"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "bretton_woods_institutions",
+      "period_id": "1945_1962",
+      "label_fr": "Institutions de Bretton Woods",
+      "label_en": "Institutions de Bretton Woods",
+      "entity_type": "international_institution",
+      "active_periods": [
+        "1945_1962"
+      ],
+      "period_role_summary": "Entité structurante pour 1945_1962. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.07,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "liberalism",
+          "marxism_dependency_structuralism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "cold_war_bipolarity_1945_1962",
+        "bretton_woods_institutional_order",
+        "decolonization_initial_wave",
+        "nuclear_deterrence_emergence"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "eastern_bloc",
+      "period_id": "1945_1962",
+      "label_fr": "Bloc soviétique",
+      "label_en": "Bloc soviétique",
+      "entity_type": "alliance_or_bloc",
+      "active_periods": [
+        "1945_1962"
+      ],
+      "period_role_summary": "Entité structurante pour 1945_1962. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.06,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "marxism_dependency_structuralism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "cold_war_bipolarity_1945_1962",
+        "bretton_woods_institutional_order",
+        "decolonization_initial_wave",
+        "nuclear_deterrence_emergence"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "united_states",
+      "period_id": "1962_1979",
+      "label_fr": "États-Unis",
+      "label_en": "États-Unis",
+      "entity_type": "major_power",
+      "active_periods": [
+        "1962_1979"
+      ],
+      "period_role_summary": "Entité structurante pour 1962_1979. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.18,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "liberalism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "cold_war_detente",
+        "non_aligned_and_bandung_legacy",
+        "dependency_and_oil_shocks",
+        "postcolonial_sovereignty_expansion"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "soviet_union",
+      "period_id": "1962_1979",
+      "label_fr": "URSS",
+      "label_en": "URSS",
+      "entity_type": "major_power",
+      "active_periods": [
+        "1962_1979"
+      ],
+      "period_role_summary": "Entité structurante pour 1962_1979. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.18,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "marxism_dependency_structuralism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "cold_war_detente",
+        "non_aligned_and_bandung_legacy",
+        "dependency_and_oil_shocks",
+        "postcolonial_sovereignty_expansion"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "non_aligned_world",
+      "period_id": "1962_1979",
+      "label_fr": "Non-alignés",
+      "label_en": "Non-alignés",
+      "entity_type": "alliance_or_bloc",
+      "active_periods": [
+        "1962_1979"
+      ],
+      "period_role_summary": "Entité structurante pour 1962_1979. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.12,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "marxism_dependency_structuralism",
+          "critical_postcolonial_feminist"
+        ],
+        "secondary_theories": [
+          "english_school"
+        ]
+      },
+      "evidence_basis": [
+        "cold_war_detente",
+        "non_aligned_and_bandung_legacy",
+        "dependency_and_oil_shocks",
+        "postcolonial_sovereignty_expansion"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "china",
+      "period_id": "1962_1979",
+      "label_fr": "Chine",
+      "label_en": "Chine",
+      "entity_type": "major_power",
+      "active_periods": [
+        "1962_1979"
+      ],
+      "period_role_summary": "Entité structurante pour 1962_1979. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.1,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "marxism_dependency_structuralism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "cold_war_detente",
+        "non_aligned_and_bandung_legacy",
+        "dependency_and_oil_shocks",
+        "postcolonial_sovereignty_expansion"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "western_europe",
+      "period_id": "1962_1979",
+      "label_fr": "Europe occidentale",
+      "label_en": "Europe occidentale",
+      "entity_type": "strategic_region",
+      "active_periods": [
+        "1962_1979"
+      ],
+      "period_role_summary": "Entité structurante pour 1962_1979. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.1,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "liberalism",
+          "english_school"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "cold_war_detente",
+        "non_aligned_and_bandung_legacy",
+        "dependency_and_oil_shocks",
+        "postcolonial_sovereignty_expansion"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "global_south_postcolonial",
+      "period_id": "1962_1979",
+      "label_fr": "Sud global postcolonial",
+      "label_en": "Sud global postcolonial",
+      "entity_type": "colonial_or_postcolonial_space",
+      "active_periods": [
+        "1962_1979"
+      ],
+      "period_role_summary": "Entité structurante pour 1962_1979. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.1,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "critical_postcolonial_feminist",
+          "marxism_dependency_structuralism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "cold_war_detente",
+        "non_aligned_and_bandung_legacy",
+        "dependency_and_oil_shocks",
+        "postcolonial_sovereignty_expansion"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "united_nations",
+      "period_id": "1962_1979",
+      "label_fr": "ONU",
+      "label_en": "ONU",
+      "entity_type": "international_institution",
+      "active_periods": [
+        "1962_1979"
+      ],
+      "period_role_summary": "Entité structurante pour 1962_1979. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.06,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "english_school",
+          "liberalism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "cold_war_detente",
+        "non_aligned_and_bandung_legacy",
+        "dependency_and_oil_shocks",
+        "postcolonial_sovereignty_expansion"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "bretton_woods_institutions",
+      "period_id": "1962_1979",
+      "label_fr": "Bretton Woods",
+      "label_en": "Bretton Woods",
+      "entity_type": "international_institution",
+      "active_periods": [
+        "1962_1979"
+      ],
+      "period_role_summary": "Entité structurante pour 1962_1979. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.06,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "liberalism",
+          "marxism_dependency_structuralism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "cold_war_detente",
+        "non_aligned_and_bandung_legacy",
+        "dependency_and_oil_shocks",
+        "postcolonial_sovereignty_expansion"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "middle_east",
+      "period_id": "1962_1979",
+      "label_fr": "Moyen-Orient",
+      "label_en": "Moyen-Orient",
+      "entity_type": "strategic_region",
+      "active_periods": [
+        "1962_1979"
+      ],
+      "period_role_summary": "Entité structurante pour 1962_1979. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.06,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "geopolitics_imperialism_reason_of_state"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "cold_war_detente",
+        "non_aligned_and_bandung_legacy",
+        "dependency_and_oil_shocks",
+        "postcolonial_sovereignty_expansion"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "vietnam_southeast_asia",
+      "period_id": "1962_1979",
+      "label_fr": "Vietnam / Asie du Sud-Est",
+      "label_en": "Vietnam / Asie du Sud-Est",
+      "entity_type": "strategic_region",
+      "active_periods": [
+        "1962_1979"
+      ],
+      "period_role_summary": "Entité structurante pour 1962_1979. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.04,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "critical_postcolonial_feminist"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "cold_war_detente",
+        "non_aligned_and_bandung_legacy",
+        "dependency_and_oil_shocks",
+        "postcolonial_sovereignty_expansion"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "united_states",
+      "period_id": "1991_2001",
+      "label_fr": "États-Unis",
+      "label_en": "États-Unis",
+      "entity_type": "major_power",
+      "active_periods": [
+        "1991_2001"
+      ],
+      "period_role_summary": "Entité structurante pour 1991_2001. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.25,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "liberalism",
+          "realism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "us_unipolarity_1991_2001",
+        "liberal_institutional_expansion_1991_2001",
+        "humanitarian_intervention_norms_1990s"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "liberal_institutions",
+      "period_id": "1991_2001",
+      "label_fr": "Institutions libérales internationales",
+      "label_en": "Institutions libérales internationales",
+      "entity_type": "international_institution",
+      "active_periods": [
+        "1991_2001"
+      ],
+      "period_role_summary": "Entité structurante pour 1991_2001. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.16,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "liberalism",
+          "english_school"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "us_unipolarity_1991_2001",
+        "liberal_institutional_expansion_1991_2001",
+        "humanitarian_intervention_norms_1990s"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "european_union",
+      "period_id": "1991_2001",
+      "label_fr": "Union européenne",
+      "label_en": "Union européenne",
+      "entity_type": "international_institution",
+      "active_periods": [
+        "1991_2001"
+      ],
+      "period_role_summary": "Entité structurante pour 1991_2001. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.14,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "liberalism",
+          "constructivism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "us_unipolarity_1991_2001",
+        "liberal_institutional_expansion_1991_2001",
+        "humanitarian_intervention_norms_1990s"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "china_rising",
+      "period_id": "1991_2001",
+      "label_fr": "Chine en montée",
+      "label_en": "Chine en montée",
+      "entity_type": "major_power",
+      "active_periods": [
+        "1991_2001"
+      ],
+      "period_role_summary": "Entité structurante pour 1991_2001. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.1,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "liberalism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "us_unipolarity_1991_2001",
+        "liberal_institutional_expansion_1991_2001",
+        "humanitarian_intervention_norms_1990s"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "transnational_capital",
+      "period_id": "1991_2001",
+      "label_fr": "Capital transnational",
+      "label_en": "Capital transnational",
+      "entity_type": "transnational_actor",
+      "active_periods": [
+        "1991_2001"
+      ],
+      "period_role_summary": "Entité structurante pour 1991_2001. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.1,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "liberalism",
+          "marxism_dependency_structuralism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "us_unipolarity_1991_2001",
+        "liberal_institutional_expansion_1991_2001",
+        "humanitarian_intervention_norms_1990s"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "global_south",
+      "period_id": "1991_2001",
+      "label_fr": "Sud global",
+      "label_en": "Sud global",
+      "entity_type": "colonial_or_postcolonial_space",
+      "active_periods": [
+        "1991_2001"
+      ],
+      "period_role_summary": "Entité structurante pour 1991_2001. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.09,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "critical_postcolonial_feminist",
+          "marxism_dependency_structuralism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "us_unipolarity_1991_2001",
+        "liberal_institutional_expansion_1991_2001",
+        "humanitarian_intervention_norms_1990s"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "russia_post_soviet",
+      "period_id": "1991_2001",
+      "label_fr": "Russie post-soviétique",
+      "label_en": "Russie post-soviétique",
+      "entity_type": "major_power",
+      "active_periods": [
+        "1991_2001"
+      ],
+      "period_role_summary": "Entité structurante pour 1991_2001. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.08,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "geopolitics_imperialism_reason_of_state"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "us_unipolarity_1991_2001",
+        "liberal_institutional_expansion_1991_2001",
+        "humanitarian_intervention_norms_1990s"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "nato",
+      "period_id": "1991_2001",
+      "label_fr": "OTAN",
+      "label_en": "OTAN",
+      "entity_type": "alliance_or_bloc",
+      "active_periods": [
+        "1991_2001"
+      ],
+      "period_role_summary": "Entité structurante pour 1991_2001. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.08,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "liberalism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "us_unipolarity_1991_2001",
+        "liberal_institutional_expansion_1991_2001",
+        "humanitarian_intervention_norms_1990s"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "united_states",
+      "period_id": "2014_2022",
+      "label_fr": "États-Unis",
+      "label_en": "États-Unis",
+      "entity_type": "major_power",
+      "active_periods": [
+        "2014_2022"
+      ],
+      "period_role_summary": "Entité structurante pour 2014_2022. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.18,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "liberalism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "russia_west_fragmentation_2014_2022",
+        "us_china_rivalry_acceleration",
+        "sanctions_and_hybrid_conflict"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "china",
+      "period_id": "2014_2022",
+      "label_fr": "Chine",
+      "label_en": "Chine",
+      "entity_type": "major_power",
+      "active_periods": [
+        "2014_2022"
+      ],
+      "period_role_summary": "Entité structurante pour 2014_2022. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.18,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "geopolitics_imperialism_reason_of_state"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "russia_west_fragmentation_2014_2022",
+        "us_china_rivalry_acceleration",
+        "sanctions_and_hybrid_conflict"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "russia",
+      "period_id": "2014_2022",
+      "label_fr": "Russie",
+      "label_en": "Russie",
+      "entity_type": "major_power",
+      "active_periods": [
+        "2014_2022"
+      ],
+      "period_role_summary": "Entité structurante pour 2014_2022. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.13,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "geopolitics_imperialism_reason_of_state"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "russia_west_fragmentation_2014_2022",
+        "us_china_rivalry_acceleration",
+        "sanctions_and_hybrid_conflict"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "european_union",
+      "period_id": "2014_2022",
+      "label_fr": "Union européenne",
+      "label_en": "Union européenne",
+      "entity_type": "international_institution",
+      "active_periods": [
+        "2014_2022"
+      ],
+      "period_role_summary": "Entité structurante pour 2014_2022. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.12,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "liberalism",
+          "english_school"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "russia_west_fragmentation_2014_2022",
+        "us_china_rivalry_acceleration",
+        "sanctions_and_hybrid_conflict"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "middle_east",
+      "period_id": "2014_2022",
+      "label_fr": "Moyen-Orient",
+      "label_en": "Moyen-Orient",
+      "entity_type": "strategic_region",
+      "active_periods": [
+        "2014_2022"
+      ],
+      "period_role_summary": "Entité structurante pour 2014_2022. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.09,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "geopolitics_imperialism_reason_of_state"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "russia_west_fragmentation_2014_2022",
+        "us_china_rivalry_acceleration",
+        "sanctions_and_hybrid_conflict"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "nato",
+      "period_id": "2014_2022",
+      "label_fr": "OTAN",
+      "label_en": "OTAN",
+      "entity_type": "alliance_or_bloc",
+      "active_periods": [
+        "2014_2022"
+      ],
+      "period_role_summary": "Entité structurante pour 2014_2022. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.08,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "liberalism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "russia_west_fragmentation_2014_2022",
+        "us_china_rivalry_acceleration",
+        "sanctions_and_hybrid_conflict"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "indo_pacific",
+      "period_id": "2014_2022",
+      "label_fr": "Indo-Pacifique",
+      "label_en": "Indo-Pacifique",
+      "entity_type": "strategic_region",
+      "active_periods": [
+        "2014_2022"
+      ],
+      "period_role_summary": "Entité structurante pour 2014_2022. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.08,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "geopolitics_imperialism_reason_of_state"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "russia_west_fragmentation_2014_2022",
+        "us_china_rivalry_acceleration",
+        "sanctions_and_hybrid_conflict"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "global_south",
+      "period_id": "2014_2022",
+      "label_fr": "Sud global",
+      "label_en": "Sud global",
+      "entity_type": "colonial_or_postcolonial_space",
+      "active_periods": [
+        "2014_2022"
+      ],
+      "period_role_summary": "Entité structurante pour 2014_2022. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.07,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "critical_postcolonial_feminist",
+          "marxism_dependency_structuralism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "russia_west_fragmentation_2014_2022",
+        "us_china_rivalry_acceleration",
+        "sanctions_and_hybrid_conflict"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "transnational_tech_finance",
+      "period_id": "2014_2022",
+      "label_fr": "Technologie et finance transnationales",
+      "label_en": "Technologie et finance transnationales",
+      "entity_type": "transnational_actor",
+      "active_periods": [
+        "2014_2022"
+      ],
+      "period_role_summary": "Entité structurante pour 2014_2022. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.07,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "liberalism",
+          "marxism_dependency_structuralism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "russia_west_fragmentation_2014_2022",
+        "us_china_rivalry_acceleration",
+        "sanctions_and_hybrid_conflict"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "china",
+      "period_id": "2022_2026",
+      "label_fr": "Chine",
+      "label_en": "Chine",
+      "entity_type": "major_power",
+      "active_periods": [
+        "2022_2026"
+      ],
+      "period_role_summary": "Entité structurante pour 2022_2026. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.17,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "geopolitics_imperialism_reason_of_state"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "ukraine_invasion_2022",
+        "sanctions_energy_security_2022_2026",
+        "bloc_flexibility_global_south",
+        "indo_pacific_security_rivalry"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "united_states",
+      "period_id": "2022_2026",
+      "label_fr": "États-Unis",
+      "label_en": "États-Unis",
+      "entity_type": "major_power",
+      "active_periods": [
+        "2022_2026"
+      ],
+      "period_role_summary": "Entité structurante pour 2022_2026. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.16,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "liberalism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "ukraine_invasion_2022",
+        "sanctions_energy_security_2022_2026",
+        "bloc_flexibility_global_south",
+        "indo_pacific_security_rivalry"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "russia",
+      "period_id": "2022_2026",
+      "label_fr": "Russie",
+      "label_en": "Russie",
+      "entity_type": "major_power",
+      "active_periods": [
+        "2022_2026"
+      ],
+      "period_role_summary": "Entité structurante pour 2022_2026. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.13,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "geopolitics_imperialism_reason_of_state"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "ukraine_invasion_2022",
+        "sanctions_energy_security_2022_2026",
+        "bloc_flexibility_global_south",
+        "indo_pacific_security_rivalry"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "european_union",
+      "period_id": "2022_2026",
+      "label_fr": "Union européenne",
+      "label_en": "Union européenne",
+      "entity_type": "international_institution",
+      "active_periods": [
+        "2022_2026"
+      ],
+      "period_role_summary": "Entité structurante pour 2022_2026. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.12,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "liberalism",
+          "english_school"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "ukraine_invasion_2022",
+        "sanctions_energy_security_2022_2026",
+        "bloc_flexibility_global_south",
+        "indo_pacific_security_rivalry"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "nato",
+      "period_id": "2022_2026",
+      "label_fr": "OTAN",
+      "label_en": "OTAN",
+      "entity_type": "alliance_or_bloc",
+      "active_periods": [
+        "2022_2026"
+      ],
+      "period_role_summary": "Entité structurante pour 2022_2026. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.1,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "liberalism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "ukraine_invasion_2022",
+        "sanctions_energy_security_2022_2026",
+        "bloc_flexibility_global_south",
+        "indo_pacific_security_rivalry"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "global_south",
+      "period_id": "2022_2026",
+      "label_fr": "Sud global",
+      "label_en": "Sud global",
+      "entity_type": "colonial_or_postcolonial_space",
+      "active_periods": [
+        "2022_2026"
+      ],
+      "period_role_summary": "Entité structurante pour 2022_2026. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.08,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "critical_postcolonial_feminist",
+          "marxism_dependency_structuralism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "ukraine_invasion_2022",
+        "sanctions_energy_security_2022_2026",
+        "bloc_flexibility_global_south",
+        "indo_pacific_security_rivalry"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "energy_sanctions_system",
+      "period_id": "2022_2026",
+      "label_fr": "Énergie et sanctions",
+      "label_en": "Énergie et sanctions",
+      "entity_type": "transnational_actor",
+      "active_periods": [
+        "2022_2026"
+      ],
+      "period_role_summary": "Entité structurante pour 2022_2026. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.08,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "geopolitics_imperialism_reason_of_state",
+          "marxism_dependency_structuralism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "ukraine_invasion_2022",
+        "sanctions_energy_security_2022_2026",
+        "bloc_flexibility_global_south",
+        "indo_pacific_security_rivalry"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "ukraine",
+      "period_id": "2022_2026",
+      "label_fr": "Ukraine",
+      "label_en": "Ukraine",
+      "entity_type": "regional_power",
+      "active_periods": [
+        "2022_2026"
+      ],
+      "period_role_summary": "Entité structurante pour 2022_2026. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.06,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "constructivism"
+        ],
+        "secondary_theories": [
+          "geopolitics_imperialism_reason_of_state"
+        ]
+      },
+      "evidence_basis": [
+        "ukraine_invasion_2022",
+        "sanctions_energy_security_2022_2026",
+        "bloc_flexibility_global_south",
+        "indo_pacific_security_rivalry"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "indo_pacific",
+      "period_id": "2022_2026",
+      "label_fr": "Indo-Pacifique",
+      "label_en": "Indo-Pacifique",
+      "entity_type": "strategic_region",
+      "active_periods": [
+        "2022_2026"
+      ],
+      "period_role_summary": "Entité structurante pour 2022_2026. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.06,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "realism",
+          "geopolitics_imperialism_reason_of_state"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "ukraine_invasion_2022",
+        "sanctions_energy_security_2022_2026",
+        "bloc_flexibility_global_south",
+        "indo_pacific_security_rivalry"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    },
+    {
+      "schema_version": "1.0.0",
+      "entity_id": "international_institutions",
+      "period_id": "2022_2026",
+      "label_fr": "Institutions internationales",
+      "label_en": "Institutions internationales",
+      "entity_type": "international_institution",
+      "active_periods": [
+        "2022_2026"
+      ],
+      "period_role_summary": "Entité structurante pour 2022_2026. Sa fiche V1 sert à justifier le poids systémique et les lectures théoriques dominantes, pas à raconter son histoire complète.",
+      "systemic_weight": 0.04,
+      "weight_rationale": "Poids seed V1 attribué selon centralité militaire, économique, institutionnelle, géographique et idéologique. À auditer avant validation.",
+      "theory_profile": {
+        "dominant_theories": [
+          "english_school",
+          "liberalism"
+        ],
+        "secondary_theories": []
+      },
+      "evidence_basis": [
+        "ukraine_invasion_2022",
+        "sanctions_energy_security_2022_2026",
+        "bloc_flexibility_global_south",
+        "indo_pacific_security_rivalry"
+      ],
+      "confidence": {
+        "label": "high",
+        "internal_score": 64.2,
+        "dimensions": {
+          "evidence_quality": 70,
+          "historiographical_consensus": 62,
+          "temporal_stability": 60,
+          "weight_sensitivity": 45,
+          "anachronism_risk": 25
+        }
+      },
+      "known_limits": [
+        "Pondération systémique initiale ; nécessite revue experte."
+      ],
+      "related_events": [],
+      "related_references": [],
+      "audit_flags": [
+        "entity_weight_seed"
+      ],
+      "maturity_status": "draft"
+    }
+  ]
+}

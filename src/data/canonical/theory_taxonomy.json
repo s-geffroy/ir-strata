@@ -1,0 +1,314 @@
+{
+  "schema_version": "1.0.0",
+  "theory_families": [
+    {
+      "theory_family_id": "realism",
+      "label_fr": "Réalisme",
+      "label_en": "Realism",
+      "subfamilies": [
+        {
+          "subfamily_id": "classical_realism",
+          "label_fr": "classical realism",
+          "label_en": "classical realism"
+        },
+        {
+          "subfamily_id": "neorealism",
+          "label_fr": "neorealism",
+          "label_en": "neorealism"
+        },
+        {
+          "subfamily_id": "offensive_realism",
+          "label_fr": "offensive realism",
+          "label_en": "offensive realism"
+        },
+        {
+          "subfamily_id": "defensive_realism",
+          "label_fr": "defensive realism",
+          "label_en": "defensive realism"
+        },
+        {
+          "subfamily_id": "neoclassical_realism",
+          "label_fr": "neoclassical realism",
+          "label_en": "neoclassical realism"
+        },
+        {
+          "subfamily_id": "balance_of_power",
+          "label_fr": "balance of power",
+          "label_en": "balance of power"
+        }
+      ],
+      "maturity_status": "reviewed",
+      "notes_fr": "Famille théorique de niveau 1. Les sous-familles sont activées seulement lorsque la période le justifie."
+    },
+    {
+      "theory_family_id": "liberalism",
+      "label_fr": "Libéralisme",
+      "label_en": "Liberalism",
+      "subfamilies": [
+        {
+          "subfamily_id": "liberal_internationalism",
+          "label_fr": "liberal internationalism",
+          "label_en": "liberal internationalism"
+        },
+        {
+          "subfamily_id": "liberal_institutionalism",
+          "label_fr": "liberal institutionalism",
+          "label_en": "liberal institutionalism"
+        },
+        {
+          "subfamily_id": "neoliberal_institutionalism",
+          "label_fr": "neoliberal institutionalism",
+          "label_en": "neoliberal institutionalism"
+        },
+        {
+          "subfamily_id": "complex_interdependence",
+          "label_fr": "complex interdependence",
+          "label_en": "complex interdependence"
+        },
+        {
+          "subfamily_id": "democratic_peace",
+          "label_fr": "democratic peace",
+          "label_en": "democratic peace"
+        },
+        {
+          "subfamily_id": "hegemonic_liberal_order",
+          "label_fr": "hegemonic liberal order",
+          "label_en": "hegemonic liberal order"
+        }
+      ],
+      "maturity_status": "reviewed",
+      "notes_fr": "Famille théorique de niveau 1. Les sous-familles sont activées seulement lorsque la période le justifie."
+    },
+    {
+      "theory_family_id": "marxism_dependency_structuralism",
+      "label_fr": "Marxisme / structuralisme / dépendance",
+      "label_en": "Marxism / structuralism / dependency",
+      "subfamilies": [
+        {
+          "subfamily_id": "imperialism_theory",
+          "label_fr": "imperialism theory",
+          "label_en": "imperialism theory"
+        },
+        {
+          "subfamily_id": "dependency_theory",
+          "label_fr": "dependency theory",
+          "label_en": "dependency theory"
+        },
+        {
+          "subfamily_id": "world_systems",
+          "label_fr": "world systems",
+          "label_en": "world systems"
+        },
+        {
+          "subfamily_id": "critical_ipe",
+          "label_fr": "critical ipe",
+          "label_en": "critical ipe"
+        },
+        {
+          "subfamily_id": "gramsci_hegemony",
+          "label_fr": "gramsci hegemony",
+          "label_en": "gramsci hegemony"
+        },
+        {
+          "subfamily_id": "third_worldism",
+          "label_fr": "third worldism",
+          "label_en": "third worldism"
+        }
+      ],
+      "maturity_status": "reviewed",
+      "notes_fr": "Famille théorique de niveau 1. Les sous-familles sont activées seulement lorsque la période le justifie."
+    },
+    {
+      "theory_family_id": "constructivism",
+      "label_fr": "Constructivisme",
+      "label_en": "Constructivism",
+      "subfamilies": [
+        {
+          "subfamily_id": "normative_constructivism",
+          "label_fr": "normative constructivism",
+          "label_en": "normative constructivism"
+        },
+        {
+          "subfamily_id": "identity_constructivism",
+          "label_fr": "identity constructivism",
+          "label_en": "identity constructivism"
+        },
+        {
+          "subfamily_id": "socialization",
+          "label_fr": "socialization",
+          "label_en": "socialization"
+        },
+        {
+          "subfamily_id": "norm_entrepreneurs",
+          "label_fr": "norm entrepreneurs",
+          "label_en": "norm entrepreneurs"
+        },
+        {
+          "subfamily_id": "ontological_security",
+          "label_fr": "ontological security",
+          "label_en": "ontological security"
+        },
+        {
+          "subfamily_id": "recognition",
+          "label_fr": "recognition",
+          "label_en": "recognition"
+        }
+      ],
+      "maturity_status": "reviewed",
+      "notes_fr": "Famille théorique de niveau 1. Les sous-familles sont activées seulement lorsque la période le justifie."
+    },
+    {
+      "theory_family_id": "english_school",
+      "label_fr": "École anglaise",
+      "label_en": "English School",
+      "subfamilies": [
+        {
+          "subfamily_id": "international_society",
+          "label_fr": "international society",
+          "label_en": "international society"
+        },
+        {
+          "subfamily_id": "primary_institutions",
+          "label_fr": "primary institutions",
+          "label_en": "primary institutions"
+        },
+        {
+          "subfamily_id": "pluralism",
+          "label_fr": "pluralism",
+          "label_en": "pluralism"
+        },
+        {
+          "subfamily_id": "solidarism",
+          "label_fr": "solidarism",
+          "label_en": "solidarism"
+        },
+        {
+          "subfamily_id": "world_society",
+          "label_fr": "world society",
+          "label_en": "world society"
+        }
+      ],
+      "maturity_status": "reviewed",
+      "notes_fr": "Famille théorique de niveau 1. Les sous-familles sont activées seulement lorsque la période le justifie."
+    },
+    {
+      "theory_family_id": "critical_postcolonial_feminist",
+      "label_fr": "Critiques / postcoloniales / féministes",
+      "label_en": "Critical / postcolonial / feminist approaches",
+      "subfamilies": [
+        {
+          "subfamily_id": "critical_theory",
+          "label_fr": "critical theory",
+          "label_en": "critical theory"
+        },
+        {
+          "subfamily_id": "poststructuralism",
+          "label_fr": "poststructuralism",
+          "label_en": "poststructuralism"
+        },
+        {
+          "subfamily_id": "postcolonialism",
+          "label_fr": "postcolonialism",
+          "label_en": "postcolonialism"
+        },
+        {
+          "subfamily_id": "feminist_ir",
+          "label_fr": "feminist ir",
+          "label_en": "feminist ir"
+        },
+        {
+          "subfamily_id": "decoloniality",
+          "label_fr": "decoloniality",
+          "label_en": "decoloniality"
+        },
+        {
+          "subfamily_id": "critical_security_studies",
+          "label_fr": "critical security studies",
+          "label_en": "critical security studies"
+        }
+      ],
+      "maturity_status": "reviewed",
+      "notes_fr": "Famille théorique de niveau 1. Les sous-familles sont activées seulement lorsque la période le justifie."
+    },
+    {
+      "theory_family_id": "geopolitics_imperialism_reason_of_state",
+      "label_fr": "Géopolitique / impérialisme / raison d’État",
+      "label_en": "Geopolitics / imperialism / reason of state",
+      "subfamilies": [
+        {
+          "subfamily_id": "reason_of_state",
+          "label_fr": "reason of state",
+          "label_en": "reason of state"
+        },
+        {
+          "subfamily_id": "territorial_geopolitics",
+          "label_fr": "territorial geopolitics",
+          "label_en": "territorial geopolitics"
+        },
+        {
+          "subfamily_id": "maritime_geopolitics",
+          "label_fr": "maritime geopolitics",
+          "label_en": "maritime geopolitics"
+        },
+        {
+          "subfamily_id": "territorial_imperialism",
+          "label_fr": "territorial imperialism",
+          "label_en": "territorial imperialism"
+        },
+        {
+          "subfamily_id": "spheres_of_influence",
+          "label_fr": "spheres of influence",
+          "label_en": "spheres of influence"
+        },
+        {
+          "subfamily_id": "strategic_depth",
+          "label_fr": "strategic depth",
+          "label_en": "strategic depth"
+        },
+        {
+          "subfamily_id": "routes_and_corridors",
+          "label_fr": "routes and corridors",
+          "label_en": "routes and corridors"
+        }
+      ],
+      "maturity_status": "reviewed",
+      "notes_fr": "Famille théorique de niveau 1. Les sous-familles sont activées seulement lorsque la période le justifie."
+    }
+  ],
+  "transversal_tags": {
+    "polarity": [
+      "multipolarity",
+      "bipolarity",
+      "unipolarity",
+      "polycentrism"
+    ],
+    "order": [
+      "balance_of_power",
+      "collective_security",
+      "imperial_order",
+      "liberal_order",
+      "fragmented_order",
+      "revisionist_order"
+    ],
+    "dynamics": [
+      "total_war",
+      "cold_war",
+      "hybrid_war",
+      "sanctions",
+      "decoupling",
+      "interdependence",
+      "fragmentation",
+      "arms_race"
+    ],
+    "structures": [
+      "empire",
+      "hegemony",
+      "center_periphery",
+      "coloniality",
+      "sovereignty",
+      "international_institutions",
+      "norms",
+      "global_capitalism"
+    ]
+  }
+}

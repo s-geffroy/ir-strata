@@ -1,0 +1,15 @@
+# Dépendances et sorties de build (régénérées)
+/node_modules
+/build
+/.docusaurus
+.cache-loader
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS / éditeurs
+.DS_Store
+.idea
+.vscode/*
+!.vscode/extensions.json

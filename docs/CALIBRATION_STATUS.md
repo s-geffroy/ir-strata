@@ -1,0 +1,36 @@
+---
+id: CALIBRATION_STATUS
+title: Avancement du re-sourçage
+sidebar_label: Re-sourçage des scores
+---
+
+# Avancement du re-sourçage des scores
+
+_État au 2026-05-24._
+
+Les audits précédents garantissent l'existence des références et l'absence d'anachronisme, **pas** la justesse des valeurs de score. Le re-sourçage remplace progressivement les justifications seed par des justifications réelles, adossées aux preuves et références vérifiées. Ce tableau en mesure l'avancement.
+
+**7 / 1549 scores actifs re-sourcés (0.5 %).**
+
+## Par période (priorité P1 d'abord)
+
+| Période | Priorité | Sourcé | Seed |
+| --- | --- | ---: | ---: |
+| 1815_1848 | P1 | 0 | 90 |
+| 1871_1914 | P1 | 0 | 121 |
+| 1919_1939 | P1 | 0 | 140 |
+| 1939_1945 | P1 | 0 | 135 |
+| 1945_1962 | P1 | 7 | 143 |
+| 1962_1979 | P1 | 0 | 198 |
+| 1991_2001 | P1 | 0 | 189 |
+| 2014_2022 | P1 | 0 | 210 |
+| 2022_2026 | P1 | 0 | 231 |
+| 1848_1871 | P2 | 0 | 11 |
+| 1914_1919 | P2 | 0 | 13 |
+| 1979_1991 | P2 | 0 | 19 |
+| 2001_2008 | P2 | 0 | 21 |
+| 2008_2014 | P2 | 0 | 21 |
+
+## Méthode de re-sourçage
+
+Pour chaque score : justification analytique réelle, `evidence_basis` pointant des preuves existantes, `direct_references` vers des références **vérifiées**, confiance recalibrée, `known_limits` explicites, puis `calibration_status: "sourced"`. Voir la tranche déjà traitée comme gabarit (1945-1962, couche `strategic_reality`).

@@ -1,0 +1,317 @@
+{
+  "schema_version": "1.0.0",
+  "controversies": [
+    {
+      "schema_version": "1.0.0",
+      "controversy_id": "concert_order_1815_1848",
+      "label_fr": "Concert européen : stabilisation ou domination conservatrice ?",
+      "label_en": "Concert européen : stabilisation ou domination conservatrice ?",
+      "period_ids": [
+        "1815_1848"
+      ],
+      "related_scores": [
+        "score_1815_1848_global_system_strategic_reality_realism",
+        "score_1815_1848_global_system_strategic_reality_english_school",
+        "score_1815_1848_global_system_strategic_reality_critical_postcolonial_feminist"
+      ],
+      "positions": [
+        {
+          "position_id": "realism_position",
+          "summary_fr": "Lecture privilégiant realism.",
+          "supports_theories": [
+            "realism"
+          ],
+          "related_references": [
+            "kissinger_1957_world_restored",
+            "taylor_1954_struggle_mastery"
+          ]
+        },
+        {
+          "position_id": "english_school_position",
+          "summary_fr": "Lecture privilégiant english_school.",
+          "supports_theories": [
+            "english_school"
+          ],
+          "related_references": [
+            "kissinger_1957_world_restored",
+            "taylor_1954_struggle_mastery"
+          ]
+        },
+        {
+          "position_id": "critical_postcolonial_feminist_position",
+          "summary_fr": "Lecture privilégiant critical_postcolonial_feminist.",
+          "supports_theories": [
+            "critical_postcolonial_feminist"
+          ],
+          "related_references": [
+            "kissinger_1957_world_restored",
+            "taylor_1954_struggle_mastery"
+          ]
+        }
+      ],
+      "model_decision": "Le modèle retient une lecture d’ordre stabilisateur conservateur, avec coût politique et colonial explicite.",
+      "confidence_impact": "medium",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "controversy_id": "causes_1914",
+      "label_fr": "Causes profondes de 1914",
+      "label_en": "Causes profondes de 1914",
+      "period_ids": [
+        "1871_1914"
+      ],
+      "related_scores": [
+        "score_1871_1914_global_system_strategic_reality_realism",
+        "score_1871_1914_global_system_strategic_reality_marxism_dependency_structuralism",
+        "score_1871_1914_global_system_strategic_reality_geopolitics_imperialism_reason_of_state"
+      ],
+      "positions": [
+        {
+          "position_id": "realism_position",
+          "summary_fr": "Lecture privilégiant realism.",
+          "supports_theories": [
+            "realism"
+          ],
+          "related_references": [
+            "hobsbawm_1987_age_empire",
+            "kennedy_1987_rise_fall"
+          ]
+        },
+        {
+          "position_id": "geopolitics_imperialism_reason_of_state_position",
+          "summary_fr": "Lecture privilégiant geopolitics_imperialism_reason_of_state.",
+          "supports_theories": [
+            "geopolitics_imperialism_reason_of_state"
+          ],
+          "related_references": [
+            "hobsbawm_1987_age_empire",
+            "kennedy_1987_rise_fall"
+          ]
+        },
+        {
+          "position_id": "marxism_dependency_structuralism_position",
+          "summary_fr": "Lecture privilégiant marxism_dependency_structuralism.",
+          "supports_theories": [
+            "marxism_dependency_structuralism"
+          ],
+          "related_references": [
+            "hobsbawm_1987_age_empire",
+            "kennedy_1987_rise_fall"
+          ]
+        }
+      ],
+      "model_decision": "Le modèle retient une causalité composite : rivalités de puissance, impérialisme, alliances et nationalismes.",
+      "confidence_impact": "medium",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "controversy_id": "versailles_failure",
+      "label_fr": "Échec de Versailles",
+      "label_en": "Échec de Versailles",
+      "period_ids": [
+        "1919_1939"
+      ],
+      "related_scores": [
+        "score_1919_1939_global_system_strategic_reality_realism",
+        "score_1919_1939_global_system_strategic_reality_liberalism",
+        "score_1919_1939_global_system_strategic_reality_marxism_dependency_structuralism"
+      ],
+      "positions": [
+        {
+          "position_id": "liberalism_position",
+          "summary_fr": "Lecture privilégiant liberalism.",
+          "supports_theories": [
+            "liberalism"
+          ],
+          "related_references": [
+            "carr_1939_twenty_years",
+            "mazower_1998_dark_continent"
+          ]
+        },
+        {
+          "position_id": "realism_position",
+          "summary_fr": "Lecture privilégiant realism.",
+          "supports_theories": [
+            "realism"
+          ],
+          "related_references": [
+            "carr_1939_twenty_years",
+            "mazower_1998_dark_continent"
+          ]
+        },
+        {
+          "position_id": "marxism_dependency_structuralism_position",
+          "summary_fr": "Lecture privilégiant marxism_dependency_structuralism.",
+          "supports_theories": [
+            "marxism_dependency_structuralism"
+          ],
+          "related_references": [
+            "carr_1939_twenty_years",
+            "mazower_1998_dark_continent"
+          ]
+        }
+      ],
+      "model_decision": "Le modèle retient une combinaison : faiblesse institutionnelle, révisionnisme et crise économique.",
+      "confidence_impact": "medium",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "controversy_id": "cold_war_origins",
+      "label_fr": "Origines de la Guerre froide",
+      "label_en": "Origines de la Guerre froide",
+      "period_ids": [
+        "1945_1962"
+      ],
+      "related_scores": [
+        "score_1945_1962_global_system_strategic_reality_realism",
+        "score_1945_1962_global_system_strategic_reality_marxism_dependency_structuralism",
+        "score_1945_1962_global_system_strategic_reality_constructivism"
+      ],
+      "positions": [
+        {
+          "position_id": "realism_position",
+          "summary_fr": "Lecture privilégiant realism.",
+          "supports_theories": [
+            "realism"
+          ],
+          "related_references": [
+            "gaddis_2005_cold_war",
+            "westad_2017_cold_war"
+          ]
+        },
+        {
+          "position_id": "constructivism_position",
+          "summary_fr": "Lecture privilégiant constructivism.",
+          "supports_theories": [
+            "constructivism"
+          ],
+          "related_references": [
+            "gaddis_2005_cold_war",
+            "westad_2017_cold_war"
+          ]
+        },
+        {
+          "position_id": "marxism_dependency_structuralism_position",
+          "summary_fr": "Lecture privilégiant marxism_dependency_structuralism.",
+          "supports_theories": [
+            "marxism_dependency_structuralism"
+          ],
+          "related_references": [
+            "gaddis_2005_cold_war",
+            "westad_2017_cold_war"
+          ]
+        }
+      ],
+      "model_decision": "Le modèle privilégie la structure bipolaire et le dilemme de sécurité, sans exclure l’idéologie.",
+      "confidence_impact": "medium",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "controversy_id": "liberal_order_1991_2001",
+      "label_fr": "Nature de l’ordre international post-Guerre froide",
+      "label_en": "Nature de l’ordre international post-Guerre froide",
+      "period_ids": [
+        "1991_2001"
+      ],
+      "related_scores": [
+        "score_1991_2001_global_system_strategic_reality_realism",
+        "score_1991_2001_global_system_strategic_reality_liberalism",
+        "score_1991_2001_global_system_strategic_reality_critical_postcolonial_feminist"
+      ],
+      "positions": [
+        {
+          "position_id": "liberalism_position",
+          "summary_fr": "Lecture privilégiant liberalism.",
+          "supports_theories": [
+            "liberalism"
+          ],
+          "related_references": [
+            "ikenberry_2001_after_victory",
+            "fukuyama_1992_end_history"
+          ]
+        },
+        {
+          "position_id": "realism_position",
+          "summary_fr": "Lecture privilégiant realism.",
+          "supports_theories": [
+            "realism"
+          ],
+          "related_references": [
+            "ikenberry_2001_after_victory",
+            "fukuyama_1992_end_history"
+          ]
+        },
+        {
+          "position_id": "critical_postcolonial_feminist_position",
+          "summary_fr": "Lecture privilégiant critical_postcolonial_feminist.",
+          "supports_theories": [
+            "critical_postcolonial_feminist"
+          ],
+          "related_references": [
+            "ikenberry_2001_after_victory",
+            "fukuyama_1992_end_history"
+          ]
+        }
+      ],
+      "model_decision": "Le modèle retient une lecture d’ordre libéral hégémonique.",
+      "confidence_impact": "medium",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "controversy_id": "new_cold_war_2022_2026",
+      "label_fr": "Nouvelle Guerre froide, multipolarité ou blocs souples ?",
+      "label_en": "Nouvelle Guerre froide, multipolarité ou blocs souples ?",
+      "period_ids": [
+        "2022_2026"
+      ],
+      "related_scores": [
+        "score_2022_2026_global_system_strategic_reality_realism",
+        "score_2022_2026_global_system_strategic_reality_liberalism",
+        "score_2022_2026_global_system_strategic_reality_geopolitics_imperialism_reason_of_state"
+      ],
+      "positions": [
+        {
+          "position_id": "realism_position",
+          "summary_fr": "Lecture privilégiant realism.",
+          "supports_theories": [
+            "realism"
+          ],
+          "related_references": [
+            "mearsheimer_2001_tragedy",
+            "cooley_nexon_2020_exit_hegemony"
+          ]
+        },
+        {
+          "position_id": "geopolitics_imperialism_reason_of_state_position",
+          "summary_fr": "Lecture privilégiant geopolitics_imperialism_reason_of_state.",
+          "supports_theories": [
+            "geopolitics_imperialism_reason_of_state"
+          ],
+          "related_references": [
+            "mearsheimer_2001_tragedy",
+            "cooley_nexon_2020_exit_hegemony"
+          ]
+        },
+        {
+          "position_id": "liberalism_position",
+          "summary_fr": "Lecture privilégiant liberalism.",
+          "supports_theories": [
+            "liberalism"
+          ],
+          "related_references": [
+            "mearsheimer_2001_tragedy",
+            "cooley_nexon_2020_exit_hegemony"
+          ]
+        }
+      ],
+      "model_decision": "Le modèle retient une fragmentation en blocs souples plutôt qu’une bipolarité parfaite.",
+      "confidence_impact": "medium",
+      "maturity_status": "reviewed"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+:root {
+  --ifm-color-primary: #2f4f4f;
+  --ifm-color-primary-dark: #294646;
+  --ifm-color-primary-darker: #243f3f;
+  --ifm-color-primary-darkest: #1e3434;
+  --ifm-color-primary-light: #3a5f5f;
+  --ifm-color-primary-lighter: #426969;
+  --ifm-color-primary-lightest: #527a7a;
+  --atlas-signal: #d6a21f;
+  --atlas-muted: #6b7280;
+}
+
+.hero--atlas {
+  padding: 4rem 0 2.5rem;
+  background: linear-gradient(135deg, #111827 0%, #253443 100%);
+  color: white;
+}
+
+.atlas-warning {
+  border-left: 4px solid var(--atlas-signal);
+  background: rgba(214,162,31,0.12);
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 0.5rem;
+}
+
+.atlas-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1rem;
+}
+
+.atlas-card {
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 0.75rem;
+  padding: 1rem;
+  background: var(--ifm-background-surface-color);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.04);
+}
+
+.badge-draft { background: #f59e0b; color: #111827; }
+.badge-reviewed { background: #3b82f6; color: white; }
+.badge-validated { background: #10b981; color: white; }
+.badge-contested { background: #ef4444; color: white; }
+.badge-generated { background: #6b7280; color: white; }

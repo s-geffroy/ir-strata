@@ -1,0 +1,1293 @@
+{
+  "schema_version": "1.0.0",
+  "references": [
+    {
+      "schema_version": "1.0.0",
+      "id": "morgenthau_1948_politics",
+      "type": "book",
+      "author": "Hans J. Morgenthau",
+      "year": 1948,
+      "title": "Politics Among Nations: The Struggle for Power and Peace",
+      "theory_tags": [
+        "realism"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "morgenthau1948politics",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "waltz_1959_man_state_war",
+      "type": "book",
+      "author": "Kenneth N. Waltz",
+      "year": 1959,
+      "title": "Man, the State, and War",
+      "theory_tags": [
+        "realism"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "waltz1959manstatewar",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "waltz_1979_theory",
+      "type": "book",
+      "author": "Kenneth N. Waltz",
+      "year": 1979,
+      "title": "Theory of International Politics",
+      "theory_tags": [
+        "realism"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "waltz1979theory",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "mearsheimer_2001_tragedy",
+      "type": "book",
+      "author": "John J. Mearsheimer",
+      "year": 2001,
+      "title": "The Tragedy of Great Power Politics",
+      "theory_tags": [
+        "realism"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "mearsheimer2001tragedy",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "mearsheimer_2018_great_delusion",
+      "type": "book",
+      "author": "John J. Mearsheimer",
+      "year": 2018,
+      "title": "The Great Delusion: Liberal Dreams and International Realities",
+      "theory_tags": [
+        "realism"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "mearsheimer2018greatdelusion",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "gilpin_1981_war_change",
+      "type": "book",
+      "author": "Robert Gilpin",
+      "year": 1981,
+      "title": "War and Change in World Politics",
+      "theory_tags": [
+        "realism"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "gilpin1981warchange",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "jervis_1978_security_dilemma",
+      "type": "article",
+      "author": "Robert Jervis",
+      "year": 1978,
+      "title": "Cooperation Under the Security Dilemma",
+      "theory_tags": [
+        "realism"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "jervis1978securitydilemma",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "keohane_1984_after_hegemony",
+      "type": "book",
+      "author": "Robert O. Keohane",
+      "year": 1984,
+      "title": "After Hegemony: Cooperation and Discord in the World Political Economy",
+      "theory_tags": [
+        "liberalism"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "keohane1984afterhegemony",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "keohane_nye_1977_power_interdependence",
+      "type": "book",
+      "author": "Robert O. Keohane and Joseph S. Nye",
+      "year": 1977,
+      "title": "Power and Interdependence",
+      "theory_tags": [
+        "liberalism"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "keohanenye1977powerinterdependence",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "doyle_1983_kant_liberal_legacies",
+      "type": "article",
+      "author": "Michael W. Doyle",
+      "year": 1983,
+      "title": "Kant, Liberal Legacies, and Foreign Affairs",
+      "theory_tags": [
+        "liberalism"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "doyle1983kantliberallegacies",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "ikenberry_2001_after_victory",
+      "type": "book",
+      "author": "G. John Ikenberry",
+      "year": 2001,
+      "title": "After Victory: Institutions, Strategic Restraint, and the Rebuilding of Order after Major Wars",
+      "theory_tags": [
+        "liberalism"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "ikenberry2001aftervictory",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "ikenberry_2011_liberal_leviathan",
+      "type": "book",
+      "author": "G. John Ikenberry",
+      "year": 2011,
+      "title": "Liberal Leviathan",
+      "theory_tags": [
+        "liberalism"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "ikenberry2011liberalleviathan",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "fukuyama_1992_end_history",
+      "type": "book",
+      "author": "Francis Fukuyama",
+      "year": 1992,
+      "title": "The End of History and the Last Man",
+      "theory_tags": [
+        "liberalism"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "fukuyama1992endhistory",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "krauthammer_1990_unipolar_moment",
+      "type": "article",
+      "author": "Charles Krauthammer",
+      "year": 1990,
+      "title": "The Unipolar Moment",
+      "theory_tags": [
+        "realism"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "krauthammer1990unipolarmoment",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "lenin_1917_imperialism",
+      "type": "book",
+      "author": "Vladimir I. Lenin",
+      "year": 1917,
+      "title": "Imperialism, the Highest Stage of Capitalism",
+      "theory_tags": [
+        "marxism_dependency_structuralism"
+      ],
+      "period_tags": [
+        "1815_1848",
+        "1871_1914",
+        "1919_1939"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "lenin1917imperialism",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "wallerstein_1974_modern_world_system",
+      "type": "book",
+      "author": "Immanuel Wallerstein",
+      "year": 1974,
+      "title": "The Modern World-System",
+      "theory_tags": [
+        "marxism_dependency_structuralism"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "wallerstein1974modernworldsystem",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "cardoso_faletto_1979_dependency",
+      "type": "book",
+      "author": "Fernando Henrique Cardoso and Enzo Faletto",
+      "year": 1979,
+      "title": "Dependency and Development in Latin America",
+      "theory_tags": [
+        "marxism_dependency_structuralism"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "cardosofaletto1979dependency",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "cox_1981_social_forces",
+      "type": "article",
+      "author": "Robert W. Cox",
+      "year": 1981,
+      "title": "Social Forces, States and World Orders",
+      "theory_tags": [
+        "marxism_dependency_structuralism"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "cox1981socialforces",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "gramsci_1971_prison_notebooks",
+      "type": "book",
+      "author": "Antonio Gramsci",
+      "year": 1971,
+      "title": "Selections from the Prison Notebooks",
+      "theory_tags": [
+        "marxism_dependency_structuralism"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "gramsci1971prisonnotebooks",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "wendt_1992_anarchy",
+      "type": "article",
+      "author": "Alexander Wendt",
+      "year": 1992,
+      "title": "Anarchy is What States Make of It",
+      "theory_tags": [
+        "constructivism"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "wendt1992anarchy",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "wendt_1999_social_theory",
+      "type": "book",
+      "author": "Alexander Wendt",
+      "year": 1999,
+      "title": "Social Theory of International Politics",
+      "theory_tags": [
+        "constructivism"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "wendt1999socialtheory",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "finnemore_1996_national_interests",
+      "type": "book",
+      "author": "Martha Finnemore",
+      "year": 1996,
+      "title": "National Interests in International Society",
+      "theory_tags": [
+        "constructivism"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "finnemore1996nationalinterests",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "ruggie_1982_international_regimes",
+      "type": "article",
+      "author": "John Gerard Ruggie",
+      "year": 1982,
+      "title": "International Regimes, Transactions, and Change",
+      "theory_tags": [
+        "constructivism"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "ruggie1982internationalregimes",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "bull_1977_anarchical_society",
+      "type": "book",
+      "author": "Hedley Bull",
+      "year": 1977,
+      "title": "The Anarchical Society",
+      "theory_tags": [
+        "english_school"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "bull1977anarchicalsociety",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "buzan_2004_international_world",
+      "type": "book",
+      "author": "Barry Buzan",
+      "year": 2004,
+      "title": "From International to World Society?",
+      "theory_tags": [
+        "english_school"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "buzan2004internationalworld",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "linklater_suganami_2006_english_school",
+      "type": "book",
+      "author": "Andrew Linklater and Hidemi Suganami",
+      "year": 2006,
+      "title": "The English School of International Relations",
+      "theory_tags": [
+        "english_school"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "linklatersuganami2006englishschool",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "said_1978_orientalism",
+      "type": "book",
+      "author": "Edward W. Said",
+      "year": 1978,
+      "title": "Orientalism",
+      "theory_tags": [
+        "critical_postcolonial_feminist"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "said1978orientalism",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "spivak_1988_subaltern",
+      "type": "incollection",
+      "author": "Gayatri Chakravorty Spivak",
+      "year": 1988,
+      "title": "Can the Subaltern Speak?",
+      "theory_tags": [
+        "critical_postcolonial_feminist"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "spivak1988subaltern",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "tickner_1992_gender_ir",
+      "type": "book",
+      "author": "J. Ann Tickner",
+      "year": 1992,
+      "title": "Gender in International Relations",
+      "theory_tags": [
+        "critical_postcolonial_feminist"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "tickner1992genderir",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "enloe_1989_bananas",
+      "type": "book",
+      "author": "Cynthia Enloe",
+      "year": 1989,
+      "title": "Bananas, Beaches and Bases",
+      "theory_tags": [
+        "critical_postcolonial_feminist"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "enloe1989bananas",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "ashley_1984_poverty_neorealism",
+      "type": "article",
+      "author": "Richard K. Ashley",
+      "year": 1984,
+      "title": "The Poverty of Neorealism",
+      "theory_tags": [
+        "critical_postcolonial_feminist"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "ashley1984povertyneorealism",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "mahan_1890_sea_power",
+      "type": "book",
+      "author": "Alfred Thayer Mahan",
+      "year": 1890,
+      "title": "The Influence of Sea Power upon History",
+      "theory_tags": [
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "period_tags": [
+        "1815_1848",
+        "1871_1914",
+        "1919_1939"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "mahan1890seapower",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "mackinder_1904_pivot",
+      "type": "article",
+      "author": "Halford J. Mackinder",
+      "year": 1904,
+      "title": "The Geographical Pivot of History",
+      "theory_tags": [
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "period_tags": [
+        "1815_1848",
+        "1871_1914",
+        "1919_1939"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "mackinder1904pivot",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "spykman_1942_strategy",
+      "type": "book",
+      "author": "Nicholas J. Spykman",
+      "year": 1942,
+      "title": "America's Strategy in World Politics",
+      "theory_tags": [
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "period_tags": [
+        "1815_1848",
+        "1871_1914",
+        "1919_1939"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "spykman1942strategy",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "kissinger_1957_world_restored",
+      "type": "book",
+      "author": "Henry A. Kissinger",
+      "year": 1957,
+      "title": "A World Restored",
+      "theory_tags": [
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "kissinger1957worldrestored",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "kissinger_1994_diplomacy",
+      "type": "book",
+      "author": "Henry Kissinger",
+      "year": 1994,
+      "title": "Diplomacy",
+      "theory_tags": [
+        "realism"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "important",
+      "bibtex_key": "kissinger1994diplomacy",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "kennedy_1987_rise_fall",
+      "type": "book",
+      "author": "Paul Kennedy",
+      "year": 1987,
+      "title": "The Rise and Fall of the Great Powers",
+      "theory_tags": [
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "important",
+      "bibtex_key": "kennedy1987risefall",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "hobsbawm_1962_age_revolution",
+      "type": "book",
+      "author": "Eric Hobsbawm",
+      "year": 1962,
+      "title": "The Age of Revolution: 1789–1848",
+      "theory_tags": [
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "important",
+      "bibtex_key": "hobsbawm1962agerevolution",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "hobsbawm_1975_age_capital",
+      "type": "book",
+      "author": "Eric Hobsbawm",
+      "year": 1975,
+      "title": "The Age of Capital: 1848–1875",
+      "theory_tags": [
+        "marxism_dependency_structuralism"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "important",
+      "bibtex_key": "hobsbawm1975agecapital",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "hobsbawm_1987_age_empire",
+      "type": "book",
+      "author": "Eric Hobsbawm",
+      "year": 1987,
+      "title": "The Age of Empire: 1875–1914",
+      "theory_tags": [
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "important",
+      "bibtex_key": "hobsbawm1987ageempire",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "hobsbawm_1994_age_extremes",
+      "type": "book",
+      "author": "Eric Hobsbawm",
+      "year": 1994,
+      "title": "The Age of Extremes",
+      "theory_tags": [
+        "marxism_dependency_structuralism"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "important",
+      "bibtex_key": "hobsbawm1994ageextremes",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "taylor_1954_struggle_mastery",
+      "type": "book",
+      "author": "A. J. P. Taylor",
+      "year": 1954,
+      "title": "The Struggle for Mastery in Europe 1848–1918",
+      "theory_tags": [
+        "realism"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "important",
+      "bibtex_key": "taylor1954strugglemastery",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "clark_2012_sleepwalkers",
+      "type": "book",
+      "author": "Christopher Clark",
+      "year": 2012,
+      "title": "The Sleepwalkers",
+      "theory_tags": [
+        "realism"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "important",
+      "bibtex_key": "clark2012sleepwalkers",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "mazower_1998_dark_continent",
+      "type": "book",
+      "author": "Mark Mazower",
+      "year": 1998,
+      "title": "Dark Continent",
+      "theory_tags": [
+        "critical_postcolonial_feminist"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "important",
+      "bibtex_key": "mazower1998darkcontinent",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "mazower_2012_governing_world",
+      "type": "book",
+      "author": "Mark Mazower",
+      "year": 2012,
+      "title": "Governing the World",
+      "theory_tags": [
+        "english_school"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "important",
+      "bibtex_key": "mazower2012governingworld",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "gaddis_2005_cold_war",
+      "type": "book",
+      "author": "John Lewis Gaddis",
+      "year": 2005,
+      "title": "The Cold War: A New History",
+      "theory_tags": [
+        "realism"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "important",
+      "bibtex_key": "gaddis2005coldwar",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "westad_2005_global_cold_war",
+      "type": "book",
+      "author": "Odd Arne Westad",
+      "year": 2005,
+      "title": "The Global Cold War",
+      "theory_tags": [
+        "critical_postcolonial_feminist"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "important",
+      "bibtex_key": "westad2005globalcoldwar",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "westad_2017_cold_war",
+      "type": "book",
+      "author": "Odd Arne Westad",
+      "year": 2017,
+      "title": "The Cold War: A World History",
+      "theory_tags": [
+        "realism"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "important",
+      "bibtex_key": "westad2017coldwar",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "judt_2005_postwar",
+      "type": "book",
+      "author": "Tony Judt",
+      "year": 2005,
+      "title": "Postwar",
+      "theory_tags": [
+        "liberalism"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "important",
+      "bibtex_key": "judt2005postwar",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "burbank_cooper_2010_empires",
+      "type": "book",
+      "author": "Jane Burbank and Frederick Cooper",
+      "year": 2010,
+      "title": "Empires in World History",
+      "theory_tags": [
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "important",
+      "bibtex_key": "burbankcooper2010empires",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "bayly_2004_birth_modern_world",
+      "type": "book",
+      "author": "C. A. Bayly",
+      "year": 2004,
+      "title": "The Birth of the Modern World",
+      "theory_tags": [
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "important",
+      "bibtex_key": "bayly2004birthmodernworld",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "carr_1939_twenty_years",
+      "type": "book",
+      "author": "E. H. Carr",
+      "year": 1939,
+      "title": "The Twenty Years' Crisis",
+      "theory_tags": [
+        "realism"
+      ],
+      "period_tags": [
+        "1815_1848",
+        "1871_1914",
+        "1919_1939"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "important",
+      "bibtex_key": "carr1939twentyyears",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "angell_1910_great_illusion",
+      "type": "book",
+      "author": "Norman Angell",
+      "year": 1910,
+      "title": "The Great Illusion",
+      "theory_tags": [
+        "liberalism"
+      ],
+      "period_tags": [
+        "1815_1848",
+        "1871_1914",
+        "1919_1939"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "important",
+      "bibtex_key": "angell1910greatillusion",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "krasner_1983_international_regimes",
+      "type": "book",
+      "author": "Stephen D. Krasner",
+      "year": 1983,
+      "title": "International Regimes",
+      "theory_tags": [
+        "liberalism"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979",
+        "1979_1991"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "important",
+      "bibtex_key": "krasner1983internationalregimes",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "acharya_2014_end_american_world_order",
+      "type": "book",
+      "author": "Amitav Acharya",
+      "year": 2014,
+      "title": "The End of American World Order",
+      "theory_tags": [
+        "critical_postcolonial_feminist"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "important",
+      "bibtex_key": "acharya2014endamericanworldorder",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "cooley_nexon_2020_exit_hegemony",
+      "type": "book",
+      "author": "Alexander Cooley and Daniel Nexon",
+      "year": 2020,
+      "title": "Exit from Hegemony",
+      "theory_tags": [
+        "realism"
+      ],
+      "period_tags": [
+        "1991_2001",
+        "2014_2022",
+        "2022_2026"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "important",
+      "bibtex_key": "cooleynexon2020exithegemony",
+      "maturity_status": "reviewed"
+    }
+  ]
+}

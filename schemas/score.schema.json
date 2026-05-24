@@ -1,0 +1,102 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "score.schema.json",
+  "title": "IR Theory Raw Score",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "score_id",
+    "period_id",
+    "entity_id",
+    "layer",
+    "theory_family_id",
+    "raw_score",
+    "criteria_scores",
+    "evidence_basis",
+    "confidence",
+    "maturity_status"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "score_id": {
+      "type": "string"
+    },
+    "period_id": {
+      "type": "string"
+    },
+    "entity_id": {
+      "type": "string"
+    },
+    "scope": {
+      "type": "string",
+      "enum": [
+        "global",
+        "entity"
+      ]
+    },
+    "layer": {
+      "type": "string",
+      "enum": [
+        "strategic_reality",
+        "political_doctrine",
+        "academic_influence",
+        "synthesis"
+      ]
+    },
+    "theory_family_id": {
+      "type": "string"
+    },
+    "raw_score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "criteria_scores": {
+      "type": "object"
+    },
+    "evidence_basis": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      }
+    },
+    "direct_references": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "confidence": {
+      "$ref": "confidence.schema.json"
+    },
+    "maturity_status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "reviewed",
+        "validated",
+        "contested",
+        "deprecated",
+        "generated"
+      ]
+    },
+    "justification_fr": {
+      "type": "string"
+    },
+    "known_limits": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "experimental": {
+      "type": "object",
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": false
+}
