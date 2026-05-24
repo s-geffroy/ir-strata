@@ -13,3 +13,14 @@ npm-debug.log*
 .idea
 .vscode/*
 !.vscode/extensions.json
+
+# Artefacts de compilation LaTeX du papier (le PDF publié est dans static/paper/)
+paper/main.pdf
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.log
+paper/*.out
+paper/*.fls
+paper/*.fdb_latexmk
+paper/_build.log

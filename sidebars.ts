@@ -7,6 +7,7 @@ const sidebars: SidebarsConfig = {
     'AUDIT_REFERENCES',
     'AUDIT_ANACHRONISM',
     'CALIBRATION_STATUS',
+    'PAPER',
     'SPEC_MASTER',
     {
       type: 'category',

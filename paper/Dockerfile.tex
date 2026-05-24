@@ -1,0 +1,12 @@
+# Image TeX Live dédiée à la compilation du papier (PDF). Réutilisable, hors hôte.
+# Build :   docker build -t ir-strata-tex -f paper/Dockerfile.tex .
+# Compile : docker run --rm -v "$PWD":/work -w /work/paper ir-strata-tex \
+#             latexmk -pdf -interaction=nonstopmode main.tex
+FROM debian:bookworm-slim
+RUN apt-get update \
+ && DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
+    texlive-latex-base texlive-latex-recommended texlive-latex-extra \
+    texlive-fonts-recommended texlive-lang-french texlive-bibtex-extra \
+    lmodern latexmk \
+ && rm -rf /var/lib/apt/lists/*
+WORKDIR /work/paper

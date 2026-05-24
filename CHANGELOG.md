@@ -27,6 +27,7 @@
 - **Cohérence des controverses** : intégrité du graphe vérifiée (scores liés existants, dans les bonnes périodes, non rejetés ; théories des positions = théories des scores liés ; décision présente partout). Traduction des 6 `label_en` qui étaient des copies du français (site bilingue).
 - **Positions des controverses étoffées** : les 18 `summary_fr` génériques (« Lecture privilégiant X. ») remplacés par des résumés réels et spécifiques de chaque lecture (réaliste, marxiste, constructiviste…), ancrés sur les références citées ; ajout des `summary_en` (site bilingue).
 - **Papier académique (« Chemin A ») importé et aligné** : `paper/` (article, bibliographie BibTeX, codebook, CSV pilote). Réconcilié sur l'application : scores pilotes 1945-1962, nommage `marxism_dependency_structuralism`, et anti-anachronisme **strict** (rejet plutôt que score faible ; synthèse limitée aux familles présentes sur les 3 couches). Tableaux, exemples détaillés, analyse de sensibilité et codebook mis à jour.
+- **Publication du papier** : page web `docs/PAPER.md` générée depuis le `.txt` source (`scripts/generate_paper_mdx.py`, intégré à `generate:docs`), au sidebar « Papier (méthodologie) ». **PDF** compilé via une image TeX Live dédiée (`paper/Dockerfile.tex` + `scripts/generate_paper_tex.py` → `paper/main.tex` → `static/paper/strates_ri_chemin_a.pdf`), lien de téléchargement sur la page (via `useBaseUrl`).
 
 ### Notes
 
