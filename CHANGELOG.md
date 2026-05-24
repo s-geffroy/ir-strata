@@ -26,6 +26,7 @@
 - **Cohérence preuves ↔ théories** : vérification de l'intégrité référentielle du graphe (scores ↔ preuves ↔ références ↔ entités/événements/controverses) — aucune référence cassée ni période incohérente. Complété `related_theories` de 5 preuves structurelles majeures (bipolarité, décolonisation, dépendance, rivalité sino-américaine…) avec les théories des scores **actifs** qui les citent. Mismatches sur scores actifs : 0 (les liens des scores rejetés anachroniques restent volontairement non endossés).
 - **Cohérence des controverses** : intégrité du graphe vérifiée (scores liés existants, dans les bonnes périodes, non rejetés ; théories des positions = théories des scores liés ; décision présente partout). Traduction des 6 `label_en` qui étaient des copies du français (site bilingue).
 - **Positions des controverses étoffées** : les 18 `summary_fr` génériques (« Lecture privilégiant X. ») remplacés par des résumés réels et spécifiques de chaque lecture (réaliste, marxiste, constructiviste…), ancrés sur les références citées ; ajout des `summary_en` (site bilingue).
+- **Papier académique (« Chemin A ») importé et aligné** : `paper/` (article, bibliographie BibTeX, codebook, CSV pilote). Réconcilié sur l'application : scores pilotes 1945-1962, nommage `marxism_dependency_structuralism`, et anti-anachronisme **strict** (rejet plutôt que score faible ; synthèse limitée aux familles présentes sur les 3 couches). Tableaux, exemples détaillés, analyse de sensibilité et codebook mis à jour.
 
 ### Notes
 
