@@ -57525,10 +57525,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -57541,13 +57543,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Hyperpuissance militaire de l'unipolarité : primauté et logiques de puissance, même sous habillage libéral.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -57573,10 +57576,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -57589,13 +57594,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Promoteur et garant de l'ordre libéral hégémonique (élargissement démocratique, institutions) — signature libérale maximale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -57621,10 +57627,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -57637,13 +57645,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Centre du capitalisme mondialisé ; lecture structurelle de la domination.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -57669,10 +57678,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -57685,13 +57696,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Identité de 'nation indispensable' et diffusion normative démocratique.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -57717,10 +57729,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -57733,13 +57747,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Pilier de la société internationale, mais tentation unilatérale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -57765,10 +57780,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -57781,13 +57798,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Cible des critiques postcoloniales et féministes de l'ordre unipolaire.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -57813,10 +57831,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -57829,13 +57849,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Primauté stratégique réelle, mais géopolitique discrète sous l'optimisme libéral.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -57861,10 +57882,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -57877,13 +57900,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Hyperpuissance militaire de l'unipolarité : primauté et logiques de puissance, même sous habillage libéral.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -57909,10 +57933,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -57925,13 +57951,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Promoteur et garant de l'ordre libéral hégémonique (élargissement démocratique, institutions) — signature libérale maximale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -57957,10 +57984,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -57973,13 +58002,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Centre du capitalisme mondialisé ; lecture structurelle de la domination.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -58005,10 +58035,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -58021,13 +58053,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Identité de 'nation indispensable' et diffusion normative démocratique.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -58053,10 +58086,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -58069,13 +58104,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Pilier de la société internationale, mais tentation unilatérale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -58101,10 +58137,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -58117,13 +58155,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Cible des critiques postcoloniales et féministes de l'ordre unipolaire.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -58149,10 +58188,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -58165,13 +58206,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Primauté stratégique réelle, mais géopolitique discrète sous l'optimisme libéral.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -58197,10 +58239,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -58213,13 +58257,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Hyperpuissance militaire de l'unipolarité : primauté et logiques de puissance, même sous habillage libéral.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -58245,10 +58290,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -58261,13 +58308,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Promoteur et garant de l'ordre libéral hégémonique (élargissement démocratique, institutions) — signature libérale maximale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -58293,10 +58341,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -58309,13 +58359,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Centre du capitalisme mondialisé ; lecture structurelle de la domination.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -58341,10 +58392,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -58357,13 +58410,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Identité de 'nation indispensable' et diffusion normative démocratique.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -58389,10 +58443,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -58405,13 +58461,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Pilier de la société internationale, mais tentation unilatérale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -58437,10 +58494,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -58453,13 +58512,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Cible des critiques postcoloniales et féministes de l'ordre unipolaire.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -58485,10 +58545,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -58501,13 +58563,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Primauté stratégique réelle, mais géopolitique discrète sous l'optimisme libéral.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -58533,10 +58596,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -58549,13 +58614,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Instruments faiblement autonomes des grandes puissances.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -58581,10 +58647,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -58597,13 +58665,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Cœur de l'ordre libéral : OMC (1995), FMI, expansion institutionnelle — signature maximale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -58629,10 +58698,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -58645,13 +58716,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Cible des critiques de la mondialisation néolibérale (Seattle 1999).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -58677,10 +58749,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -58693,13 +58767,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Institutions comme entrepreneurs de normes.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -58725,10 +58800,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -58741,13 +58818,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Expression institutionnelle de la société internationale — english_school élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -58773,10 +58851,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -58789,13 +58869,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Critiques postcoloniales et féministes des conditionnalités.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -58821,10 +58902,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -58837,13 +58920,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Faible dimension géopolitique propre.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -58869,10 +58953,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -58885,13 +58971,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Instruments faiblement autonomes des grandes puissances.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -58917,10 +59004,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -58933,13 +59022,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Cœur de l'ordre libéral : OMC (1995), FMI, expansion institutionnelle — signature maximale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -58965,10 +59055,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -58981,13 +59073,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Cible des critiques de la mondialisation néolibérale (Seattle 1999).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -59013,10 +59106,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -59029,13 +59124,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Institutions comme entrepreneurs de normes.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -59061,10 +59157,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -59077,13 +59175,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Expression institutionnelle de la société internationale — english_school élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -59109,10 +59208,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -59125,13 +59226,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Critiques postcoloniales et féministes des conditionnalités.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -59157,10 +59259,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -59173,13 +59277,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Faible dimension géopolitique propre.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -59205,10 +59310,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -59221,13 +59328,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Instruments faiblement autonomes des grandes puissances.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -59253,10 +59361,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -59269,13 +59379,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Cœur de l'ordre libéral : OMC (1995), FMI, expansion institutionnelle — signature maximale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -59301,10 +59412,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -59317,13 +59430,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Cible des critiques de la mondialisation néolibérale (Seattle 1999).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -59349,10 +59463,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -59365,13 +59481,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Institutions comme entrepreneurs de normes.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -59397,10 +59514,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -59413,13 +59532,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Expression institutionnelle de la société internationale — english_school élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -59445,10 +59565,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -59461,13 +59583,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Critiques postcoloniales et féministes des conditionnalités.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -59493,10 +59616,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -59509,13 +59634,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Faible dimension géopolitique propre.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -59541,10 +59667,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -59557,13 +59685,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance civile à faible dimension militaire ; réalisme atténué.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -59589,10 +59718,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -59605,13 +59736,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Modèle d'intégration libérale par excellence (Maastricht 1992, élargissement, euro).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -59637,10 +59769,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -59653,13 +59787,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Cible des critiques de l'Europe néolibérale et du déficit social.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -59685,10 +59820,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -59701,13 +59838,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Construction identitaire et 'puissance normative' — signature constructiviste très élevée.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -59733,10 +59871,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -59749,13 +59889,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Société internationale régionale dense et institutionnalisée.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -59781,10 +59922,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -59797,13 +59940,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Critiques postcoloniales et féministes de la 'forteresse Europe'.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -59829,10 +59973,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -59845,13 +59991,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Faible acteur géopolitique classique.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -59877,10 +60024,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -59893,13 +60042,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance civile à faible dimension militaire ; réalisme atténué.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -59925,10 +60075,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -59941,13 +60093,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Modèle d'intégration libérale par excellence (Maastricht 1992, élargissement, euro).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -59973,10 +60126,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -59989,13 +60144,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Cible des critiques de l'Europe néolibérale et du déficit social.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -60021,10 +60177,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -60037,13 +60195,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Construction identitaire et 'puissance normative' — signature constructiviste très élevée.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -60069,10 +60228,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -60085,13 +60246,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Société internationale régionale dense et institutionnalisée.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -60117,10 +60279,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -60133,13 +60297,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Critiques postcoloniales et féministes de la 'forteresse Europe'.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -60165,10 +60330,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -60181,13 +60348,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Faible acteur géopolitique classique.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -60213,10 +60381,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -60229,13 +60399,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance civile à faible dimension militaire ; réalisme atténué.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -60261,10 +60432,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -60277,13 +60450,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Modèle d'intégration libérale par excellence (Maastricht 1992, élargissement, euro).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -60309,10 +60483,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -60325,13 +60501,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Cible des critiques de l'Europe néolibérale et du déficit social.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -60357,10 +60534,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -60373,13 +60552,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Construction identitaire et 'puissance normative' — signature constructiviste très élevée.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -60405,10 +60585,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -60421,13 +60603,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Société internationale régionale dense et institutionnalisée.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -60453,10 +60636,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -60469,13 +60654,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Critiques postcoloniales et féministes de la 'forteresse Europe'.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -60501,10 +60687,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -60517,13 +60705,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Faible acteur géopolitique classique.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -60549,10 +60738,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -60565,13 +60756,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance montante en stratégie prudente ('cacher ses capacités') ; logiques réalistes réelles.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -60597,10 +60790,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -60613,13 +60808,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Intégration sélective à l'ordre économique libéral (accession à l'OMC) sans adhésion politique.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -60645,10 +60842,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -60661,13 +60860,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "État se réclamant du socialisme de marché ; lecture structurelle pertinente.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -60693,10 +60894,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -60709,13 +60912,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Identité de puissance civilisationnelle, dépassement du 'siècle de l'humiliation'.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -60741,10 +60946,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -60757,13 +60964,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Adhésion croissante mais sélective à la société internationale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -60789,10 +60998,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -60805,13 +61016,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Discours anti-hégémonique et tiers-mondiste résiduel.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -60837,10 +61050,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -60853,13 +61068,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Montée géostratégique régionale (Taïwan, mer de Chine).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -60885,10 +61102,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -60901,13 +61120,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance montante en stratégie prudente ('cacher ses capacités') ; logiques réalistes réelles.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -60933,10 +61154,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -60949,13 +61172,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Intégration sélective à l'ordre économique libéral (accession à l'OMC) sans adhésion politique.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -60981,10 +61206,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -60997,13 +61224,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "État se réclamant du socialisme de marché ; lecture structurelle pertinente.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -61029,10 +61258,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -61045,13 +61276,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Identité de puissance civilisationnelle, dépassement du 'siècle de l'humiliation'.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -61077,10 +61310,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -61093,13 +61328,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Adhésion croissante mais sélective à la société internationale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -61125,10 +61362,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -61141,13 +61380,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Discours anti-hégémonique et tiers-mondiste résiduel.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -61173,10 +61414,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -61189,13 +61432,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Montée géostratégique régionale (Taïwan, mer de Chine).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -61221,10 +61466,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -61237,13 +61484,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance montante en stratégie prudente ('cacher ses capacités') ; logiques réalistes réelles.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -61269,10 +61518,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -61285,13 +61536,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Intégration sélective à l'ordre économique libéral (accession à l'OMC) sans adhésion politique.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -61317,10 +61570,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -61333,13 +61588,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "État se réclamant du socialisme de marché ; lecture structurelle pertinente.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -61365,10 +61622,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -61381,13 +61640,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Identité de puissance civilisationnelle, dépassement du 'siècle de l'humiliation'.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -61413,10 +61674,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -61429,13 +61692,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Adhésion croissante mais sélective à la société internationale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -61461,10 +61726,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -61477,13 +61744,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Discours anti-hégémonique et tiers-mondiste résiduel.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -61509,10 +61778,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -61525,13 +61796,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Montée géostratégique régionale (Taïwan, mer de Chine).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -61557,10 +61830,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -61573,13 +61848,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Acteur non étatique, faiblement saisi par le réalisme stato-centré.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -61605,10 +61881,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -61621,13 +61899,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Moteur de la mondialisation libérale et de l'interdépendance — signature maximale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -61653,10 +61932,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -61669,13 +61950,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Capital transnational comme acteur structurel central — lecture marxiste forte.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -61701,10 +61983,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -61717,13 +62001,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Diffusion de normes de marché et de gouvernance privée.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -61749,10 +62034,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -61765,13 +62052,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Acteur de la société mondiale économique.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -61797,10 +62085,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -61813,13 +62103,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Cible des critiques altermondialistes et féministes de la mondialisation.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -61845,10 +62136,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -61861,13 +62154,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géoéconomie des flux financiers.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -61893,10 +62187,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -61909,13 +62205,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Acteur non étatique, faiblement saisi par le réalisme stato-centré.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -61941,10 +62238,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -61957,13 +62256,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Moteur de la mondialisation libérale et de l'interdépendance — signature maximale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -61989,10 +62289,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -62005,13 +62307,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Capital transnational comme acteur structurel central — lecture marxiste forte.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -62037,10 +62340,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -62053,13 +62358,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Diffusion de normes de marché et de gouvernance privée.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -62085,10 +62391,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -62101,13 +62409,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Acteur de la société mondiale économique.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -62133,10 +62442,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -62149,13 +62460,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Cible des critiques altermondialistes et féministes de la mondialisation.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -62181,10 +62493,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -62197,13 +62511,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géoéconomie des flux financiers.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -62229,10 +62544,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -62245,13 +62562,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Acteur non étatique, faiblement saisi par le réalisme stato-centré.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -62277,10 +62595,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -62293,13 +62613,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Moteur de la mondialisation libérale et de l'interdépendance — signature maximale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -62325,10 +62646,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -62341,13 +62664,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Capital transnational comme acteur structurel central — lecture marxiste forte.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -62373,10 +62697,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -62389,13 +62715,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Diffusion de normes de marché et de gouvernance privée.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -62421,10 +62748,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -62437,13 +62766,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Acteur de la société mondiale économique.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -62469,10 +62799,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -62485,13 +62817,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Cible des critiques altermondialistes et féministes de la mondialisation.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -62517,10 +62850,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -62533,13 +62868,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Géoéconomie des flux financiers.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -62565,10 +62901,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -62581,13 +62919,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Acteurs faibles dans l'unipolarité ; réalisme subi.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -62613,10 +62952,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -62629,13 +62970,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Adhésion ambivalente à l'ordre libéral (ajustements structurels imposés).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -62661,10 +63003,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -62677,13 +63021,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Dépendance et asymétries Nord-Sud persistantes — lecture marxiste forte.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -62709,10 +63054,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -62725,13 +63072,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Affirmation d'identités et de normes alternatives.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -62757,10 +63105,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -62773,13 +63123,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Insertion dans une société internationale élargie mais inégale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -62805,10 +63156,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -62821,13 +63174,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Foyer central des lectures postcoloniales, décoloniales et féministes — score critique très élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -62853,10 +63207,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -62869,13 +63225,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Enjeu géopolitique des ressources et des alignements.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -62901,10 +63258,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -62917,13 +63276,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Acteurs faibles dans l'unipolarité ; réalisme subi.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -62949,10 +63309,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -62965,13 +63327,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Adhésion ambivalente à l'ordre libéral (ajustements structurels imposés).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -62997,10 +63360,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -63013,13 +63378,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Dépendance et asymétries Nord-Sud persistantes — lecture marxiste forte.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -63045,10 +63411,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -63061,13 +63429,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Affirmation d'identités et de normes alternatives.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -63093,10 +63462,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -63109,13 +63480,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Insertion dans une société internationale élargie mais inégale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -63141,10 +63513,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -63157,13 +63531,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Foyer central des lectures postcoloniales, décoloniales et féministes — score critique très élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -63189,10 +63564,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -63205,13 +63582,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Enjeu géopolitique des ressources et des alignements.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -63237,10 +63615,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -63253,13 +63633,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Acteurs faibles dans l'unipolarité ; réalisme subi.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -63285,10 +63666,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -63301,13 +63684,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Adhésion ambivalente à l'ordre libéral (ajustements structurels imposés).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -63333,10 +63717,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -63349,13 +63735,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Dépendance et asymétries Nord-Sud persistantes — lecture marxiste forte.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -63381,10 +63768,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -63397,13 +63786,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Affirmation d'identités et de normes alternatives.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -63429,10 +63819,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -63445,13 +63837,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Insertion dans une société internationale élargie mais inégale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -63477,10 +63870,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -63493,13 +63888,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Foyer central des lectures postcoloniales, décoloniales et féministes — score critique très élevé justifié.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -63525,10 +63921,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -63541,13 +63939,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Enjeu géopolitique des ressources et des alignements.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -63573,10 +63972,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -63589,13 +63990,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance en déclin cherchant à préserver son statut ; réalisme défensif.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -63621,10 +64023,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -63637,13 +64041,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Arrimage partiel et contesté à l'ordre libéral (thérapie de choc, partenariats).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -63669,10 +64074,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -63685,13 +64092,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Héritage soviétique en liquidation ; lecture de la transition capitaliste.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -63717,10 +64125,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -63733,13 +64143,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Crise identitaire post-impériale et quête d'un récit national.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -63765,10 +64176,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -63781,13 +64194,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Membre affaibli de la société internationale, souveraineté défensive.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -63813,10 +64227,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -63829,13 +64245,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Critiques des coûts sociaux de la 'thérapie de choc'.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -63861,10 +64278,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -63877,13 +64296,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Réaffirmation de l'étranger proche (Tchétchénie, CEI) — dimension géopolitique marquée.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -63909,10 +64329,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -63925,13 +64347,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance en déclin cherchant à préserver son statut ; réalisme défensif.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -63957,10 +64380,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -63973,13 +64398,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Arrimage partiel et contesté à l'ordre libéral (thérapie de choc, partenariats).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -64005,10 +64431,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -64021,13 +64449,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Héritage soviétique en liquidation ; lecture de la transition capitaliste.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -64053,10 +64482,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -64069,13 +64500,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Crise identitaire post-impériale et quête d'un récit national.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -64101,10 +64533,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -64117,13 +64551,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Membre affaibli de la société internationale, souveraineté défensive.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -64149,10 +64584,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -64165,13 +64602,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Critiques des coûts sociaux de la 'thérapie de choc'.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -64197,10 +64635,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -64213,13 +64653,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Réaffirmation de l'étranger proche (Tchétchénie, CEI) — dimension géopolitique marquée.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -64245,10 +64686,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -64261,13 +64704,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Puissance en déclin cherchant à préserver son statut ; réalisme défensif.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -64293,10 +64737,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -64309,13 +64755,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Arrimage partiel et contesté à l'ordre libéral (thérapie de choc, partenariats).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -64341,10 +64788,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -64357,13 +64806,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Héritage soviétique en liquidation ; lecture de la transition capitaliste.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -64389,10 +64839,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -64405,13 +64857,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Crise identitaire post-impériale et quête d'un récit national.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -64437,10 +64890,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -64453,13 +64908,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Membre affaibli de la société internationale, souveraineté défensive.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -64485,10 +64941,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -64501,13 +64959,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Critiques des coûts sociaux de la 'thérapie de choc'.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -64533,10 +64992,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -64549,13 +65010,14 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Réaffirmation de l'étranger proche (Tchétchénie, CEI) — dimension géopolitique marquée.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique)."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -64581,10 +65043,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -64597,13 +65061,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Alliance d'équilibrage et de projection : élargissement à l'Est, intervention au Kosovo (1999).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -64629,10 +65095,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -64645,13 +65113,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Communauté de sécurité libérale-démocratique, vecteur de l'ordre occidental.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -64677,10 +65147,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -64693,13 +65165,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture critique : bras armé de l'hégémonie occidentale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -64725,10 +65199,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -64741,13 +65217,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Identité de communauté de valeurs démocratiques.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -64773,10 +65251,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -64789,13 +65269,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Sous-société d'États occidentale institutionnalisée.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -64821,10 +65303,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -64837,13 +65321,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Critiques de l'élargissement de l'OTAN et de l'interventionnisme.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -64869,10 +65355,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -64885,13 +65373,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Élargissement géostratégique à l'Est, projection de puissance.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -64917,10 +65407,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -64933,13 +65425,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Alliance d'équilibrage et de projection : élargissement à l'Est, intervention au Kosovo (1999).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -64965,10 +65459,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -64981,13 +65477,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Communauté de sécurité libérale-démocratique, vecteur de l'ordre occidental.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -65013,10 +65511,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -65029,13 +65529,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture critique : bras armé de l'hégémonie occidentale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -65061,10 +65563,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -65077,13 +65581,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Identité de communauté de valeurs démocratiques.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -65109,10 +65615,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -65125,13 +65633,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Sous-société d'États occidentale institutionnalisée.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -65157,10 +65667,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -65173,13 +65685,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Critiques de l'élargissement de l'OTAN et de l'interventionnisme.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -65205,10 +65719,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -65221,13 +65737,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Élargissement géostratégique à l'Est, projection de puissance.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Score d'entité hérité du seed ; valeur comparative à affiner.",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -65253,10 +65771,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2001_tragedy",
+        "waltz_1979_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -65269,13 +65789,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Alliance d'équilibrage et de projection : élargissement à l'Est, intervention au Kosovo (1999).",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -65301,10 +65823,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2001_after_victory",
+        "fukuyama_1992_end_history"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -65317,13 +65841,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Communauté de sécurité libérale-démocratique, vecteur de l'ordre occidental.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -65349,10 +65875,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
         "liberal_institutional_expansion_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "cox_1981_social_forces"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -65365,13 +65893,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Lecture critique : bras armé de l'hégémonie occidentale.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -65397,10 +65927,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -65413,13 +65945,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Identité de communauté de valeurs démocratiques.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -65445,10 +65979,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -65461,13 +65997,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Sous-société d'États occidentale institutionnalisée.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -65493,10 +66031,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "humanitarian_intervention_norms_1990s"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "tickner_1992_gender_ir",
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -65509,13 +66049,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Critiques de l'élargissement de l'OTAN et de l'interventionnisme.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -65541,10 +66083,12 @@
         }
       },
       "evidence_basis": [
-        "us_unipolarity_1991_2001",
-        "liberal_institutional_expansion_1991_2001"
+        "us_unipolarity_1991_2001"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1994_diplomacy",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 63.0,
@@ -65557,13 +66101,15 @@
         }
       },
       "maturity_status": "draft",
-      "justification_fr": "Score d’entité seed V1, dérivé de la période globale et ajusté par théories dominantes. À remplacer par audit expert.",
+      "justification_fr": "Élargissement géostratégique à l'Est, projection de puissance.",
       "known_limits": [
-        "Score indicatif pour démonstration du pipeline."
+        "Influence académique faiblement différenciable par entité (propriété surtout systémique).",
+        "Valeurs seed recopiées des États-Unis : différenciation à revoir."
       ],
       "experimental": {
         "seed_generation": "global_base_plus_entity_dominant_theory_modifier"
-      }
+      },
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
