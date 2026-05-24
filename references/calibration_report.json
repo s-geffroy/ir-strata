@@ -1,12 +1,12 @@
 {
   "audited_at": "2026-05-24",
   "active_scores": 1549,
-  "sourced": 98,
-  "seed": 1451,
+  "sourced": 108,
+  "seed": 1441,
   "by_period": {
     "1815_1848": {
-      "sourced": 0,
-      "seed": 90
+      "sourced": 10,
+      "seed": 80
     },
     "1848_1871": {
       "sourced": 0,

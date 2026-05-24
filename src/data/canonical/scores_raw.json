@@ -26,10 +26,12 @@
       },
       "evidence_basis": [
         "vienna_congress_1815",
-        "concert_europe_balance",
-        "colonial_imperial_continuity"
+        "concert_europe_balance"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1957_world_restored",
+        "taylor_1954_struggle_mastery"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -42,11 +44,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 1815_1848, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Équilibre des puissances restauré à Vienne (1815) et géré par le Concert européen ; système de Metternich. Kissinger (1957), A World Restored, en est l'analyse de référence.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Très imbriqué avec la lecture géopolitique territoriale."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -72,11 +75,11 @@
         }
       },
       "evidence_basis": [
-        "vienna_congress_1815",
-        "concert_europe_balance",
-        "colonial_imperial_continuity"
+        "concert_europe_balance"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "hobsbawm_1962_age_revolution"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -89,11 +92,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 1815_1848, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Courants libéraux et nationaux naissants (vagues de 1830 et 1848), constitutionnalisme — mais réprimés par l'ordre conservateur. Hobsbawm (1962), L'Ère des révolutions.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Réalité minoritaire, contenue par la Restauration."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -119,11 +123,11 @@
         }
       },
       "evidence_basis": [
-        "vienna_congress_1815",
-        "concert_europe_balance",
         "colonial_imperial_continuity"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "hobsbawm_1962_age_revolution"
+      ],
       "confidence": {
         "label": "medium",
         "internal_score": 53.9,
@@ -136,11 +140,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1815_1848, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Lecture rétrospective de la structure économique : montée du capitalisme industriel, premières questions sociales. Le marxisme n'existe pas avant 1848 : éclairage rétrospectif (strategic_reality) seulement, d'où un score très faible.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Usage rétrospectif ; doctrine et académique rejetées (anti-anachronisme)."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -167,10 +172,11 @@
       },
       "evidence_basis": [
         "vienna_congress_1815",
-        "concert_europe_balance",
-        "colonial_imperial_continuity"
+        "concert_europe_balance"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -183,11 +189,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour constructivism dans 1815_1848, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Lecture rétrospective : ordre normativement construit (légitimité monarchique partagée, 'Europe' comme identité), légitimisme de Metternich. Constructivisme non émergé : éclairage rétrospectif.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Usage rétrospectif assumé."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -213,11 +220,12 @@
         }
       },
       "evidence_basis": [
-        "vienna_congress_1815",
         "concert_europe_balance",
-        "colonial_imperial_continuity"
+        "vienna_congress_1815"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -230,11 +238,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour english_school dans 1815_1848, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Le Concert européen comme cas paradigmatique de société internationale : règles partagées, gestion concertée par les grandes puissances, diplomatie réglée. Lecture via Bull (1977).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Grille rétrospective ; l'École anglaise n'émerge qu'après 1959."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -260,11 +269,11 @@
         }
       },
       "evidence_basis": [
-        "vienna_congress_1815",
-        "concert_europe_balance",
         "colonial_imperial_continuity"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism"
+      ],
       "confidence": {
         "label": "medium",
         "internal_score": 53.9,
@@ -277,11 +286,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 1815_1848, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Lecture rétrospective : continuité coloniale et impériale, restauration des hiérarchies conservatrices. Said (1978) comme grille.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Grille rétrospective ; part faible."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -308,10 +318,12 @@
       },
       "evidence_basis": [
         "vienna_congress_1815",
-        "concert_europe_balance",
         "colonial_imperial_continuity"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1957_world_restored",
+        "taylor_1954_struggle_mastery"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -324,11 +336,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1815_1848, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Règlement territorial de Vienne, équilibre par compensations territoriales, sphères et continuité impériale, raison d'État des puissances. Lecture géopolitique forte de la période.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Recouvre fortement la lecture réaliste de puissance."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -355,10 +368,11 @@
       },
       "evidence_basis": [
         "vienna_congress_1815",
-        "concert_europe_balance",
-        "colonial_imperial_continuity"
+        "concert_europe_balance"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1957_world_restored"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -371,11 +385,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 1815_1848, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Statecraft d'équilibre comme doctrine effective : diplomatie de Metternich et Castlereagh, légitimisme comme gestion de la puissance, raison d'État du Concert.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Indistinct par endroits de la raison d'État géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -401,11 +416,11 @@
         }
       },
       "evidence_basis": [
-        "vienna_congress_1815",
-        "concert_europe_balance",
-        "colonial_imperial_continuity"
+        "concert_europe_balance"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "hobsbawm_1962_age_revolution"
+      ],
       "confidence": {
         "label": "medium",
         "internal_score": 53.9,
@@ -418,11 +433,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 1815_1848, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine libérale-constitutionnelle émergente (mouvements de réforme, révolutions de 1830), mais minoritaire et réprimée sous la Restauration.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Doctrine contestataire, marginale face à l'ordre conservateur."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -665,10 +681,12 @@
       },
       "evidence_basis": [
         "vienna_congress_1815",
-        "concert_europe_balance",
         "colonial_imperial_continuity"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "kissinger_1957_world_restored",
+        "taylor_1954_struggle_mastery"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -681,11 +699,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1815_1848, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Raison d'État, statecraft territorial et dynastique, sphères d'influence et doctrine d'expansion coloniale.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la doctrine réaliste de puissance."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
