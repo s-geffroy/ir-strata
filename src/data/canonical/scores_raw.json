@@ -12558,10 +12558,12 @@
       },
       "evidence_basis": [
         "russia_west_fragmentation_2014_2022",
-        "us_china_rivalry_acceleration",
-        "sanctions_and_hybrid_conflict"
+        "us_china_rivalry_acceleration"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2018_great_delusion",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -12574,11 +12576,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 2014_2022, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Retour de la compétition de grande puissance : annexion de la Crimée (2014), rivalité sino-américaine, rebalancement. Mearsheimer (2018) sur l'échec de l'hégémonie libérale.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Imbriqué avec la lecture géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12604,11 +12607,11 @@
         }
       },
       "evidence_basis": [
-        "russia_west_fragmentation_2014_2022",
-        "us_china_rivalry_acceleration",
-        "sanctions_and_hybrid_conflict"
+        "us_china_rivalry_acceleration"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2011_liberal_leviathan"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -12621,11 +12624,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 2014_2022, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Ordre libéral sous tension mais institutions persistantes ; 'crise de l'ordre libéral' (Ikenberry).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Part en repli relatif face au retour des rivalités."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12651,11 +12655,11 @@
         }
       },
       "evidence_basis": [
-        "russia_west_fragmentation_2014_2022",
-        "us_china_rivalry_acceleration",
         "sanctions_and_hybrid_conflict"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -12668,11 +12672,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 2014_2022, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Contradictions du capitalisme mondial, capitalisme d'État chinois, Nouvelles routes de la soie, montée des inégalités.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Pas de référence marxiste contemporaine dédiée ; lecture IPE."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12698,11 +12703,12 @@
         }
       },
       "evidence_basis": [
-        "russia_west_fragmentation_2014_2022",
-        "us_china_rivalry_acceleration",
-        "sanctions_and_hybrid_conflict"
+        "russia_west_fragmentation_2014_2022"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "wendt_1999_social_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -12715,11 +12721,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour constructivism dans 2014_2022, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Contestation des normes, politiques identitaires, populismes, réaffirmation des normes de souveraineté.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Difficile à distinguer des effets de puissance."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12745,11 +12752,11 @@
         }
       },
       "evidence_basis": [
-        "russia_west_fragmentation_2014_2022",
-        "us_china_rivalry_acceleration",
-        "sanctions_and_hybrid_conflict"
+        "russia_west_fragmentation_2014_2022"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -12762,11 +12769,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour english_school dans 2014_2022, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Société internationale contestée, fragmentation, ordres régionaux concurrents.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la lecture libérale."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12792,11 +12800,12 @@
         }
       },
       "evidence_basis": [
-        "russia_west_fragmentation_2014_2022",
-        "us_china_rivalry_acceleration",
-        "sanctions_and_hybrid_conflict"
+        "us_china_rivalry_acceleration"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "acharya_2014_end_american_world_order",
+        "tickner_1992_gender_ir"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -12809,11 +12818,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 2014_2022, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Critiques de l'ordre libéral, multipolarité postcoloniale, agentivité du Sud global. Acharya (2014) sur la fin de l'ordre américain.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Part notable, en montée."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12840,10 +12850,12 @@
       },
       "evidence_basis": [
         "russia_west_fragmentation_2014_2022",
-        "us_china_rivalry_acceleration",
         "sanctions_and_hybrid_conflict"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2018_great_delusion",
+        "cooley_nexon_2020_exit_hegemony"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -12856,11 +12868,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 2014_2022, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Retour de la géopolitique : sphères d'influence, Crimée, mer de Chine méridionale, guerre hybride, géopolitique de l'énergie.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Recouvre la lecture réaliste."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12886,11 +12899,12 @@
         }
       },
       "evidence_basis": [
-        "russia_west_fragmentation_2014_2022",
-        "us_china_rivalry_acceleration",
-        "sanctions_and_hybrid_conflict"
+        "russia_west_fragmentation_2014_2022"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2018_great_delusion",
+        "kissinger_1994_diplomacy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -12903,11 +12917,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 2014_2022, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Réalisme de grande puissance en politique : doctrine russe de l'étranger proche, pivot américain vers l'Asie, 'America First'.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Indistinct de la raison d'État géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12933,11 +12948,11 @@
         }
       },
       "evidence_basis": [
-        "russia_west_fragmentation_2014_2022",
-        "us_china_rivalry_acceleration",
-        "sanctions_and_hybrid_conflict"
+        "us_china_rivalry_acceleration"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2011_liberal_leviathan"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -12950,11 +12965,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 2014_2022, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Internationalisme libéral défendu mais contesté ; rhétorique de l'ordre fondé sur des règles.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Doctrine sur la défensive."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -12980,11 +12996,11 @@
         }
       },
       "evidence_basis": [
-        "russia_west_fragmentation_2014_2022",
-        "us_china_rivalry_acceleration",
         "sanctions_and_hybrid_conflict"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -12997,11 +13013,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 2014_2022, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Altermondialisme, populismes de gauche, critiques du néolibéralisme.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Doctrine d'État quasi absente."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13027,11 +13044,11 @@
         }
       },
       "evidence_basis": [
-        "russia_west_fragmentation_2014_2022",
-        "us_china_rivalry_acceleration",
-        "sanctions_and_hybrid_conflict"
+        "russia_west_fragmentation_2014_2022"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -13044,11 +13061,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour constructivism dans 2014_2022, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Entrepreneuriat normatif, politiques étrangères fondées sur l'identité, doctrines identitaires nationales-populistes.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Lecture en partie extrapolée (pas une doctrine d'État)."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13074,11 +13092,11 @@
         }
       },
       "evidence_basis": [
-        "russia_west_fragmentation_2014_2022",
-        "us_china_rivalry_acceleration",
-        "sanctions_and_hybrid_conflict"
+        "russia_west_fragmentation_2014_2022"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -13091,11 +13109,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour english_school dans 2014_2022, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Réaffirmation pluraliste de la souveraineté, sociétés internationales régionales.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Frontière conventionnelle avec la doctrine souverainiste."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13121,11 +13140,12 @@
         }
       },
       "evidence_basis": [
-        "russia_west_fragmentation_2014_2022",
-        "us_china_rivalry_acceleration",
-        "sanctions_and_hybrid_conflict"
+        "us_china_rivalry_acceleration"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "acharya_2014_end_american_world_order",
+        "tickner_1992_gender_ir"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -13138,11 +13158,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 2014_2022, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Affirmation du Sud global, agendas postcoloniaux/décoloniaux, politique étrangère féministe (Suède 2014).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Recoupe l'affirmation souverainiste multipolaire."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13168,11 +13189,13 @@
         }
       },
       "evidence_basis": [
-        "russia_west_fragmentation_2014_2022",
         "us_china_rivalry_acceleration",
         "sanctions_and_hybrid_conflict"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2018_great_delusion",
+        "cooley_nexon_2020_exit_hegemony"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -13185,11 +13208,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 2014_2022, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Géopolitique explicite : 'étranger proche' russe, routes de la soie/nine-dash line chinoise, stratégie indo-pacifique.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la doctrine réaliste."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13215,11 +13239,12 @@
         }
       },
       "evidence_basis": [
-        "russia_west_fragmentation_2014_2022",
-        "us_china_rivalry_acceleration",
-        "sanctions_and_hybrid_conflict"
+        "us_china_rivalry_acceleration"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2018_great_delusion",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -13232,11 +13257,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 2014_2022, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Résurgence académique du réalisme : réalisme offensif de Mearsheimer, débats sur la transition de puissance.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Concurrencé par constructivisme et approches critiques."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13262,11 +13288,11 @@
         }
       },
       "evidence_basis": [
-        "russia_west_fragmentation_2014_2022",
-        "us_china_rivalry_acceleration",
-        "sanctions_and_hybrid_conflict"
+        "us_china_rivalry_acceleration"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2011_liberal_leviathan"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -13279,11 +13305,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 2014_2022, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Recherche sur l'ordre libéral et sa crise (Ikenberry).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Influence centrée sur l'académie anglo-américaine."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13309,11 +13336,11 @@
         }
       },
       "evidence_basis": [
-        "russia_west_fragmentation_2014_2022",
-        "us_china_rivalry_acceleration",
         "sanctions_and_hybrid_conflict"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -13326,11 +13353,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 2014_2022, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "IPE critique, système-monde, néo-gramscianisme sur la Chine et l'hégémonie.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "En marge du courant dominant."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13356,11 +13384,12 @@
         }
       },
       "evidence_basis": [
-        "russia_west_fragmentation_2014_2022",
-        "us_china_rivalry_acceleration",
-        "sanctions_and_hybrid_conflict"
+        "russia_west_fragmentation_2014_2022"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -13373,11 +13402,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour constructivism dans 2014_2022, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Constructivisme installé dans le courant principal : normes, identité, théorie des pratiques.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Score élevé reflétant son institutionnalisation."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13403,11 +13433,12 @@
         }
       },
       "evidence_basis": [
-        "russia_west_fragmentation_2014_2022",
-        "us_china_rivalry_acceleration",
-        "sanctions_and_hybrid_conflict"
+        "russia_west_fragmentation_2014_2022"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -13420,11 +13451,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour english_school dans 2014_2022, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Programme de l'École anglaise actif (Buzan).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Influence soutenue mais modérée."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13450,11 +13482,12 @@
         }
       },
       "evidence_basis": [
-        "russia_west_fragmentation_2014_2022",
-        "us_china_rivalry_acceleration",
-        "sanctions_and_hybrid_conflict"
+        "us_china_rivalry_acceleration"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "acharya_2014_end_american_world_order",
+        "tickner_1992_gender_ir"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -13467,11 +13500,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 2014_2022, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Très forte influence : 'Global IR' (Acharya), décolonisation des RI, féminisme.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Champ majeur et en expansion."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13497,11 +13531,12 @@
         }
       },
       "evidence_basis": [
-        "russia_west_fragmentation_2014_2022",
-        "us_china_rivalry_acceleration",
         "sanctions_and_hybrid_conflict"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "mearsheimer_2018_great_delusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -13514,11 +13549,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 2014_2022, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Renouveau académique de la géopolitique/géoéconomie et de la géopolitique critique.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Statut hétérogène."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13545,10 +13581,12 @@
       },
       "evidence_basis": [
         "ukraine_invasion_2022",
-        "sanctions_energy_security_2022_2026",
-        "bloc_flexibility_global_south"
+        "indo_pacific_security_rivalry"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2018_great_delusion",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "very_high",
         "internal_score": 85.8,
@@ -13561,11 +13599,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 2022_2026, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Retour de la guerre de haute intensité en Europe (Ukraine), équilibrage dur, réveil de l'OTAN, dissuasion. Score quasi maximal.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Imbriqué avec la géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13591,11 +13630,11 @@
         }
       },
       "evidence_basis": [
-        "ukraine_invasion_2022",
-        "sanctions_energy_security_2022_2026",
-        "bloc_flexibility_global_south"
+        "sanctions_energy_security_2022_2026"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2011_liberal_leviathan"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -13608,11 +13647,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 2022_2026, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Ordre libéral resserré (unité occidentale, sanctions) mais contesté globalement ; institutions sous tension.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Part en repli, surtout occidentale."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13638,11 +13678,12 @@
         }
       },
       "evidence_basis": [
-        "ukraine_invasion_2022",
         "sanctions_energy_security_2022_2026",
         "bloc_flexibility_global_south"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -13655,11 +13696,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 2022_2026, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Capitalisme de l'énergie et des matières premières, non-alignement du Sud guidé par l'intérêt matériel, recomposition économique par les sanctions.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Lecture IPE."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13685,11 +13727,12 @@
         }
       },
       "evidence_basis": [
-        "ukraine_invasion_2022",
-        "sanctions_energy_security_2022_2026",
-        "bloc_flexibility_global_south"
+        "ukraine_invasion_2022"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "wendt_1999_social_theory"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -13702,11 +13745,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour constructivism dans 2022_2026, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Normes et identités : violation de souveraineté, récit d'unité occidentale, identité révanchiste russe.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Difficile à isoler des effets de puissance."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13732,11 +13776,11 @@
         }
       },
       "evidence_basis": [
-        "ukraine_invasion_2022",
-        "sanctions_energy_security_2022_2026",
-        "bloc_flexibility_global_south"
+        "ukraine_invasion_2022"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -13749,11 +13793,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour english_school dans 2022_2026, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Société internationale fracturée, paralysie de l'ONU, ordre contesté. Score faible.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Société des États fortement contestée."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13779,11 +13824,11 @@
         }
       },
       "evidence_basis": [
-        "ukraine_invasion_2022",
-        "sanctions_energy_security_2022_2026",
         "bloc_flexibility_global_south"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "acharya_2014_end_american_world_order"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -13796,11 +13841,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 2022_2026, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Agentivité et non-alignement du Sud global, critiques postcoloniales du cadrage occidental, lectures décoloniales.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Part notable via le Sud global."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13827,10 +13873,13 @@
       },
       "evidence_basis": [
         "ukraine_invasion_2022",
-        "sanctions_energy_security_2022_2026",
-        "bloc_flexibility_global_south"
+        "indo_pacific_security_rivalry",
+        "sanctions_energy_security_2022_2026"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2018_great_delusion",
+        "cooley_nexon_2020_exit_hegemony"
+      ],
       "confidence": {
         "label": "very_high",
         "internal_score": 85.8,
@@ -13843,11 +13892,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 2022_2026, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Géopolitique dure : guerre territoriale, sécurité énergétique, rivalité indo-pacifique, sphères et blocs. Score quasi maximal.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Recouvre la lecture réaliste."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13873,11 +13923,12 @@
         }
       },
       "evidence_basis": [
-        "ukraine_invasion_2022",
-        "sanctions_energy_security_2022_2026",
-        "bloc_flexibility_global_south"
+        "ukraine_invasion_2022"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2018_great_delusion",
+        "kissinger_1994_diplomacy"
+      ],
       "confidence": {
         "label": "very_high",
         "internal_score": 85.8,
@@ -13890,11 +13941,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 2022_2026, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine de guerre de grande puissance, dissuasion, renforcement de l'OTAN, équilibrage dur.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Indistinct de la raison d'État géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13920,11 +13972,11 @@
         }
       },
       "evidence_basis": [
-        "ukraine_invasion_2022",
-        "sanctions_energy_security_2022_2026",
-        "bloc_flexibility_global_south"
+        "sanctions_energy_security_2022_2026"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2011_liberal_leviathan"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -13937,11 +13989,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 2022_2026, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Cadre 'démocraties contre autocraties', défense de l'ordre fondé sur des règles, contesté.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Doctrine sur la défensive, surtout occidentale."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -13967,11 +14020,11 @@
         }
       },
       "evidence_basis": [
-        "ukraine_invasion_2022",
-        "sanctions_energy_security_2022_2026",
         "bloc_flexibility_global_south"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -13984,11 +14037,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 2022_2026, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Souveraineté économique, cadrages anti-impérialistes (multipolarité), intérêts matériels du Sud global.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Doctrine d'État résiduelle."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -14014,11 +14068,11 @@
         }
       },
       "evidence_basis": [
-        "ukraine_invasion_2022",
-        "sanctions_energy_security_2022_2026",
-        "bloc_flexibility_global_south"
+        "ukraine_invasion_2022"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -14031,11 +14085,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour constructivism dans 2022_2026, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Récits identitaires (révanchisme russe, unité occidentale, norme de souveraineté).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Lecture en partie extrapolée (pas une doctrine d'État)."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -14061,11 +14116,11 @@
         }
       },
       "evidence_basis": [
-        "ukraine_invasion_2022",
-        "sanctions_energy_security_2022_2026",
-        "bloc_flexibility_global_south"
+        "ukraine_invasion_2022"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 67.8,
@@ -14078,11 +14133,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour english_school dans 2022_2026, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Souveraineté/non-intervention invoquées, société des États contestée.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Frontière conventionnelle avec la doctrine souverainiste."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -14108,11 +14164,12 @@
         }
       },
       "evidence_basis": [
-        "ukraine_invasion_2022",
-        "sanctions_energy_security_2022_2026",
         "bloc_flexibility_global_south"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "acharya_2014_end_american_world_order",
+        "tickner_1992_gender_ir"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -14125,11 +14182,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 2022_2026, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Non-alignement 2.0, agentivité du Sud global, critiques décoloniales et féministes du cadrage de la guerre.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Recoupe l'affirmation souverainiste multipolaire."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -14155,11 +14213,13 @@
         }
       },
       "evidence_basis": [
-        "ukraine_invasion_2022",
-        "sanctions_energy_security_2022_2026",
-        "bloc_flexibility_global_south"
+        "indo_pacific_security_rivalry",
+        "sanctions_energy_security_2022_2026"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2018_great_delusion",
+        "cooley_nexon_2020_exit_hegemony"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -14172,11 +14232,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 2022_2026, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine géopolitique/géoéconomique explicite : arme énergétique, blocs, indo-pacifique (AUKUS, QUAD), sphères.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la doctrine réaliste."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -14202,11 +14263,12 @@
         }
       },
       "evidence_basis": [
-        "ukraine_invasion_2022",
-        "sanctions_energy_security_2022_2026",
-        "bloc_flexibility_global_south"
+        "ukraine_invasion_2022"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "mearsheimer_2018_great_delusion",
+        "mearsheimer_2001_tragedy"
+      ],
       "confidence": {
         "label": "very_high",
         "internal_score": 85.8,
@@ -14219,11 +14281,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 2022_2026, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Résurgence académique du réalisme (la guerre conforte le pessimisme structurel) ; débats sur l'Ukraine.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Concurrencé par constructivisme et approches critiques."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -14249,11 +14312,11 @@
         }
       },
       "evidence_basis": [
-        "ukraine_invasion_2022",
-        "sanctions_energy_security_2022_2026",
-        "bloc_flexibility_global_south"
+        "sanctions_energy_security_2022_2026"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "ikenberry_2011_liberal_leviathan"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -14266,11 +14329,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 2022_2026, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Recherche sur la crise de l'ordre libéral.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Centrée sur l'académie anglo-américaine."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -14296,11 +14360,11 @@
         }
       },
       "evidence_basis": [
-        "ukraine_invasion_2022",
-        "sanctions_energy_security_2022_2026",
-        "bloc_flexibility_global_south"
+        "sanctions_energy_security_2022_2026"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -14313,11 +14377,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 2022_2026, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "IPE critique sur sanctions, énergie et multipolarité.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "En marge du courant dominant."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -14343,11 +14408,12 @@
         }
       },
       "evidence_basis": [
-        "ukraine_invasion_2022",
-        "sanctions_energy_security_2022_2026",
-        "bloc_flexibility_global_south"
+        "ukraine_invasion_2022"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "wendt_1999_social_theory",
+        "finnemore_1996_national_interests"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -14360,11 +14426,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour constructivism dans 2022_2026, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Constructivisme dans le courant principal : normes de souveraineté, identité en guerre.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Score élevé reflétant son institutionnalisation."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -14390,11 +14457,12 @@
         }
       },
       "evidence_basis": [
-        "ukraine_invasion_2022",
-        "sanctions_energy_security_2022_2026",
-        "bloc_flexibility_global_south"
+        "ukraine_invasion_2022"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "buzan_2004_international_world",
+        "linklater_suganami_2006_english_school"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -14407,11 +14475,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour english_school dans 2022_2026, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "École anglaise sur l'ordre contesté.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Influence soutenue mais modérée."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -14437,11 +14506,12 @@
         }
       },
       "evidence_basis": [
-        "ukraine_invasion_2022",
-        "sanctions_energy_security_2022_2026",
         "bloc_flexibility_global_south"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "acharya_2014_end_american_world_order",
+        "tickner_1992_gender_ir"
+      ],
       "confidence": {
         "label": "very_high",
         "internal_score": 85.8,
@@ -14454,11 +14524,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 2022_2026, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "'Global IR', RI décoloniales et féminisme très présents académiquement.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Champ majeur et en expansion."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -14484,11 +14555,12 @@
         }
       },
       "evidence_basis": [
-        "ukraine_invasion_2022",
-        "sanctions_energy_security_2022_2026",
-        "bloc_flexibility_global_south"
+        "indo_pacific_security_rivalry"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "cooley_nexon_2020_exit_hegemony",
+        "mearsheimer_2018_great_delusion"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 78.2,
@@ -14501,11 +14573,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 2022_2026, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Renouveau académique de la géopolitique/géoéconomie.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Statut hétérogène."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     }
   ]
 }
