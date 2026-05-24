@@ -5346,10 +5346,12 @@
       },
       "evidence_basis": [
         "world_war_two_total_war",
-        "axis_imperial_projects",
         "allied_grand_strategy"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "very_high",
         "internal_score": 84.2,
@@ -5362,11 +5364,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 1939_1945, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Moment réaliste paradigmatique : guerre totale, survie, maximisation de puissance, Grande Alliance de nécessité. Carr (1939) et Morgenthau (1948) en sont les références. Score quasi maximal.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Très imbriqué avec la lecture géopolitique de conquête."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -5392,11 +5395,11 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects",
-        "allied_grand_strategy"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -5409,11 +5412,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 1939_1945, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Ordre libéral éclipsé pendant la guerre, mais fondation de l'ONU (1945) qui sème les institutions d'après-guerre. Hobsbawm (1994).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Réalité libérale faible durant le conflit lui-même."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -5439,11 +5443,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects",
-        "allied_grand_strategy"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -5456,11 +5461,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1939_1945, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "URSS comme puissance décisive, lutte antifasciste, lecture de la guerre comme conflit impérialiste, mobilisation économique totale.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Lecture structurelle ; part modérée dans la dynamique militaire."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -5486,11 +5492,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects",
-        "allied_grand_strategy"
+        "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "finnemore_1996_national_interests",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -5503,11 +5510,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour constructivism dans 1939_1945, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Lecture rétrospective : centralité des idéologies et identités (fascisme, racisme, nationalisme) comme moteurs. Mazower (1998) sur l'Europe des ténèbres. Constructivisme non émergé : éclairage rétrospectif.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Usage rétrospectif assumé ; doctrine et académique rejetées."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -5533,11 +5541,11 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects",
-        "allied_grand_strategy"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "bull_1977_anarchical_society"
+      ],
       "confidence": {
         "label": "medium",
         "internal_score": 53.9,
@@ -5550,11 +5558,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour english_school dans 1939_1945, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Effondrement de la société internationale durant la guerre totale ; score très faible. Lecture rétrospective via Bull (1977).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Société des États largement suspendue ; grille rétrospective."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -5580,11 +5589,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects",
-        "allied_grand_strategy"
+        "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "said_1978_orientalism",
+        "mazower_1998_dark_continent"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -5597,11 +5607,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour critical_postcolonial_feminist dans 1939_1945, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Lecture rétrospective : violence impériale racialisée (Shoah, projets coloniaux de l'Axe), dimension genrée de la guerre totale, troupes coloniales.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Grille rétrospective ; part notable mais indirecte."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -5627,11 +5638,13 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects",
         "allied_grand_strategy"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "very_high",
         "internal_score": 84.2,
@@ -5644,11 +5657,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1939_1945, couche strategic_reality. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Guerre géopolitique par excellence : Lebensraum, stratégie heartland/rimland (Spykman 1942), projets impériaux de l'Axe, grande stratégie, conquête territoriale. Score quasi maximal.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Recouvre fortement la lecture réaliste de puissance."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -5674,11 +5688,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects",
         "allied_grand_strategy"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "kennedy_1987_rise_fall"
+      ],
       "confidence": {
         "label": "very_high",
         "internal_score": 84.2,
@@ -5691,11 +5706,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 1939_1945, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Statecraft de puissance à son apogée : doctrine de survie, alliance de nécessité, capitulation sans condition. Carr (1939).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Indistinct par endroits de la raison d'État géopolitique."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -5721,11 +5737,11 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects",
-        "allied_grand_strategy"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 66.2,
@@ -5738,11 +5754,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 1939_1945, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Charte de l'Atlantique (1941), Quatre Libertés, planification de l'ONU, vision libérale de l'après-guerre (Roosevelt).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Doctrine surtout projetée vers l'après-guerre."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -5768,11 +5785,11 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects",
-        "allied_grand_strategy"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -5785,11 +5802,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1939_1945, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrine soviétique, fronts populaires antifascistes, mouvements de résistance communistes.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Présence doctrinale réelle, subordonnée à l'effort de guerre."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -5977,11 +5995,13 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
         "axis_imperial_projects",
         "allied_grand_strategy"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "very_high",
         "internal_score": 84.2,
@@ -5994,11 +6014,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1939_1945, couche political_doctrine. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Doctrines géopolitiques explicites : Lebensraum (nazisme), sphère de coprospérité de la Grande Asie orientale (Japon), grande stratégie alliée.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Chevauche la doctrine réaliste de puissance."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -6024,11 +6045,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects",
-        "allied_grand_strategy"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "carr_1939_twenty_years",
+        "morgenthau_1948_politics"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -6041,11 +6063,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour realism dans 1939_1945, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Émergence académique du réalisme : The Twenty Years' Crisis de Carr (1939), fondateur, et analyse stratégique de guerre. Réalisme tout juste constitué comme école.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "École en tout début de constitution (Carr 1939)."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -6071,11 +6094,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects",
-        "allied_grand_strategy"
+        "united_nations_1945"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "angell_1910_great_illusion",
+        "hobsbawm_1994_age_extremes"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -6088,11 +6112,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour liberalism dans 1939_1945, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Réflexion académique sur l'ordre d'après-guerre, fonctionnalisme (Mitrany, 1943) et planification de l'ONU.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Mitrany non référencé ici ; influence académique en partie tournée vers l'après-guerre."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -6118,11 +6143,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects",
-        "allied_grand_strategy"
+        "world_war_two_total_war"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "lenin_1917_imperialism",
+        "gramsci_1971_prison_notebooks"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -6135,11 +6161,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour marxism_dependency_structuralism dans 1939_1945, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Théorie marxiste du fascisme et de l'impérialisme académiquement active (École de Francfort en exil).",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Influence réelle, hors RI institutionnelles anglo-américaines."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
@@ -6327,11 +6354,12 @@
         }
       },
       "evidence_basis": [
-        "world_war_two_total_war",
-        "axis_imperial_projects",
-        "allied_grand_strategy"
+        "axis_imperial_projects"
       ],
-      "direct_references": [],
+      "direct_references": [
+        "spykman_1942_strategy",
+        "mackinder_1904_pivot"
+      ],
       "confidence": {
         "label": "high",
         "internal_score": 76.8,
@@ -6344,11 +6372,12 @@
         }
       },
       "maturity_status": "reviewed",
-      "justification_fr": "Score seed V1 pour geopolitics_imperialism_reason_of_state dans 1939_1945, couche academic_influence. À relire et calibrer avec les preuves structurées.",
+      "justification_fr": "Apogée (et discrédit) académique de la Geopolitik : Spykman (1942), Haushofer, géographie stratégique de guerre.",
       "known_limits": [
-        "Score initial destiné à amorcer l’atlas ; exige revue historiographique avant validation."
+        "Statut académique miné par l'association à la Geopolitik nazie."
       ],
-      "experimental": {}
+      "experimental": {},
+      "calibration_status": "sourced"
     },
     {
       "schema_version": "1.0.0",
