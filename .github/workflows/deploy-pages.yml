@@ -41,6 +41,11 @@ jobs:
         run: npm run check:data
 
       - name: Audit references (real existence, network)
+        # Non bloquant : l'audit interroge des API tierces (Crossref, OpenLibrary)
+        # qui peuvent être indisponibles (ex. OpenLibrary 403) ou rate-limitées.
+        # Une panne externe ne doit pas bloquer la publication. L'audit continue
+        # de tourner et de publier son rapport (docs/AUDIT_REFERENCES.md).
+        continue-on-error: true
         run: npm run audit:refs
 
       - name: Generate paper LaTeX wrapper
