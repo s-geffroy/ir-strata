@@ -9,6 +9,12 @@ Sorties :
   - references/audit_report.json  : détail machine par référence
   - references/AUDIT_REFERENCES.md : rapport lisible + références à re-sourcer
 
+Statuts d'audit : "verified" / "probable" (match trouvé), "unverifiable" (les API
+ont répondu mais aucun match probant -> à re-sourcer), et "api_unavailable" (une
+API était injoignable, ex. OpenLibrary HTTP 403 : l'audit n'a pas pu conclure).
+Seul "unverifiable" est bloquant sous --check ; "api_unavailable" ne l'est pas,
+car une panne d'API tierce ne prouve pas qu'une référence est douteuse.
+
 Avec --write, met à jour maturity_status -> "contested" pour les références
 classées "unverifiable" dans references.json (le reste est inchangé).
 
@@ -67,23 +73,25 @@ def surname(author: str) -> str:
     return tokens[-1] if tokens else ""
 
 
-def fetch_json(url: str) -> dict | None:
+def fetch_json(url: str) -> tuple[dict | None, str | None]:
+    """Retourne (données, erreur). `erreur` non nul = API injoignable (403, réseau,
+    timeout...) — à distinguer d'une réponse vide (référence réellement introuvable)."""
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     try:
         with urllib.request.urlopen(req, timeout=25) as resp:
-            return json.load(resp)
+            return json.load(resp), None
     except Exception as exc:  # noqa: BLE001 — on enregistre l'échec, on continue
-        return {"__error__": str(exc)}
+        return None, str(exc)
 
 
-def query_crossref(ref: dict) -> list[dict]:
+def query_crossref(ref: dict) -> tuple[list[dict], str | None]:
     q = urllib.parse.urlencode({
         "query.bibliographic": f"{ref.get('title','')} {ref.get('author','')}",
         "rows": 10,
     })
-    data = fetch_json(f"https://api.crossref.org/works?{q}")
-    if not data or "__error__" in data:
-        return []
+    data, error = fetch_json(f"https://api.crossref.org/works?{q}")
+    if error or not data:
+        return [], error
     items = data.get("message", {}).get("items", [])
     out = []
     for it in items:
@@ -101,18 +109,18 @@ def query_crossref(ref: dict) -> list[dict]:
                 break
         out.append({"source": "crossref", "title": title, "author": authors,
                     "year": year, "id": it.get("DOI")})
-    return out
+    return out, None
 
 
-def query_openlibrary(ref: dict) -> list[dict]:
+def query_openlibrary(ref: dict) -> tuple[list[dict], str | None]:
     q = urllib.parse.urlencode({
         "q": f"{ref.get('title','')} {ref.get('author','')}",
         "limit": 5,
         "fields": "title,author_name,first_publish_year,key",
     })
-    data = fetch_json(f"https://openlibrary.org/search.json?{q}")
-    if not data or "__error__" in data:
-        return []
+    data, error = fetch_json(f"https://openlibrary.org/search.json?{q}")
+    if error or not data:
+        return [], error
     out = []
     for doc in data.get("docs", []):
         out.append({
@@ -122,7 +130,7 @@ def query_openlibrary(ref: dict) -> list[dict]:
             "year": doc.get("first_publish_year"),
             "id": doc.get("key"),
         })
-    return out
+    return out, None
 
 
 def best_match(ref: dict, candidates: list[dict]) -> dict | None:
@@ -161,12 +169,21 @@ def classify(match: dict | None) -> str:
 
 
 def audit_one(ref: dict) -> dict:
-    candidates = query_crossref(ref)
+    cx_candidates, cx_error = query_crossref(ref)
     time.sleep(REQUEST_PAUSE)
-    candidates += query_openlibrary(ref)
+    ol_candidates, ol_error = query_openlibrary(ref)
     time.sleep(REQUEST_PAUSE)
+    candidates = cx_candidates + ol_candidates
     match = best_match(ref, candidates)
     status = classify(match)
+    api_errors = {src: err for src, err in
+                  (("crossref", cx_error), ("openlibrary", ol_error)) if err}
+    # Résilience : une référence non vérifiable alors qu'une API a échoué (403,
+    # réseau, timeout...) ne peut pas être déclarée douteuse — l'audit n'a pas eu
+    # de chance équitable. On la classe `api_unavailable` (non bloquant), distinct
+    # de `unverifiable` (les API ont répondu mais aucun match probant).
+    if status == "unverifiable" and api_errors:
+        status = "api_unavailable"
     return {
         "id": ref.get("id"),
         "bibtex_key": ref.get("bibtex_key"),
@@ -176,6 +193,7 @@ def audit_one(ref: dict) -> dict:
         "audit_status": status,
         "best_match": match,
         "candidates_seen": len(candidates),
+        "api_errors": api_errors,
     }
 
 
@@ -227,6 +245,12 @@ def main() -> int:
 
     print("\nRésumé :", json.dumps(counts, ensure_ascii=False))
 
+    if counts.get("api_unavailable"):
+        apis = sorted({src for r in results for src in (r.get("api_errors") or {})})
+        print(f"NOTE : {counts['api_unavailable']} référence(s) non vérifiée(s) car "
+              f"API indisponible(s) ({', '.join(apis) or 'inconnue'}). Statut "
+              "`api_unavailable`, non bloquant — l'audit n'a pas pu conclure.")
+
     if args.check and counts.get("unverifiable"):
         print(f"CHECK FAILED : {counts['unverifiable']} référence(s) non vérifiable(s)")
         return 1
@@ -254,7 +278,7 @@ def write_markdown(report: dict) -> None:
         "| Statut | Nombre |",
         "| --- | --- |",
     ]
-    for status in ("verified", "probable", "unverifiable"):
+    for status in ("verified", "probable", "unverifiable", "api_unavailable"):
         lines.append(f"| `{status}` | {report['counts'].get(status, 0)} |")
     lines += ["", "## Références à re-sourcer (`unverifiable`)", ""]
     flagged = [r for r in report["results"] if r["audit_status"] == "unverifiable"]
@@ -280,6 +304,21 @@ def write_markdown(report: dict) -> None:
             lines.append(f"| `{r['id']}` | {r['title']} | {m.get('title','—')} | "
                          f"{m.get('title_sim','—')} | {m.get('author_ok','—')} | "
                          f"{m.get('year_ok','—')} |")
+    lines += ["", "## Non vérifiées car API indisponible (`api_unavailable`)", "",
+              "Ces références n'ont pas pu être contrôlées parce qu'une base "
+              "bibliographique était injoignable (ex. OpenLibrary `HTTP 403`). "
+              "Ce **n'est pas** un signe de référence douteuse : l'audit n'a pas "
+              "pu conclure et ne bloque pas la publication.", ""]
+    unavailable = [r for r in report["results"] if r["audit_status"] == "api_unavailable"]
+    if not unavailable:
+        lines.append("_Aucune._")
+    else:
+        lines.append("| id | titre | auteur | année | API en échec |")
+        lines.append("| --- | --- | --- | --- | --- |")
+        for r in unavailable:
+            apis = ", ".join((r.get("api_errors") or {}).keys()) or "—"
+            lines.append(f"| `{r['id']}` | {r['title']} | {r['author']} | "
+                         f"{r['year']} | {apis} |")
     DOCS_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 

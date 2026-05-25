@@ -1,12 +1,13 @@
 {
-  "audited_at": "2026-05-24",
+  "audited_at": "2026-05-25",
   "source_apis": [
     "crossref",
     "openlibrary"
   ],
   "total": 56,
   "counts": {
-    "verified": 56
+    "verified": 51,
+    "api_unavailable": 5
   },
   "results": [
     {
@@ -27,7 +28,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 15
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "waltz_1959_man_state_war",
@@ -47,7 +51,10 @@
         "year_ok": false,
         "composite": 1.3
       },
-      "candidates_seen": 15
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "waltz_1979_theory",
@@ -57,17 +64,20 @@
       "year": 1979,
       "audit_status": "verified",
       "best_match": {
-        "source": "openlibrary",
-        "title": "Theory of international politics",
-        "author": "Kenneth N. Waltz",
-        "year": 1979,
-        "id": "/works/OL11379846W",
+        "source": "crossref",
+        "title": "Theory of International Politics, by Kenneth N. Waltz",
+        "author": "Robert F. Randle",
+        "year": 1980,
+        "id": "10.2307/2149594",
         "title_sim": 1.0,
-        "author_ok": true,
+        "author_ok": false,
         "year_ok": true,
-        "composite": 1.5
+        "composite": 1.2
       },
-      "candidates_seen": 14
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "mearsheimer_2001_tragedy",
@@ -87,7 +97,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 12
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "mearsheimer_2018_great_delusion",
@@ -107,7 +120,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 11
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "gilpin_1981_war_change",
@@ -127,7 +143,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 13
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "jervis_1978_security_dilemma",
@@ -147,7 +166,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 12
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "keohane_1984_after_hegemony",
@@ -167,7 +189,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 12
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "keohane_nye_1977_power_interdependence",
@@ -177,17 +202,20 @@
       "year": 1977,
       "audit_status": "verified",
       "best_match": {
-        "source": "openlibrary",
-        "title": "Power and interdependence",
-        "author": "Robert O. Keohane",
-        "year": 1977,
-        "id": "/works/OL4629903W",
+        "source": "crossref",
+        "title": "Power and Interdependence revisited",
+        "author": "Robert O. Keohane Joseph S. Nye",
+        "year": 2017,
+        "id": "10.4324/9781315251981-4",
         "title_sim": 1.0,
         "author_ok": true,
-        "year_ok": true,
-        "composite": 1.5
+        "year_ok": false,
+        "composite": 1.3
       },
-      "candidates_seen": 15
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "doyle_1983_kant_liberal_legacies",
@@ -207,7 +235,10 @@
         "year_ok": false,
         "composite": 1.3
       },
-      "candidates_seen": 10
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "ikenberry_2001_after_victory",
@@ -227,7 +258,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 12
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "ikenberry_2011_liberal_leviathan",
@@ -247,7 +281,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 13
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "fukuyama_1992_end_history",
@@ -267,7 +304,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 15
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "krauthammer_1990_unipolar_moment",
@@ -287,7 +327,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 11
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "lenin_1917_imperialism",
@@ -307,7 +350,10 @@
         "year_ok": false,
         "composite": 1.3
       },
-      "candidates_seen": 15
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "wallerstein_1974_modern_world_system",
@@ -327,7 +373,10 @@
         "year_ok": true,
         "composite": 1.2
       },
-      "candidates_seen": 14
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "cardoso_faletto_1979_dependency",
@@ -347,7 +396,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 12
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "cox_1981_social_forces",
@@ -367,7 +419,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 11
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "gramsci_1971_prison_notebooks",
@@ -377,17 +432,20 @@
       "year": 1971,
       "audit_status": "verified",
       "best_match": {
-        "source": "openlibrary",
-        "title": "Selections from the prison notebooks of Antonio Gramsci",
+        "source": "crossref",
+        "title": "Selections from the prison notebooks",
         "author": "Antonio Gramsci",
-        "year": 1971,
-        "id": "/works/OL77369W",
+        "year": 2020,
+        "id": "10.4324/9780429355363-27",
         "title_sim": 1.0,
         "author_ok": true,
-        "year_ok": true,
-        "composite": 1.5
+        "year_ok": false,
+        "composite": 1.3
       },
-      "candidates_seen": 15
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "wendt_1992_anarchy",
@@ -407,7 +465,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 11
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "wendt_1999_social_theory",
@@ -427,7 +488,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 15
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "finnemore_1996_national_interests",
@@ -447,7 +511,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 11
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "ruggie_1982_international_regimes",
@@ -467,7 +534,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 10
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "bull_1977_anarchical_society",
@@ -477,17 +547,20 @@
       "year": 1977,
       "audit_status": "verified",
       "best_match": {
-        "source": "openlibrary",
-        "title": "The Anarchical Society",
-        "author": "Hedley Bull",
-        "year": 1977,
-        "id": "/works/OL3490685W",
+        "source": "crossref",
+        "title": "The Anarchical Society: A Study of Order in World Politics by Hedley Bull (Columbia University Press; 335 pp.; $20.00)",
+        "author": "",
+        "year": 1979,
+        "id": "10.1017/s0084255900051251",
         "title_sim": 1.0,
-        "author_ok": true,
+        "author_ok": false,
         "year_ok": true,
-        "composite": 1.5
+        "composite": 1.2
       },
-      "candidates_seen": 15
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "buzan_2004_international_world",
@@ -507,7 +580,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 13
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "linklater_suganami_2006_english_school",
@@ -527,7 +603,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 11
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "said_1978_orientalism",
@@ -535,19 +614,22 @@
       "title": "Orientalism",
       "author": "Edward W. Said",
       "year": 1978,
-      "audit_status": "verified",
+      "audit_status": "api_unavailable",
       "best_match": {
-        "source": "openlibrary",
-        "title": "Orientalism",
-        "author": "Edward W. Said",
-        "year": 1978,
-        "id": "/works/OL27405W",
+        "source": "crossref",
+        "title": "ORIENTALISM",
+        "author": "",
+        "year": 2000,
+        "id": "10.4324/9780203137123-4",
         "title_sim": 1.0,
-        "author_ok": true,
-        "year_ok": true,
-        "composite": 1.5
+        "author_ok": false,
+        "year_ok": false,
+        "composite": 1.0
       },
-      "candidates_seen": 15
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "spivak_1988_subaltern",
@@ -555,19 +637,22 @@
       "title": "Can the Subaltern Speak?",
       "author": "Gayatri Chakravorty Spivak",
       "year": 1988,
-      "audit_status": "verified",
+      "audit_status": "api_unavailable",
       "best_match": {
-        "source": "openlibrary",
-        "title": "Can the Subaltern Speak?",
-        "author": "Gayatri Chakravorty Spivak",
-        "year": 2007,
-        "id": "/works/OL19097663W",
+        "source": "crossref",
+        "title": "Gayatri Chakravorty Spivak Can the Subaltern Speak?",
+        "author": "",
+        "year": 2015,
+        "id": "10.4324/9781315656496-13",
         "title_sim": 1.0,
-        "author_ok": true,
+        "author_ok": false,
         "year_ok": false,
-        "composite": 1.3
+        "composite": 1.0
       },
-      "candidates_seen": 14
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "tickner_1992_gender_ir",
@@ -577,17 +662,20 @@
       "year": 1992,
       "audit_status": "verified",
       "best_match": {
-        "source": "openlibrary",
-        "title": "Gender in International Relations",
+        "source": "crossref",
+        "title": "Gender Research in International Relations",
         "author": "J. Ann Tickner",
-        "year": 1992,
-        "id": "/works/OL4283731W",
+        "year": 2018,
+        "id": "10.1007/978-3-319-75850-3_8",
         "title_sim": 1.0,
         "author_ok": true,
-        "year_ok": true,
-        "composite": 1.5
+        "year_ok": false,
+        "composite": 1.3
       },
-      "candidates_seen": 13
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "enloe_1989_bananas",
@@ -597,17 +685,20 @@
       "year": 1989,
       "audit_status": "verified",
       "best_match": {
-        "source": "openlibrary",
-        "title": "Bananas, beaches & bases",
-        "author": "Cynthia H. Enloe, Cynthia Enloe",
-        "year": 1989,
-        "id": "/works/OL4315511W",
+        "source": "crossref",
+        "title": "Twenty-five years of\n                    Bananas, Beaches and Bases\n                    : A conversation with Cynthia Enloe",
+        "author": "Cynthia Enloe Anita Lacey Thomas Gregory",
+        "year": 2016,
+        "id": "10.1177/1440783316655635",
         "title_sim": 1.0,
         "author_ok": true,
-        "year_ok": true,
-        "composite": 1.5
+        "year_ok": false,
+        "composite": 1.3
       },
-      "candidates_seen": 11
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "ashley_1984_poverty_neorealism",
@@ -627,7 +718,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 11
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "mahan_1890_sea_power",
@@ -637,17 +731,20 @@
       "year": 1890,
       "audit_status": "verified",
       "best_match": {
-        "source": "openlibrary",
-        "title": "The influence of sea power upon history, 1660-1783",
-        "author": "Alfred Thayer Mahan",
-        "year": 1890,
-        "id": "/works/OL25676W",
+        "source": "crossref",
+        "title": "The Influence of Sea Power upon History, 1660–1783",
+        "author": "A. T. Mahan",
+        "year": 2010,
+        "id": "10.1017/cbo9780511783289",
         "title_sim": 1.0,
         "author_ok": true,
-        "year_ok": true,
-        "composite": 1.5
+        "year_ok": false,
+        "composite": 1.3
       },
-      "candidates_seen": 15
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "mackinder_1904_pivot",
@@ -667,7 +764,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 14
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "spykman_1942_strategy",
@@ -687,7 +787,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 13
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "kissinger_1957_world_restored",
@@ -707,7 +810,10 @@
         "year_ok": false,
         "composite": 1.3
       },
-      "candidates_seen": 14
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "kissinger_1994_diplomacy",
@@ -715,19 +821,22 @@
       "title": "Diplomacy",
       "author": "Henry Kissinger",
       "year": 1994,
-      "audit_status": "verified",
+      "audit_status": "api_unavailable",
       "best_match": {
-        "source": "openlibrary",
-        "title": "Diplomacy",
-        "author": "Henry Kissinger",
-        "year": 1994,
-        "id": "/works/OL1967243W",
+        "source": "crossref",
+        "title": "Henry Kissinger: Doctor of Diplomacy",
+        "author": "",
+        "year": null,
+        "id": "10.1163/2468-1733_shafr_sim170060028",
         "title_sim": 1.0,
-        "author_ok": true,
-        "year_ok": true,
-        "composite": 1.5
+        "author_ok": false,
+        "year_ok": false,
+        "composite": 1.0
       },
-      "candidates_seen": 15
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "kennedy_1987_rise_fall",
@@ -747,7 +856,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 15
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "hobsbawm_1962_age_revolution",
@@ -767,7 +879,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 12
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "hobsbawm_1975_age_capital",
@@ -787,7 +902,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 10
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "hobsbawm_1987_age_empire",
@@ -807,7 +925,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 10
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "hobsbawm_1994_age_extremes",
@@ -817,17 +938,20 @@
       "year": 1994,
       "audit_status": "verified",
       "best_match": {
-        "source": "openlibrary",
-        "title": "The age of extremes",
-        "author": "Eric Hobsbawm",
-        "year": 1994,
-        "id": "/works/OL495649W",
+        "source": "crossref",
+        "title": "Age of Extremes: The Short Twentieth Century, 1914-1991, by Eric Hobsbawm",
+        "author": "Dermot Quinn ",
+        "year": 1996,
+        "id": "10.5840/chesterton199622385",
         "title_sim": 1.0,
-        "author_ok": true,
+        "author_ok": false,
         "year_ok": true,
-        "composite": 1.5
+        "composite": 1.2
       },
-      "candidates_seen": 14
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "taylor_1954_struggle_mastery",
@@ -847,7 +971,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 11
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "clark_2012_sleepwalkers",
@@ -857,17 +984,20 @@
       "year": 2012,
       "audit_status": "verified",
       "best_match": {
-        "source": "openlibrary",
-        "title": "The Sleepwalkers",
-        "author": "Christopher Clark",
-        "year": 2013,
-        "id": "/works/OL17366836W",
+        "source": "crossref",
+        "title": "Clark, Christopher. The Sleepwalkers: How Europe Went to War in 1914 (review)",
+        "author": "Bojan Aleksov",
+        "year": 2014,
+        "id": "10.1353/see.2014.0129",
         "title_sim": 1.0,
-        "author_ok": true,
+        "author_ok": false,
         "year_ok": true,
-        "composite": 1.5
+        "composite": 1.2
       },
-      "candidates_seen": 13
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "mazower_1998_dark_continent",
@@ -887,7 +1017,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 12
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "mazower_2012_governing_world",
@@ -897,17 +1030,20 @@
       "year": 2012,
       "audit_status": "verified",
       "best_match": {
-        "source": "openlibrary",
-        "title": "Governing the World",
-        "author": "Mark Mazower",
-        "year": 2013,
-        "id": "/works/OL21054895W",
+        "source": "crossref",
+        "title": "Mark Mazower. Governing the World. The History of an Idea",
+        "author": "J. von Bernstorff",
+        "year": 2014,
+        "id": "10.1093/ejil/chu041",
         "title_sim": 1.0,
-        "author_ok": true,
+        "author_ok": false,
         "year_ok": true,
-        "composite": 1.5
+        "composite": 1.2
       },
-      "candidates_seen": 14
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "gaddis_2005_cold_war",
@@ -917,17 +1053,20 @@
       "year": 2005,
       "audit_status": "verified",
       "best_match": {
-        "source": "openlibrary",
-        "title": "The Cold War",
-        "author": "John Lewis Gaddis",
-        "year": 2005,
-        "id": "/works/OL2865967W",
+        "source": "crossref",
+        "title": "John Lewis Gaddis: The Cold War: A New History.",
+        "author": "Karel Krátký",
+        "year": 2006,
+        "id": "10.32422/cjir.588",
         "title_sim": 1.0,
-        "author_ok": true,
+        "author_ok": false,
         "year_ok": true,
-        "composite": 1.5
+        "composite": 1.2
       },
-      "candidates_seen": 13
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "westad_2005_global_cold_war",
@@ -935,19 +1074,22 @@
       "title": "The Global Cold War",
       "author": "Odd Arne Westad",
       "year": 2005,
-      "audit_status": "verified",
+      "audit_status": "api_unavailable",
       "best_match": {
-        "source": "openlibrary",
-        "title": "The Global Cold War",
-        "author": "Odd Arne Westad",
-        "year": 2005,
-        "id": "/works/OL4293881W",
+        "source": "crossref",
+        "title": "Odd Arne Westad. The Global Cold War",
+        "author": "",
+        "year": 2023,
+        "id": "10.1017/9789048560028.024",
         "title_sim": 1.0,
-        "author_ok": true,
-        "year_ok": true,
-        "composite": 1.5
+        "author_ok": false,
+        "year_ok": false,
+        "composite": 1.0
       },
-      "candidates_seen": 15
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "westad_2017_cold_war",
@@ -957,17 +1099,20 @@
       "year": 2017,
       "audit_status": "verified",
       "best_match": {
-        "source": "openlibrary",
-        "title": "The cold war",
-        "author": "Odd Arne Westad",
-        "year": 2017,
-        "id": "/works/OL19715211W",
+        "source": "crossref",
+        "title": "Odd Arne Westad. The Cold War: A World History.",
+        "author": "Masuda Hajimu",
+        "year": 2019,
+        "id": "10.1093/ahr/rhz402",
         "title_sim": 1.0,
-        "author_ok": true,
+        "author_ok": false,
         "year_ok": true,
-        "composite": 1.5
+        "composite": 1.2
       },
-      "candidates_seen": 13
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "judt_2005_postwar",
@@ -977,17 +1122,20 @@
       "year": 2005,
       "audit_status": "verified",
       "best_match": {
-        "source": "openlibrary",
-        "title": "Postwar",
-        "author": "Tony Judt",
-        "year": 2005,
-        "id": "/works/OL1894813W",
+        "source": "crossref",
+        "title": "Postwar: An Interview with Tony Judt",
+        "author": "Donald A. Yerxa",
+        "year": 2006,
+        "id": "10.1353/hsp.2006.0085",
         "title_sim": 1.0,
-        "author_ok": true,
+        "author_ok": false,
         "year_ok": true,
-        "composite": 1.5
+        "composite": 1.2
       },
-      "candidates_seen": 15
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "burbank_cooper_2010_empires",
@@ -1007,7 +1155,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 11
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "bayly_2004_birth_modern_world",
@@ -1017,17 +1168,20 @@
       "year": 2004,
       "audit_status": "verified",
       "best_match": {
-        "source": "openlibrary",
-        "title": "The Birth of the Modern World, 1780-1914",
-        "author": "C. A. Bayly",
-        "year": 2003,
-        "id": "/works/OL1039677W",
+        "source": "crossref",
+        "title": "C.A. Bayly, The Birth of the Modern World, 1780–1914: Global Connections and Comparisons. Blackwell History of the World. Maiden, MA: Blackwell Publishing, 2004. xxiv + 540 pp. ISBN: 0-631-18799-5.",
+        "author": "Ralph A. Austen",
+        "year": 2005,
+        "id": "10.1017/s0165115300023664",
         "title_sim": 1.0,
-        "author_ok": true,
+        "author_ok": false,
         "year_ok": true,
-        "composite": 1.5
+        "composite": 1.2
       },
-      "candidates_seen": 11
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "carr_1939_twenty_years",
@@ -1037,17 +1191,20 @@
       "year": 1939,
       "audit_status": "verified",
       "best_match": {
-        "source": "openlibrary",
-        "title": "The Twenty Years' Crisis, 1919-1939",
-        "author": "Edward Hallet Carr",
-        "year": 1939,
-        "id": "/works/OL1170631W",
+        "source": "crossref",
+        "title": "The Twenty Years’ Crisis, 1919–1939",
+        "author": "E. H. Carr",
+        "year": 1946,
+        "id": "10.1007/978-1-349-15208-7",
         "title_sim": 1.0,
         "author_ok": true,
-        "year_ok": true,
-        "composite": 1.5
+        "year_ok": false,
+        "composite": 1.3
       },
-      "candidates_seen": 15
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "angell_1910_great_illusion",
@@ -1057,17 +1214,20 @@
       "year": 1910,
       "audit_status": "verified",
       "best_match": {
-        "source": "openlibrary",
-        "title": "The great illusion",
-        "author": "Norman Angell",
-        "year": 1909,
-        "id": "/works/OL89024W",
+        "source": "crossref",
+        "title": "The Great Illusion. Norman Angell",
+        "author": "",
+        "year": 1911,
+        "id": "10.1086/251869",
         "title_sim": 1.0,
-        "author_ok": true,
+        "author_ok": false,
         "year_ok": true,
-        "composite": 1.5
+        "composite": 1.2
       },
-      "candidates_seen": 15
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "krasner_1983_international_regimes",
@@ -1087,7 +1247,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 14
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "acharya_2014_end_american_world_order",
@@ -1095,19 +1258,22 @@
       "title": "The End of American World Order",
       "author": "Amitav Acharya",
       "year": 2014,
-      "audit_status": "verified",
+      "audit_status": "api_unavailable",
       "best_match": {
-        "source": "openlibrary",
-        "title": "The end of American world order",
-        "author": "Amitav Acharya",
-        "year": 2014,
-        "id": "/works/OL19738925W",
+        "source": "crossref",
+        "title": "The End of American World Order, by Amitav Acharya",
+        "author": "Siphamandla Zondi",
+        "year": 2018,
+        "id": "10.25159/0256-6060/2897",
         "title_sim": 1.0,
-        "author_ok": true,
-        "year_ok": true,
-        "composite": 1.5
+        "author_ok": false,
+        "year_ok": false,
+        "composite": 1.0
       },
-      "candidates_seen": 13
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "cooley_nexon_2020_exit_hegemony",
@@ -1127,7 +1293,10 @@
         "year_ok": true,
         "composite": 1.5
       },
-      "candidates_seen": 10
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
     }
   ]
 }
