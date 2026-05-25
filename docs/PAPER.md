@@ -18,7 +18,7 @@ Version 4 – article académique, aligné sur l'application *ir-strata*
 
 ## Résumé
 
-Cet article propose et teste un protocole de pondération interprétative des grandes théories des relations internationales. Le problème traité n'est pas de transformer les théories en variables naturelles, ni de prétendre mesurer objectivement la part réelle du réalisme, du libéralisme ou du constructivisme dans l'histoire internationale. Il est plus précis : les analystes hiérarchisent déjà implicitement les cadres théoriques lorsqu'ils décrivent une période comme réaliste, libérale, impériale, dépendantiste ou constructiviste. Le protocole de *Strates RI* vise à rendre cette hiérarchisation explicite, auditable, révisable et comparable. L'article clarifie le statut métrique faible des scores, distingue scores bruts et scores normalisés, formalise trois couches d'application – réalité stratégique, doctrine politique et influence académique –, propose une matrice de non-confusion taxonomique, justifie une périodisation de 1815 à 2026, établit un codebook de scoring 0–100, et applique le protocole à un cas pilote : le système international de 1945–1962. Le cas pilote code sept familles théoriques sur trois couches, documente les éléments probants et contradictoires, produit une analyse de sensibilité aux pondérations, et définit un protocole de fiabilité inter-codeurs. L'article défend une position méthodologique prudente : les scores ne sont pas des mesures cardinales fortes, mais des quasi-indices interprétatifs contrôlés. Leur valeur dépend moins de la précision numérique affichée que de la transparence du codage, de la discipline anti-circularité, de la traçabilité bibliographique et de la possibilité de révision.
+Cet article propose et teste un protocole de pondération interprétative des grandes théories des relations internationales. Le problème traité n'est pas de transformer les théories en variables naturelles, ni de prétendre mesurer objectivement la part réelle du réalisme, du libéralisme ou du constructivisme dans l'histoire internationale. Il est plus précis : les analystes hiérarchisent déjà implicitement les cadres théoriques lorsqu'ils décrivent une période comme réaliste, libérale, impériale, dépendantiste ou constructiviste. Le protocole de *Strates RI* vise à rendre cette hiérarchisation explicite, auditable, révisable et comparable. L'article clarifie le statut métrique faible des scores, distingue scores bruts et scores normalisés, formalise trois couches d'application – réalité stratégique, doctrine politique et influence académique –, propose une matrice de non-confusion taxonomique, justifie une périodisation de 1815 à 2026, établit un codebook de scoring 0–100, et applique le protocole à un pilote dérivé sur trois périodes : 1815–1848, 1945–1962 et 1991–2001. Le pilote code sept familles théoriques sur trois couches, documente les éléments probants et contradictoires, produit une analyse de sensibilité aux pondérations, une simulation explicitement marquée de second codage, et un audit de cohérence méthodologique aboutissant à un verdict explicite. Les trois périodes testent trois difficultés distinctes : l'anachronisme et l'ordre pré-disciplinaire (1815–1848, où la méthode va jusqu'à ne calculer aucune synthèse), un cas robuste (1945–1962) et un cas controversé d'ordre libéral hégémonique (1991–2001). L'article défend une position méthodologique prudente : les scores ne sont pas des mesures cardinales fortes, mais des quasi-indices interprétatifs contrôlés. Leur valeur dépend moins de la précision numérique affichée que de la transparence du codage, de la discipline anti-circularité, de la traçabilité bibliographique et de la possibilité de révision.
 
 **Mots-clés :** relations internationales ; théorie des relations internationales ; méthode qualitative ; scoring ; validité ; fiabilité inter-codeurs ; anachronisme ; périodisation ; réalisme ; libéralisme ; constructivisme ; École anglaise ; économie politique internationale ; postcolonialisme.
 
@@ -214,6 +214,108 @@ Le protocole proposé est le suivant : trois codeurs reçoivent le même codeboo
 
 La résolution des divergences ne doit pas effacer le désaccord. Elle doit produire un journal de révision indiquant le score initial, le score révisé, les raisons du changement, les éléments probants ajoutés ou retirés et l'impact sur la confiance. Cette procédure est plus importante qu'une apparence d'accord artificiel.
 
+## Extension du pilote : trois périodes
+
+Le cas 1945–1962 démontre l'applicabilité du protocole, mais une période unique ne teste ni sa robustesse temporelle ni son comportement face à l'anachronisme. Cette section étend donc le pilote à deux périodes supplémentaires choisies pour leur difficulté méthodologique : 1815–1848, qui teste l'anachronisme et l'ordre européen pré-disciplinaire, et 1991–2001, qui teste un cas controversé d'ordre libéral hégémonique. Les scores ci-dessous ne sont pas recodés *ad hoc* : ils sont exactement ceux servis par l'application *ir-strata* (couches brutes, scope global), de sorte que l'extension reste auditable et reproductible.
+
+### 1815–1848 : un cas où la synthèse n'existe pas
+
+La période du Concert européen et de l'ordre conservateur (Schroeder 1994 ; Kissinger 1957) produit un résultat instructif précisément parce que la méthode *refuse* d'y calculer une synthèse. Aucune des sept familles n'existe comme école académique des RI à cette date : les émergences disciplinaires (géopolitique vers 1890, marxisme/IPE vers 1902, libéralisme vers 1919, réalisme vers 1939) sont toutes postérieures à 1848. La couche `academic_influence` est donc *rejetée pour toutes les familles*, et comme la synthèse n'est définie que pour les familles présentes sur les trois couches, **aucune synthèse globale n'est calculée pour 1815–1848**.
+
+| Famille théorique | Réalité stratégique | Doctrine politique | Influence académique |
+| --- | --- | --- | --- |
+| Réalisme | 82 | 78 | rejeté |
+| Géopolitique/impérialisme/raison d'État | 80 | 76 | rejeté |
+| École anglaise | 58 | rejeté | rejeté |
+| Constructivisme | 38 | rejeté | rejeté |
+| Libéralisme | 30 | 28 | rejeté |
+| Critiques/postcoloniales/féministes | 22 | rejeté | rejeté |
+| Marxisme/dépendance/IPE | 10 | rejeté | rejeté |
+
+En réalité stratégique, la lecture rétrospective place le réalisme (82) et la géopolitique/raison d'État (80) en tête, ce qui est cohérent avec un ordre fondé sur l'équilibre des puissances, les sphères dynastiques et la gestion concertée des crises. L'École anglaise obtient un score notable (58) comme grille rétrospective de la société internationale et de ses institutions primaires (souveraineté, diplomatie, équilibre) (Bull 1977 ; Watson 1992). En doctrine politique, seules les familles dont les idées sont disponibles aux acteurs de l'époque sont admises : raison d'État et géopolitique (héritage ancien), libéralisme (post-1789). Le constructivisme (38 en réalité stratégique) éclaire rétrospectivement les normes de légitimité dynastique sans jamais pouvoir être doctrine de Metternich ni école académique. Ce cas montre que l'anti-anachronisme strict n'est pas un détail technique : il change la nature même du résultat, en assumant explicitement qu'il n'existe pas de pondération synthétique là où une couche n'a pas encore d'existence historique.
+
+### 1991–2001 : un ordre libéral non réductible au libéralisme
+
+La décennie post-soviétique est le cas controversé par excellence : moment unipolaire américain (Krauthammer 1990), expansion institutionnelle et normative (Ikenberry 2001 ; Ikenberry 2011), mais aussi hégémonie matérielle et usages de la force que les lectures critiques relisent comme reproduction d'asymétries (Cox 1981 ; Said 1978). Les sept familles sont ici synthétisables (le constructivisme, l'École anglaise et les approches critiques ont émergé comme écoles avant 1991).
+
+| Famille théorique | R. strat. | Doctrine | Acad. | Synthèse brute | Norm. |
+| --- | --- | --- | --- | --- | --- |
+| Libéralisme | 90 | 94 | 88 | 90.70 | 19.3 |
+| Constructivisme | 72 | 78 | 90 | 76.20 | 16.2 |
+| Réalisme | 75 | 65 | 82 | 73.55 | 15.6 |
+| École anglaise | 68 | 72 | 70 | 69.30 | 14.7 |
+| Critiques/postcoloniales/féministes | 58 | 55 | 78 | 60.25 | 12.8 |
+| Géopolitique/impérialisme/raison d'État | 55 | 48 | 50 | 52.50 | 11.1 |
+| Marxisme/dépendance/IPE | 48 | 42 | 62 | 48.60 | 10.3 |
+
+Le résultat n'est pas trivial. Le libéralisme domine la synthèse (90.70), ce qui correspond au diagnostic dominant d'un « moment libéral ». Mais la méthode interdit la lecture exclusivement libérale : le réalisme reste élevé en réalité stratégique (75), traduisant la condition hégémonique et les usages de la force (Golfe, Kosovo) que le score doctrinal libéral (94) tend à recouvrir ; le constructivisme est deuxième (76.20), tiré par une influence académique forte (90) qui reflète son essor des années 1990 (Finnemore 1998 ; Wendt 1999) ; les approches critiques et postcoloniales conservent une présence réelle (60.25), notamment en influence académique (78). L'écart entre une doctrine politique très libérale et une réalité stratégique plus disputée est précisément ce que les couches rendent visible : c'est l'apport discriminant du dispositif sur ce cas controversé.
+
+## Sensibilité aux pondérations sur les trois périodes
+
+L'analyse de sensibilité est reconduite sur les deux périodes synthétisables, selon quatre profils de pondération de couches (défaut 0.60/0.25/0.15 ; stratégique dur 0.75/0.15/0.10 ; doctrinal 0.45/0.40/0.15 ; académique 0.35/0.20/0.45). Le `delta_max` est l'écart maximal de la synthèse brute entre profils ; le statut suit les seuils robuste (au plus 5), modérément sensible (6–10), sensible (11–15), très sensible (plus de 15).
+
+| 1945–1962 | Défaut | Strat. dur | Doctrinal | Acad. | delta_max |
+| --- | --- | --- | --- | --- | --- |
+| Réalisme | 91.15 | 92.20 | 90.25 | 88.75 | 3.45 |
+| Géopolitique | 75.00 | 76.80 | 73.80 | 69.40 | 7.40 |
+| Libéralisme | 71.25 | 70.75 | 72.00 | 71.00 | 1.25 |
+| Marxisme/dépendance/IPE | 70.05 | 69.30 | 70.65 | 71.95 | 2.65 |
+
+| 1991–2001 | Défaut | Strat. dur | Doctrinal | Acad. | delta_max |
+| --- | --- | --- | --- | --- | --- |
+| Libéralisme | 90.70 | 90.40 | 91.30 | 89.90 | 1.40 |
+| Constructivisme | 76.20 | 74.70 | 77.10 | 81.30 | 6.60 |
+| Réalisme | 73.55 | 74.20 | 72.05 | 76.15 | 4.10 |
+| École anglaise | 69.30 | 68.80 | 69.90 | 69.70 | 1.10 |
+| Critiques/postcoloniales/fém. | 60.25 | 59.55 | 59.80 | 66.40 | 6.85 |
+| Géopolitique | 52.50 | 53.45 | 51.45 | 51.35 | 2.10 |
+| Marxisme/dépendance/IPE | 48.60 | 48.50 | 47.70 | 53.10 | 5.40 |
+
+Aucun score n'est sensible au sens fort (delta_max au-delà de 15). Les classements dominants survivent à tous les profils : le réalisme reste premier en 1945–1962, le libéralisme reste premier en 1991–2001. La sensibilité, lorsqu'elle existe, est interprétable plutôt qu'aléatoire : la géopolitique de 1945–1962 (delta_max de 7.4) chute sous profil académique, ce qui reflète son influence universitaire alors plus faible que sa réalité stratégique ; le constructivisme et les approches critiques de 1991–2001 (delta_max de 6.6 et 6.85) montent sous profil académique, traduisant leur poids disciplinaire des années 1990. La sensibilité mesure donc une propriété réelle de la période, pas un artefact.
+
+## Simulation de second codage
+
+Le pilote reste un codage auteur unique. En l'absence de second codeur humain indépendant, on produit une `simulated_second_coding` explicitement marquée comme telle. **Cette simulation ne remplace pas un vrai test inter-codeurs** : elle sert seulement à détecter des zones de fragilité avant un codage humain indépendant. Le codeur simulé applique une règle déterministe et déclarée : escompter de 8 points la famille dominante de chaque période (méfiance envers la lecture dominante), relever de 6 points le marxisme/dépendance et les approches critiques (hypothèse d'une sous-pondération des hiérarchies mondiales à l'échelle globale), abaisser de 5 points le réalisme lorsqu'il n'est pas déjà dominant (méfiance envers le primat de la puissance). Seule la couche de synthèse est re-scorée ; 1815–1848 est exclue puisqu'elle n'a aucune synthèse.
+
+| 1945–1962 | Principal | Simulé | Écart abs. | Statut |
+| --- | --- | --- | --- | --- |
+| Réalisme | 91.15 | 83.15 | 8.00 | aligné |
+| Libéralisme | 71.25 | 71.25 | 0.00 | aligné |
+| Marxisme/dépendance/IPE | 70.05 | 76.05 | 6.00 | aligné |
+| Géopolitique | 75.00 | 75.00 | 0.00 | aligné |
+
+| 1991–2001 | Principal | Simulé | Écart abs. | Statut |
+| --- | --- | --- | --- | --- |
+| Libéralisme | 90.70 | 82.70 | 8.00 | aligné |
+| Constructivisme | 76.20 | 76.20 | 0.00 | aligné |
+| Réalisme | 73.55 | 68.55 | 5.00 | aligné |
+| École anglaise | 69.30 | 69.30 | 0.00 | aligné |
+| Critiques/postcoloniales/fém. | 60.25 | 66.25 | 6.00 | aligné |
+| Géopolitique | 52.50 | 52.50 | 0.00 | aligné |
+| Marxisme/dépendance/IPE | 48.60 | 54.60 | 6.00 | aligné |
+
+L'écart absolu moyen est de 3.55 points, l'écart maximal de 8 points, et aucun score ne franchit le seuil de désaccord (11–15) ni le seuil *contested* (au-delà de 15). Ce résultat doit être lu avec prudence : l'alignement est en partie une conséquence de la modestie, par construction, des ajustements simulés. Un codeur humain pourrait diverger davantage, en particulier sur les familles critiques et marxistes (dont l'ampleur dépend du choix d'unité d'analyse) et sur la décision structurante de *rejeter* plutôt que de scorer faiblement les théories non encore émergées. La simulation indique seulement que les classements dominants ne reposent pas sur un point d'équilibre fragile.
+
+## Audit de cohérence méthodologique
+
+L'extension à trois périodes permet de répondre explicitement aux questions d'audit que toute méthode de scoring doit affronter.
+
+*La méthode produit-elle des résultats triviaux ?* Partiellement, et c'est attendu : « 1945–1962 = réalisme élevé » est trivial. Mais le dispositif ajoute le rôle non trivial du libéralisme institutionnel et de la géopolitique, la distinction entre réalité stratégique et doctrine, et surtout, pour 1991–2001, un résultat non trivial où le libéralisme domine la synthèse sans que la lecture libérale soit autorisée à devenir totale (réalisme stratégique à 75, présence critique à 60.25).
+
+*La méthode produit-elle des résultats absurdes ?* Aucun score contre-intuitif manifeste n'apparaît. Le score le plus surprenant –- marxisme/dépendance à 48.6 seulement en 1991–2001 –- est défendable à l'échelle globale et explicitement signalé comme pouvant être bien plus élevé sur des entités ou espaces périphériques spécifiques.
+
+*Les résultats sont-ils trop sensibles aux pondérations ?* Non : aucun delta_max ne dépasse 15 ; les sensibilités observées (6–7 points) sont interprétables historiquement.
+
+*Les catégories se chevauchent-elles trop ?* Le risque est réel entre réalisme et géopolitique, et entre marxisme et approches critiques. La matrice de non-confusion et la capacité discriminante le limitent sans l'annuler : c'est une limite assumée de la taxonomie V1, non un défaut masqué.
+
+*L'anachronisme est-il contrôlé ?* Oui, et le cas 1815–1848 en est la démonstration la plus forte : la méthode va jusqu'à ne produire aucune synthèse plutôt que d'attribuer une influence académique fictive à des écoles non encore nées.
+
+**Verdict :** `partially_holds`.
+
+Raisons : (1) la méthode produit des résultats cohérents, non triviaux et robustes aux pondérations sur les périodes synthétisables ; (2) le contrôle de l'anachronisme est effectif, jusqu'à refuser la synthèse quand une couche n'existe pas ; (3) mais la fiabilité reste seulement *simulée*, le score global masque la variation par entité, et le choix de rejeter plutôt que de scorer faiblement les théories non émergées est une hypothèse de modélisation forte qui conditionne une partie des résultats.
+
+Conditions d'amélioration : (1) un vrai test inter-codeurs humain sur les 63 scores du protocole ; (2) une déclinaison par entité (Sud global, URSS, États-Unis, institutions) pour les périodes où le score global masque l'hétérogénéité ; (3) une étude de robustesse du choix « rejet vs score faible » pour l'anti-anachronisme, idéalement avec les deux variantes publiées côte à côte.
+
 ## Validité, falsifiabilité et modes d'échec
 
 La validité conceptuelle dépend de la clarté du concept de « poids théorique ». Celui-ci ne signifie ni vérité d'une théorie, ni fréquence de citation, ni domination idéologique pure. Il signifie pertinence relative pour expliquer, doctrinaliser ou structurer académiquement une période donnée. La validité interne dépend de la cohérence entre critères et score. La validité externe dépend de la capacité du codebook à traiter des périodes très différentes sans changer de sens. La validité de conclusion dépend de la distinction entre score brut et normalisé.
@@ -258,6 +360,10 @@ Sources admissibles par couche :
 
 La périodisation doit rester révisable. Les alternatives principales sont : 1815–1856 au lieu de 1815–1848 pour intégrer la guerre de Crimée ; 1871–1905 au lieu de 1871–1914 pour isoler la montée allemande avant les crises marocaines ; 1945–1955 au lieu de 1945–1962 pour isoler la formation institutionnelle initiale ; 1973–1991 au lieu de 1979–1991 pour donner plus de poids au choc pétrolier et à la crise économique mondiale ; 2008–2022 au lieu de 2008–2014/2014–2022 pour traiter la fragmentation comme une séquence longue. Chaque alternative doit être testée sur les scores bruts, pas seulement discutée narrativement.
 
-## Annexe C : statut du cas pilote
+## Annexe C : statut du pilote
 
-Le cas 1945–1962 est un cas pilote auteur unique. Il démontre l'applicabilité interne du protocole, mais ne démontre pas encore sa fiabilité inter-codeurs. Toute publication académique forte devra ajouter un second codage indépendant, un tableau d'écarts et un journal de résolution des divergences.
+Le pilote couvre désormais trois périodes (1815–1848, 1945–1962, 1991–2001), codées par l'auteur selon le codebook et alignées sur l'application *ir-strata*. Il démontre l'applicabilité interne du protocole, sa robustesse aux pondérations et son contrôle de l'anachronisme, mais *ne démontre pas* la fiabilité inter-codeurs : le second codage présenté est une *simulation déterministe explicitement marquée*, non un codage humain indépendant. Le verdict d'audit est `partially_holds`. Toute publication académique forte devra ajouter un second codage humain indépendant sur les 63 scores du protocole, un tableau d'écarts réel et un journal de résolution des divergences.
+
+## Annexe D : artefacts du pilote
+
+Les données du pilote sont versionnées sous forme de fichiers CSV dérivés des données canoniques de *ir-strata* : `annexe_pilot_scores_1815_1848.csv`, `annexe_pilot_scores_1945_1962.csv` et `annexe_pilot_scores_1991_2001.csv` (scores bruts par couche, synthèse, normalisation) ; `annexe_pilot_sensitivity.csv` (synthèse par profil de pondération et `delta_max`) ; `annexe_pilot_intercoder_simulation.csv` (codage principal, codage simulé, écarts). Aucun chiffre de ces annexes n'est saisi à la main : tous sont dérivés de `scores_normalized.json` et des profils de `weight_profiles.json`.

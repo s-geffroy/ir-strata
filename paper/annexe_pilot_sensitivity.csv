@@ -1,0 +1,12 @@
+period_id,theory_family,synthesis_default,synthesis_hard_strategic,synthesis_doctrinal,synthesis_academic,delta_max,sensitivity_status
+1945_1962,realism,91.15,92.2,90.25,88.75,3.45,robust
+1945_1962,liberalism,71.25,70.75,72.0,71.0,1.25,robust
+1945_1962,marxism_dependency_structuralism,70.05,69.3,70.65,71.95,2.65,robust
+1945_1962,geopolitics_imperialism_reason_of_state,75.0,76.8,73.8,69.4,7.4,moderately_sensitive
+1991_2001,realism,73.55,74.2,72.05,76.15,4.1,robust
+1991_2001,liberalism,90.7,90.4,91.3,89.9,1.4,robust
+1991_2001,marxism_dependency_structuralism,48.6,48.5,47.7,53.1,5.4,moderately_sensitive
+1991_2001,constructivism,76.2,74.7,77.1,81.3,6.6,moderately_sensitive
+1991_2001,english_school,69.3,68.8,69.9,69.7,1.1,robust
+1991_2001,critical_postcolonial_feminist,60.25,59.55,59.8,66.4,6.85,moderately_sensitive
+1991_2001,geopolitics_imperialism_reason_of_state,52.5,53.45,51.45,51.35,2.1,robust

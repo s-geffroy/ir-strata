@@ -1,0 +1,12 @@
+period_id,theory_family,primary_synthesis_score,simulated_second_score,absolute_difference,difference_status
+1945_1962,realism,91.15,83.15,8.0,aligned
+1945_1962,liberalism,71.25,71.25,0.0,aligned
+1945_1962,marxism_dependency_structuralism,70.05,76.05,6.0,aligned
+1945_1962,geopolitics_imperialism_reason_of_state,75.0,75.0,0.0,aligned
+1991_2001,realism,73.55,68.55,5.0,aligned
+1991_2001,liberalism,90.7,82.7,8.0,aligned
+1991_2001,marxism_dependency_structuralism,48.6,54.6,6.0,aligned
+1991_2001,constructivism,76.2,76.2,0.0,aligned
+1991_2001,english_school,69.3,69.3,0.0,aligned
+1991_2001,critical_postcolonial_feminist,60.25,66.25,6.0,aligned
+1991_2001,geopolitics_imperialism_reason_of_state,52.5,52.5,0.0,aligned
