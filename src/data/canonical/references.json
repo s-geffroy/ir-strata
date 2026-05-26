@@ -1288,6 +1288,204 @@
       "importance": "important",
       "bibtex_key": "cooleynexon2020exithegemony",
       "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "aron_1962_paix_guerre",
+      "type": "book",
+      "author": "Raymond Aron",
+      "year": 1962,
+      "title": "Paix et guerre entre les nations",
+      "theory_tags": [
+        "realism",
+        "geopolitics_imperialism_reason_of_state"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979"
+      ],
+      "usage_tags": [
+        "theory_definition",
+        "scoring_calibration"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "aron1962paix",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "battistella_2012_theories",
+      "type": "book",
+      "author": "Dario Battistella",
+      "year": 2012,
+      "title": "Théories des relations internationales",
+      "theory_tags": [
+        "realism",
+        "liberalism",
+        "constructivism",
+        "marxism_dependency_structuralism"
+      ],
+      "period_tags": [
+        "1815_1848",
+        "1945_1962",
+        "1991_2001"
+      ],
+      "usage_tags": [
+        "theory_definition"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "battistella2012theories",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "badie_smouts_1992_retournement",
+      "type": "book",
+      "author": "Bertrand Badie et Marie-Claude Smouts",
+      "year": 1992,
+      "title": "Le retournement du monde : sociologie de la scène internationale",
+      "theory_tags": [
+        "constructivism",
+        "critical_postcolonial_feminist"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1991_2001"
+      ],
+      "usage_tags": [
+        "theory_definition"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "badie1992retournement",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "devin_2002_sociologie",
+      "type": "book",
+      "author": "Guillaume Devin",
+      "year": 2002,
+      "title": "Sociologie des relations internationales",
+      "theory_tags": [
+        "constructivism"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1991_2001"
+      ],
+      "usage_tags": [
+        "theory_definition"
+      ],
+      "importance": "important",
+      "bibtex_key": "devin2002sociologie",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "merle_1988_sociologie",
+      "type": "book",
+      "author": "Marcel Merle",
+      "year": 1988,
+      "title": "Sociologie des relations internationales",
+      "theory_tags": [
+        "liberalism",
+        "english_school"
+      ],
+      "period_tags": [
+        "1945_1962"
+      ],
+      "usage_tags": [
+        "theory_definition"
+      ],
+      "importance": "important",
+      "bibtex_key": "merle1988sociologie",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "hoffmann_1977_american_social_science",
+      "type": "article",
+      "author": "Stanley Hoffmann",
+      "year": 1977,
+      "title": "An American Social Science: International Relations",
+      "theory_tags": [
+        "constructivism",
+        "critical_postcolonial_feminist"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1962_1979"
+      ],
+      "usage_tags": [
+        "theory_definition"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "hoffmann1977american",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "bourdieu_1976_champ_scientifique",
+      "type": "article",
+      "author": "Pierre Bourdieu",
+      "year": 1976,
+      "title": "Le champ scientifique",
+      "theory_tags": [
+        "critical_postcolonial_feminist"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1991_2001"
+      ],
+      "usage_tags": [
+        "theory_definition"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "bourdieu1976champ",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "braudel_1958_longue_duree",
+      "type": "article",
+      "author": "Fernand Braudel",
+      "year": 1958,
+      "title": "Histoire et sciences sociales : la longue durée",
+      "theory_tags": [
+        "marxism_dependency_structuralism"
+      ],
+      "period_tags": [
+        "1815_1848",
+        "1945_1962"
+      ],
+      "usage_tags": [
+        "theory_definition"
+      ],
+      "importance": "canonical",
+      "bibtex_key": "braudel1958longue",
+      "maturity_status": "reviewed"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "badie_1992_etat_importe",
+      "type": "book",
+      "author": "Bertrand Badie",
+      "year": 1992,
+      "title": "L'État importé : essai sur l'occidentalisation de l'ordre politique",
+      "theory_tags": [
+        "critical_postcolonial_feminist",
+        "liberalism"
+      ],
+      "period_tags": [
+        "1945_1962",
+        "1991_2001"
+      ],
+      "usage_tags": [
+        "theory_definition"
+      ],
+      "importance": "important",
+      "bibtex_key": "badie1992etat",
+      "maturity_status": "reviewed"
     }
   ]
 }

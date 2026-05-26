@@ -6,7 +6,7 @@ sidebar_label: Audit des références
 
 # Audit de provenance des références
 
-_Audité le 2026-05-25 via crossref, openlibrary._
+_Audité le 2026-05-26 via crossref, openlibrary._
 
 Cet audit tente de retrouver chaque référence dans des bases bibliographiques publiques afin de détecter d'éventuelles références hallucinées. Il ne remplace pas une vérification humaine : `probable` et `unverifiable` doivent être relus.
 
@@ -14,7 +14,7 @@ Cet audit tente de retrouver chaque référence dans des bases bibliographiques 
 
 | Statut | Nombre |
 | --- | --- |
-| `verified` | 51 |
+| `verified` | 60 |
 | `probable` | 0 |
 | `unverifiable` | 0 |
 | `api_unavailable` | 5 |

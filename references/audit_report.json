@@ -1,12 +1,12 @@
 {
-  "audited_at": "2026-05-25",
+  "audited_at": "2026-05-26",
   "source_apis": [
     "crossref",
     "openlibrary"
   ],
-  "total": 56,
+  "total": 65,
   "counts": {
-    "verified": 51,
+    "verified": 60,
     "api_unavailable": 5
   },
   "results": [
@@ -410,7 +410,7 @@
       "audit_status": "verified",
       "best_match": {
         "source": "crossref",
-        "title": "Social Forces, States and World Orders: Beyond International Relations Theory",
+        "title": "Social Forces, States and World Orders: Beyond International Relations               Theory",
         "author": "Robert W. Cox",
         "year": 1981,
         "id": "10.1177/03058298810100020501",
@@ -548,10 +548,10 @@
       "audit_status": "verified",
       "best_match": {
         "source": "crossref",
-        "title": "The Anarchical Society: A Study of Order in World Politics by Hedley Bull (Columbia University Press; 335 pp.; $20.00)",
-        "author": "",
-        "year": 1979,
-        "id": "10.1017/s0084255900051251",
+        "title": "The Anarchical Society: A Study of Order in World Politics, by Hedley Bull",
+        "author": "Michael Mandelbaum",
+        "year": 1977,
+        "id": "10.2307/2148538",
         "title_sim": 1.0,
         "author_ok": false,
         "year_ok": true,
@@ -789,7 +789,7 @@
       },
       "candidates_seen": 10,
       "api_errors": {
-        "openlibrary": "HTTP Error 403: Forbidden"
+        "openlibrary": "<urlopen error timed out>"
       }
     },
     {
@@ -973,7 +973,7 @@
       },
       "candidates_seen": 10,
       "api_errors": {
-        "openlibrary": "HTTP Error 403: Forbidden"
+        "openlibrary": "The read operation timed out"
       }
     },
     {
@@ -1157,7 +1157,7 @@
       },
       "candidates_seen": 10,
       "api_errors": {
-        "openlibrary": "HTTP Error 403: Forbidden"
+        "openlibrary": "<urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>"
       }
     },
     {
@@ -1292,6 +1292,213 @@
         "author_ok": true,
         "year_ok": true,
         "composite": 1.5
+      },
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
+    },
+    {
+      "id": "aron_1962_paix_guerre",
+      "bibtex_key": "aron1962paix",
+      "title": "Paix et guerre entre les nations",
+      "author": "Raymond Aron",
+      "year": 1962,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "Paix et guerre entre les nations",
+        "author": "C. Œconomo Raymond Aron C. OEconomo",
+        "year": 1963,
+        "id": "10.2307/3320010",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
+    },
+    {
+      "id": "battistella_2012_theories",
+      "bibtex_key": "battistella2012theories",
+      "title": "Théories des relations internationales",
+      "author": "Dario Battistella",
+      "year": 2012,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "Théories des relations internationales",
+        "author": "Dario Battistella",
+        "year": 2012,
+        "id": "10.3917/scpo.batti.2012.01",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
+    },
+    {
+      "id": "badie_smouts_1992_retournement",
+      "bibtex_key": "badie1992retournement",
+      "title": "Le retournement du monde : sociologie de la scène internationale",
+      "author": "Bertrand Badie et Marie-Claude Smouts",
+      "year": 1992,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "BADIE (Bertrand), SMOUTS (Mane-Claude) - Le retournement du monde. Sociologie de la scène internationale.",
+        "author": "Ghassan Salamé",
+        "year": 1994,
+        "id": "10.3917/rfsp.445.942",
+        "title_sim": 1.0,
+        "author_ok": false,
+        "year_ok": true,
+        "composite": 1.2
+      },
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
+    },
+    {
+      "id": "devin_2002_sociologie",
+      "bibtex_key": "devin2002sociologie",
+      "title": "Sociologie des relations internationales",
+      "author": "Guillaume Devin",
+      "year": 2002,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "Sociologie des relations internationales",
+        "author": "Guillaume Devin",
+        "year": 2018,
+        "id": "10.3917/dec.devin.2018.01",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": false,
+        "composite": 1.3
+      },
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "<urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>"
+      }
+    },
+    {
+      "id": "merle_1988_sociologie",
+      "bibtex_key": "merle1988sociologie",
+      "title": "Sociologie des relations internationales",
+      "author": "Marcel Merle",
+      "year": 1988,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "Sociologie des relations internationales",
+        "author": "Pierre Favre Marcel Merle",
+        "year": 1978,
+        "id": "10.2307/3320798",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": false,
+        "composite": 1.3
+      },
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "<urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>"
+      }
+    },
+    {
+      "id": "hoffmann_1977_american_social_science",
+      "bibtex_key": "hoffmann1977american",
+      "title": "An American Social Science: International Relations",
+      "author": "Stanley Hoffmann",
+      "year": 1977,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "An American Social Science: International Relations (1977)",
+        "author": "Stanley Hoffmann",
+        "year": 1995,
+        "id": "10.1007/978-1-349-23773-9_9",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": false,
+        "composite": 1.3
+      },
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
+    },
+    {
+      "id": "bourdieu_1976_champ_scientifique",
+      "bibtex_key": "bourdieu1976champ",
+      "title": "Le champ scientifique",
+      "author": "Pierre Bourdieu",
+      "year": 1976,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "Le champ scientifique",
+        "author": "Pierre Bourdieu",
+        "year": 1976,
+        "id": "10.3406/arss.1976.3454",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
+    },
+    {
+      "id": "braudel_1958_longue_duree",
+      "bibtex_key": "braudel1958longue",
+      "title": "Histoire et sciences sociales : la longue durée",
+      "author": "Fernand Braudel",
+      "year": 1958,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "Histoire et Sciences sociales: La longue durée",
+        "author": "Fernand Braudel",
+        "year": 1958,
+        "id": "10.3406/ahess.1958.2781",
+        "title_sim": 1.0,
+        "author_ok": true,
+        "year_ok": true,
+        "composite": 1.5
+      },
+      "candidates_seen": 10,
+      "api_errors": {
+        "openlibrary": "HTTP Error 403: Forbidden"
+      }
+    },
+    {
+      "id": "badie_1992_etat_importe",
+      "bibtex_key": "badie1992etat",
+      "title": "L'État importé : essai sur l'occidentalisation de l'ordre politique",
+      "author": "Bertrand Badie",
+      "year": 1992,
+      "audit_status": "verified",
+      "best_match": {
+        "source": "crossref",
+        "title": "L'État importé. Essai sur l'occidentalisation de l'ordre politiqueBertrand Badie Coll. «L'espace du politique» Paris: Fayard, 1992, 334 p.",
+        "author": "Réjean Pelletier",
+        "year": 1994,
+        "id": "10.1017/s0008423900018229",
+        "title_sim": 1.0,
+        "author_ok": false,
+        "year_ok": true,
+        "composite": 1.2
       },
       "candidates_seen": 10,
       "api_errors": {

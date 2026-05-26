@@ -13,6 +13,19 @@ OUT = ROOT / "docs/PAPER.md"
 PDF_REL = "/paper/strates_ri.pdf"
 
 
+def mathify(expr: str) -> str:
+    """Convertit une formule LaTeX (\\[ ... \\]) en texte lisible Unicode pour le web.
+    Docusaurus n'a pas de KaTeX : sans cette conversion, \\frac/\\sum/\\, s'afficheraient
+    bruts. Le PDF, lui, garde la vraie formule LaTeX (main.tex inchangé)."""
+    s = expr
+    s = re.sub(r"\\sum_\{([^{}]*)\}\^\{([^{}]*)\}", r"Σ[\1..\2]", s)  # somme bornée
+    s = re.sub(r"_\{([^{}]*)\}", r"_\1", s)                            # indices
+    s = re.sub(r"\^\{([^{}]*)\}", r"^\1", s)                           # exposants
+    s = re.sub(r"\\frac\{([^{}]*)\}\{([^{}]*)\}", r"(\1) / (\2)", s)   # fractions
+    s = s.replace(r"\times", "×").replace(r"\cdot", "·").replace(r"\,", " ")
+    return re.sub(r"[ ]+", " ", s).strip()
+
+
 def cite(m: str) -> str:
     keys = [k.strip() for k in m.split(",")]
     out = []
@@ -32,7 +45,7 @@ def inline(s: str) -> str:
     s = re.sub(r"\\textbf\{([^}]*)\}", r"**\1**", s)
     s = re.sub(r"\\texttt\{([^}]*)\}", r"`\1`", s)
     s = s.replace(r"\%", "%").replace(r"\&", "&").replace(r"\_", "_")
-    s = s.replace("--", "–")
+    s = s.replace("---", "—").replace("--", "–")  # cadratin avant demi-cadratin
     return s
 
 
@@ -113,7 +126,7 @@ def main() -> int:
             i += 1
             while i < len(lines) and lines[i].strip() != r"\]":
                 math.append(lines[i].strip()); i += 1
-            out += ["", "```text", *math, "```", ""]
+            out += ["", "```text", *(mathify(m) for m in math), "```", ""]
         elif st == "":
             out.append("")
         else:
@@ -130,8 +143,7 @@ def main() -> int:
         "",
         "import useBaseUrl from '@docusaurus/useBaseUrl';",
         "",
-        ":::info Version publiable",
-        "Working paper méthodologique, **aligné sur l'application**. "
+        ":::info PDF",
         f"<a href={{useBaseUrl('{PDF_REL}')}} target=\"_blank\" rel=\"noopener\">Télécharger le PDF</a>"
         " · source LaTeX : `paper/main.tex`.",
         ":::",
