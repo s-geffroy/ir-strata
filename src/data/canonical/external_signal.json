@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0.0",
+  "source": "OpenAlex (https://openalex.org)",
+  "built_at": "2026-05-26",
+  "status": "ok",
+  "is_proxy": true,
+  "note": "Signal proxy : comptes de publications par mots-clés, normalisés à 100 % par période. Indépendant des scores du modèle, à des fins de comparaison.",
+  "family_queries": {
+    "realism": "realism international relations theory",
+    "liberalism": "liberalism international relations theory",
+    "marxism_dependency_structuralism": "dependency theory marxism international relations",
+    "constructivism": "constructivism international relations theory",
+    "english_school": "english school international society",
+    "critical_postcolonial_feminist": "postcolonial feminist critical international relations",
+    "geopolitics_imperialism_reason_of_state": "geopolitics imperialism international relations"
+  },
+  "by_period": {
+    "1815_1848": {
+      "raw_counts": {},
+      "normalized_signal": {}
+    },
+    "1848_1871": {
+      "raw_counts": {},
+      "normalized_signal": {}
+    },
+    "1871_1914": {
+      "raw_counts": {
+        "marxism_dependency_structuralism": 1,
+        "geopolitics_imperialism_reason_of_state": 0
+      },
+      "normalized_signal": {
+        "marxism_dependency_structuralism": 100.0,
+        "geopolitics_imperialism_reason_of_state": 0.0
+      }
+    },
+    "1914_1919": {
+      "raw_counts": {
+        "liberalism": 9,
+        "marxism_dependency_structuralism": 0,
+        "geopolitics_imperialism_reason_of_state": 0
+      },
+      "normalized_signal": {
+        "liberalism": 100.0,
+        "marxism_dependency_structuralism": 0.0,
+        "geopolitics_imperialism_reason_of_state": 0.0
+      }
+    },
+    "1919_1939": {
+      "raw_counts": {
+        "realism": 47,
+        "liberalism": 33,
+        "marxism_dependency_structuralism": 1,
+        "geopolitics_imperialism_reason_of_state": 1
+      },
+      "normalized_signal": {
+        "realism": 57.3171,
+        "liberalism": 40.2439,
+        "marxism_dependency_structuralism": 1.2195,
+        "geopolitics_imperialism_reason_of_state": 1.2195
+      }
+    },
+    "1939_1945": {
+      "raw_counts": {
+        "realism": 33,
+        "liberalism": 21,
+        "marxism_dependency_structuralism": 0,
+        "geopolitics_imperialism_reason_of_state": 0
+      },
+      "normalized_signal": {
+        "realism": 61.1111,
+        "liberalism": 38.8889,
+        "marxism_dependency_structuralism": 0.0,
+        "geopolitics_imperialism_reason_of_state": 0.0
+      }
+    },
+    "1945_1962": {
+      "raw_counts": {
+        "realism": 180,
+        "liberalism": 139,
+        "marxism_dependency_structuralism": 6,
+        "english_school": 1618,
+        "geopolitics_imperialism_reason_of_state": 2
+      },
+      "normalized_signal": {
+        "realism": 9.2545,
+        "liberalism": 7.1465,
+        "marxism_dependency_structuralism": 0.3085,
+        "english_school": 83.1877,
+        "geopolitics_imperialism_reason_of_state": 0.1028
+      }
+    },
+    "1962_1979": {
+      "raw_counts": {
+        "realism": 751,
+        "liberalism": 600,
+        "marxism_dependency_structuralism": 91,
+        "english_school": 6498,
+        "critical_postcolonial_feminist": 23,
+        "geopolitics_imperialism_reason_of_state": 18
+      },
+      "normalized_signal": {
+        "realism": 9.4098,
+        "liberalism": 7.5179,
+        "marxism_dependency_structuralism": 1.1402,
+        "english_school": 81.4184,
+        "critical_postcolonial_feminist": 0.2882,
+        "geopolitics_imperialism_reason_of_state": 0.2255
+      }
+    },
+    "1979_1991": {
+      "raw_counts": {
+        "realism": 1337,
+        "liberalism": 1073,
+        "marxism_dependency_structuralism": 310,
+        "constructivism": 67,
+        "english_school": 9611,
+        "critical_postcolonial_feminist": 15,
+        "geopolitics_imperialism_reason_of_state": 41
+      },
+      "normalized_signal": {
+        "realism": 10.7355,
+        "liberalism": 8.6157,
+        "marxism_dependency_structuralism": 2.4892,
+        "constructivism": 0.538,
+        "english_school": 77.172,
+        "critical_postcolonial_feminist": 0.1204,
+        "geopolitics_imperialism_reason_of_state": 0.3292
+      }
+    },
+    "1991_2001": {
+      "raw_counts": {
+        "realism": 3657,
+        "liberalism": 3330,
+        "marxism_dependency_structuralism": 604,
+        "constructivism": 786,
+        "english_school": 23162,
+        "critical_postcolonial_feminist": 450,
+        "geopolitics_imperialism_reason_of_state": 161
+      },
+      "normalized_signal": {
+        "realism": 11.3748,
+        "liberalism": 10.3577,
+        "marxism_dependency_structuralism": 1.8787,
+        "constructivism": 2.4448,
+        "english_school": 72.0435,
+        "critical_postcolonial_feminist": 1.3997,
+        "geopolitics_imperialism_reason_of_state": 0.5008
+      }
+    },
+    "2001_2008": {
+      "raw_counts": {
+        "realism": 8347,
+        "liberalism": 7709,
+        "marxism_dependency_structuralism": 981,
+        "constructivism": 3269,
+        "english_school": 55081,
+        "critical_postcolonial_feminist": 1653,
+        "geopolitics_imperialism_reason_of_state": 539
+      },
+      "normalized_signal": {
+        "realism": 10.7594,
+        "liberalism": 9.937,
+        "marxism_dependency_structuralism": 1.2645,
+        "constructivism": 4.2138,
+        "english_school": 70.9999,
+        "critical_postcolonial_feminist": 2.1307,
+        "geopolitics_imperialism_reason_of_state": 0.6948
+      }
+    },
+    "2008_2014": {
+      "raw_counts": {
+        "realism": 18302,
+        "liberalism": 16607,
+        "marxism_dependency_structuralism": 1983,
+        "constructivism": 8856,
+        "english_school": 135752,
+        "critical_postcolonial_feminist": 4650,
+        "geopolitics_imperialism_reason_of_state": 1452
+      },
+      "normalized_signal": {
+        "realism": 9.7558,
+        "liberalism": 8.8523,
+        "marxism_dependency_structuralism": 1.057,
+        "constructivism": 4.7206,
+        "english_school": 72.3617,
+        "critical_postcolonial_feminist": 2.4787,
+        "geopolitics_imperialism_reason_of_state": 0.774
+      }
+    },
+    "2014_2022": {
+      "raw_counts": {
+        "realism": 44772,
+        "liberalism": 36948,
+        "marxism_dependency_structuralism": 4032,
+        "constructivism": 22988,
+        "english_school": 393754,
+        "critical_postcolonial_feminist": 14079,
+        "geopolitics_imperialism_reason_of_state": 4807
+      },
+      "normalized_signal": {
+        "realism": 8.5872,
+        "liberalism": 7.0866,
+        "marxism_dependency_structuralism": 0.7733,
+        "constructivism": 4.4091,
+        "english_school": 75.5215,
+        "critical_postcolonial_feminist": 2.7003,
+        "geopolitics_imperialism_reason_of_state": 0.922
+      }
+    },
+    "2022_2026": {
+      "raw_counts": {
+        "realism": 33857,
+        "liberalism": 22937,
+        "marxism_dependency_structuralism": 2685,
+        "constructivism": 14556,
+        "english_school": 338784,
+        "critical_postcolonial_feminist": 12312,
+        "geopolitics_imperialism_reason_of_state": 4693
+      },
+      "normalized_signal": {
+        "realism": 7.8769,
+        "liberalism": 5.3364,
+        "marxism_dependency_structuralism": 0.6247,
+        "constructivism": 3.3865,
+        "english_school": 78.8192,
+        "critical_postcolonial_feminist": 2.8644,
+        "geopolitics_imperialism_reason_of_state": 1.0918
+      }
+    }
+  }
+}

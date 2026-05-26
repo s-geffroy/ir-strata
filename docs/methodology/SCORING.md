@@ -2,11 +2,27 @@
 
 ## Score brut
 
-Le score brut est la donnée analytique canonique.
+Le score brut n'est **plus** saisi à la main : il est **dérivé déterministiquement des
+critères** (la donnée canonique de base, avec preuves et confiance). La formule appliquée
+est la moyenne de chaque groupe de critères, pondérée par les poids de critères :
 
 ```text
-score_brut = critères communs + critères spécifiques + critères par couche + preuves + confiance
+raw_score = 0.25 × moyenne(critères communs)
+          + 0.40 × moyenne(critères spécifiques à la théorie)
+          + 0.35 × moyenne(critères propres à la couche)
 ```
+
+(poids = `model_metadata.json:default_criteria_weights`.)
+
+Conséquences :
+
+- les **critères** (`criteria_scores`) sont la **source de vérité unique** ; modifier un
+  score = modifier ses critères, pas le `raw_score` ;
+- `raw_score` est réaligné par `scripts/migrate_raw_from_criteria.py` et **vérifié par un
+  gate** (`validate_model.py`) : tout `raw_score` qui diverge de ses critères au-delà de la
+  tolérance d'arrondi fait échouer le build ;
+- l'implémentation de référence est `compute_scores.derive_raw_from_criteria` (Python),
+  mirroirée côté client par `deriveRawFromCriteria` dans `src/utils/scoring.ts`.
 
 ## Score normalisé
 
@@ -25,8 +41,8 @@ une **part relative dans l'ensemble de théories retenu**, jamais une « part du
 
 En conséquence :
 
-- le **score brut** (intensité analytique indépendante, 0-100) est la donnée canonique et
-  doit rester consultable partout ;
+- le **score brut** (intensité analytique indépendante, 0-100, dérivé des critères) doit
+  rester consultable partout ;
 - l'interface propose une bascule **Brut / Normalisé** ; le mode brut est rendu en lignes
   **non empilées** pour rappeler que les intensités sont indépendantes et peuvent se
   chevaucher ;

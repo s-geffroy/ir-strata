@@ -7,16 +7,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "marxism_dependency_structuralism",
-      "default_normalized": 41.3432,
-      "min_normalized": 40.649,
-      "max_normalized": 43.2624,
-      "spread": 2.6134,
+      "default_normalized": 41.2547,
+      "min_normalized": 40.5542,
+      "max_normalized": 43.19,
+      "spread": 2.6358,
       "by_profile": {
-        "default": 41.3432,
-        "hard_strategic": 40.649,
-        "doctrinal": 41.8919,
-        "academic": 43.2624,
-        "balanced": 41.8652
+        "default": 41.2547,
+        "hard_strategic": 40.5542,
+        "doctrinal": 41.8089,
+        "academic": 43.19,
+        "balanced": 41.7813
       }
     },
     {
@@ -24,16 +24,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "default_normalized": 58.6568,
-      "min_normalized": 56.7376,
-      "max_normalized": 59.351,
-      "spread": 2.6134,
+      "default_normalized": 58.7453,
+      "min_normalized": 56.81,
+      "max_normalized": 59.4458,
+      "spread": 2.6358,
       "by_profile": {
-        "default": 58.6568,
-        "hard_strategic": 59.351,
-        "doctrinal": 58.1081,
-        "academic": 56.7376,
-        "balanced": 58.1348
+        "default": 58.7453,
+        "hard_strategic": 59.4458,
+        "doctrinal": 58.1911,
+        "academic": 56.81,
+        "balanced": 58.2187
       }
     },
     {
@@ -41,16 +41,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "liberalism",
-      "default_normalized": 34.1556,
-      "min_normalized": 33.6563,
-      "max_normalized": 34.7496,
-      "spread": 1.0933,
+      "default_normalized": 34.1645,
+      "min_normalized": 33.6598,
+      "max_normalized": 34.7649,
+      "spread": 1.1051,
       "by_profile": {
-        "default": 34.1556,
-        "hard_strategic": 33.6563,
-        "doctrinal": 34.7496,
-        "academic": 34.5977,
-        "balanced": 34.4598
+        "default": 34.1645,
+        "hard_strategic": 33.6598,
+        "doctrinal": 34.7649,
+        "academic": 34.6116,
+        "balanced": 34.472
       }
     },
     {
@@ -58,16 +58,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "marxism_dependency_structuralism",
-      "default_normalized": 30.6926,
-      "min_normalized": 30.5008,
-      "max_normalized": 31.771,
-      "spread": 1.2702,
+      "default_normalized": 30.6641,
+      "min_normalized": 30.4702,
+      "max_normalized": 31.7538,
+      "spread": 1.2836,
       "by_profile": {
-        "default": 30.6926,
-        "hard_strategic": 30.6547,
-        "doctrinal": 30.5008,
-        "academic": 31.771,
-        "balanced": 30.7949
+        "default": 30.6641,
+        "hard_strategic": 30.6259,
+        "doctrinal": 30.4702,
+        "academic": 31.7538,
+        "balanced": 30.7674
       }
     },
     {
@@ -75,16 +75,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "default_normalized": 35.1518,
-      "min_normalized": 33.6313,
-      "max_normalized": 35.689,
-      "spread": 2.0577,
+      "default_normalized": 35.1714,
+      "min_normalized": 33.6346,
+      "max_normalized": 35.7143,
+      "spread": 2.0797,
       "by_profile": {
-        "default": 35.1518,
-        "hard_strategic": 35.689,
-        "doctrinal": 34.7496,
-        "academic": 33.6313,
-        "balanced": 34.7454
+        "default": 35.1714,
+        "hard_strategic": 35.7143,
+        "doctrinal": 34.7649,
+        "academic": 33.6346,
+        "balanced": 34.7606
       }
     },
     {
@@ -92,16 +92,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "realism",
-      "default_normalized": 31.8925,
-      "min_normalized": 30.1452,
-      "max_normalized": 32.4575,
-      "spread": 2.3123,
+      "default_normalized": 31.9171,
+      "min_normalized": 30.1705,
+      "max_normalized": 32.4766,
+      "spread": 2.3061,
       "by_profile": {
-        "default": 31.8925,
-        "hard_strategic": 32.4575,
-        "doctrinal": 31.5012,
-        "academic": 30.1452,
-        "balanced": 31.4552
+        "default": 31.9171,
+        "hard_strategic": 32.4766,
+        "doctrinal": 31.5333,
+        "academic": 30.1705,
+        "balanced": 31.4846
       }
     },
     {
@@ -109,16 +109,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "liberalism",
-      "default_normalized": 14.4653,
-      "min_normalized": 13.5497,
-      "max_normalized": 17.3043,
-      "spread": 3.7546,
+      "default_normalized": 14.3653,
+      "min_normalized": 13.4422,
+      "max_normalized": 17.229,
+      "spread": 3.7868,
       "by_profile": {
-        "default": 14.4653,
-        "hard_strategic": 13.5497,
-        "doctrinal": 15.0979,
-        "academic": 17.3043,
-        "balanced": 15.1746
+        "default": 14.3653,
+        "hard_strategic": 13.4422,
+        "doctrinal": 15.0026,
+        "academic": 17.229,
+        "balanced": 15.08
       }
     },
     {
@@ -126,16 +126,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "marxism_dependency_structuralism",
-      "default_normalized": 23.0756,
-      "min_normalized": 22.7546,
-      "max_normalized": 24.1764,
-      "spread": 1.4218,
+      "default_normalized": 23.0716,
+      "min_normalized": 22.751,
+      "max_normalized": 24.1779,
+      "spread": 1.4269,
       "by_profile": {
-        "default": 23.0756,
-        "hard_strategic": 22.7546,
-        "doctrinal": 23.2738,
-        "academic": 24.1764,
-        "balanced": 23.3322
+        "default": 23.0716,
+        "hard_strategic": 22.751,
+        "doctrinal": 23.2679,
+        "academic": 24.1779,
+        "balanced": 23.3277
       }
     },
     {
@@ -143,16 +143,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "default_normalized": 30.5666,
-      "min_normalized": 28.3741,
-      "max_normalized": 31.2382,
-      "spread": 2.8641,
+      "default_normalized": 30.646,
+      "min_normalized": 28.4225,
+      "max_normalized": 31.3303,
+      "spread": 2.9078,
       "by_profile": {
-        "default": 30.5666,
-        "hard_strategic": 31.2382,
-        "doctrinal": 30.1271,
-        "academic": 28.3741,
-        "balanced": 30.038
+        "default": 30.646,
+        "hard_strategic": 31.3303,
+        "doctrinal": 30.1962,
+        "academic": 28.4225,
+        "balanced": 30.1076
       }
     },
     {
@@ -160,16 +160,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "realism",
-      "default_normalized": 29.6471,
-      "min_normalized": 29.4261,
-      "max_normalized": 29.8334,
-      "spread": 0.4073,
+      "default_normalized": 29.6929,
+      "min_normalized": 29.4699,
+      "max_normalized": 29.8807,
+      "spread": 0.4108,
       "by_profile": {
-        "default": 29.6471,
-        "hard_strategic": 29.8334,
-        "doctrinal": 29.4261,
-        "academic": 29.4753,
-        "balanced": 29.5328
+        "default": 29.6929,
+        "hard_strategic": 29.8807,
+        "doctrinal": 29.4699,
+        "academic": 29.5203,
+        "balanced": 29.5777
       }
     },
     {
@@ -177,16 +177,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "liberalism",
-      "default_normalized": 23.1745,
-      "min_normalized": 22.8927,
-      "max_normalized": 23.5802,
-      "spread": 0.6875,
+      "default_normalized": 23.1565,
+      "min_normalized": 22.8721,
+      "max_normalized": 23.5659,
+      "spread": 0.6938,
       "by_profile": {
-        "default": 23.1745,
-        "hard_strategic": 22.8927,
-        "doctrinal": 23.4757,
-        "academic": 23.5802,
-        "balanced": 23.3584
+        "default": 23.1565,
+        "hard_strategic": 22.8721,
+        "doctrinal": 23.4607,
+        "academic": 23.5659,
+        "balanced": 23.3421
       }
     },
     {
@@ -194,16 +194,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "marxism_dependency_structuralism",
-      "default_normalized": 22.7842,
-      "min_normalized": 22.4236,
-      "max_normalized": 23.8957,
-      "spread": 1.4721,
+      "default_normalized": 22.7624,
+      "min_normalized": 22.3983,
+      "max_normalized": 23.8846,
+      "spread": 1.4863,
       "by_profile": {
-        "default": 22.7842,
-        "hard_strategic": 22.4236,
-        "doctrinal": 23.0355,
-        "academic": 23.8957,
-        "balanced": 23.0644
+        "default": 22.7624,
+        "hard_strategic": 22.3983,
+        "doctrinal": 23.0161,
+        "academic": 23.8846,
+        "balanced": 23.0452
       }
     },
     {
@@ -211,16 +211,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "default_normalized": 24.3942,
-      "min_normalized": 23.0488,
-      "max_normalized": 24.8503,
-      "spread": 1.8015,
+      "default_normalized": 24.3882,
+      "min_normalized": 23.0292,
+      "max_normalized": 24.8489,
+      "spread": 1.8197,
       "by_profile": {
-        "default": 24.3942,
-        "hard_strategic": 24.8503,
-        "doctrinal": 24.0626,
-        "academic": 23.0488,
-        "balanced": 24.0444
+        "default": 24.3882,
+        "hard_strategic": 24.8489,
+        "doctrinal": 24.0533,
+        "academic": 23.0292,
+        "balanced": 24.035
       }
     },
     {
@@ -228,16 +228,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "realism",
-      "default_normalized": 22.7054,
-      "min_normalized": 22.3763,
-      "max_normalized": 22.9959,
-      "spread": 0.6196,
+      "default_normalized": 22.7328,
+      "min_normalized": 22.4003,
+      "max_normalized": 23.0261,
+      "spread": 0.6258,
       "by_profile": {
-        "default": 22.7054,
-        "hard_strategic": 22.9959,
-        "doctrinal": 22.3763,
-        "academic": 22.3887,
-        "balanced": 22.5247
+        "default": 22.7328,
+        "hard_strategic": 23.0261,
+        "doctrinal": 22.4003,
+        "academic": 22.4129,
+        "balanced": 22.5502
       }
     },
     {
@@ -245,16 +245,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "liberalism",
-      "default_normalized": 17.9429,
-      "min_normalized": 17.7271,
-      "max_normalized": 18.7508,
-      "spread": 1.0237,
+      "default_normalized": 17.9221,
+      "min_normalized": 17.7041,
+      "max_normalized": 18.7382,
+      "spread": 1.0341,
       "by_profile": {
-        "default": 17.9429,
-        "hard_strategic": 17.7271,
-        "doctrinal": 18.0557,
-        "academic": 18.7508,
-        "balanced": 18.1212
+        "default": 17.9221,
+        "hard_strategic": 17.7041,
+        "doctrinal": 18.0361,
+        "academic": 18.7382,
+        "balanced": 18.1022
       }
     },
     {
@@ -262,16 +262,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "marxism_dependency_structuralism",
-      "default_normalized": 22.5187,
-      "min_normalized": 22.2756,
-      "max_normalized": 22.9771,
-      "spread": 0.7015,
+      "default_normalized": 22.5441,
+      "min_normalized": 22.2986,
+      "max_normalized": 23.0073,
+      "spread": 0.7087,
       "by_profile": {
-        "default": 22.5187,
-        "hard_strategic": 22.2756,
-        "doctrinal": 22.7497,
-        "academic": 22.9771,
-        "balanced": 22.6848
+        "default": 22.5441,
+        "hard_strategic": 22.2986,
+        "doctrinal": 22.7775,
+        "academic": 23.0073,
+        "balanced": 22.712
       }
     },
     {
@@ -279,16 +279,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "english_school",
-      "default_normalized": 17.6761,
-      "min_normalized": 17.5403,
-      "max_normalized": 17.869,
-      "spread": 0.3287,
+      "default_normalized": 17.6526,
+      "min_normalized": 17.5155,
+      "max_normalized": 17.8475,
+      "spread": 0.332,
       "by_profile": {
-        "default": 17.6761,
-        "hard_strategic": 17.5403,
-        "doctrinal": 17.869,
-        "academic": 17.6541,
-        "balanced": 17.7475
+        "default": 17.6526,
+        "hard_strategic": 17.5155,
+        "doctrinal": 17.8475,
+        "academic": 17.6304,
+        "balanced": 17.7248
       }
     },
     {
@@ -296,16 +296,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "default_normalized": 19.1569,
-      "min_normalized": 18.2292,
-      "max_normalized": 19.4611,
-      "spread": 1.2319,
+      "default_normalized": 19.1484,
+      "min_normalized": 18.2113,
+      "max_normalized": 19.4557,
+      "spread": 1.2444,
       "by_profile": {
-        "default": 19.1569,
-        "hard_strategic": 19.4611,
-        "doctrinal": 18.9492,
-        "academic": 18.2292,
-        "balanced": 18.9218
+        "default": 19.1484,
+        "hard_strategic": 19.4557,
+        "doctrinal": 18.9386,
+        "academic": 18.2113,
+        "balanced": 18.9109
       }
     },
     {
@@ -313,16 +313,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "realism",
-      "default_normalized": 21.2684,
-      "min_normalized": 20.9037,
-      "max_normalized": 21.4424,
-      "spread": 0.5387,
+      "default_normalized": 21.3189,
+      "min_normalized": 20.9495,
+      "max_normalized": 21.4948,
+      "spread": 0.5453,
       "by_profile": {
-        "default": 21.2684,
-        "hard_strategic": 21.4424,
-        "doctrinal": 21.1125,
-        "academic": 20.9037,
-        "balanced": 21.1464
+        "default": 21.3189,
+        "hard_strategic": 21.4948,
+        "doctrinal": 21.1614,
+        "academic": 20.9495,
+        "balanced": 21.1955
       }
     },
     {
@@ -330,16 +330,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "liberalism",
-      "default_normalized": 17.1449,
-      "min_normalized": 16.8837,
-      "max_normalized": 17.8597,
-      "spread": 0.976,
+      "default_normalized": 17.1502,
+      "min_normalized": 16.8861,
+      "max_normalized": 17.8726,
+      "spread": 0.9865,
       "by_profile": {
-        "default": 17.1449,
-        "hard_strategic": 16.8837,
-        "doctrinal": 17.3398,
-        "academic": 17.8597,
-        "balanced": 17.341
+        "default": 17.1502,
+        "hard_strategic": 16.8861,
+        "doctrinal": 17.3472,
+        "academic": 17.8726,
+        "balanced": 17.3484
       }
     },
     {
@@ -347,16 +347,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "marxism_dependency_structuralism",
-      "default_normalized": 14.9988,
-      "min_normalized": 14.8972,
-      "max_normalized": 15.4102,
-      "spread": 0.513,
+      "default_normalized": 14.9805,
+      "min_normalized": 14.8778,
+      "max_normalized": 15.3966,
+      "spread": 0.5188,
       "by_profile": {
-        "default": 14.9988,
-        "hard_strategic": 15.0024,
-        "doctrinal": 14.8972,
-        "academic": 15.4102,
-        "balanced": 15.0289
+        "default": 14.9805,
+        "hard_strategic": 14.9842,
+        "doctrinal": 14.8778,
+        "academic": 15.3966,
+        "balanced": 15.011
       }
     },
     {
@@ -364,16 +364,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "english_school",
-      "default_normalized": 14.1789,
-      "min_normalized": 14.1023,
-      "max_normalized": 14.2926,
-      "spread": 0.1903,
+      "default_normalized": 14.1516,
+      "min_normalized": 14.0745,
+      "max_normalized": 14.2665,
+      "spread": 0.192,
       "by_profile": {
-        "default": 14.1789,
-        "hard_strategic": 14.11,
-        "doctrinal": 14.2926,
-        "academic": 14.1023,
-        "balanced": 14.21
+        "default": 14.1516,
+        "hard_strategic": 14.0819,
+        "doctrinal": 14.2665,
+        "academic": 14.0745,
+        "balanced": 14.1831
       }
     },
     {
@@ -381,16 +381,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "critical_postcolonial_feminist",
-      "default_normalized": 15.0229,
-      "min_normalized": 14.8336,
-      "max_normalized": 15.648,
-      "spread": 0.8144,
+      "default_normalized": 15.0049,
+      "min_normalized": 14.8135,
+      "max_normalized": 15.637,
+      "spread": 0.8235,
       "by_profile": {
-        "default": 15.0229,
-        "hard_strategic": 14.8336,
-        "doctrinal": 15.1391,
-        "academic": 15.648,
-        "balanced": 15.1734
+        "default": 15.0049,
+        "hard_strategic": 14.8135,
+        "doctrinal": 15.1222,
+        "academic": 15.637,
+        "balanced": 15.157
       }
     },
     {
@@ -398,16 +398,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "default_normalized": 17.3861,
-      "min_normalized": 16.0761,
-      "max_normalized": 17.7279,
-      "spread": 1.6518,
+      "default_normalized": 17.394,
+      "min_normalized": 16.0697,
+      "max_normalized": 17.7396,
+      "spread": 1.6699,
       "by_profile": {
-        "default": 17.3861,
-        "hard_strategic": 17.7279,
-        "doctrinal": 17.2189,
-        "academic": 16.0761,
-        "balanced": 17.1002
+        "default": 17.394,
+        "hard_strategic": 17.7396,
+        "doctrinal": 17.2249,
+        "academic": 16.0697,
+        "balanced": 17.1049
       }
     },
     {
@@ -415,16 +415,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "realism",
-      "default_normalized": 15.6124,
-      "min_normalized": 15.3527,
-      "max_normalized": 15.8007,
-      "spread": 0.448,
+      "default_normalized": 15.6273,
+      "min_normalized": 15.3647,
+      "max_normalized": 15.8178,
+      "spread": 0.4531,
       "by_profile": {
-        "default": 15.6124,
-        "hard_strategic": 15.8007,
-        "doctrinal": 15.3527,
-        "academic": 15.6077,
-        "balanced": 15.5114
+        "default": 15.6273,
+        "hard_strategic": 15.8178,
+        "doctrinal": 15.3647,
+        "academic": 15.6221,
+        "balanced": 15.5252
       }
     },
     {
@@ -432,16 +432,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "liberalism",
-      "default_normalized": 19.2528,
-      "min_normalized": 18.4259,
-      "max_normalized": 19.4545,
-      "spread": 1.0286,
+      "default_normalized": 19.3088,
+      "min_normalized": 18.4709,
+      "max_normalized": 19.513,
+      "spread": 1.0421,
       "by_profile": {
-        "default": 19.2528,
-        "hard_strategic": 19.2504,
-        "doctrinal": 19.4545,
-        "academic": 18.4259,
-        "balanced": 19.1885
+        "default": 19.3088,
+        "hard_strategic": 19.3066,
+        "doctrinal": 19.513,
+        "academic": 18.4709,
+        "balanced": 19.2435
       }
     },
     {
@@ -449,16 +449,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "marxism_dependency_structuralism",
-      "default_normalized": 10.3163,
-      "min_normalized": 10.1641,
-      "max_normalized": 10.8834,
-      "spread": 0.7193,
+      "default_normalized": 10.2715,
+      "min_normalized": 10.1174,
+      "max_normalized": 10.8464,
+      "spread": 0.729,
       "by_profile": {
-        "default": 10.3163,
-        "hard_strategic": 10.3279,
-        "doctrinal": 10.1641,
-        "academic": 10.8834,
-        "balanced": 10.355
+        "default": 10.2715,
+        "hard_strategic": 10.2832,
+        "doctrinal": 10.1174,
+        "academic": 10.8464,
+        "balanced": 10.3109
       }
     },
     {
@@ -466,16 +466,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "constructivism",
-      "default_normalized": 16.1749,
-      "min_normalized": 15.9072,
-      "max_normalized": 16.6633,
-      "spread": 0.7561,
+      "default_normalized": 16.1962,
+      "min_normalized": 15.9255,
+      "max_normalized": 16.6891,
+      "spread": 0.7636,
       "by_profile": {
-        "default": 16.1749,
-        "hard_strategic": 15.9072,
-        "doctrinal": 16.4287,
-        "academic": 16.6633,
-        "balanced": 16.3567
+        "default": 16.1962,
+        "hard_strategic": 15.9255,
+        "doctrinal": 16.453,
+        "academic": 16.6891,
+        "balanced": 16.38
       }
     },
     {
@@ -483,16 +483,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "english_school",
-      "default_normalized": 14.7103,
+      "default_normalized": 14.715,
       "min_normalized": 14.2857,
-      "max_normalized": 14.8945,
-      "spread": 0.6088,
+      "max_normalized": 14.9014,
+      "spread": 0.6157,
       "by_profile": {
-        "default": 14.7103,
-        "hard_strategic": 14.6508,
-        "doctrinal": 14.8945,
+        "default": 14.715,
+        "hard_strategic": 14.6549,
+        "doctrinal": 14.9014,
         "academic": 14.2857,
-        "balanced": 14.7084
+        "balanced": 14.7131
       }
     },
     {
@@ -500,16 +500,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "critical_postcolonial_feminist",
-      "default_normalized": 12.7892,
-      "min_normalized": 12.681,
-      "max_normalized": 13.6093,
-      "spread": 0.9283,
+      "default_normalized": 12.7724,
+      "min_normalized": 12.6629,
+      "max_normalized": 13.602,
+      "spread": 0.9391,
       "by_profile": {
-        "default": 12.7892,
-        "hard_strategic": 12.681,
-        "doctrinal": 12.7424,
-        "academic": 13.6093,
-        "balanced": 12.9121
+        "default": 12.7724,
+        "hard_strategic": 12.6629,
+        "doctrinal": 12.7249,
+        "academic": 13.602,
+        "balanced": 12.8967
       }
     },
     {
@@ -517,16 +517,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "default_normalized": 11.1441,
-      "min_normalized": 10.5247,
-      "max_normalized": 11.382,
-      "spread": 0.8573,
+      "default_normalized": 11.1087,
+      "min_normalized": 10.4838,
+      "max_normalized": 11.3492,
+      "spread": 0.8654,
       "by_profile": {
-        "default": 11.1441,
-        "hard_strategic": 11.382,
-        "doctrinal": 10.9631,
-        "academic": 10.5247,
-        "balanced": 10.9679
+        "default": 11.1087,
+        "hard_strategic": 11.3492,
+        "doctrinal": 10.9255,
+        "academic": 10.4838,
+        "balanced": 10.9307
       }
     },
     {
@@ -534,16 +534,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "realism",
-      "default_normalized": 18.2785,
-      "min_normalized": 17.4794,
-      "max_normalized": 18.5512,
-      "spread": 1.0718,
+      "default_normalized": 18.3255,
+      "min_normalized": 17.5152,
+      "max_normalized": 18.6018,
+      "spread": 1.0866,
       "by_profile": {
-        "default": 18.2785,
-        "hard_strategic": 18.5512,
-        "doctrinal": 18.0971,
-        "academic": 17.4794,
-        "balanced": 18.0699
+        "default": 18.3255,
+        "hard_strategic": 18.6018,
+        "doctrinal": 18.142,
+        "academic": 17.5152,
+        "balanced": 18.1141
       }
     },
     {
@@ -551,16 +551,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "liberalism",
-      "default_normalized": 16.2402,
-      "min_normalized": 16.0955,
-      "max_normalized": 16.456,
-      "spread": 0.3605,
+      "default_normalized": 16.2632,
+      "min_normalized": 16.117,
+      "max_normalized": 16.4815,
+      "spread": 0.3645,
       "by_profile": {
-        "default": 16.2402,
-        "hard_strategic": 16.0955,
-        "doctrinal": 16.456,
-        "academic": 16.1706,
-        "balanced": 16.3113
+        "default": 16.2632,
+        "hard_strategic": 16.117,
+        "doctrinal": 16.4815,
+        "academic": 16.1917,
+        "balanced": 16.3349
       }
     },
     {
@@ -568,16 +568,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "marxism_dependency_structuralism",
-      "default_normalized": 10.236,
-      "min_normalized": 10.1464,
-      "max_normalized": 10.608,
-      "spread": 0.4616,
+      "default_normalized": 10.1883,
+      "min_normalized": 10.0976,
+      "max_normalized": 10.5668,
+      "spread": 0.4692,
       "by_profile": {
-        "default": 10.236,
-        "hard_strategic": 10.2355,
-        "doctrinal": 10.1464,
-        "academic": 10.608,
-        "balanced": 10.266
+        "default": 10.1883,
+        "hard_strategic": 10.1875,
+        "doctrinal": 10.0976,
+        "academic": 10.5668,
+        "balanced": 10.2191
       }
     },
     {
@@ -585,16 +585,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "constructivism",
-      "default_normalized": 14.4345,
-      "min_normalized": 14.1422,
-      "max_normalized": 15.3473,
-      "spread": 1.2051,
+      "default_normalized": 14.4362,
+      "min_normalized": 14.1405,
+      "max_normalized": 15.3592,
+      "spread": 1.2187,
       "by_profile": {
-        "default": 14.4345,
-        "hard_strategic": 14.1422,
-        "doctrinal": 14.6152,
-        "academic": 15.3473,
-        "balanced": 14.6626
+        "default": 14.4362,
+        "hard_strategic": 14.1405,
+        "doctrinal": 14.6191,
+        "academic": 15.3592,
+        "balanced": 14.667
       }
     },
     {
@@ -602,16 +602,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "english_school",
-      "default_normalized": 12.8946,
-      "min_normalized": 12.7358,
-      "max_normalized": 13.0739,
-      "spread": 0.3381,
+      "default_normalized": 12.8783,
+      "min_normalized": 12.7174,
+      "max_normalized": 13.0596,
+      "spread": 0.3422,
       "by_profile": {
-        "default": 12.8946,
-        "hard_strategic": 12.7358,
-        "doctrinal": 13.0739,
-        "academic": 13.0568,
-        "balanced": 12.9919
+        "default": 12.8783,
+        "hard_strategic": 12.7174,
+        "doctrinal": 13.0596,
+        "academic": 13.043,
+        "balanced": 12.9768
       }
     },
     {
@@ -619,16 +619,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "critical_postcolonial_feminist",
-      "default_normalized": 14.8,
-      "min_normalized": 14.715,
-      "max_normalized": 15.21,
-      "spread": 0.495,
+      "default_normalized": 14.8061,
+      "min_normalized": 14.7201,
+      "max_normalized": 15.2204,
+      "spread": 0.5003,
       "by_profile": {
-        "default": 14.8,
-        "hard_strategic": 14.7896,
-        "doctrinal": 14.715,
-        "academic": 15.21,
-        "balanced": 14.8384
+        "default": 14.8061,
+        "hard_strategic": 14.7956,
+        "doctrinal": 14.7201,
+        "academic": 15.2204,
+        "balanced": 14.8449
       }
     },
     {
@@ -636,16 +636,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "default_normalized": 13.1162,
-      "min_normalized": 12.1279,
-      "max_normalized": 13.4502,
-      "spread": 1.3223,
+      "default_normalized": 13.1024,
+      "min_normalized": 12.1037,
+      "max_normalized": 13.4403,
+      "spread": 1.3366,
       "by_profile": {
-        "default": 13.1162,
-        "hard_strategic": 13.4502,
-        "doctrinal": 12.8964,
-        "academic": 12.1279,
-        "balanced": 12.86
+        "default": 13.1024,
+        "hard_strategic": 13.4403,
+        "doctrinal": 12.8801,
+        "academic": 12.1037,
+        "balanced": 12.8433
       }
     },
     {
@@ -653,16 +653,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "realism",
-      "default_normalized": 16.499,
-      "min_normalized": 16.1214,
-      "max_normalized": 16.6936,
-      "spread": 0.5722,
+      "default_normalized": 16.5242,
+      "min_normalized": 16.1414,
+      "max_normalized": 16.7211,
+      "spread": 0.5797,
       "by_profile": {
-        "default": 16.499,
-        "hard_strategic": 16.6936,
-        "doctrinal": 16.3222,
-        "academic": 16.1214,
-        "balanced": 16.3656
+        "default": 16.5242,
+        "hard_strategic": 16.7211,
+        "doctrinal": 16.3453,
+        "academic": 16.1414,
+        "balanced": 16.389
       }
     },
     {
@@ -670,16 +670,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "liberalism",
-      "default_normalized": 14.4875,
-      "min_normalized": 14.378,
-      "max_normalized": 14.6549,
-      "spread": 0.2769,
+      "default_normalized": 14.4898,
+      "min_normalized": 14.3791,
+      "max_normalized": 14.6589,
+      "spread": 0.2798,
       "by_profile": {
-        "default": 14.4875,
-        "hard_strategic": 14.378,
-        "doctrinal": 14.5978,
-        "academic": 14.6549,
-        "balanced": 14.559
+        "default": 14.4898,
+        "hard_strategic": 14.3791,
+        "doctrinal": 14.6014,
+        "academic": 14.6589,
+        "balanced": 14.5621
       }
     },
     {
@@ -687,16 +687,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "marxism_dependency_structuralism",
-      "default_normalized": 13.7492,
-      "min_normalized": 13.6672,
-      "max_normalized": 13.8588,
-      "spread": 0.1916,
+      "default_normalized": 13.7431,
+      "min_normalized": 13.6601,
+      "max_normalized": 13.854,
+      "spread": 0.1939,
       "by_profile": {
-        "default": 13.7492,
-        "hard_strategic": 13.6672,
-        "doctrinal": 13.8588,
-        "academic": 13.7627,
-        "balanced": 13.7938
+        "default": 13.7431,
+        "hard_strategic": 13.6601,
+        "doctrinal": 13.854,
+        "academic": 13.757,
+        "balanced": 13.7883
       }
     },
     {
@@ -704,16 +704,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "constructivism",
-      "default_normalized": 13.3533,
-      "min_normalized": 13.1179,
-      "max_normalized": 14.378,
-      "spread": 1.2601,
+      "default_normalized": 13.3427,
+      "min_normalized": 13.1046,
+      "max_normalized": 14.379,
+      "spread": 1.2744,
       "by_profile": {
-        "default": 13.3533,
-        "hard_strategic": 13.1179,
-        "doctrinal": 13.4304,
-        "academic": 14.378,
-        "balanced": 13.56
+        "default": 13.3427,
+        "hard_strategic": 13.1046,
+        "doctrinal": 13.4207,
+        "academic": 14.379,
+        "balanced": 13.5519
       }
     },
     {
@@ -721,16 +721,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "english_school",
-      "default_normalized": 12.2833,
-      "min_normalized": 12.1809,
-      "max_normalized": 12.4192,
-      "spread": 0.2383,
+      "default_normalized": 12.2606,
+      "min_normalized": 12.1569,
+      "max_normalized": 12.3989,
+      "spread": 0.242,
       "by_profile": {
-        "default": 12.2833,
-        "hard_strategic": 12.1809,
-        "doctrinal": 12.3916,
-        "academic": 12.4192,
-        "balanced": 12.3486
+        "default": 12.2606,
+        "hard_strategic": 12.1569,
+        "doctrinal": 12.37,
+        "academic": 12.3989,
+        "balanced": 12.3267
       }
     },
     {
@@ -738,16 +738,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "critical_postcolonial_feminist",
-      "default_normalized": 15.3542,
-      "min_normalized": 15.3047,
-      "max_normalized": 15.6599,
-      "spread": 0.3552,
+      "default_normalized": 15.3663,
+      "min_normalized": 15.3163,
+      "max_normalized": 15.6749,
+      "spread": 0.3586,
       "by_profile": {
-        "default": 15.3542,
-        "hard_strategic": 15.3366,
-        "doctrinal": 15.3047,
-        "academic": 15.6599,
-        "balanced": 15.3879
+        "default": 15.3663,
+        "hard_strategic": 15.3486,
+        "doctrinal": 15.3163,
+        "academic": 15.6749,
+        "balanced": 15.4003
       }
     },
     {
@@ -755,16 +755,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "default_normalized": 14.2735,
-      "min_normalized": 13.0038,
-      "max_normalized": 14.6257,
-      "spread": 1.6219,
+      "default_normalized": 14.2733,
+      "min_normalized": 12.9898,
+      "max_normalized": 14.6296,
+      "spread": 1.6398,
       "by_profile": {
-        "default": 14.2735,
-        "hard_strategic": 14.6257,
-        "doctrinal": 14.0945,
-        "academic": 13.0038,
-        "balanced": 13.9851
+        "default": 14.2733,
+        "hard_strategic": 14.6296,
+        "doctrinal": 14.0923,
+        "academic": 12.9898,
+        "balanced": 13.9817
       }
     },
     {
@@ -772,16 +772,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "realism",
-      "default_normalized": 18.4376,
-      "min_normalized": 17.7016,
-      "max_normalized": 18.7151,
-      "spread": 1.0135,
+      "default_normalized": 18.4846,
+      "min_normalized": 17.7386,
+      "max_normalized": 18.7656,
+      "spread": 1.027,
       "by_profile": {
-        "default": 18.4376,
-        "hard_strategic": 18.7151,
-        "doctrinal": 18.2341,
-        "academic": 17.7016,
-        "balanced": 18.2318
+        "default": 18.4846,
+        "hard_strategic": 18.7656,
+        "doctrinal": 18.2788,
+        "academic": 17.7386,
+        "balanced": 18.2761
       }
     },
     {
@@ -789,16 +789,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "liberalism",
-      "default_normalized": 12.6292,
-      "min_normalized": 12.4087,
-      "max_normalized": 13.2558,
-      "spread": 0.8471,
+      "default_normalized": 12.6105,
+      "min_normalized": 12.3873,
+      "max_normalized": 13.2447,
+      "spread": 0.8574,
       "by_profile": {
-        "default": 12.6292,
-        "hard_strategic": 12.4087,
-        "doctrinal": 12.7809,
-        "academic": 13.2558,
-        "balanced": 12.7961
+        "default": 12.6105,
+        "hard_strategic": 12.3873,
+        "doctrinal": 12.7639,
+        "academic": 13.2447,
+        "balanced": 12.7794
       }
     },
     {
@@ -806,16 +806,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "marxism_dependency_structuralism",
-      "default_normalized": 11.9791,
-      "min_normalized": 11.8756,
-      "max_normalized": 12.2871,
-      "spread": 0.4115,
+      "default_normalized": 11.953,
+      "min_normalized": 11.8483,
+      "max_normalized": 12.2655,
+      "spread": 0.4172,
       "by_profile": {
-        "default": 11.9791,
-        "hard_strategic": 12.0004,
-        "doctrinal": 11.8756,
-        "academic": 12.2871,
-        "balanced": 11.9924
+        "default": 11.953,
+        "hard_strategic": 11.9744,
+        "doctrinal": 11.8483,
+        "academic": 12.2655,
+        "balanced": 11.9666
       }
     },
     {
@@ -823,16 +823,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "constructivism",
-      "default_normalized": 13.7589,
-      "min_normalized": 13.526,
-      "max_normalized": 14.4591,
-      "spread": 0.9331,
+      "default_normalized": 13.753,
+      "min_normalized": 13.5173,
+      "max_normalized": 14.4609,
+      "spread": 0.9436,
       "by_profile": {
-        "default": 13.7589,
-        "hard_strategic": 13.526,
-        "doctrinal": 13.9099,
-        "academic": 14.4591,
-        "balanced": 13.9382
+        "default": 13.753,
+        "hard_strategic": 13.5173,
+        "doctrinal": 13.9056,
+        "academic": 14.4609,
+        "balanced": 13.9343
       }
     },
     {
@@ -840,16 +840,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "english_school",
-      "default_normalized": 11.3716,
-      "min_normalized": 11.2054,
-      "max_normalized": 11.6855,
-      "spread": 0.4801,
+      "default_normalized": 11.3387,
+      "min_normalized": 11.1703,
+      "max_normalized": 11.6574,
+      "spread": 0.4871,
       "by_profile": {
-        "default": 11.3716,
-        "hard_strategic": 11.2054,
-        "doctrinal": 11.5241,
-        "academic": 11.6855,
-        "balanced": 11.4848
+        "default": 11.3387,
+        "hard_strategic": 11.1703,
+        "doctrinal": 11.4929,
+        "academic": 11.6574,
+        "balanced": 11.4533
       }
     },
     {
@@ -857,16 +857,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "critical_postcolonial_feminist",
-      "default_normalized": 14.5796,
-      "min_normalized": 14.4499,
-      "max_normalized": 15.2238,
-      "spread": 0.7739,
+      "default_normalized": 14.5829,
+      "min_normalized": 14.4518,
+      "max_normalized": 15.234,
+      "spread": 0.7822,
       "by_profile": {
-        "default": 14.5796,
-        "hard_strategic": 14.4499,
-        "doctrinal": 14.6022,
-        "academic": 15.2238,
-        "balanced": 14.6997
+        "default": 14.5829,
+        "hard_strategic": 14.4518,
+        "doctrinal": 14.6058,
+        "academic": 15.234,
+        "balanced": 14.7043
       }
     },
     {
@@ -874,16 +874,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "default_normalized": 17.244,
-      "min_normalized": 15.387,
-      "max_normalized": 17.6945,
-      "spread": 2.3075,
+      "default_normalized": 17.2774,
+      "min_normalized": 15.3989,
+      "max_normalized": 17.7333,
+      "spread": 2.3344,
       "by_profile": {
-        "default": 17.244,
-        "hard_strategic": 17.6945,
-        "doctrinal": 17.0732,
-        "academic": 15.387,
-        "balanced": 16.857
+        "default": 17.2774,
+        "hard_strategic": 17.7333,
+        "doctrinal": 17.1047,
+        "academic": 15.3989,
+        "balanced": 16.8859
       }
     },
     {
@@ -891,16 +891,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "realism",
-      "default_normalized": 19.094,
-      "min_normalized": 18.215,
-      "max_normalized": 19.4003,
-      "spread": 1.1853,
+      "default_normalized": 19.148,
+      "min_normalized": 18.2572,
+      "max_normalized": 19.4582,
+      "spread": 1.201,
       "by_profile": {
-        "default": 19.094,
-        "hard_strategic": 19.4003,
-        "doctrinal": 18.8855,
-        "academic": 18.215,
-        "balanced": 18.8616
+        "default": 19.148,
+        "hard_strategic": 19.4582,
+        "doctrinal": 18.9371,
+        "academic": 18.2572,
+        "balanced": 18.9126
       }
     },
     {
@@ -908,16 +908,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "liberalism",
-      "default_normalized": 11.5474,
-      "min_normalized": 11.3008,
-      "max_normalized": 12.3392,
-      "spread": 1.0384,
+      "default_normalized": 11.5166,
+      "min_normalized": 11.267,
+      "max_normalized": 12.3182,
+      "spread": 1.0512,
       "by_profile": {
-        "default": 11.5474,
-        "hard_strategic": 11.3008,
-        "doctrinal": 11.695,
-        "academic": 12.3392,
-        "balanced": 11.7412
+        "default": 11.5166,
+        "hard_strategic": 11.267,
+        "doctrinal": 11.666,
+        "academic": 12.3182,
+        "balanced": 11.7129
       }
     },
     {
@@ -925,16 +925,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "marxism_dependency_structuralism",
-      "default_normalized": 12.0555,
-      "min_normalized": 12.0158,
-      "max_normalized": 12.329,
-      "spread": 0.3132,
+      "default_normalized": 12.0304,
+      "min_normalized": 11.9901,
+      "max_normalized": 12.308,
+      "spread": 0.3179,
       "by_profile": {
-        "default": 12.0555,
-        "hard_strategic": 12.0158,
-        "doctrinal": 12.044,
-        "academic": 12.329,
-        "balanced": 12.0983
+        "default": 12.0304,
+        "hard_strategic": 11.9901,
+        "doctrinal": 12.0188,
+        "academic": 12.308,
+        "balanced": 12.0739
       }
     },
     {
@@ -942,16 +942,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "constructivism",
-      "default_normalized": 13.2515,
-      "min_normalized": 13.0189,
-      "max_normalized": 14.1019,
-      "spread": 1.083,
+      "default_normalized": 13.2399,
+      "min_normalized": 13.0045,
+      "max_normalized": 14.0999,
+      "spread": 1.0954,
       "by_profile": {
-        "default": 13.2515,
-        "hard_strategic": 13.0189,
-        "doctrinal": 13.3658,
-        "academic": 14.1019,
-        "balanced": 13.4426
+        "default": 13.2399,
+        "hard_strategic": 13.0045,
+        "doctrinal": 13.3554,
+        "academic": 14.0999,
+        "balanced": 13.4332
       }
     },
     {
@@ -959,16 +959,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "english_school",
-      "default_normalized": 10.8171,
-      "min_normalized": 10.6712,
-      "max_normalized": 11.164,
-      "spread": 0.4928,
+      "default_normalized": 10.7781,
+      "min_normalized": 10.6303,
+      "max_normalized": 11.1305,
+      "spread": 0.5002,
       "by_profile": {
-        "default": 10.8171,
-        "hard_strategic": 10.6712,
-        "doctrinal": 10.9337,
-        "academic": 11.164,
-        "balanced": 10.9221
+        "default": 10.7781,
+        "hard_strategic": 10.6303,
+        "doctrinal": 10.8961,
+        "academic": 11.1305,
+        "balanced": 10.8846
       }
     },
     {
@@ -976,16 +976,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "critical_postcolonial_feminist",
-      "default_normalized": 15.1355,
-      "min_normalized": 15.0037,
-      "max_normalized": 15.6823,
-      "spread": 0.6786,
+      "default_normalized": 15.145,
+      "min_normalized": 15.0119,
+      "max_normalized": 15.6973,
+      "spread": 0.6854,
       "by_profile": {
-        "default": 15.1355,
-        "hard_strategic": 15.0037,
-        "doctrinal": 15.1845,
-        "academic": 15.6823,
-        "balanced": 15.2489
+        "default": 15.145,
+        "hard_strategic": 15.0119,
+        "doctrinal": 15.1946,
+        "academic": 15.6973,
+        "balanced": 15.2596
       }
     },
     {
@@ -993,16 +993,16 @@
       "entity_id": "global_system",
       "scope": "global",
       "theory_family_id": "geopolitics_imperialism_reason_of_state",
-      "default_normalized": 18.0991,
-      "min_normalized": 16.1686,
-      "max_normalized": 18.5893,
-      "spread": 2.4207,
+      "default_normalized": 18.1419,
+      "min_normalized": 16.1888,
+      "max_normalized": 18.638,
+      "spread": 2.4492,
       "by_profile": {
-        "default": 18.0991,
-        "hard_strategic": 18.5893,
-        "doctrinal": 17.8915,
-        "academic": 16.1686,
-        "balanced": 17.6854
+        "default": 18.1419,
+        "hard_strategic": 18.638,
+        "doctrinal": 17.932,
+        "academic": 16.1888,
+        "balanced": 17.7233
       }
     }
   ]

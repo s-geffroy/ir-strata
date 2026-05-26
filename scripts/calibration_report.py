@@ -36,7 +36,13 @@ def main() -> int:
 
     # On ne compte que les scores actifs (hors deprecated/anachroniques).
     active = [s for s in rows if s.get("maturity_status") != "deprecated"]
+    deprecated_count = len(rows) - len(active)
     sourced = [s for s in active if s.get("calibration_status") == "sourced"]
+
+    # Dette de re-sourçage : preuves dont le résumé est encore un gabarit (« À enrichir »).
+    evidence_list = load("src/data/canonical/evidence.json")["evidence"]
+    template_evidence = [e for e in evidence_list
+                         if "à enrichir" in (e.get("summary_fr") or "").lower()]
 
     by_period = defaultdict(lambda: {"sourced": 0, "seed": 0})
     for s in active:
@@ -65,12 +71,21 @@ def main() -> int:
         "",
         f"_État au {report['audited_at']}._",
         "",
-        "Les audits précédents garantissent l'existence des références et l'absence "
-        "d'anachronisme, **pas** la justesse des valeurs de score. Le re-sourçage remplace "
-        "progressivement les justifications seed par des justifications réelles, adossées aux "
-        "preuves et références vérifiées. Ce tableau en mesure l'avancement.",
+        "> **Ce que « sourcé » garantit — et ne garantit pas.** Le statut `sourced` signifie "
+        "que le score est **adossé à des preuves et des références vérifiées** (existantes, "
+        "non anachroniques). Il ne signifie **pas** que la valeur numérique est validée "
+        "empiriquement par un spécialiste : cette validation relève de l'étude inter-codeurs "
+        "(voir la console de codage et le rapport inter-codeurs).",
         "",
-        f"**{len(sourced)} / {len(active)} scores actifs re-sourcés ({pct:.1f} %).**",
+        "Le re-sourçage remplace progressivement les justifications seed par des "
+        "justifications réelles, adossées aux preuves et références vérifiées. Ce tableau en "
+        "mesure l'avancement.",
+        "",
+        f"**{len(sourced)} / {len(active)} scores _actifs_ re-sourcés ({pct:.1f} %).**",
+        "",
+        f"_Le total inclut aussi {deprecated_count} scores rejetés pour anachronisme "
+        "(`deprecated`), exclus de ce décompte : « 100 % » se lit donc « 100 % des scores "
+        "actifs adossés à des preuves », pas « 100 % validés »._",
         "",
         "## Par période (priorité P1 d'abord)",
         "",
@@ -84,6 +99,19 @@ def main() -> int:
         lines.append(f"| {pid} | {prio} | {c['sourced']} | {c['seed']} |")
     lines += [
         "",
+        "## Dette : preuves encore au stade gabarit",
+        "",
+        f"**{len(template_evidence)} / {len(evidence_list)} preuves** portent encore un "
+        "résumé gabarit (« À enrichir avec citations précises »). Tant que ce compteur n'est "
+        "pas nul, le `probative_strength` de ces preuves reste indicatif, non documenté.",
+        "",
+    ]
+    if template_evidence:
+        lines += ["| Preuve | Période |", "| --- | --- |"]
+        for e in sorted(template_evidence, key=lambda x: x.get("period_id", "")):
+            lines.append(f"| {e['evidence_id']} | {e.get('period_id', '?')} |")
+    lines += [
+        "",
         "## Méthode de re-sourçage",
         "",
         "Pour chaque score : justification analytique réelle, `evidence_basis` pointant des "
@@ -91,8 +119,12 @@ def main() -> int:
         "recalibrée, `known_limits` explicites, puis `calibration_status: \"sourced\"`. Voir "
         "la tranche déjà traitée comme gabarit (1945-1962, couche `strategic_reality`).",
     ]
+    report["template_evidence"] = len(template_evidence)
+    report["deprecated_excluded"] = deprecated_count
+    REPORT_JSON.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
     DOCS_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    print(f"Calibration : {len(sourced)}/{len(active)} scores actifs sourcés ({pct:.1f} %)")
+    print(f"Calibration : {len(sourced)}/{len(active)} scores actifs sourcés ({pct:.1f} %) ; "
+          f"{len(template_evidence)} preuves gabarit ; {deprecated_count} rejetés exclus")
     return 0
 
 

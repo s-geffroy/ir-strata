@@ -8,6 +8,10 @@
 *.log
 npm-debug.log*
 
+# Python
+__pycache__/
+*.pyc
+
 # OS / éditeurs
 .DS_Store
 .idea

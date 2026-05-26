@@ -1,5 +1,5 @@
 {
-  "audited_at": "2026-05-24",
+  "audited_at": "2026-05-26",
   "active_scores": 1549,
   "sourced": 1549,
   "seed": 0,
@@ -60,5 +60,7 @@
       "sourced": 231,
       "seed": 0
     }
-  }
+  },
+  "template_evidence": 48,
+  "deprecated_excluded": 446
 }

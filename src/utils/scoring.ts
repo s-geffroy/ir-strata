@@ -10,6 +10,32 @@ export type ScoreRecord = {
 
 export type WeightMap = Record<string, number>;
 
+/** Groupes de critères → {nom_critère: valeur 0-100}. Cf. criteria_scores canoniques. */
+export type CriteriaScores = Record<string, Record<string, number>>;
+
+/**
+ * Dérive le raw_score depuis les criteria_scores via la formule documentée :
+ *   raw = Σ_group  poids[group] · moyenne(valeurs du group)
+ * Mirroir exact de compute_scores.derive_raw_from_criteria (Python). Utilisé par la
+ * console de codage pour calculer le score en direct pendant la saisie des critères.
+ * Retourne null si un groupe attendu est absent/vide.
+ */
+export function deriveRawFromCriteria(
+  criteriaScores: CriteriaScores,
+  criteriaWeights: WeightMap,
+): number | null {
+  if (!criteriaScores) return null;
+  let weightedSum = 0;
+  for (const [groupName, groupWeight] of Object.entries(criteriaWeights)) {
+    const groupValues = criteriaScores[groupName];
+    if (!groupValues || Object.keys(groupValues).length === 0) return null;
+    const values = Object.values(groupValues);
+    const groupMean = values.reduce((a, b) => a + b, 0) / values.length;
+    weightedSum += groupWeight * groupMean;
+  }
+  return Math.round(weightedSum * 10000) / 10000;
+}
+
 export function normalizeScores(records: ScoreRecord[]): ScoreRecord[] {
   const groups = new Map<string, ScoreRecord[]>();
   for (const r of records) {

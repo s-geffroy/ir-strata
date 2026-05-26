@@ -2,7 +2,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
-const organizationName = process.env.ORGANIZATION_NAME ?? 'CHANGE_ME_GITHUB_USER';
+const organizationName = process.env.ORGANIZATION_NAME ?? 's-geffroy';
 const projectName = process.env.PROJECT_NAME ?? 'ir-strata';
 const isUserOrOrgPage = projectName.endsWith('.github.io');
 
@@ -50,6 +50,7 @@ const config: Config = {
         {to: '/explorer', label: 'Explorer', position: 'left'},
         {to: '/docs/intro', label: 'Documentation', position: 'left'},
         {to: '/data', label: 'Données', position: 'left'},
+        {to: '/coding-console', label: 'Console de codage', position: 'left'},
         {href: 'https://github.com/', label: 'GitHub', position: 'right'},
       ],
     },

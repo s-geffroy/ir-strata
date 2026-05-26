@@ -37,5 +37,6 @@ En conséquence :
   recalcule la synthèse sous chacun des profils de `weight_profiles.json` et expose
   `min` / `max` / `spread`. Un écart large = un chiffre agrégé peu robuste.
 
-Ces artefacts sont générés par `scripts/compute_scores.py` à partir des scores bruts
-canoniques (aucune valeur de synthèse n'est stockée comme source canonique).
+Ces artefacts sont générés par `scripts/compute_scores.py` à partir des scores bruts,
+eux-mêmes dérivés des critères canoniques (aucune valeur de synthèse n'est stockée comme
+source canonique).

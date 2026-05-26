@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "coder_id": "REMPLACER_PAR_IDENTIFIANT_ANONYME",
+  "coded_at": "AAAA-MM-JJ",
+  "protocol": "Codage à l'aveugle du sous-ensemble protocole (périodes pilotes × 7 familles × 3 couches). Saisir soit raw_score directement, soit criteria_scores (le raw sera dérivé).",
+  "scores": [
+    {
+      "score_id": "score_1945_1962_global_system_strategic_reality_realism",
+      "criteria_scores": {
+        "common_criteria": {
+          "explanatory_power": 0,
+          "historical_centrality": 0,
+          "evidence_robustness": 0
+        },
+        "theory_specific_criteria": {
+          "fit_to_theory_core": 0,
+          "discriminating_value": 0
+        },
+        "layer_specific_criteria": {
+          "layer_fit": 0
+        }
+      },
+      "justification_fr": "Justification du codeur (à compléter).",
+      "known_limits": []
+    },
+    {
+      "score_id": "score_1991_2001_global_system_political_doctrine_liberalism",
+      "raw_score": 0,
+      "justification_fr": "Variante : raw_score saisi directement plutôt que via les critères.",
+      "known_limits": []
+    }
+  ]
+}

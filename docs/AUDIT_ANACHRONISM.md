@@ -6,7 +6,7 @@ sidebar_label: Audit anti-anachronisme
 
 # Audit anti-anachronisme
 
-_Audité le 2026-05-24._
+_Audité le 2026-05-26._
 
 Confronte les scores des couches `political_doctrine` et `academic_influence` aux années d'émergence (`theory_emergence.json`). La couche `strategic_reality` n'est jamais contrainte (usage rétrospectif autorisé). Les scores fautifs non justifiés sont rejetés (`maturity_status: deprecated`) et exclus des graphiques.
 

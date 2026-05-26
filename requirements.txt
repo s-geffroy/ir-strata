@@ -1,0 +1,5 @@
+# Dépendances Python du pipeline ir-strata.
+# Le cœur du pipeline (validate_model, compute_scores, generate_*, audits) reste stdlib.
+# Ces libs ne servent qu'au harnais de fiabilité inter-codeurs (scripts/intercoder_reliability_test.py).
+numpy>=1.26
+krippendorff>=0.6

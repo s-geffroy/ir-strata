@@ -7,6 +7,8 @@ const sidebars: SidebarsConfig = {
     'AUDIT_REFERENCES',
     'AUDIT_ANACHRONISM',
     'CALIBRATION_STATUS',
+    'EXTERNAL_ALIGNMENT',
+    'ANACHRONISM_SENSITIVITY',
     'PAPER',
     'SPEC_MASTER',
     {
@@ -18,6 +20,8 @@ const sidebars: SidebarsConfig = {
         'methodology/CONFIDENCE',
         'methodology/ANTI_ANACHRONISM',
         'methodology/AGGREGATION',
+        'methodology/INTERCODER',
+        'methodology/SPECIALIST_VALIDATION',
       ],
     },
     {
