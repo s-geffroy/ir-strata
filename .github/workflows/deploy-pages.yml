@@ -50,9 +50,6 @@ jobs:
         # donc plus échouer cette étape.
         run: npm run audit:refs
 
-      - name: Generate paper LaTeX wrapper
-        run: python3 scripts/generate_paper_tex.py
-
       - name: Compile paper PDF
         uses: xu-cheng/latex-action@v4
         with:

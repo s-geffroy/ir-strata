@@ -4,6 +4,7 @@
 
 ### Changed
 
+- **Papier : `paper/main.tex` devient la source de vérité.** Le corps LaTeX hand-édité vit désormais directement dans `paper/main.tex` (document complet : préambule + corps + bibliographie natbib) ; le PDF est compilé tel quel par TeX Live et la page `docs/PAPER.md` est régénérée depuis ce fichier. Suppression du `.txt` intermédiaire (`paper/papier_strates_ri_chemin_a.txt`) et du script wrapper `scripts/generate_paper_tex.py` ; l'étape CI « Generate paper LaTeX wrapper » est retirée de `deploy-pages.yml`. `scripts/generate_paper_mdx.py` parse maintenant `main.tex` (saut du préambule et des directives `\bibliographystyle`/`\bibliography`/`\end{document}`).
 - Projet renommé **ir-strata** (fork du scaffold `ir-theory-historical-weighting-atlas-v1`).
 - `docusaurus.config.ts` : `projectName` par défaut → `ir-strata` (url/baseUrl dérivés).
 - `docusaurus.config.ts` : `organizationName` par défaut → `s-geffroy` (compte GitHub du dépôt `origin`). URL Pages dérivée : `https://s-geffroy.github.io/ir-strata/`. La variable d'environnement `ORGANIZATION_NAME` reste prioritaire.

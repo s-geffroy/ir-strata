@@ -7,8 +7,9 @@ sidebar_label: Papier (méthodologie)
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 :::info Version publiable
-Working paper méthodologique, **aligné sur l'application**. <a href={useBaseUrl('/paper/strates_ri_chemin_a.pdf')} target="_blank" rel="noopener">Télécharger le PDF</a> · source LaTeX : `paper/papier_strates_ri_chemin_a.txt`.
+Working paper méthodologique, **aligné sur l'application**. <a href={useBaseUrl('/paper/strates_ri_chemin_a.pdf')} target="_blank" rel="noopener">Télécharger le PDF</a> · source LaTeX : `paper/main.tex`.
 :::
+
 
 # Quantifier sans objectiver : protocole pilote pour une pondération interprétative des théories des relations internationales, 1815–2026
 

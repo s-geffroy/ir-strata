@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
-"""Génère docs/PAPER.md (MDX) à partir de paper/papier_strates_ri_chemin_a.txt.
-Le .txt LaTeX reste la source unique. On convertit le balisage en Markdown et on
-met les formules en code (les accolades LaTeX casseraient MDX sinon).
+"""Génère docs/PAPER.md (MDX) à partir de paper/main.tex (source de vérité LaTeX).
+On saute le préambule et les directives bibliographiques, on convertit le balisage en
+Markdown et on met les formules en code (les accolades LaTeX casseraient MDX sinon).
 stdlib uniquement."""
 from __future__ import annotations
 import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-SRC = ROOT / "paper/papier_strates_ri_chemin_a.txt"
+SRC = ROOT / "paper/main.tex"
 OUT = ROOT / "docs/PAPER.md"
 PDF_REL = "/paper/strates_ri_chemin_a.pdf"
 
@@ -63,9 +63,18 @@ def main() -> int:
     out: list[str] = []
     i = 0
     in_enum = False
+    document_commence = False
     while i < len(lines):
         ln = lines[i]
         st = ln.strip()
+
+        # Saut du préambule LaTeX : rien n'est émis tant que \begin{document}
+        # n'a pas été rencontré (écarte \documentclass, \usepackage, \hypersetup…).
+        if not document_commence:
+            if st == r"\begin{document}":
+                document_commence = True
+            i += 1
+            continue
 
         if st.startswith(r"\title{"):
             out += ["# " + inline(re.search(r"\\title\{(.*)\}", st).group(1)), ""]
@@ -75,7 +84,9 @@ def main() -> int:
             out += [inline(re.search(r"\\date\{(.*)\}", st).group(1)), ""]
         elif st == r"\begin{abstract}":
             out += ["## Résumé", ""]
-        elif st in (r"\end{abstract}", r"\appendix", r"\maketitle"):
+        elif st in (r"\end{abstract}", r"\appendix", r"\maketitle", r"\end{document}"):
+            pass
+        elif st.startswith(r"\bibliographystyle{") or st.startswith(r"\bibliography{"):
             pass
         elif st.startswith(r"\section{"):
             out += ["", "## " + inline(re.search(r"\\section\{(.*)\}", st).group(1)), ""]
@@ -122,7 +133,7 @@ def main() -> int:
         ":::info Version publiable",
         "Working paper méthodologique, **aligné sur l'application**. "
         f"<a href={{useBaseUrl('{PDF_REL}')}} target=\"_blank\" rel=\"noopener\">Télécharger le PDF</a>"
-        " · source LaTeX : `paper/papier_strates_ri_chemin_a.txt`.",
+        " · source LaTeX : `paper/main.tex`.",
         ":::",
         "",
     ]
