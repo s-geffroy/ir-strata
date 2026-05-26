@@ -1,0 +1,29 @@
+period_id,entity_id,entity_label_fr,theory_family,synthesis_raw,normalized_share
+1945_1962,global_system,Système global (référence),realism,90.4,29.69
+1945_1962,global_system,Système global (référence),geopolitics_imperialism_reason_of_state,74.25,24.39
+1945_1962,global_system,Système global (référence),liberalism,70.5,23.16
+1945_1962,global_system,Système global (référence),marxism_dependency_structuralism,69.3,22.76
+1945_1962,united_states,États-Unis,realism,96.32,32.18
+1945_1962,united_states,États-Unis,geopolitics_imperialism_reason_of_state,64.57,21.57
+1945_1962,united_states,États-Unis,liberalism,78.82,26.33
+1945_1962,united_states,États-Unis,marxism_dependency_structuralism,59.62,19.92
+1945_1962,soviet_union,URSS,realism,96.32,32.18
+1945_1962,soviet_union,URSS,geopolitics_imperialism_reason_of_state,64.57,21.57
+1945_1962,soviet_union,URSS,liberalism,60.82,20.32
+1945_1962,soviet_union,URSS,marxism_dependency_structuralism,77.62,25.93
+1945_1962,decolonizing_world,Mondes en décolonisation,realism,80.72,28.45
+1945_1962,decolonizing_world,Mondes en décolonisation,geopolitics_imperialism_reason_of_state,64.57,22.76
+1945_1962,decolonizing_world,Mondes en décolonisation,liberalism,60.82,21.44
+1945_1962,decolonizing_world,Mondes en décolonisation,marxism_dependency_structuralism,77.62,27.36
+1945_1962,western_europe,Europe occidentale,realism,80.72,28.45
+1945_1962,western_europe,Europe occidentale,geopolitics_imperialism_reason_of_state,64.57,22.76
+1945_1962,western_europe,Europe occidentale,liberalism,78.82,27.78
+1945_1962,western_europe,Europe occidentale,marxism_dependency_structuralism,59.62,21.01
+1945_1962,china,Chine,realism,96.32,32.18
+1945_1962,china,Chine,geopolitics_imperialism_reason_of_state,64.57,21.57
+1945_1962,china,Chine,liberalism,60.82,20.32
+1945_1962,china,Chine,marxism_dependency_structuralism,77.62,25.93
+1945_1962,united_nations,ONU,realism,80.72,28.45
+1945_1962,united_nations,ONU,geopolitics_imperialism_reason_of_state,64.57,22.76
+1945_1962,united_nations,ONU,liberalism,78.82,27.78
+1945_1962,united_nations,ONU,marxism_dependency_structuralism,59.62,21.01

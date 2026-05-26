@@ -1,8 +1,8 @@
 period_id,theory_family,strategic_reality,political_doctrine,academic_influence,default_synthesis,normalized_default,note
-1945_1962,realism,94,88,85,91.15,29.65,
-1945_1962,liberalism,70,75,70,71.25,23.17,
-1945_1962,marxism_dependency_structuralism,68,72,75,70.05,22.78,
-1945_1962,geopolitics_imperialism_reason_of_state,80,72,60,75.0,24.39,
-1945_1962,constructivism,45,,,,,doctrine et academique rejetes (anachronisme : ecole vers 1989)
-1945_1962,english_school,65,,,,,doctrine et academique rejetes (anachronisme : ecole vers 1959)
-1945_1962,critical_postcolonial_feminist,45,,,,,doctrine et academique rejetes (anachronisme : champ RI vers 1978)
+1945_1962,realism,93.25,87.25,84.25,90.4,29.69,
+1945_1962,geopolitics_imperialism_reason_of_state,79.25,71.25,59.25,74.25,24.39,
+1945_1962,liberalism,69.25,74.25,69.25,70.5,23.16,
+1945_1962,marxism_dependency_structuralism,67.25,71.25,74.25,69.3,22.76,
+1945_1962,constructivism,44.25,rejete,rejete,,,doctrine et academique rejetees (anachronisme ; emergence academique vers 1989)
+1945_1962,english_school,64.25,rejete,rejete,,,doctrine et academique rejetees (anachronisme ; emergence academique vers 1959)
+1945_1962,critical_postcolonial_feminist,44.25,rejete,rejete,,,doctrine et academique rejetees (anachronisme ; emergence academique vers 1978)

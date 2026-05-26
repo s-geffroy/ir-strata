@@ -59,7 +59,7 @@ jobs:
       - name: Publish paper PDF to static
         run: |
           mkdir -p static/paper
-          cp paper/main.pdf static/paper/strates_ri_chemin_a.pdf
+          cp paper/main.pdf static/paper/strates_ri.pdf
 
       - name: Build site
         env:

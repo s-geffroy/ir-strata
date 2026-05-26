@@ -36,6 +36,19 @@ def derive_raw_from_criteria(criteria_scores, criteria_weights):
     return round(weighted_sum, 4)
 
 
+def sensitivity_status(delta_max):
+    """Statut de sensibilité d'un score synthétique à la pondération des couches,
+    selon l'écart brut maximal (delta_max) entre profils, d'après le codebook :
+    robuste (<=5), modérément sensible (6-10), sensible (11-15), très sensible (>15)."""
+    if delta_max <= 5:
+        return 'robuste'
+    if delta_max <= 10:
+        return 'moderement_sensible'
+    if delta_max <= 15:
+        return 'sensible'
+    return 'tres_sensible'
+
+
 def normalize(records):
     groups = {}
     for s in records:
@@ -181,6 +194,40 @@ def main():
         })
     dump('src/data/generated/scores_synthesis_sensitivity.json',
          {'schema_version': '1.0.0', 'weights_source': 'weight_profiles.json', 'scores': sensitivity})
+
+    # Sensibilité de la synthèse BRUTE à la pondération.
+    # Le fichier ci-dessus mesure le déplacement de la PART normalisée ; celui-ci mesure
+    # le déplacement du score brut synthétique (prioritaire dans la méthode) sous chaque
+    # profil. Le delta_max (écart brut max-min entre profils) est interprété via les
+    # seuils du codebook : robuste / modérément sensible / sensible / très sensible.
+    raw_by_profile = {}  # (period_id, theory_family_id) -> {profile_id: raw_synthesis}
+    for prof in profiles:
+        for s in synthesize(raw, prof['weights']):
+            if s['entity_id'] != 'global_system':
+                continue
+            raw_by_profile.setdefault((s['period_id'], s['theory_family_id']), {})[prof['profile_id']] = s['raw_score']
+
+    sensitivity_raw = []
+    for (pid, tid), per_prof in raw_by_profile.items():
+        values = list(per_prof.values())
+        delta_max = round(max(values) - min(values), 4)
+        sensitivity_raw.append({
+            'period_id': pid,
+            'entity_id': 'global_system',
+            'scope': 'global',
+            'theory_family_id': tid,
+            'default_raw': per_prof.get('default'),
+            'min_raw': round(min(values), 4),
+            'max_raw': round(max(values), 4),
+            'delta_max': delta_max,
+            'sensitivity_status': sensitivity_status(delta_max),
+            'by_profile': {k: round(v, 4) for k, v in per_prof.items()},
+        })
+    dump('src/data/generated/scores_synthesis_sensitivity_raw.json',
+         {'schema_version': '1.0.0', 'weights_source': 'weight_profiles.json',
+          'status_thresholds': {'robuste': '<=5', 'moderement_sensible': '6-10',
+                                'sensible': '11-15', 'tres_sensible': '>15'},
+          'scores': sensitivity_raw})
 
     # Dérivation transparente raw_score ⟵ criteria_scores.
     # Rend visible l'écart entre le score saisi à la main (raw_authored) et celui que

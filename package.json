@@ -9,7 +9,7 @@
     "clear": "docusaurus clear",
     "typecheck": "tsc --noEmit",
     "validate:data": "python3 scripts/validate_model.py",
-    "generate:data": "python3 scripts/compute_scores.py && python3 scripts/generate_exports.py",
+    "generate:data": "python3 scripts/compute_scores.py && python3 scripts/generate_exports.py && python3 scripts/generate_paper_artifacts.py",
     "generate:docs": "python3 scripts/generate_mdx.py && python3 scripts/calibration_report.py && python3 scripts/intercoder_reliability_test.py && python3 scripts/audit_external_alignment.py && python3 scripts/test_anachronism_sensitivity.py && python3 scripts/generate_paper_mdx.py",
     "prebuild": "npm run validate:data && npm run generate:data && npm run generate:docs",
     "check:data": "python3 scripts/validate_model.py && python3 scripts/audit_anachronism.py --check && python3 scripts/enforce_maturity_policy.py --check && python3 scripts/intercoder_reliability_test.py",

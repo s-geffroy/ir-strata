@@ -2,8 +2,15 @@
 
 ## [Unreleased] — ir-strata
 
+### Fixed
+
+- **Page Données : liens de téléchargement en 404.** Les exports (`ir_theory_model_full.json`, `scores_global.csv`, `scores_entities.csv`, `annual_interpolated_scores.csv`) étaient liés en chemins absolus `/exports/...` sans le préfixe `baseUrl` (`/ir-strata/`), d'où une 404 GitHub Pages. `src/pages/data.tsx` utilise désormais le hook `useBaseUrl`.
+
 ### Changed
 
+- **Papier : refonte de conformité à l'application + reproductibilité outillée.** `paper/main.tex` est réaligné sur les données réelles de l'atlas : tous les scores bruts par couche, synthèses et sensibilités du pilote (1815–1848, 1945–1962, 1991–2001) reprennent les valeurs exactes servies par l'application (les anciennes valeurs étaient périmées d'un décalage uniforme de ~0,75 point, antérieur au réalignement `migrate_raw_from_criteria.py`). L'exemple détaillé et la section « Protocole de scoring » décrivent désormais les **vrais critères** de l'application (3 communs + 2 spécifiques + `layer_fit`, pondérés 0,25/0,40/0,35) et la formule de confiance documentée. La section sensibilité rapporte le `delta_max` sur la **synthèse brute** avec les **5 profils** de pondération et les seuils de statut.
+- **Papier : reproductibilité réelle des annexes.** Nouveau script `scripts/generate_paper_artifacts.py` (stdlib, branché à `npm run generate:data`) qui **génère** les CSV d'annexe (`annexe_pilot_scores_*.csv`, `annexe_pilot_sensitivity.csv`, `annexe_pilot_intercoder_simulation.csv`) à partir des données canoniques/générées. La revendication « aucun chiffre saisi à la main » est désormais vraie et vérifiable (chaque nombre des tableaux se retrouve dans les CSV). `compute_scores.py` produit en outre `scores_synthesis_sensitivity_raw.json` (sensibilité de la synthèse brute par profil + `delta_max` + statut).
+- **Papier : suppression du libellé « Chemin A ».** Retiré du texte (auteur, titres, README, codebook) et des noms de fichiers : `references_strates_ri_chemin_a.bib` → `references_strates_ri.bib`, PDF `strates_ri_chemin_a.pdf` → `strates_ri.pdf` (mises à jour de `\bibliography{}`, `generate_paper_mdx.py`, `deploy-pages.yml`).
 - **Papier : `paper/main.tex` devient la source de vérité.** Le corps LaTeX hand-édité vit désormais directement dans `paper/main.tex` (document complet : préambule + corps + bibliographie natbib) ; le PDF est compilé tel quel par TeX Live et la page `docs/PAPER.md` est régénérée depuis ce fichier. Suppression du `.txt` intermédiaire (`paper/papier_strates_ri_chemin_a.txt`) et du script wrapper `scripts/generate_paper_tex.py` ; l'étape CI « Generate paper LaTeX wrapper » est retirée de `deploy-pages.yml`. `scripts/generate_paper_mdx.py` parse maintenant `main.tex` (saut du préambule et des directives `\bibliographystyle`/`\bibliography`/`\end{document}`).
 - Projet renommé **ir-strata** (fork du scaffold `ir-theory-historical-weighting-atlas-v1`).
 - `docusaurus.config.ts` : `projectName` par défaut → `ir-strata` (url/baseUrl dérivés).
@@ -11,6 +18,11 @@
 
 ### Added
 
+- **Papier : chantiers de mise en publiabilité non bloquants (V3, V5, V6).** Traitement des faiblesses du verdict de relecture réalisables côté code/données, sans fabriquer de score seed.
+  - *Déclinaison par entité (V6)* : nouvelle sous-section « Le global masque l'entité : 1945–1962 » dans `paper/main.tex`, avec table par entité (États-Unis, URSS, mondes en décolonisation, Europe occidentale, Chine, ONU vs global) dérivée de la synthèse/normalisation par entité déjà produite par `compute_scores.py`. La limite « le score global masque l'entité » est désormais **quantifiée** (jusqu'à 18 points d'écart sur le marxisme/dépendance entre mondes en décolonisation et États-Unis). Nouvel artefact `annexe_pilot_entities_1945_1962.csv`.
+  - *Taxonomie (V5)* : la famille « critiques/postcoloniales/féministes » est explicitée en six sous-familles distinctes (reporting, sans score fabriqué) ; nouvel artefact `annexe_pilot_subfamilies.csv` (sous-familles déclarées des sept familles). Cas chiffré de non-confusion **réalisme ≠ géopolitique** (écart de score brut par couche/période, divergence maximale de 32 points en 1991–2001 sur l'influence académique) ; nouvel artefact `annexe_pilot_realism_vs_geopolitics.csv`.
+  - *Tension brut/normalisé (V3)* : la nouvelle table par entité affiche le brut d'abord, la part normalisée entre parenthèses, et rappelle la garde anti-interprétation (aucune conclusion sur le seul normalisé).
+  - `scripts/generate_paper_artifacts.py` étendu (3 nouveaux CSV, dérivés de `theory_taxonomy.json`, `entities.json` et de la synthèse/normalisation par entité) ; `docs/PAPER.md` régénéré ; les valeurs round-trip vers les CSV.
 - Couche Docker : `Dockerfile` (Node 20 + Python 3 + ca-certificates), `docker-compose.yml` (services `dev` et `preview`), `.dockerignore`. Exécution 100 % conteneurisée, rien installé en local.
 - `docs/DATA_PROVENANCE.md` : statut explicite des données = seed généré non vérifié, à re-sourcer.
 - **Audit de provenance des références** : `scripts/audit_references.py` (Crossref + OpenLibrary, stdlib seule, hors pipeline de build). Rapport machine `references/audit_report.json` et rapport publié `docs/AUDIT_REFERENCES.md`. Résultat initial : **56/56 références vérifiées, 0 hallucination**.

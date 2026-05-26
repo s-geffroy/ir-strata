@@ -1,0 +1,43 @@
+theory_family_id,family_label_fr,subfamily_id,subfamily_label_fr
+realism,Réalisme,classical_realism,classical realism
+realism,Réalisme,neorealism,neorealism
+realism,Réalisme,offensive_realism,offensive realism
+realism,Réalisme,defensive_realism,defensive realism
+realism,Réalisme,neoclassical_realism,neoclassical realism
+realism,Réalisme,balance_of_power,balance of power
+liberalism,Libéralisme,liberal_internationalism,liberal internationalism
+liberalism,Libéralisme,liberal_institutionalism,liberal institutionalism
+liberalism,Libéralisme,neoliberal_institutionalism,neoliberal institutionalism
+liberalism,Libéralisme,complex_interdependence,complex interdependence
+liberalism,Libéralisme,democratic_peace,democratic peace
+liberalism,Libéralisme,hegemonic_liberal_order,hegemonic liberal order
+marxism_dependency_structuralism,Marxisme / structuralisme / dépendance,imperialism_theory,imperialism theory
+marxism_dependency_structuralism,Marxisme / structuralisme / dépendance,dependency_theory,dependency theory
+marxism_dependency_structuralism,Marxisme / structuralisme / dépendance,world_systems,world systems
+marxism_dependency_structuralism,Marxisme / structuralisme / dépendance,critical_ipe,critical ipe
+marxism_dependency_structuralism,Marxisme / structuralisme / dépendance,gramsci_hegemony,gramsci hegemony
+marxism_dependency_structuralism,Marxisme / structuralisme / dépendance,third_worldism,third worldism
+constructivism,Constructivisme,normative_constructivism,normative constructivism
+constructivism,Constructivisme,identity_constructivism,identity constructivism
+constructivism,Constructivisme,socialization,socialization
+constructivism,Constructivisme,norm_entrepreneurs,norm entrepreneurs
+constructivism,Constructivisme,ontological_security,ontological security
+constructivism,Constructivisme,recognition,recognition
+english_school,École anglaise,international_society,international society
+english_school,École anglaise,primary_institutions,primary institutions
+english_school,École anglaise,pluralism,pluralism
+english_school,École anglaise,solidarism,solidarism
+english_school,École anglaise,world_society,world society
+critical_postcolonial_feminist,Critiques / postcoloniales / féministes,critical_theory,critical theory
+critical_postcolonial_feminist,Critiques / postcoloniales / féministes,poststructuralism,poststructuralism
+critical_postcolonial_feminist,Critiques / postcoloniales / féministes,postcolonialism,postcolonialism
+critical_postcolonial_feminist,Critiques / postcoloniales / féministes,feminist_ir,feminist ir
+critical_postcolonial_feminist,Critiques / postcoloniales / féministes,decoloniality,decoloniality
+critical_postcolonial_feminist,Critiques / postcoloniales / féministes,critical_security_studies,critical security studies
+geopolitics_imperialism_reason_of_state,Géopolitique / impérialisme / raison d’État,reason_of_state,reason of state
+geopolitics_imperialism_reason_of_state,Géopolitique / impérialisme / raison d’État,territorial_geopolitics,territorial geopolitics
+geopolitics_imperialism_reason_of_state,Géopolitique / impérialisme / raison d’État,maritime_geopolitics,maritime geopolitics
+geopolitics_imperialism_reason_of_state,Géopolitique / impérialisme / raison d’État,territorial_imperialism,territorial imperialism
+geopolitics_imperialism_reason_of_state,Géopolitique / impérialisme / raison d’État,spheres_of_influence,spheres of influence
+geopolitics_imperialism_reason_of_state,Géopolitique / impérialisme / raison d’État,strategic_depth,strategic depth
+geopolitics_imperialism_reason_of_state,Géopolitique / impérialisme / raison d’État,routes_and_corridors,routes and corridors

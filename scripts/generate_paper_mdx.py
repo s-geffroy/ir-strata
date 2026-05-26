@@ -10,7 +10,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 SRC = ROOT / "paper/main.tex"
 OUT = ROOT / "docs/PAPER.md"
-PDF_REL = "/paper/strates_ri_chemin_a.pdf"
+PDF_REL = "/paper/strates_ri.pdf"
 
 
 def cite(m: str) -> str:
@@ -124,7 +124,7 @@ def main() -> int:
     header = [
         "---",
         "id: PAPER",
-        "title: Papier méthodologique (Chemin A)",
+        "title: Papier méthodologique",
         "sidebar_label: Papier (méthodologie)",
         "---",
         "",

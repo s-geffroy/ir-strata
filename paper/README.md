@@ -1,23 +1,22 @@
-# Strates RI — Papier Chemin A
+# Strates RI — Papier méthodologique
 
-Ce dossier contient une version réorientée vers le **chemin A : article académique / working paper sérieux**.
+Ce dossier contient l'**article académique / working paper méthodologique**.
 
 ## Fichiers
 
 - `main.tex` : **source unique** de l'article — document LaTeX complet hand-édité (préambule + corps + bibliographie natbib). C'est *la* vérité : le PDF et la page web en sont dérivés.
-- `references_strates_ri_chemin_a.bib` : bibliographie BibTeX.
-- `annexe_pilot_scores_1945_1962.csv` : scores pilotes 1945–1962 (alignés sur l'atlas).
-- `annexe_pilot_scores_1815_1848.csv` : scores pilotes 1815–1848 (aucune synthèse : couche académique inexistante avant ~1890).
-- `annexe_pilot_scores_1991_2001.csv` : scores pilotes 1991–2001 (sept familles synthétisables).
-- `annexe_pilot_sensitivity.csv` : synthèse par profil de pondération + `delta_max` + statut.
-- `annexe_pilot_intercoder_simulation.csv` : codage principal vs second codage simulé (écarts).
+- `references_strates_ri.bib` : bibliographie BibTeX.
+- `annexe_pilot_*.csv` : artefacts du pilote (scores par couche pour 1815–1848,
+  1945–1962, 1991–2001 ; sensibilité par profil + `delta_max` + statut ; simulation de
+  second codage). **Tous générés** par `scripts/generate_paper_artifacts.py` à partir
+  des données canoniques/générées — aucun chiffre n'y est saisi à la main.
 - `codebook_scoring_strates_ri.md` : codebook synthétique.
 - `Dockerfile.tex` : image TeX Live dédiée à la compilation.
 
 ## Publication
 
 - **Page web** : `scripts/generate_paper_mdx.py` génère `docs/PAPER.md` **depuis `main.tex`** (exécuté par `npm run generate:docs`, donc à chaque build). Publiée dans le site (sidebar « Papier (méthodologie) »).
-- **PDF** : servi sur le site à `static/paper/strates_ri_chemin_a.pdf` (lien « Télécharger le PDF » sur la page).
+- **PDF** : servi sur le site à `static/paper/strates_ri.pdf` (lien « Télécharger le PDF » sur la page).
 
 ### Recompiler le PDF (dans Docker, rien en local)
 
@@ -27,7 +26,7 @@ docker build -t ir-strata-tex -f paper/Dockerfile.tex .
 # 2. compiler et publier le PDF directement depuis main.tex (la source)
 docker run --rm -v "$PWD":/work -w /work/paper ir-strata-tex \
   latexmk -pdf -interaction=nonstopmode main.tex
-cp paper/main.pdf static/paper/strates_ri_chemin_a.pdf
+cp paper/main.pdf static/paper/strates_ri.pdf
 ```
 
 ## Alignement sur l'application ir-strata

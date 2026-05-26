@@ -1,4 +1,4 @@
-# Codebook synthétique — Strates RI Chemin A
+# Codebook synthétique — Strates RI
 
 ## Statut des scores
 

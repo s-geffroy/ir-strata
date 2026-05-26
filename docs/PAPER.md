@@ -1,19 +1,19 @@
 ---
 id: PAPER
-title: Papier méthodologique (Chemin A)
+title: Papier méthodologique
 sidebar_label: Papier (méthodologie)
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 :::info Version publiable
-Working paper méthodologique, **aligné sur l'application**. <a href={useBaseUrl('/paper/strates_ri_chemin_a.pdf')} target="_blank" rel="noopener">Télécharger le PDF</a> · source LaTeX : `paper/main.tex`.
+Working paper méthodologique, **aligné sur l'application**. <a href={useBaseUrl('/paper/strates_ri.pdf')} target="_blank" rel="noopener">Télécharger le PDF</a> · source LaTeX : `paper/main.tex`.
 :::
 
 
 # Quantifier sans objectiver : protocole pilote pour une pondération interprétative des théories des relations internationales, 1815–2026
 
-Strates RI – Working Paper méthodologique, Chemin A
+Strates RI – Working Paper méthodologique
 
 Version 4 – article académique, aligné sur l'application *ir-strata*
 
@@ -75,6 +75,19 @@ La V1 de *Strates RI* utilise sept familles agrégées : réalisme ; libéralism
 
 Deux précautions sont indispensables. Premièrement, la famille « critiques, postcoloniales et féministes » n'est pas une équivalence théorique. Elle regroupe en V1 des traditions différentes pour des raisons de visualisation. Le modèle doit conserver des sous-familles distinctes : théorie critique, poststructuralisme, postcolonial/décolonial, féminisme RI, race et empire dans les RI. Deuxièmement, la famille « géopolitique, impérialisme et raison d'État » chevauche partiellement le réalisme et l'économie politique internationale. Elle n'est justifiée que si elle est traitée comme une lecture spatiale et matérielle du pouvoir : routes, mers, frontières, profondeur stratégique, ressources, glacis, empires territoriaux et contraintes géographiques.
 
+En V1, chacune des sept familles est déjà décomposée en sous-familles dans la taxonomie canonique (`theory_taxonomy.json`), activables lorsqu'une période le justifie ; elles ne sont pas encore scorées séparément, mais sont déclarées pour interdire la lecture d'une famille comme un bloc homogène. La famille « critiques, postcoloniales et féministes » l'illustre : elle agrège six traditions distinctes qu'il ne faut pas confondre.
+
+| Sous-famille (identifiant) | Tradition |
+| --- | --- |
+| `critical_theory` | théorie critique (École de Francfort, Cox, Linklater) |
+| `poststructuralism` | poststructuralisme |
+| `postcolonialism` | approches postcoloniales |
+| `feminist_ir` | féminisme des relations internationales |
+| `decoloniality` | décolonialité |
+| `critical_security_studies` | études critiques de sécurité |
+
+La part normalisée éventuelle de la famille agrégée ne doit donc jamais être lue comme une grandeur théorique unique : c'est une commodité de visualisation regroupant des programmes hétérogènes. La liste complète des sous-familles des sept familles est versionnée en annexe (`annexe_pilot_subfamilies.csv`).
+
 La règle de non-confusion est la capacité discriminante. Une théorie ne reçoit pas un score élevé parce qu'elle peut absorber vaguement un phénomène. Elle reçoit un score élevé si elle explique mieux que les autres ce qui est en jeu. La matrice suivante sert de guide :
 
 | Phénomène | Réalisme | Géopolitique | Marxisme/IPE | Libéralisme/ES |
@@ -89,6 +102,8 @@ La règle de non-confusion est la capacité discriminante. Une théorie ne reço
 | Production savante de hiérarchies impériales | faible | moyen | moyen | élevé pour critique/postcolonial |
 
 Cette matrice n'est pas un automate. Elle force seulement l'analyste à ne pas confondre proximité sémantique et pouvoir discriminant.
+
+Le chevauchement réalisme/géopolitique est le plus exposé à la confusion ; le pilote permet de le tester sur pièces. Les deux familles restent distinctes *en chiffres*, et l'écart se creuse là où l'enjeu n'est pas seulement la puissance brute mais la production savante de lectures spatiales. Sur les trois périodes pilotes, l'écart de score brut entre réalisme et géopolitique (`annexe_pilot_realism_vs_geopolitics.csv`) va de 2 points en 1815–1848 (réalité stratégique : 81.25 contre 79.25, où les deux lectures convergent) à un maximum de 32 points en 1991–2001 sur l'influence académique (réalisme 81.25 contre géopolitique 49.25) : le retour théorique du réalisme structurel après la guerre froide n'est pas un regain de la géopolitique. En 1945–1962, même là où les deux scores sont élevés sur la réalité stratégique (93.25 contre 79.25), l'écart de 14 points puis de 25 points sur l'influence académique montre que la matrice discrimine au lieu d'absorber.
 
 ## Périodisation et degré d'intégration du système
 
@@ -108,13 +123,13 @@ Les unités d'analyse incluent le système global, les grandes puissances, les e
 
 ## Protocole de scoring
 
-Le score brut combine trois blocs : critères communs, critères spécifiques à la théorie et adéquation à la couche. Le profil par défaut est :
+Le score brut combine trois blocs de critères, chacun étant la moyenne des critères qui le composent : critères communs (*C*), critères spécifiques à la théorie (*T*) et adéquation à la couche (*L*). Le profil de pondération par défaut, tel qu'implémenté dans l'application (`default_criteria_weights`), est :
 
 ```text
-S_{raw}=0.25C+0.40T+0.35L
+S_{raw}=0.25\,C+0.40\,T+0.35\,L
 ```
 
-Les critères communs sont : pouvoir explicatif, centralité historique, couverture systémique, capacité discriminante, robustesse des éléments probants et explicitation des limites. Les critères spécifiques changent selon la famille théorique. Pour le réalisme, ils incluent compétition de puissance, dilemme de sécurité, polarité, militarisation, alliances et primat de l'intérêt national. Pour le libéralisme, institutions, interdépendance, démocratie, coopération, droit et régimes. Pour le constructivisme, normes, identités, légitimité, reconnaissance, socialisation et formation des préférences. Pour l'École anglaise, société internationale, souveraineté, ordre, droit, diplomatie et institutions primaires. Pour l'IPE/marxisme/dépendance, capitalisme mondial, impérialisme économique, centre-périphérie, production, finance et hégémonie matérielle. Pour les approches critiques, postcoloniales et féministes, domination, colonialité, genre, race, savoir-pouvoir, exclusions et violences structurelles. Pour la géopolitique, territoire, routes, mers, ressources, frontières, profondeur stratégique et empires.
+Le bloc commun *C* regroupe trois critères réellement codés : pouvoir explicatif, centralité historique et robustesse des éléments probants. Le bloc spécifique *T* comprend deux critères synthétiques : l'adéquation au noyau théorique (`fit_to_theory_core`) et la capacité discriminante (`discriminating_value`). Le bloc spécifique reçoit le poids le plus élevé (0.40). Ces deux critères condensent les dimensions propres à chaque famille : compétition de puissance, dilemme de sécurité, polarité, militarisation, alliances et intérêt national pour le réalisme ; institutions, interdépendance, démocratie, coopération, droit et régimes pour le libéralisme ; normes, identités, légitimité, reconnaissance et socialisation pour le constructivisme ; société internationale, souveraineté, ordre, droit et diplomatie pour l'École anglaise ; capitalisme mondial, impérialisme économique, centre-périphérie, production, finance et hégémonie matérielle pour l'IPE/marxisme/dépendance ; domination, colonialité, genre, race, savoir-pouvoir et violences structurelles pour les approches critiques, postcoloniales et féministes ; territoire, routes, mers, ressources, frontières et profondeur stratégique pour la géopolitique. Le bloc *L* mesure l'adéquation à la couche considérée (`layer_fit`). Le score brut n'est donc pas saisi librement : il est la moyenne pondérée de ces trois blocs, et une garde au build (tolérance 0.5 point) rejette tout score qui divergerait de ses propres critères.
 
 Le protocole suit sept étapes :
 
@@ -159,53 +174,53 @@ Le tableau suivant présente les scores bruts pilotes, tels qu'appliqués dans l
 
 | Famille théorique | Réalité stratégique | Doctrine politique | Influence académique |
 | --- | --- | --- | --- |
-| Réalisme | 94 | 88 | 85 |
-| Libéralisme | 70 | 75 | 70 |
-| Marxisme/dépendance/IPE | 68 | 72 | 75 |
-| Constructivisme | 45 | rejeté | rejeté |
-| École anglaise | 65 | rejeté | rejeté |
-| Critiques/postcoloniales/féministes | 45 | rejeté | rejeté |
-| Géopolitique/impérialisme/raison d'État | 80 | 72 | 60 |
+| Réalisme | 93.25 | 87.25 | 84.25 |
+| Libéralisme | 69.25 | 74.25 | 69.25 |
+| Marxisme/dépendance/IPE | 67.25 | 71.25 | 74.25 |
+| Constructivisme | 44.25 | rejeté | rejeté |
+| École anglaise | 64.25 | rejeté | rejeté |
+| Critiques/postcoloniales/féministes | 44.25 | rejeté | rejeté |
+| Géopolitique/impérialisme/raison d'État | 79.25 | 71.25 | 59.25 |
 
 La synthèse par défaut (poids 0.60, 0.25 et 0.15 pour réalité stratégique, doctrine politique et influence académique) n'est calculée que pour les familles présentes sur les *trois* couches. Les familles rejetées en doctrine et en académique n'ont donc pas de synthèse ; elles ne figurent qu'en réalité stratégique. La synthèse, normalisée sur les quatre familles synthétisables, donne :
 
 | Famille théorique | Score brut synthétique | Score normalisé |
 | --- | --- | --- |
-| Réalisme | 91.15 | 29.6 |
-| Géopolitique/impérialisme/raison d'État | 75.0 | 24.4 |
-| Libéralisme | 71.25 | 23.2 |
-| Marxisme/dépendance/IPE | 70.05 | 22.8 |
+| Réalisme | 90.40 | 29.7 |
+| Géopolitique/impérialisme/raison d'État | 74.25 | 24.4 |
+| Libéralisme | 70.50 | 23.2 |
+| Marxisme/dépendance/IPE | 69.30 | 22.8 |
 
-L'interprétation n'est pas : « 1945–1962 est réaliste à 29.6 % ». Cette phrase serait méthodologiquement fausse. L'interprétation correcte est : le réalisme obtient le plus haut score brut synthétique, avec forte capacité discriminante pour la réalité stratégique ; les scores géopolitique et libéral restent élevés, ce qui interdit une lecture exclusivement réaliste ; le marxisme/dépendance reste significatif à l'échelle globale, tout en pouvant être beaucoup plus fort sur des entités ou espaces postcoloniaux spécifiques. La normalisation ne porte que sur les quatre familles synthétisables : elle exprime une part relative *dans cet ensemble restreint*, non une part du réel. Le constructivisme, l'École anglaise et les approches critiques conservent par ailleurs une présence notable en réalité stratégique (45, 65 et 45), comme grilles de lecture rétrospectives de structures réelles (souveraineté, société internationale, décolonisation).
+L'interprétation n'est pas : « 1945–1962 est réaliste à 29.7 % ». Cette phrase serait méthodologiquement fausse. L'interprétation correcte est : le réalisme obtient le plus haut score brut synthétique, avec forte capacité discriminante pour la réalité stratégique ; les scores géopolitique et libéral restent élevés, ce qui interdit une lecture exclusivement réaliste ; le marxisme/dépendance reste significatif à l'échelle globale, tout en pouvant être beaucoup plus fort sur des entités ou espaces postcoloniaux spécifiques. La normalisation ne porte que sur les quatre familles synthétisables : elle exprime une part relative *dans cet ensemble restreint*, non une part du réel. Le constructivisme, l'École anglaise et les approches critiques conservent par ailleurs une présence notable en réalité stratégique (44.25, 64.25 et 44.25), comme grilles de lecture rétrospectives de structures réelles (souveraineté, société internationale, décolonisation).
 
 ### Exemple détaillé : réalisme, réalité stratégique
 
-Pour le réalisme dans la couche réalité stratégique, les critères communs sont codés ainsi : pouvoir explicatif 95, centralité historique 96, couverture systémique 92, capacité discriminante 92, robustesse probante 95, limites explicites 82. Moyenne : 92. Les critères spécifiques sont : compétition de puissance 95, dilemme de sécurité 94, polarité 95, militarisation 90, alliances 92, primat de l'intérêt national 86. Moyenne : 92. L'adéquation à la couche réalité stratégique est 98. Le score brut est :
+Pour le réalisme dans la couche réalité stratégique, les trois critères communs sont codés ainsi : pouvoir explicatif 99, centralité historique 94, robustesse des éléments probants 92. Moyenne : 95. Les deux critères spécifiques sont : adéquation au noyau théorique 94, capacité discriminante 89. Moyenne : 91.5. L'adéquation à la couche (`layer_fit`) est 94. Le score brut, dérivé par la moyenne pondérée des trois blocs, est :
 
 ```text
-S_{raw}=0.25(92)+0.40(92)+0.35(98)=94.1
+S_{raw}=0.25(95)+0.40(91.5)+0.35(94)=93.25
 ```
 
-Arrondi : 94.
+Ce score (93.25) n'est pas saisi indépendamment : il est exactement celui que l'application dérive de ses propres critères, et une garde au build rejette tout écart supérieur à 0.5 point entre le score et ses critères (voir la section *Reproductibilité*).
 
 Les éléments probants principaux sont la bipolarité, le containment, l'OTAN, la guerre de Corée, les crises de Berlin, la dissuasion nucléaire et Cuba. Les éléments contradictoires sont l'institutionnalisation libérale occidentale, l'ONU, Bretton Woods, la décolonisation et les normes d'autodétermination. Ces contradictions n'annulent pas le score réaliste ; elles empêchent seulement d'en faire une théorie totale.
 
 ### Exemple détaillé : constructivisme, influence académique
 
-Pour le constructivisme dans la couche influence académique, l'application ne retient pas un score faible : elle *rejette* le score (statut `deprecated`, motif anachronisme). Ce n'est pas parce que les normes ou identités seraient absentes de la période ; c'est parce que le constructivisme comme école académique des RI n'est pas encore formalisé. La couche académique exige des textes, débats et écoles reconnus dans le champ, or les travaux constructivistes majeurs sont postérieurs (Onuf 1989 ; Kratochwil 1989 ; Wendt 1999). Deux traitements de l'anachronisme sont possibles : attribuer un score faible (bande 0–20) en reconnaissant d'éventuels précurseurs, ou exclure entièrement la couche tant que l'école n'a pas émergé. L'atlas *ir-strata* retient la seconde option, plus stricte : un score doctrine/académique antérieur à l'émergence de la théorie est rejeté et exclu des graphiques et de la synthèse, plutôt que dilué dans un score bas. Le constructivisme demeure en revanche admissible en réalité stratégique (45), comme lecture rétrospective des normes de souveraineté et de légitimité de la période.
+Pour le constructivisme dans la couche influence académique, l'application ne retient pas un score faible : elle *rejette* le score (statut `deprecated`, motif anachronisme). Ce n'est pas parce que les normes ou identités seraient absentes de la période ; c'est parce que le constructivisme comme école académique des RI n'est pas encore formalisé. La couche académique exige des textes, débats et écoles reconnus dans le champ, or les travaux constructivistes majeurs sont postérieurs (Onuf 1989 ; Kratochwil 1989 ; Wendt 1999). Deux traitements de l'anachronisme sont possibles : attribuer un score faible (bande 0–20) en reconnaissant d'éventuels précurseurs, ou exclure entièrement la couche tant que l'école n'a pas émergé. L'atlas *ir-strata* retient la seconde option, plus stricte : un score doctrine/académique antérieur à l'émergence de la théorie est rejeté et exclu des graphiques et de la synthèse, plutôt que dilué dans un score bas. Le constructivisme demeure en revanche admissible en réalité stratégique (44.25), comme lecture rétrospective des normes de souveraineté et de légitimité de la période.
 
 ## Analyse de sensibilité
 
-L'analyse de sensibilité teste si la synthèse dépend trop des pondérations de couches. Quatre profils sont utilisés : défaut (0.60/0.25/0.15), stratégique dur (0.75/0.15/0.10), équilibré (0.50/0.30/0.20) et académique (0.35/0.20/0.45).
+L'analyse de sensibilité teste si la synthèse dépend trop des pondérations de couches. Elle porte sur la *synthèse brute* – conformément au primat du score brut défendu plus haut – recalculée sous les cinq profils de pondération de l'application : défaut (0.60/0.25/0.15), stratégique dur (0.75/0.15/0.10), doctrinal (0.45/0.40/0.15), académique (0.35/0.20/0.45) et équilibré (0.50/0.30/0.20). Le `delta_max` est l'écart maximal de la synthèse brute entre profils ; le statut suit les seuils robuste (au plus 5 points), modérément sensible (6–10), sensible (11–15) et très sensible (plus de 15).
 
-| Famille | Défaut | Stratégique dur | Équilibré | Académique |
-| --- | --- | --- | --- | --- |
-| Réalisme | 91.15 | 92.2 | 90.4 | 88.75 |
-| Géopolitique | 75.0 | 76.8 | 73.6 | 69.4 |
-| Libéralisme | 71.25 | 70.75 | 71.5 | 71.0 |
-| Marxisme/dépendance/IPE | 70.05 | 69.3 | 70.6 | 71.95 |
+| Famille | Défaut | Strat. dur | Doctrinal | Acad. | Équil. | delta_max |
+| --- | --- | --- | --- | --- | --- | --- |
+| Réalisme | 90.40 | 91.45 | 89.50 | 88.00 | 89.65 | 3.45 |
+| Géopolitique | 74.25 | 76.05 | 73.05 | 68.65 | 72.85 | 7.40 |
+| Libéralisme | 70.50 | 70.00 | 71.25 | 70.25 | 70.75 | 1.25 |
+| Marxisme/dépendance/IPE | 69.30 | 68.55 | 69.90 | 71.20 | 69.85 | 2.65 |
 
-L'analyse ne porte que sur les quatre familles synthétisables : le constructivisme, l'École anglaise et les approches critiques sont rejetés en doctrine et en académique pour cette période et n'entrent donc pas dans la synthèse (ils ne varient qu'en réalité stratégique). Le résultat principal est robuste : le réalisme reste premier dans tous les profils, avec un delta maximal de 3.5 points. La géopolitique reste deuxième mais plus sensible (delta de 7.4 points), reflétant un poids stratégique fort et une influence académique plus faible. Libéralisme et marxisme/dépendance sont très proches et très stables (deltas inférieurs à 3 points). Cette analyse montre l'utilité du dispositif : il ne suffit pas d'afficher un score, il faut montrer comment il réagit aux hypothèses de synthèse.
+L'analyse ne porte que sur les quatre familles synthétisables : le constructivisme, l'École anglaise et les approches critiques sont rejetés en doctrine et en académique pour cette période et n'entrent donc pas dans la synthèse (ils ne varient qu'en réalité stratégique). Le résultat principal est robuste : le réalisme reste premier dans tous les profils, avec un `delta_max` de 3.45 points (statut robuste). La géopolitique reste deuxième mais plus sensible (`delta_max` de 7.40 points, modérément sensible), reflétant un poids stratégique fort et une influence académique plus faible. Libéralisme et marxisme/dépendance sont très proches et très stables (`delta_max` inférieurs à 3 points). Cette analyse montre l'utilité du dispositif : il ne suffit pas d'afficher un score, il faut montrer comment il réagit aux hypothèses de synthèse. Elle est reconduite plus loin sur 1991–2001.
 
 ## Fiabilité inter-codeurs : protocole de validation
 
@@ -227,15 +242,15 @@ La période du Concert européen et de l'ordre conservateur (Schroeder 1994 ; Ki
 
 | Famille théorique | Réalité stratégique | Doctrine politique | Influence académique |
 | --- | --- | --- | --- |
-| Réalisme | 82 | 78 | rejeté |
-| Géopolitique/impérialisme/raison d'État | 80 | 76 | rejeté |
-| École anglaise | 58 | rejeté | rejeté |
-| Constructivisme | 38 | rejeté | rejeté |
-| Libéralisme | 30 | 28 | rejeté |
-| Critiques/postcoloniales/féministes | 22 | rejeté | rejeté |
-| Marxisme/dépendance/IPE | 10 | rejeté | rejeté |
+| Réalisme | 81.25 | 77.25 | rejeté |
+| Géopolitique/impérialisme/raison d'État | 79.25 | 75.25 | rejeté |
+| École anglaise | 57.25 | rejeté | rejeté |
+| Constructivisme | 37.25 | rejeté | rejeté |
+| Libéralisme | 29.25 | 27.25 | rejeté |
+| Critiques/postcoloniales/féministes | 21.85 | rejeté | rejeté |
+| Marxisme/dépendance/IPE | 13.25 | rejeté | rejeté |
 
-En réalité stratégique, la lecture rétrospective place le réalisme (82) et la géopolitique/raison d'État (80) en tête, ce qui est cohérent avec un ordre fondé sur l'équilibre des puissances, les sphères dynastiques et la gestion concertée des crises. L'École anglaise obtient un score notable (58) comme grille rétrospective de la société internationale et de ses institutions primaires (souveraineté, diplomatie, équilibre) (Bull 1977 ; Watson 1992). En doctrine politique, seules les familles dont les idées sont disponibles aux acteurs de l'époque sont admises : raison d'État et géopolitique (héritage ancien), libéralisme (post-1789). Le constructivisme (38 en réalité stratégique) éclaire rétrospectivement les normes de légitimité dynastique sans jamais pouvoir être doctrine de Metternich ni école académique. Ce cas montre que l'anti-anachronisme strict n'est pas un détail technique : il change la nature même du résultat, en assumant explicitement qu'il n'existe pas de pondération synthétique là où une couche n'a pas encore d'existence historique.
+En réalité stratégique, la lecture rétrospective place le réalisme (81.25) et la géopolitique/raison d'État (79.25) en tête, ce qui est cohérent avec un ordre fondé sur l'équilibre des puissances, les sphères dynastiques et la gestion concertée des crises. L'École anglaise obtient un score notable (57.25) comme grille rétrospective de la société internationale et de ses institutions primaires (souveraineté, diplomatie, équilibre) (Bull 1977 ; Watson 1992). En doctrine politique, seules les familles dont les idées sont disponibles aux acteurs de l'époque sont admises : raison d'État et géopolitique (héritage ancien), libéralisme (post-1789). Le constructivisme (37.25 en réalité stratégique) éclaire rétrospectivement les normes de légitimité dynastique sans jamais pouvoir être doctrine de Metternich ni école académique. Ce cas montre que l'anti-anachronisme strict n'est pas un détail technique : il change la nature même du résultat, en assumant explicitement qu'il n'existe pas de pondération synthétique là où une couche n'a pas encore d'existence historique.
 
 ### 1991–2001 : un ordre libéral non réductible au libéralisme
 
@@ -243,36 +258,47 @@ La décennie post-soviétique est le cas controversé par excellence : moment un
 
 | Famille théorique | R. strat. | Doctrine | Acad. | Synthèse brute | Norm. |
 | --- | --- | --- | --- | --- | --- |
-| Libéralisme | 90 | 94 | 88 | 90.70 | 19.3 |
-| Constructivisme | 72 | 78 | 90 | 76.20 | 16.2 |
-| Réalisme | 75 | 65 | 82 | 73.55 | 15.6 |
-| École anglaise | 68 | 72 | 70 | 69.30 | 14.7 |
-| Critiques/postcoloniales/féministes | 58 | 55 | 78 | 60.25 | 12.8 |
-| Géopolitique/impérialisme/raison d'État | 55 | 48 | 50 | 52.50 | 11.1 |
-| Marxisme/dépendance/IPE | 48 | 42 | 62 | 48.60 | 10.3 |
+| Libéralisme | 89.25 | 93.25 | 87.25 | 89.95 | 19.3 |
+| Constructivisme | 71.25 | 77.25 | 89.25 | 75.45 | 16.2 |
+| Réalisme | 74.25 | 64.25 | 81.25 | 72.80 | 15.6 |
+| École anglaise | 67.25 | 71.25 | 69.25 | 68.55 | 14.7 |
+| Critiques/postcoloniales/féministes | 57.25 | 54.25 | 77.25 | 59.50 | 12.8 |
+| Géopolitique/impérialisme/raison d'État | 54.25 | 47.25 | 49.25 | 51.75 | 11.1 |
+| Marxisme/dépendance/IPE | 47.25 | 41.25 | 61.25 | 47.85 | 10.3 |
 
-Le résultat n'est pas trivial. Le libéralisme domine la synthèse (90.70), ce qui correspond au diagnostic dominant d'un « moment libéral ». Mais la méthode interdit la lecture exclusivement libérale : le réalisme reste élevé en réalité stratégique (75), traduisant la condition hégémonique et les usages de la force (Golfe, Kosovo) que le score doctrinal libéral (94) tend à recouvrir ; le constructivisme est deuxième (76.20), tiré par une influence académique forte (90) qui reflète son essor des années 1990 (Finnemore 1998 ; Wendt 1999) ; les approches critiques et postcoloniales conservent une présence réelle (60.25), notamment en influence académique (78). L'écart entre une doctrine politique très libérale et une réalité stratégique plus disputée est précisément ce que les couches rendent visible : c'est l'apport discriminant du dispositif sur ce cas controversé.
+Le résultat n'est pas trivial. Le libéralisme domine la synthèse (89.95), ce qui correspond au diagnostic dominant d'un « moment libéral ». Mais la méthode interdit la lecture exclusivement libérale : le réalisme reste élevé en réalité stratégique (74.25), traduisant la condition hégémonique et les usages de la force (Golfe, Kosovo) que le score doctrinal libéral (93.25) tend à recouvrir ; le constructivisme est deuxième (75.45), tiré par une influence académique forte (89.25) qui reflète son essor des années 1990 (Finnemore 1998 ; Wendt 1999) ; les approches critiques et postcoloniales conservent une présence réelle (59.50), notamment en influence académique (77.25). L'écart entre une doctrine politique très libérale et une réalité stratégique plus disputée est précisément ce que les couches rendent visible : c'est l'apport discriminant du dispositif sur ce cas controversé.
 
-## Sensibilité aux pondérations sur les trois périodes
+### Le global masque l'entité : 1945–1962
 
-L'analyse de sensibilité est reconduite sur les deux périodes synthétisables, selon quatre profils de pondération de couches (défaut 0.60/0.25/0.15 ; stratégique dur 0.75/0.15/0.10 ; doctrinal 0.45/0.40/0.15 ; académique 0.35/0.20/0.45). Le `delta_max` est l'écart maximal de la synthèse brute entre profils ; le statut suit les seuils robuste (au plus 5), modérément sensible (6–10), sensible (11–15), très sensible (plus de 15).
+Le score global est une moyenne pondérée par le poids systémique des unités ; il lisse une hétérogénéité que le modèle conserve pourtant à l'échelle des entités. L'application *ir-strata* synthétise et normalise les scores *par entité* avec exactement le même protocole que le scope global. Le tableau ci-dessous décline la synthèse brute de 1945–1962 (part normalisée entre parenthèses, à ne jamais lire seule) pour six entités majeures, comparée au score global de référence. Les chiffres sont dérivés par script (`annexe_pilot_entities_1945_1962.csv`).
 
-| 1945–1962 | Défaut | Strat. dur | Doctrinal | Acad. | delta_max |
-| --- | --- | --- | --- | --- | --- |
-| Réalisme | 91.15 | 92.20 | 90.25 | 88.75 | 3.45 |
-| Géopolitique | 75.00 | 76.80 | 73.80 | 69.40 | 7.40 |
-| Libéralisme | 71.25 | 70.75 | 72.00 | 71.00 | 1.25 |
-| Marxisme/dépendance/IPE | 70.05 | 69.30 | 70.65 | 71.95 | 2.65 |
+| Entité | Réalisme | Géopolitique | Libéralisme | Marxisme/dép. |
+| --- | --- | --- | --- | --- |
+| Système global (réf.) | 90.40 (29.7) | 74.25 (24.4) | 70.50 (23.2) | 69.30 (22.8) |
+| États-Unis | 96.32 (32.2) | 64.57 (21.6) | 78.82 (26.3) | 59.62 (19.9) |
+| URSS | 96.32 (32.2) | 64.57 (21.6) | 60.82 (20.3) | 77.62 (25.9) |
+| Mondes en décolonisation | 80.72 (28.5) | 64.57 (22.8) | 60.82 (21.4) | 77.62 (27.4) |
+| Europe occidentale | 80.72 (28.5) | 64.57 (22.8) | 78.82 (27.8) | 59.62 (21.0) |
+| Chine | 96.32 (32.2) | 64.57 (21.6) | 60.82 (20.3) | 77.62 (25.9) |
+| ONU | 80.72 (28.5) | 64.57 (22.8) | 78.82 (27.8) | 59.62 (21.0) |
 
-| 1991–2001 | Défaut | Strat. dur | Doctrinal | Acad. | delta_max |
-| --- | --- | --- | --- | --- | --- |
-| Libéralisme | 90.70 | 90.40 | 91.30 | 89.90 | 1.40 |
-| Constructivisme | 76.20 | 74.70 | 77.10 | 81.30 | 6.60 |
-| Réalisme | 73.55 | 74.20 | 72.05 | 76.15 | 4.10 |
-| École anglaise | 69.30 | 68.80 | 69.90 | 69.70 | 1.10 |
-| Critiques/postcoloniales/fém. | 60.25 | 59.55 | 59.80 | 66.40 | 6.85 |
-| Géopolitique | 52.50 | 53.45 | 51.45 | 51.35 | 2.10 |
-| Marxisme/dépendance/IPE | 48.60 | 48.50 | 47.70 | 53.10 | 5.40 |
+La divergence est nette et chiffrable. Le marxisme/dépendance, à 69.30 (22.8 %) au global, monte à 77.62 (27.4 %) sur les mondes en décolonisation et descend à 59.62 (19.9 %) sur les États-Unis : l'écart inter-entités atteint 18 points de score brut sur cette seule famille. Symétriquement, le libéralisme passe de 78.82 à l'Ouest (États-Unis, Europe occidentale, ONU) à 60.82 à l'Est (URSS, Chine, mondes en décolonisation). Le réalisme reste premier partout, mais plus haut sur les grandes puissances (96.32) que sur les institutions et les espaces périphériques (80.72). Le score global de 1945–1962 –- réalisme dominant, marxisme/dépendance significatif mais quatrième –- est donc une résultante, non un fait uniforme : lu seul, il masque que la dépendance *domine presque* les profils périphériques.
+
+Deux gardes s'imposent. D'abord, ces scores d'entité sont eux aussi un *seed non vérifié* (`draft_unverified_seed`) : leur regroupement par blocs (Ouest/Est, grandes puissances/périphérie) reflète la génération de la graine, non une mesure historiographique ; ce qui est démontré ici est une *propriété structurelle* du dispositif –- l'agrégat global lisse l'hétérogénéité –- et non le détail des valeurs. Ensuite, les parts normalisées par entité restent des parts relatives *dans l'ensemble restreint des quatre familles synthétisables*, sans exclusivité mutuelle : aucune conclusion ne doit être tirée du seul pourcentage. La limite « le score global masque l'entité », autrefois seulement reconnue, est désormais quantifiée.
+
+## Sensibilité aux pondérations : 1991–2001
+
+L'analyse de sensibilité est reconduite sur 1991–2001, selon les cinq mêmes profils et la même définition du `delta_max` (écart maximal de la synthèse brute entre profils ; seuils robuste au plus 5, modérément sensible 6–10, sensible 11–15, très sensible plus de 15). La période 1945–1962 a été traitée plus haut ; 1815–1848 n'a aucune synthèse.
+
+| 1991–2001 | Défaut | Strat. dur | Doctrinal | Acad. | Équil. | delta_max |
+| --- | --- | --- | --- | --- | --- | --- |
+| Libéralisme | 89.95 | 89.65 | 90.55 | 89.15 | 90.05 | 1.40 |
+| Constructivisme | 75.45 | 73.95 | 76.35 | 80.55 | 76.65 | 6.60 |
+| Réalisme | 72.80 | 73.45 | 71.30 | 75.40 | 72.65 | 4.10 |
+| École anglaise | 68.55 | 68.05 | 69.15 | 68.95 | 68.85 | 1.10 |
+| Critiques/postcoloniales/fém. | 59.50 | 58.80 | 59.05 | 65.65 | 60.35 | 6.85 |
+| Géopolitique | 51.75 | 52.70 | 50.70 | 50.60 | 51.15 | 2.10 |
+| Marxisme/dépendance/IPE | 47.85 | 47.75 | 46.95 | 52.35 | 48.25 | 5.40 |
 
 Aucun score n'est sensible au sens fort (delta_max au-delà de 15). Les classements dominants survivent à tous les profils : le réalisme reste premier en 1945–1962, le libéralisme reste premier en 1991–2001. La sensibilité, lorsqu'elle existe, est interprétable plutôt qu'aléatoire : la géopolitique de 1945–1962 (delta_max de 7.4) chute sous profil académique, ce qui reflète son influence universitaire alors plus faible que sa réalité stratégique ; le constructivisme et les approches critiques de 1991–2001 (delta_max de 6.6 et 6.85) montent sous profil académique, traduisant leur poids disciplinaire des années 1990. La sensibilité mesure donc une propriété réelle de la période, pas un artefact.
 
@@ -282,20 +308,20 @@ Le pilote reste un codage auteur unique. En l'absence de second codeur humain in
 
 | 1945–1962 | Principal | Simulé | Écart abs. | Statut |
 | --- | --- | --- | --- | --- |
-| Réalisme | 91.15 | 83.15 | 8.00 | aligné |
-| Libéralisme | 71.25 | 71.25 | 0.00 | aligné |
-| Marxisme/dépendance/IPE | 70.05 | 76.05 | 6.00 | aligné |
-| Géopolitique | 75.00 | 75.00 | 0.00 | aligné |
+| Réalisme | 90.40 | 82.40 | 8.00 | aligné |
+| Libéralisme | 70.50 | 70.50 | 0.00 | aligné |
+| Marxisme/dépendance/IPE | 69.30 | 75.30 | 6.00 | aligné |
+| Géopolitique | 74.25 | 74.25 | 0.00 | aligné |
 
 | 1991–2001 | Principal | Simulé | Écart abs. | Statut |
 | --- | --- | --- | --- | --- |
-| Libéralisme | 90.70 | 82.70 | 8.00 | aligné |
-| Constructivisme | 76.20 | 76.20 | 0.00 | aligné |
-| Réalisme | 73.55 | 68.55 | 5.00 | aligné |
-| École anglaise | 69.30 | 69.30 | 0.00 | aligné |
-| Critiques/postcoloniales/fém. | 60.25 | 66.25 | 6.00 | aligné |
-| Géopolitique | 52.50 | 52.50 | 0.00 | aligné |
-| Marxisme/dépendance/IPE | 48.60 | 54.60 | 6.00 | aligné |
+| Libéralisme | 89.95 | 81.95 | 8.00 | aligné |
+| Constructivisme | 75.45 | 75.45 | 0.00 | aligné |
+| Réalisme | 72.80 | 67.80 | 5.00 | aligné |
+| École anglaise | 68.55 | 68.55 | 0.00 | aligné |
+| Critiques/postcoloniales/fém. | 59.50 | 65.50 | 6.00 | aligné |
+| Géopolitique | 51.75 | 51.75 | 0.00 | aligné |
+| Marxisme/dépendance/IPE | 47.85 | 53.85 | 6.00 | aligné |
 
 L'écart absolu moyen est de 3.55 points, l'écart maximal de 8 points, et aucun score ne franchit le seuil de désaccord (11–15) ni le seuil *contested* (au-delà de 15). Ce résultat doit être lu avec prudence : l'alignement est en partie une conséquence de la modestie, par construction, des ajustements simulés. Un codeur humain pourrait diverger davantage, en particulier sur les familles critiques et marxistes (dont l'ampleur dépend du choix d'unité d'analyse) et sur la décision structurante de *rejeter* plutôt que de scorer faiblement les théories non encore émergées. La simulation indique seulement que les classements dominants ne reposent pas sur un point d'équilibre fragile.
 
@@ -303,9 +329,9 @@ L'écart absolu moyen est de 3.55 points, l'écart maximal de 8 points, et aucun
 
 L'extension à trois périodes permet de répondre explicitement aux questions d'audit que toute méthode de scoring doit affronter.
 
-*La méthode produit-elle des résultats triviaux ?* Partiellement, et c'est attendu : « 1945–1962 = réalisme élevé » est trivial. Mais le dispositif ajoute le rôle non trivial du libéralisme institutionnel et de la géopolitique, la distinction entre réalité stratégique et doctrine, et surtout, pour 1991–2001, un résultat non trivial où le libéralisme domine la synthèse sans que la lecture libérale soit autorisée à devenir totale (réalisme stratégique à 75, présence critique à 60.25).
+*La méthode produit-elle des résultats triviaux ?* Partiellement, et c'est attendu : « 1945–1962 = réalisme élevé » est trivial. Mais le dispositif ajoute le rôle non trivial du libéralisme institutionnel et de la géopolitique, la distinction entre réalité stratégique et doctrine, et surtout, pour 1991–2001, un résultat non trivial où le libéralisme domine la synthèse sans que la lecture libérale soit autorisée à devenir totale (réalisme stratégique à 74.25, présence critique à 59.50).
 
-*La méthode produit-elle des résultats absurdes ?* Aucun score contre-intuitif manifeste n'apparaît. Le score le plus surprenant –- marxisme/dépendance à 48.6 seulement en 1991–2001 –- est défendable à l'échelle globale et explicitement signalé comme pouvant être bien plus élevé sur des entités ou espaces périphériques spécifiques.
+*La méthode produit-elle des résultats absurdes ?* Aucun score contre-intuitif manifeste n'apparaît. Le score le plus surprenant –- marxisme/dépendance à 47.85 seulement en 1991–2001 –- est défendable à l'échelle globale et explicitement signalé comme pouvant être bien plus élevé sur des entités ou espaces périphériques spécifiques.
 
 *Les résultats sont-ils trop sensibles aux pondérations ?* Non : aucun delta_max ne dépasse 15 ; les sensibilités observées (6–7 points) sont interprétables historiquement.
 
@@ -317,7 +343,7 @@ L'extension à trois périodes permet de répondre explicitement aux questions d
 
 Raisons : (1) la méthode produit des résultats cohérents, non triviaux et robustes aux pondérations sur les périodes synthétisables ; (2) le contrôle de l'anachronisme est effectif, jusqu'à refuser la synthèse quand une couche n'existe pas ; (3) mais la fiabilité reste seulement *simulée*, le score global masque la variation par entité, et le choix de rejeter plutôt que de scorer faiblement les théories non émergées est une hypothèse de modélisation forte qui conditionne une partie des résultats.
 
-Conditions d'amélioration : (1) un vrai test inter-codeurs humain sur les 63 scores du protocole ; (2) une déclinaison par entité (Sud global, URSS, États-Unis, institutions) pour les périodes où le score global masque l'hétérogénéité ; (3) une étude de robustesse du choix « rejet vs score faible » pour l'anti-anachronisme, idéalement avec les deux variantes publiées côte à côte.
+Conditions d'amélioration : (1) un vrai test inter-codeurs humain sur les 63 scores du protocole ; (2) une extension de la déclinaison par entité –- amorcée ici sur 1945–1962, où elle quantifie déjà l'hétérogénéité masquée par le global –- aux autres périodes synthétisables ; (3) une étude de robustesse du choix « rejet vs score faible » pour l'anti-anachronisme, idéalement avec les deux variantes publiées côte à côte.
 
 ## Validité, falsifiabilité et modes d'échec
 
@@ -331,17 +357,23 @@ Les modes d'échec sont nombreux : fausse précision ; circularité ; biais occi
 
 Le cas 1945–1962 montre trois choses. Premièrement, le réalisme domine bien la couche de réalité stratégique, mais l'ordre n'est pas réductible au réalisme : le libéralisme institutionnel et la géopolitique captent des dimensions importantes de l'institutionnalisation et des sphères post-1945. Deuxièmement, les approches critiques, postcoloniales et constructivistes ne doivent pas être réduites à zéro : leur influence académique est *rejetée* pour la période (l'école n'a pas encore émergé), mais elles restent des grilles de lecture rétrospectives valides en réalité stratégique pour éclairer la décolonisation, la souveraineté et les hiérarchies mondiales. La distinction entre couches change donc l'interprétation : une théorie peut être présente en réalité stratégique tout en étant absente comme doctrine et comme école de l'époque. Troisièmement, l'anti-anachronisme strict (rejet plutôt que score faible) déplace la synthèse : seules les familles présentes sur les trois couches sont agrégées, ce qui assume explicitement qu'aucune synthèse globale n'est définie là où une couche n'existe pas encore.
 
-Le cas pilote montre aussi les limites du modèle. Les scores restent dépendants du codeur. La liste des éléments probants peut être contestée. Les bornes temporelles changent probablement certains résultats : inclure 1962 dans une période qui irait jusqu'à 1979 réduirait sans doute la centralité de la bipolarisation initiale et augmenterait le poids de la décolonisation, du non-alignement et de la dépendance. Enfin, le score global masque des variations d'entités : le Sud global, les États-Unis, l'URSS, l'Europe occidentale, la Chine et l'ONU ne devraient pas recevoir les mêmes profils théoriques.
+Le cas pilote montre aussi les limites du modèle. Les scores restent dépendants du codeur. La liste des éléments probants peut être contestée. Les bornes temporelles changent probablement certains résultats : inclure 1962 dans une période qui irait jusqu'à 1979 réduirait sans doute la centralité de la bipolarisation initiale et augmenterait le poids de la décolonisation, du non-alignement et de la dépendance. Enfin, le score global masque des variations d'entités : le Sud global, les États-Unis, l'URSS, l'Europe occidentale, la Chine et l'ONU ne reçoivent pas les mêmes profils théoriques, comme le quantifie la déclinaison par entité de 1945–1962 (jusqu'à 18 points d'écart sur le marxisme/dépendance entre mondes en décolonisation et États-Unis).
 
 ## Reproductibilité et artefacts
 
 Un protocole de ce type doit être accompagné d'artefacts versionnés : codebook, scores bruts, éléments probants, références, scripts de normalisation, exports CSV et journal de révision. L'intérêt de GitHub Pages ou d'un autre site statique n'est pas esthétique ; il est méthodologique. Il permet de publier simultanément les visualisations et les données qui les produisent. Mais l'outillage ne doit pas masquer la faiblesse éventuelle du codage. Un beau dashboard reposant sur des scores arbitraires reste arbitraire.
 
-Le principe de reproductibilité est simple : le JSON canonique contient les scores bruts, les éléments probants, les références et les statuts de maturité ; les scores normalisés, CSV et graphiques sont dérivés. Toute modification d'un score brut doit déclencher un journal de révision. Les données dérivées ne doivent jamais être modifiées à la main.
+Le principe de reproductibilité est simple : le JSON canonique contient les *critères* élémentaires, les éléments probants, la confiance, les références et les statuts de maturité ; le score brut lui-même est dérivé des critères, puis les scores normalisés, la synthèse, les CSV et les graphiques en découlent. Toute modification d'un critère doit déclencher un journal de révision. Les données dérivées ne doivent jamais être modifiées à la main.
 
-Ce protocole est mis en œuvre dans l'application *ir-strata*, atlas statique versionné (Docusaurus, données JSON canoniques, scripts de validation et de génération, déploiement continu). L'application matérialise les garde-fous décrits ici : validation au build (bornes des scores, somme des poids, références présentes, anti-anachronisme, politique de maturité), audit de provenance des références (vérification d'existence via Crossref et OpenLibrary), audit anti-anachronisme (rejet des scores doctrine/académique antérieurs à l'émergence des théories) et rapport d'avancement du re-sourçage. Les chiffres du présent cas pilote sont exactement ceux servis par l'application pour la période 1945–1962.
+Ce protocole est mis en œuvre dans l'application *ir-strata*, atlas statique versionné (Docusaurus, données JSON canoniques, scripts de validation et de génération, déploiement continu). L'application matérialise les garde-fous décrits ici : validation au build (bornes des scores, somme des poids, références présentes, anti-anachronisme, politique de maturité), audit de provenance des références (vérification d'existence via Crossref et OpenLibrary), audit anti-anachronisme (rejet des scores doctrine/académique antérieurs à l'émergence des théories) et rapport d'avancement du re-sourçage. Les chiffres des trois périodes du pilote (tableaux par couche, synthèses, sensibilité et simulation de second codage) sont exactement ceux servis par l'application : ils ne sont pas saisis à la main dans cet article mais *générés* par le script `scripts/generate_paper_artifacts.py`, qui dérive les CSV d'annexe (`annexe_pilot_*.csv`) des données canoniques et générées. La revendication de reproductibilité est ainsi outillée et vérifiable : chaque nombre du présent texte doit se retrouver dans ces annexes.
 
-Trois garde-fous supplémentaires renforcent la rigueur interne. Premièrement, le score brut n'est plus une valeur saisie indépendamment : il est *dérivé* des critères élémentaires par la formule de pondération, et une garde au build rejette tout score qui divergerait de ses propres critères. Les critères deviennent ainsi la seule source de vérité, et leur cohérence avec le score est vérifiable. Deuxièmement, l'indice de confiance interne est recalculé à partir de ses dimensions et bloqué en cas d'incohérence, de sorte que la confiance affichée découle bien de la formule documentée. Troisièmement, un signal bibliométrique externe et indépendant (comptes de publications par famille théorique) est confronté à la couche d'influence académique : une faible corrélation de rang signale une période à réexaminer. Ce dernier dispositif fournit un critère de falsifiabilité partiel, distinct du jugement de l'auteur.
+Trois garde-fous supplémentaires renforcent la rigueur interne. Premièrement, le score brut n'est plus une valeur saisie indépendamment : il est *dérivé* des critères élémentaires par la formule de pondération, et une garde au build rejette tout score qui divergerait de ses propres critères. Les critères deviennent ainsi la seule source de vérité, et leur cohérence avec le score est vérifiable. Deuxièmement, l'indice de confiance interne est recalculé à partir de ses cinq dimensions selon une formule documentée, puis bloqué en cas d'incohérence :
+
+```text
+C_{int}=0.30\,Q_{preuves}+0.25\,K_{consensus}+0.20\,S_{temporelle}+0.15\,(100-W_{sensibilite})+0.10\,(100-A_{anachronisme})
+```
+
+de sorte que la confiance affichée découle bien de cette formule, et non d'un libellé arbitraire ; pour le réalisme en 1945–1962, on obtient 0.30(94)+0.25(86)+0.20(84)+0.15(75)+0.10(70)=84.75. Troisièmement, un signal bibliométrique externe et indépendant (comptes de publications par famille théorique) est confronté à la couche d'influence académique : une faible corrélation de rang signale une période à réexaminer. Ce dernier dispositif fournit un critère de falsifiabilité partiel, distinct du jugement de l'auteur.
 
 Une analyse de sensibilité au choix « rejeter plutôt que scorer bas » l'anachronisme a par ailleurs été conduite : remplacer le rejet par un score faible ne modifie pas la famille dominante des périodes synthétisables ; le rejet ne fait que supprimer les synthèses des périodes pré-disciplinaires, ce qui est l'effet recherché. Le choix de modélisation apparaît donc robuste quant aux conclusions.
 
@@ -373,4 +405,4 @@ Le pilote couvre désormais trois périodes (1815–1848, 1945–1962, 1991–20
 
 ## Annexe D : artefacts du pilote
 
-Les données du pilote sont versionnées sous forme de fichiers CSV dérivés des données canoniques de *ir-strata* : `annexe_pilot_scores_1815_1848.csv`, `annexe_pilot_scores_1945_1962.csv` et `annexe_pilot_scores_1991_2001.csv` (scores bruts par couche, synthèse, normalisation) ; `annexe_pilot_sensitivity.csv` (synthèse par profil de pondération et `delta_max`) ; `annexe_pilot_intercoder_simulation.csv` (codage principal, codage simulé, écarts). Aucun chiffre de ces annexes n'est saisi à la main : tous sont dérivés de `scores_normalized.json` et des profils de `weight_profiles.json`.
+Les données du pilote sont versionnées sous forme de fichiers CSV : `annexe_pilot_scores_1815_1848.csv`, `annexe_pilot_scores_1945_1962.csv` et `annexe_pilot_scores_1991_2001.csv` (scores bruts par couche, synthèse, normalisation) ; `annexe_pilot_sensitivity.csv` (synthèse brute par profil de pondération, `delta_max` et statut) ; `annexe_pilot_intercoder_simulation.csv` (codage principal, codage simulé, écarts) ; `annexe_pilot_entities_1945_1962.csv` (synthèse brute et part normalisée par entité) ; `annexe_pilot_subfamilies.csv` (sous-familles déclarées des sept familles) ; `annexe_pilot_realism_vs_geopolitics.csv` (écart de score brut réalisme/géopolitique par couche et période, cas de divergence maximale marqué). Aucun chiffre de ces annexes n'est saisi à la main : tous sont produits par le script `scripts/generate_paper_artifacts.py`, qui les dérive des scores canoniques (`scores_raw.json`, `scores_entities_raw.json`), de la taxonomie (`theory_taxonomy.json`), des entités (`entities.json`), de la synthèse et de la sensibilité générées (`scores_synthesis_raw.json`, `scores_synthesis_normalized.json`, `scores_synthesis_sensitivity_raw.json`) et des profils de `weight_profiles.json`. Le script est exécuté au build (`npm run generate:data`), de sorte que toute évolution des données canoniques régénère automatiquement les annexes et le pilote reste reproductible.
