@@ -73,7 +73,7 @@ const config: Config = {
         {title: 'Docs', items: [{label: 'Méthodologie', to: '/docs/methodology/SCORING'}]},
         {title: 'Données', items: [{label: 'Exports', to: '/data'}]},
       ],
-      copyright: `Atlas V1 · Révisable · ${new Date().getFullYear()}`,
+      copyright: `Atlas V1 · Révisable · ${new Date().getFullYear()} · un travail de <a href="https://www.ligne-de-crete.fr/travaux/atlas-ri/">Ligne de crête</a>`,
     },
     prism: {
       theme: prismThemes.github,
